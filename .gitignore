@@ -1,0 +1,6 @@
+# Files and folders to ignore in Git
+*.log
+*.pyc
+__pycache__/
+venv/
+node_modules/
