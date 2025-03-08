@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Legal Document Analysis
+
+A modern web application for analyzing legal documents using artificial intelligence. This project uses Next.js, React, and Tailwind CSS to provide a responsive and accessible user interface for legal professionals.
+
+## Features
+
+- AI-powered document analysis
+- Contract comparison and risk identification
+- Secure document handling and collaboration
+- Responsive design optimized for all devices
+- Dark mode support
 
 ## Getting Started
 
@@ -16,21 +26,32 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Frontend Framework**: Next.js
+- **UI Library**: React
+- **Styling**: Tailwind CSS
+- **Components**: Custom UI components with shadcn UI inspiration
+- **State Management**: React Hooks
+- **Deployment**: Vercel (recommended)
 
-## Learn More
+## Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+- `/src/app` - Next.js app router pages and layouts
+- `/src/components` - Reusable React components
+  - `/ui` - Base UI components
+  - `/navigation` - Navigation components like navbar and footer
+- `/public` - Static files like images and fonts
+- `/src/styles` - Global CSS and styles
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Development
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project uses TypeScript for type safety. Remember to run `npm run lint` before committing changes.
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The easiest way to deploy this Next.js app is to use the [Vercel Platform](https://vercel.com/new).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## License
+
+[MIT](LICENSE)
