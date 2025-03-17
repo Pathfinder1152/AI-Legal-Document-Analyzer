@@ -31,11 +31,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="scroll-smooth dark">
-      <body className={`${inter.variable} ${merriweather.variable} font-sans antialiased`}>
-        <Navbar />
+    <html lang="en" className={`scroll-smooth dark ${inter.variable} ${merriweather.variable}`}>
+      <body className="font-sans antialiased bg-background">
+        {/* Only show navbar/footer on non-auth pages */}
+        {!children.toString().includes('auth') && <Navbar />}
         {children}
-        <Footer />
+        {!children.toString().includes('auth') && <Footer />}
       </body>
     </html>
   );
