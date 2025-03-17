@@ -18,11 +18,16 @@ export default {
     },
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
-        border: "var(--border)",
-        input: "var(--input)",
-        ring: "var(--ring)",
+        background: "hsl(var(--background))",
+        foreground: "hsl(var(--foreground))",
+        border: "hsl(var(--border))",
+        input: "hsl(var(--input))",
+        ring: "hsl(var(--ring))",
+        "dark-bg-1": "hsl(var(--dark-bg-1))",
+        "dark-bg-2": "hsl(var(--dark-bg-2))",
+        "dark-bg-3": "hsl(var(--dark-bg-3))",
+        "dark-surface-1": "hsl(var(--dark-surface-1))",
+        "dark-surface-2": "hsl(var(--dark-surface-2))",
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
@@ -70,7 +75,11 @@ export default {
       fontFamily: {
         sans: ["var(--font-geist-sans)", ...fontFamily.sans],
         mono: ["var(--font-geist-mono)", ...fontFamily.mono],
-        serif: ["Georgia", ...fontFamily.serif],
+        serif: ["var(--font-serif)", ...fontFamily.serif],
+      },
+      boxShadow: {
+        'glow': '0 0 20px rgba(59, 130, 246, 0.5)',
+        'glow-sm': '0 0 10px rgba(59, 130, 246, 0.3)',
       },
     },
   },

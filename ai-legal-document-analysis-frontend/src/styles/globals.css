@@ -4,8 +4,9 @@
 
 @layer base {
   :root {
-    --background: #ffffff;
-    --foreground: #0f172a;
+    /* Light theme variables - only used when not in dark mode */
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
     --card: 0 0% 100%;
     --card-foreground: 222.2 84% 4.9%;
     --popover: 0 0% 100%;
@@ -38,31 +39,49 @@
     --primary-900: 221.2 83% 15%;
   }
 
+  /* Dark theme - slightly lighter than before */
   .dark {
-    --background: 222.2 84% 4.9%;
+    --background: 222 47% 8%; /* Lightened from 5% to 8% */
     --foreground: 210 40% 98%;
-    --card: 222.2 84% 4.9%;
+    --card: 222 47% 10%; /* Lightened from 7% to 10% */
     --card-foreground: 210 40% 98%;
-    --popover: 222.2 84% 4.9%;
+    --popover: 222 47% 10%;
     --popover-foreground: 210 40% 98%;
     --primary: 217.2 91.2% 59.8%;
     --primary-foreground: 222.2 47.4% 11.2%;
-    --secondary: 217.2 32.6% 17.5%;
+    --secondary: 217.2 32.6% 17%; /* Lightened from 15% to 17% */
     --secondary-foreground: 210 40% 98%;
-    --muted: 217.2 32.6% 17.5%;
-    --muted-foreground: 215 20.2% 65.1%;
+    --muted: 217.2 32.6% 15%; /* Lightened from 12% to 15% */
+    --muted-foreground: 215 20.2% 80%; /* Lightened from 75% to 80% */
     --accent: 35 92% 55%;
     --accent-foreground: 210 40% 98%;
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 210 40% 98%;
-    --border: 217.2 32.6% 17.5%;
-    --input: 217.2 32.6% 17.5%;
-    --ring: 224.3 76.3% 48%;
+    --border: 217.2 32.6% 17%; /* Lightened from 15% to 17% */
+    --input: 217.2 32.6% 17%; /* Lightened from 15% to 17% */
+    --ring: 224.3 76.3% 55%;
+
+    /* Dark theme specific custom colors - lightened */
+    --dark-bg-1: 222 47% 7%;
+    --dark-bg-2: 222 47% 10%;
+    --dark-bg-3: 223 47% 13%;
+    --dark-surface-1: 223 47% 14%;
+    --dark-surface-2: 223 47% 16%;
   }
   
+  /* Enhanced dark mode text styles for better readability */
   body {
     @apply bg-background text-foreground;
     font-feature-settings: "rlig" 1, "calt" 1;
+    font-weight: 400;
+    letter-spacing: 0.015rem;
+  }
+  
+  .dark body {
+    /* Better text rendering for light text on dark backgrounds */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: 0.018rem; /* Slightly increased spacing for readability */
   }
   
   html {
@@ -71,10 +90,67 @@
   
   h1, h2, h3, h4, h5, h6 {
     @apply font-serif;
+    font-weight: 700;
+    letter-spacing: 0.01rem;
+  }
+
+  /* High-contrast heading text for dark mode */
+  .dark h1, .dark h2, .dark h3, .dark h4 {
+    letter-spacing: 0.02rem;
   }
 }
 
 /* Additional styles */
 .gradient-text {
-  @apply bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-indigo-500;
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-indigo-400;
+}
+
+@layer components {
+  /* Card enhancements for dark theme */
+  .dark-card {
+    @apply bg-card border-border shadow-xl;
+  }
+
+  /* Higher contrast buttons in dark mode */
+  .dark .btn-high-contrast {
+    @apply ring-1 ring-white/20 shadow-[0_0_15px_rgba(59,130,246,0.15)];
+  }
+
+  /* Glowing elements for important UI */
+  .glow-primary {
+    @apply shadow-[0_0_15px_rgba(59,130,246,0.3)];
+  }
+
+  /* Glass-like surfaces */
+  .glass-panel {
+    @apply bg-white/5 backdrop-blur-md border border-white/10 shadow-xl;
+  }
+}
+
+/* Improved contrast for interactive elements */
+.high-contrast-text {
+  text-shadow: 0px 0px 2px rgba(0,0,0,0.5);
+}
+
+/* Code-related elements */
+pre, code {
+  @apply bg-muted text-blue-300 rounded p-1;
+}
+
+/* Dark scrollbar for dark theme */
+.dark ::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.dark ::-webkit-scrollbar-track {
+  @apply bg-dark-bg-1;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  @apply bg-slate-700 rounded-full;
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  @apply bg-slate-600;
 }

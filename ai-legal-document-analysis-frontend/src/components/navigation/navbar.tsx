@@ -18,7 +18,7 @@ export const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
-    <nav className="sticky top-0 z-50 bg-white border-b border-border/40 shadow-sm dark:bg-card">
+    <nav className="sticky top-0 z-50 bg-white/80 dark:bg-dark-surface-1 border-b border-border/40 dark:border-white/5 shadow-sm backdrop-blur-sm">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
@@ -52,9 +52,11 @@ export const Navbar = () => {
           </div>
           <div className="hidden md:block">
             <div className="ml-4 flex items-center md:ml-6">
-              <Button variant="outline" size="sm" className="mr-2">
-                Sign In
-              </Button>
+              <Link href="/auth/signin">
+                <Button variant="outline" size="sm" className="mr-2">
+                  Sign In
+                </Button>
+              </Link>
               <Link href="/chat">
                 <Button size="sm">Try LegalAI</Button>
               </Link>
@@ -122,10 +124,12 @@ export const Navbar = () => {
           </div>
           <div className="pt-4 pb-3 border-t border-border">
             <div className="px-2 space-y-1">
-              <Button variant="outline" className="w-full mb-2">
-                Sign In
-              </Button>
-              <Link href="/chat">
+              <Link href="/auth/signin" className="w-full">
+                <Button variant="outline" className="w-full mb-2">
+                  Sign In
+                </Button>
+              </Link>
+              <Link href="/chat" className="w-full">
                 <Button className="w-full">
                   Try LegalAI
                 </Button>
