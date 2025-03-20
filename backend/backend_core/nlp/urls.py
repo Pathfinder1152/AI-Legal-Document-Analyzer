@@ -1,5 +1,7 @@
 from django.urls import path
+from .views import summarize_document
+
 
 urlpatterns = [
-    # Add knowledge graph-related endpoints here
+    path('summarize/', summarize_document, name='summarize_document'),  
 ]
