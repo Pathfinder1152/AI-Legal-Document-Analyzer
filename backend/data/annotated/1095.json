@@ -1,0 +1,39 @@
+{
+  "file_name": "1095.pdf",
+  "metadata": {
+    "case_number": [
+      "CA-2023-001940",
+      "CA-2023-001941",
+      "CA-2023-001944",
+      "CA-2023-001946",
+      "CA-2023-001953"
+    ],
+    "neutral_citation": "[2024] EWCA Civ 1095",
+    "court": "IN THE COURT OF APPEAL (CIVIL DIVISION) ON APPEAL FROM THE INVESTIGATORY POWERS TRIBUNAL EDIS LJ, LADY CARMICHAEL, STEVEN SHAW KC",
+    "judges": [
+      "LORD JUSTICE HOLROYDE",
+      "LORD JUSTICE DINGEMANS",
+      "LADY JUSTICE ELISABETH LAING"
+    ],
+    "hearing_date": "16 July 2024",
+    "parties": {
+      "Appellants": [
+        "(1) Connor Palmer and Anor",
+        "(2) Kulvir Singh Shergill",
+        "(3) Usman Butt",
+        "(4) Nasar Ahmed",
+        "(5) ABC and Others"
+      ],
+      "Respondent": "National Crime Agency"
+    },
+    "representatives": {
+      "1st appellant": "Matthew Ryder KC and Daniel Cashman (instructed by Bindmans LLP)",
+      "2nd appellant": "Thomas Schofield (instructed by Novate Direct Legal)",
+      "3rd & 4th appellants": "Simon Csoka KC and Oliver Cook (instructed by Eldwick Law)",
+      "5th appellant": "Abbas Lakha KC and Aneurin Brewer (instructed by Avisons Solicitors)",
+      "Respondent": "David Perry KC, Richard O\u2019Brien KC, Victoria Ailes and Andrew Deakin (instructed by NCA Legal)"
+    },
+    "extracted_at": "2025-04-13T12:52:56.879153Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\1095.txt"
+}

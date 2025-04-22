@@ -5,6 +5,3 @@ __pycache__/
 venv/
 node_modules/
 myenv/
-data/raw/Documents/
-backend/backend_core/media
-backend/data/annotated
