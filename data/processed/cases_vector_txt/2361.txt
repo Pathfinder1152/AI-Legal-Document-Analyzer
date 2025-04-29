@@ -1,0 +1,251 @@
+Case No: CO/4245/2010
+
+Neutral Citation Number: [2010] EWHC 2361 (Admin)
+
+IN THE HIGH COURT OF JUSTICE
+
+QUEEN’S BENCH DIVISION
+
+ADMINISTRATIVE COURT
+
+Sitting at:
+
+Leeds Combined Court
+
+1 Oxford Row
+
+Leeds
+
+West Yorkshire
+
+LS1 3BG
+
+Date: Wednesday, 21 July 2010
+
+Before:
+
+THE HONOURABLE MR JUSTICE LANGSTAFF
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Between:
+
+|THE QUEEN ON THE APPLICATION OF A|
+
+Claimant|
+
+|- and –
+
+||
+
+|B|
+
+Defendant|
+
+- - - - - - - - - - - - - - - - - - - - -
+
+(DAR Transcript of
+
+WordWave International Limited
+
+A Merrill Communications Company
+
+165 Fleet Street, London EC4A 2DY
+
+Tel No:  020 7404 1400  Fax No: 020 7404 1424
+
+Official Shorthand Writers to the Court)
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Mr Engelman appeared on behalf of the Claimant.
+
+Ms Barton appeared on behalf of the Defendant.
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Judgment
+
+Mr Justice Langstaff:
+
+The police are under an absolute and unconditional obligation to take all steps which appear to them to be necessary for keeping the peace, for preventing crime or for protecting property from criminal injury.  See Glasbrook Brothers v Glamorgan County Council [1925] AC 70.  Article 8 of the European Convention on Fundamental Rights and Freedoms provides that:
+
+"1. Everyone has the right to respect for his private and family life, his home and his correspondence.
+
+2. There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others
+
+This case concerns the interaction of those two principles in a situation where the police believe that a citizen, though committing no crime and though free of any criminal record or allegation of crime against him, has engaged in a private sexual life which indicates he may become a danger to women and propose to make public the details of this by selective disclosure.
+
+The effect of the case R v Chief Constable of North Wales Police and Others (ex parte Thorpe and Another) [1999] QB 396 is that in the words of Lord Bingham of Cornhill, CJ, see page 409 F,:
+
+"There is a general presumption that information should not be disclosed, such a presumption being based upon a recognition of (a) the potentially serious effect on the ability of [in that case convicted people] to live a normal life; (b) the risk of violence to such people and (c) the risk that disclosure might drive them underground."
+
+He accepted that that principle was an important and necessary principle, that where a police force came into possession of information relating to a member of the public, which was not generally available and was potentially damaging to that member of the public if disclosed, the force ought not to disclose that information, save for the purpose of, and to the extent necessary for, performance of its public duty or to enable some other public body to perform its public duty.  He went on, however, to observe that the general rule against disclosure was not absolute.  (See also per Buxton J at 415 in the first two paragraphs of that page)
+
+The circumstances in which disclosure may be exercised are restricted.  That is accepted by the parties before me.  I note that in the judgment of Lord Woolf MR, on appeal of the judgment of the Divisional Court to which I have already referred, see page 428, he observed:
+
+"Disclosure should only be made when there is a pressing need for that disclosure.  Before reaching their decision as to whether to disclose, the police require as much information as can reasonably practicably be obtained in the circumstances."
+
+In the case of R v a local authority in the Midlands and another, ex parte LM [2000] 1 FLR 736, Dyson J (as he then was) considered that there was a power in the police to disclose confidential information which had come to them through third parties.  Secondly, he considered that power was not free from restraint but it was subject to a "pressing need" test, for which he relied upon the passage to which I have referred from Thorpe.
+
+He cited with approval a decision of the Court of Appeal in which emphasis was made that disclosure of such information should be regarded as exceptional, observed that that observation had been subsequently approved by the Court of Appeal in the case of Woolgar v Chief Constable of the Sussex Police [1999] 164 at 614 per Kennedy LJ, and then said:
+
+"In my view, the guiding principles from the exercise of the power to disclose...  are those ennunciated in ex parte Thorpe.  Each of the Respondent authorities had to consider the case on its own facts.  A blanket approach was impermissible.  Having regard to the sensitivity of the issues raised by the allegations of sexual impropriety made against LM, disclosure should only be made if there is a 'pressing need'.  Disclosure should be the exception and not the rule.  That is because the consequences of disclosure of such information for the subject of the allegations can be very damaging indeed.  The facts of this case show that disclosure can lead to loss of employment and social ostracism, if not worse.  Disclosure should, therefore, only be made if there is a pressing need for it."
+
+He went on to say that it was required of the police and in that case the Social Services Department that they should examine the facts and carry out an exercise balancing the public interest and the need (in that case) to protect children against the need to safeguard the right of an individual to a private life.
+
+In asking how the balancing exercise in such a case should be carried out, he noted that all relevant factors should be considered.  He did not attempt to give an exhaustive list.  Therefore the three matters which he particularly highlighted cannot be regarded as a complete statement of the matters to which an authority contemplating disclosure should give consideration.  Those three matters were, first, the belief of the public authority concerned as to the truth of the allegation; secondly, the interest of the third party for whom disclosure was intended in obtaining the information; and, thirdly, the degree of risk posed by the person subject of potential disclosure if that disclosure were not made.
+
+The cases of Thorpe and of LM considered the common law as to disclosure of information.  The case of R(L) v Commissioner of the Police for the Metropolis, SSHD & another intervening [2010] 1 AC 410 considered the question of disclosure in a statutory context which arose in circumstances very close to those of the facts of the present case, as I shall demonstrate.
+
+In that case the question was whether or not the police had adopted a proper approach to the disclosure of material pursuant to Part V of the Police Act 1997 when considering whether to add information to a criminal record certificate so that it became an enhanced certificate.  The submission made to their Lordships (see page 425 A-B) was that the Act as currently interpreted was being applied in a manner which was not proportionate to the risks, the threshold of disclosure being too low, the description of the information which would be disclosed too broad and there being insufficient protections in the scheme for the subject of the disclosure.  That scheme, it may be appropriate to observe, is designed to protect children and vulnerable adults.  “Vulnerable adults” is a category which owes its definition to section 21 of the National Assistance Act 1948.  It does not apply, obviously, to those who are or may be said to be vulnerable in an ordinary social sense of passing through a difficult period in their lives.
+
+At paragraph 44, Lord Hope of Craighead addressed the balance which had been drawn in respect of statutory disclosure of this type in the earlier decision of the Court of Appeal of X v Chief Constable of the West Midlands [2004] EWCA Civ 1068  He observed that the approach taken in that case had tilted the balance against the applicant (the subject of the potential disclosure) too far:
+
+"It has encouraged the idea that priority must be given to the social need to protect the vulnerable as against the right of respect for private life of the applicant."
+
+He argued, and the majority of their Lordships concurred, that there should be no presumption under the statute in favour of disclosure, as X had suggested,  but rather a balance to be struck between the competing interests.  In the speech of Lord Brown of Eaton-under-Heywood, after a recognition that he might have instinctively railed against a nanny state but that there were nonetheless occasions when such nannying was justified, he said there could be no doubt of the impact which an enhanced criminal record certificate containing any adverse information was likely to have on a person's prospects of obtaining desired employment, and added:
+
+"Therefore, it seems to me imperative in every case that the public interest in safeguarding children really does justify the relevant disclosure."
+
+Lord Neuberger (see paragraph 69) emphasised the present employment context by noting that:
+
+"A prospective employer may well feel safer, particularly in the present culture, which at least in its historical context could be said to be unusually risk averse and judgmental, not to employ someone in respect of whom an enhanced certificate indicated matters of concern."
+
+Finally, I note that at paragraph 81 there is a statement in his speech of considerations which are likely to inform the question whether to make a disclosure is proportionate or not.  This, it seems to me, is a useful amplification of the relevant factors, going beyond what was said in LM and setting out the modern approach, being the most recent authority in this area.  There, again, he does not give a comprehensive list, but he notes that factors which will often be relevant are the gravity of the material involved, the reliability of the information on which it is based, whether the applicant has had a chance to rebut the information, the relevance of the material to the particular job application, the period that has elapsed since the relevant events occurred and the impact on the applicant of including the material in the ECRC (Enhanced Criminal Record Certificate), both in terms of the prospect of retaining the person in question in employment and more generally.  He noted that in many cases other factors may also come into play, and in other cases it may be unnecessary or inappropriate to consider one or more of the factors he had mentioned.  Thus, the material might be so obviously reliable, relevant and grave as to be disclosable, however detrimental the consequential effect upon the applicant.
+
+Against that background, I turn to the essential facts.
+
+The Essential Facts
+
+The claimant knew and had associated with a woman, C, who disappeared.  Her disappearance has been subject to police investigation.  There is no suggestion that the claimant was in any way involved in her disappearance.  He has been eliminated from what became a murder enquiry, but the significance of reference to this is to explain why it should be that in his case, as no doubt in the case of others, his premises and property were searched.  He was at all times fully co-operative with the police.
+
+In August 2009 during the course of a search under warrant, he handed to the police a Nokia Xpress phone.  Examination of the phone demonstrated that he had accessed the internet to obtain adult pornographic pictures.  He possessed DVDs and images, which were of an adult pornographic nature.  It became apparent that he had accessed sex chat lines.  He admitted using prostitutes.  His telephone bills had risen from a modest level in two figures to become regularly charged in a three-figure and occasionally a four-figure sum in a month, which appeared to be due to the extent to which he accessed such chat lines.  Although that figure may seem more excessive than in reality it is, as I am told such lines may charge a pound a minute, it represents a substantial period of time using such services.
+
+He filmed his own masturbation.  He took images of a female presenter from his own television.  But of greatest concern to the police, none of those matters which I have mentioned being illegal, were photographs which he had plainly taken on his mobile phone while out of his house, albeit the first of which I shall make reference to was from his house being of a neighbour, an adult young female, sunbathing in the next door garden.  It was a voyeuristic, opportunistic photograph.
+
+Then on a number of separate days he appeared to have taken photographs of females in the street from behind, many on their own, some in company with another female or on one occasion with a man. All those photographs were taken, it appeared, in order to have a photographic view of their legs from behind.  There is nothing to indicate that the females knew that they were being photographed.  The photographs appear to have been taken from a car.  Some derived from short video footage, which I have seen and which upon examination appears to have been taken from a static car.
+
+On the basis of that material the Detective Inspector (G), an officer of over 20 years experience and of senior rank, who had been leading the enquiry into the disappearance of C, says, according to his witness statement, that he made some judgments.  In his opinion the material demonstrated obsessive and compulsive behaviour (he used those words, Ms Barton for the defendant emphasises in a colloquial lay sense and not in the way a psychiatrist might deploy them) in the pursuit of sexual gratification, which in his view far exceeded curiosity or passive behaviour and extended into predatory behaviour.  The behaviour, it seemed to him, extended the boundaries beyond the claimant's own home and involved him pursuing females.  “Pursuing” has to be understood here in the sense of following.
+
+The photographs appear all to have been taken in daylight.  He went on (paragraph 22 of his witness statement) to say that:
+
+"The claimant's pursuit of sexual gratification is not constrained by the boundaries of morally acceptable behaviour and as a result raises concern that the behaviour may be capable of escalating into sexual offending as these boundaries are eroded."
+
+His information suggested to him that the object of the claimant's sexual desires were adult females, particularly young adult females and/or those wearing short skirts (paragraph 23).  He noted the employment of the claimant.  He had, of course, spoken to the claimant and become familiar with aspects of his life, because that was necessary for the investigation in which he had otherwise been involved.  He was employed by a university.  The university included amongst its staff female members and had a significant number of female students.  He noted that the claimant was a “first contact worker”, that is a first port of call for members of staff or students who felt that they were being bullied or harassed at the university.  He worked with Mind as a voluntary worker, counselling in one-to-one counselling sessions with both males and females and he held a position of authority in his union.
+
+This witness statement, taken at first sight, suggests, or might suggest to the reader, that there was additional information which the officer considered before determining on making the disclosure.  That is because in paragraph 22 he talks about having attended a training event on 1 February 2010 and there listening to a talk by Zoe Lodrick, an “integrated psychotherapist”, who considered the preconditions which needed to exist for a person to move from non-offending to committing an offence of rape.  He spends some time in his statement setting out the model of which she spoke, which is referred to as Finkelhor's preconditions.  Those preconditions are, first, motivation to offend; second, the overcoming of internal inhibitions; third, the arresting of external inhibitors; and, fourth, ensuring the victim's compliance.  Each of those the officer spent some time addressing in his witness statement, and appeared later in paragraph 22 to relate his decision as to disclosure to his having attended that course.
+
+I have been told in the course of this hearing, and it appears consequential upon procedural disclosure orders which were earlier made, that the decision was in fact taken on 13 January this year.  If taken then, it could not therefore have been taken with the benefit at that stage of any input from the talk which Zoe Lodrick gave, since she delivered it in February.
+
+The officer addresses the view that he was of the opinion that the claimant had moved some way along the scale which existed from “no risk” at one end to sexual offending at the other, and that the risk he posed, ie sexual offending, was significant.  I am prepared to accept that as being his view, but in the light of the chronology it is plain it could not have been a view in which he had considered Finkelhor's preconditions or that which Zoe Lodrick had said and, indeed, Ms Barton, in the course of his address, notably did not mention nor make any suggestion that the course he had attended had any impact at all on the decision making.
+
+His conclusion, which I have just cited, led him to ask (paragraph 26), what was the most effective way available to the police to reduce the risks posed by the claimant towards adult females.  That appeared to him to be disclosure of claimant's behaviour to the organisations for whom he worked: that is, to the university, to Mind and to the union.  At paragraph 30, page 66, he summed up what he had concluded in these terms:
+
+"Having considered all the material in the possession of the Claimant, particularly the volume of downloaded indecent images, the Claimant's use of prostitutes and sex chat lines and the number of, pornographic DVDs recovered, I have concluded that this material either singularly or taken together would not lead me to conclude that disclosure was necessary.  However when I consider this material against the background of the Claimant's conduct in relation to following and photographing young adult females without their knowledge, I have concluded that he presents a clear danger to young women and that there is a pressing need to disclose in order to protect this group."
+
+It is thus plain that any disclosure which he was to make to the university or to Mind or to the union would be bound to indicate by inference that the view taken by the police force (by a senior officer) was that the claimant was a clear danger to adult female women, that danger being a danger of sexual assault. , If anyone had asked the police if such an inference were correctly drawn, it would have been directly stated.
+
+The officer's approach has subsequently been endorsed for the purpose of these proceedings in a short statement by the Chief Constable.
+
+There is no established policy which this police force operates in respect of disclosures of sexual or sexually related behaviour which gives rise to concern as to the safety of others.  Therefore it is argued by Mr Engelman on behalf of the claimant that the citizen cannot know that when he is acting within the law he might nonetheless be at risk that his private life might be revealed.
+
+I turn to the submissions made in the light of the basic law which I have set out at the start of this judgment and the facts.
+
+Mr Engelman took me through a large number of authorities, some of which now are of some age, beginning with cases such as Hentrich v France [1994] 18 EHRR 440 and Sunday Times v United Kingdom [1979‑1980] 2 EHRR 245, to make the proposition that the law must be adequately accessible and predictable in its application, that a cultural norm or a norm of society should not be regarded as law unless it is sufficiently precise and accessible.  Otherwise there is a risk of arbitrary action, and the rule of law is incompatible with arbitrary action.
+
+Thus he referred me to the headnote in the case of Malone v UK [1984] 7 EHRR 14: see in particular paragraph 1(c); the cases of Halford v UK [1997] 24 EHRR 523; Herczegfalvy v Austria [1993] 15 EHRR 437; Huvig v France [1990] 12 EHRR 528; and Silver v UK [1983] 5 EHRR 547.  He drew from those authorities that for disclosure to be in accordance with the law within Article 8.2 the law must be sufficiently certain, predictable and accessible in its application.  The word “foreseeable” applies to the consequence of acts which an individual may take.  He drew from those cases the desirability, as he submitted the essential feature, that there must be a policy ready to be applied if the law was not otherwise sufficiently clear and there must be no lack of independent review.  From the case of De Freitas v The Permanent Secretary of Ministry of Agriculture, Fisheries, Land and Housing [1999 ] 1 AC 69, he emphasised the observation that where a line is to be drawn it cannot be left to the hazard of individual decision.
+
+In the case of R v Shayler [2003] 1 AC, he drew my attention to the speech of Lord Hope of Craighead, in particular at paragraphs 55 through to 63.  In paragraph 56, Lord Hope said:
+
+"The principle of legality requires the court to address itself to three distinct questions. The first is whether there is a legal basis in domestic law for the restriction. The second is whether the law or rule in question is sufficiently accessible to the individual who is affected by the restriction, and sufficiently precise to enable him to understand its scope and foresee the consequences of his actions so that he can regulate his conduct without breaking the law. The third is whether, assuming that these two requirements are satisfied, it is nevertheless open to the criticism on the Convention ground that it was applied in a way that is arbitrary because, for example, it has been resorted to in bad faith or in a way that is not proportionate.”
+
+He has derived those principles from the European case law, including the cases I have already mentioned.
+
+He went on (paragraph 57) to note that the word "necessary" in that case, when considering Article 10.2, introduced the principle of proportionality.  And by reference to Handyside v United Kingdom (1976) 1 EHRR 737 he noted that every formality, condition, restriction or penalty imposed in the relevant sphere, that is the freedom of expression, must be proportionate to the legitimate aim pursued.
+
+At paragraph 59, he observed:
+
+"The principle involves a question of balance between competing interests. But it is important to appreciate that there is a process of analysis that must be carried through. The starting point is that an authority which seeks to justify a restriction on a fundamental right on the ground of a pressing social need has a burden to discharge.”
+
+That paragraph was drawn to my attention by both advocates for their respective purposes and I accept, as I am bound to do in any event, the principles which it expounds.
+
+At paragraph 61 he noted that the general international understanding as to matters which should be considered where a question was raised as to whether interference with a fundamental right was proportionate were these: first, whether the objective which was sought to be achieved (that is, the pressing social need) was sufficiently important to justify limiting the fundamental right; second, whether the means chosen to limit the right were rational, fair and not arbitrary; third, whether the means used impaired the right as minimally as was reasonably possible.  And he noted that a close and penetrating examination of the factual justification for the restriction is needed if the fundamental rights enshrined in the Convention are to remain practical and effective for everyone who wishes to exercise them.
+
+Mr Engelman based his argument, first, upon there being here a breach of Article 8.1, that is an interference under paragraph 1 which had not been justified under paragraph 2.  It is accepted by Ms Barton that there is here an interference under 8.1.  She maintains in her submissions, to which I shall come, that it is justified.
+
+Secondly, Mr Engelman argued that at common law there was in any event a duty not to disclose the information to which I have referred.  He argued this both by reference to the principles in Thorpe and LM to which I have already referred, essentially that there is a presumption against disclosure, but also by arguing that the surrender of the phone, for such it was by the claimant, to the police was with a view to its contents being examined only insofar as it was necessary to do so for the purposes of the enquiry into the disappearance of C.
+
+He argues by reference to Marcel v Metropolitan Police Commissioner [1992] Ch 225 and Lonrho v Fayed (No 4) [1994] QB 775 that material obtained for one purpose is not to be used for another (see in particular pages 776B, 787D-E and 788B-C in the latter report).  He acknowledged, however, that at page 796 it was plain that the obligations imposed by such a principle were not absolute, but rather that a strong case would be required to justify disclosure in breach of it.
+
+Indeed in Woolgar v Chief Constable of Sussex Police & Anr [1999] 3 All ER 604 Kennedy LJ was considering the disclosure by the police of a witness statement, given for one purpose to the United Kingdom Central Council for Nursing Midwifery and Health Visiting, for another disciplinary purpose.  He observed, see page 615 of the report, in the penultimate large paragraph:
+
+"Even if there is no request from the regulatory body, it seems to me that if the police come into possession of confidential information which, in their reasonable view, in the interests of public health or safety should be considered by a professional or regulatory body, then the police are free to pass that information to the relevant regulatory body for its consideration."
+
+I cannot, therefore, with respect to Mr Engelman's submissions, regard the alleged duty of confidentiality as being so absolute that it would restrain disclosure on its own.  It seems plain to me that if the police come into possession of material in respect of which there is a pressing social need which requires its disclosure, and that disclosure is proportionate, the police are entitled and indeed may be obliged to disclose that material.  This is indeed what I understand Buxton J to have been saying in the Divisional Court in the case of Thorpe.
+
+Mr Engelman had two other submissions to the effect that there should be no disclosure.  The first of these was based upon the Data Protection Act.  His submission was that the terms of the Act were such that personal data included data about sex life, that by reason of section 29, Schedule 1, Schedule 2 and Schedule 3 of the Act, there was a general restriction upon disclosure.  It is unnecessary for present purposes to deal further with this argument, interesting though it was, since Mr Engelman accepted that it took matters no further.
+
+Next, he argued here there was a case to be made under the Computer Misuse Act 1990, section 1 and section 10.  That Act makes a person guilty of an offence if, section 1(1)(a):
+
+"…he causes a computer to perform any function with intent to secure access to any programme or data held in any computer;
+
+(b) the access he intends to secure is unauthorised... (c) he knows at the time that he causes the computer to perform a function that that is the case."
+
+This section, therefore, looks to the intent of a person who accesses computer data and makes it an offence if he does so with the intention of securing unauthorised data.
+
+There is no evidence before me capable of sustaining the argument that, on the facts of this particular case, the police officers concerned intended to access whatever information was on the mobile phone of the claimant irrespective of any relevance to the disappearance of C.  They may have happened upon the material to which I have referred.  They did not intend to find it.
+
+I accept Ms Barton's submission that, looking to intent as it does, and no evidence of intent being made out, this ground takes the claimant's case no further.
+
+The Defendant's Submissions
+
+In impressive submissions, with advocacy which deserves the highest accolade, Ms Barton argued that the issue here in respect of Article 8 was whether the defendant could justify the proposed disclosure.  To do so, it was necessary to consider whether the disclosure was in accordance with the law, whether it was necessary in a democratic society and whether it was proportionate, those last two matters, as I have already mentioned by reference to case-law, being inter-related.
+
+She submitted that the common law, as set out in the cases of Thorpe and LM was clear, precise and accessible, that there was therefore here no difficulty in a citizen knowing what may or may not be disclosed in respect even of his entirely lawful behaviour.
+
+She mentioned that, so far as Mind had been concerned, there had already been an enhanced criminal record certificate that had been clear.  This had pre-dated the information taken off the phone.  But it must have been plain to the claimant that information of the type referred to, that is other than actual crimes or recorded cautions, might, if thought relevant, be disclosed to that body.  The defendant, she noted, did not operate in this case under Part V of the Police Act.  Therefore the decision which was applicable was that made at common law (see the principles in Thorpe and LM). She noted that the procedure of judicial review operated as a control, so that there was the possibility of independent review.
+
+The law was sufficiently clear to enable a person to know the background information that might be set out.  Those two matters taken together have therefore satisfied the first limb of the test that disclosure should be in accordance with the law.
+
+She argued that the absence of a policy on which Mr Engelman had placed such store was in no sense a failing which argued that there should be no disclosure.  The purpose of a policy would be to indicate the circumstances in which a power might be exercised.  If that had been identified by the case of LM, a policy would have added nothing to do the common law.  As to necessity, she identified the pressing social need of the protection of others from the prevention of crime.  It was particularly pressing in this case where the claimant had one-to-one contact and counselling sessions with others who might include adult females.  The very essence of such counselling would be that the person counselled had troubles.  That is a factor that the Detective Inspector  had specifically taken into account.
+
+She emphasised that the facts of the case deserved the most careful scrutiny.  What they showed was an utterly intrusive photograph of the next door neighbour sunbathing.  They gave evidence of the claimant, in her words, "stalking individuals".  The behaviour might not have been criminal, but that was a consequence of the lack of knowledge by the person being trailed that they were being trailed.  Otherwise it might have constituted an offence under the Protection of Harassment Act 1977 or, for that matter, section 4 of the Public Order Act.  The behaviour was, in any ordinary understanding of the word, obsessive.  The inspector had looked at the claimant's position in detail, as he was obliged to do in the context of investigating a very serious offence, and his decision must be seen in that context.  Ms Barton argued that in the light of those considerations there was a disclosure here which was proportionate.  Applying the three matters to which Dyson J drew attention in LM, the material was entirely believable, as it was effectively agreed by the claimant.  There was an interest in the university, Mind and the union having the information.  Without it they could not discharge their duty to individuals within their care. (I shall come back to that particular argument in due course).  And she maintained that, although the balance was delicate and was therefore entirely within the court's powers to assess, the court should, in its duty of independent review, affirm the decision as appropriate in these particular circumstances.
+
+She noted further that, where Mr Engelman has spent some time in his submissions emphasising aspects of the claimant's working environment, both at the university and for Mind, which would militate against any possibility of risk arising with his contact from females, this had been material which he (the claimant) had not himself put forward when he was given a proper opportunity to do so by invitation following the draft letter of 5 February proposing disclosure and that, in accordance with best practice, the police had afforded him that opportunity.
+
+Discussion
+
+First, any case such as this is necessarily fact sensitive.  The court must apply intense scrutiny to it.  The approach which should be taken is the approach of intensive review seen as incumbent upon the court by authority such as A v SSHD [2005] 2 AC 68, per Lord Bingham at paragraphs 40 and 44 and Shayler per Lord Hope at paragraph 55.  The sole basis, as it seems to me, for disclosure here was an apprehended risk.  The claimant was somebody who had committed no offence.  No adverse aspect of his conduct involving others had been brought to light.  There had been no complaint about the discharge of his functions at the university or in respect of Mind or in respect of the union.  He is very nearly 56 years of age and was 55 at the time of disclosure.  He had been fully co-operative.  He was therefore entitled in law to do what he did, applying the approach one must take to the law, that that which is not forbidden is permissible.  Even if aspects of his exercise of that entitlement are to any viewer uncomfortable and might, if just a few circumstances were to have changed, have crossed the borderline into the criminal, they did not actually do so.  Thirdly, the area with which the disclosure was concerned was in relation to a risk to adult females.  So far as sexual offences are concerned, this is outside the area of “most significant pressing need” as identified by Parliament.  See the Police Act 1997, which focused upon two particular groups, the young child and the vulnerable.  All social needs may be said to be pressing.  The purpose of the adjective “pressing” must be to indicate something of the particular quality and immediacy of the need which must be borne in mind in evaluating what, if any, decision is proportionate.
+
+Looking at the risk, the court must ask how obvious and grave (to use the word derived from L) was the risk?  Some risks may be obvious or have an obvious basis.  Those who have been convicted of an offence which is properly within the term paedophilia may be thought highly likely to engage in similar conduct, although particular facts may demonstrate in a particular case that that is less likely.  Those who have raped may be regarded as providing a potential risk of rape, although again particular circumstances may militate against that.  But by contrast the risk, if it is a real risk of sexual assault, serious sexual assault (and it seems to be that nothing less could justify disclosure) which  arises from a consideration of lawful behaviour - or at least behaviour which is not unlawful - requires close and careful identification where what is said to give rise to it is conduct in the absence of any allegations of illegal or unlawful behaviour.
+
+The critical feature which, in the view of Detective Inspector G, appears to have tipped the balance was the behaviour of the claimant in following women and photographing them from behind in daylight in the street.  At one part of his statement he thought that this indicated that he was inviting detection, because of the open nature of his photography, by daylight, in the street.  He classes this as part of the obsessive and compulsive behaviour, which otherwise he had identified not from the photography itself but from the addiction, if that is what it is, which the claimant had to chat lines and the like.  He does not say that, in reaching the decision, (which, as I mentioned, I am told was made on 13 January) he used Finkelhor's model.  Had he done so a question would have arisen, which is whether Finkelhor's model can in any sense be said to be predictive as opposed to be descriptive, ie retrospective, in the light of identifying what has been the progress of those who have been identified as sex fiends after they have been convicted as such.
+
+His view of risk at the time he made the decision was based entirely upon his own intuitive reaction as an officer (of some years experience) to the material which I have summarised.  The assumption that the claimant was a risk, not just a risk of committing some sexual act but a serious sexual assault on an adult female, is expressed differently.  At one part of his statement it is described as a clear danger; at another that the claimant had moved some way along the scale and the risk posed was significant; at another, that his behaviour may be capable of escalating if “boundaries are eroded” (and I use the word “if” instead of his word “as”, because he was assuming the boundaries necessarily would be).
+
+It has concerned me that he felt the need in his witness statement to refer to Zoe Lodrick’s lecture and Finkelhor in support of the view which he had already reached  This indicates to me that he was concerned to support his view that there was here a risk.  What was needed, as it seems to me, was for him to obtain a clear and professionally mediated view of the risk, if disclosure with its adverse consequences of particular severity to this claimant was to be justified, to show whether the behaviour which he had identified was the sort of behaviour which might indicate the potential risk of serious sexual assault, rather than either being limited to its own context or indicating very different risks.  It was obvious, and plainly he took into account, that disclosure would indicate the police's view of risk to the employer with very serious potential consequences.  I am concerned that the view that he took was predictive, as in one sense all risk has to be, but closely associated with so-called approaches such as offender profiling.  Ms Barton, in her submissions, rightly distanced herself from any such approach, and anyone who has ever read the coruscating rejection of such evidence in the trial of Colin Stagg by Ognall J will be bound to feel the same.  But the fact remains that there is here no empirical evidence on which it could be said that someone exhibiting these characteristics would pose any real risk of re-offending, let alone offending, The absence of empirical evidence which may be available but was not before the decision maker and has not been referred to him seems to me to be a significant absence.
+
+The disclosure was proposed to be made to the university, to Mind and to the union.  In respect of each a close attention needed to be made by the decision maker as to the quantum of risk in respect of each, because it would be the risk which the claimant posed in that particular context which would have to be the justification for the disclosure.  There is no suggestion here that disclosure should have been made more generally.
+
+So far as the university is concerned, the material on which the Detective Inspector relied shows that the claimant had access to females.  There is no material before me which shows that that access was significantly different from the access that any man might have to women in general society.  So far as Unite is concerned, the same might be said.  I shall come back to the position in respect of Mind.  But it might be observed that each of these three bodies were bodies in respect of whom it may be said, if a risk were posed, then it would be less likely to eventuate in the settings in which each operated than it would in general society, as to which there is no suggestion there should be a disclosure.
+
+So far as Mind is concerned, here it is said by the claimant that he had acted as a counsellor for some years.  His contact with females was inevitably made at premises under the control of others, although the contact was one-to-one, and it is said by him that it was contrary to the practice and rules that there should be any contact between counsellor and counselled outside the consultation.  On the other hand, it is said this is an opportunity given to the claimant effectively to groom any woman, and to prepare the victim compliance of which Finkelhor spoke and thus, the woman being vulnerable, in the lay sense, having sought counselling, there was a serious and real risk of him taking advantage of her.  Again, this somewhat presupposes the nature of the advantage  which could be taken.
+
+Conclusion
+
+Issues involving sex, sexual practices and in particular private sexual practices are deeply emotive.  It is an area most likely to arouse prejudice, assumption and overreaction, although the seriousness of any sexual interference with a man or a woman must be emphasised.  Nonetheless an assessment of the risk of what might happen must be made with the greatest care.  If I assume for the moment that the proposed disclosure would be in accordance with law within the meaning of Article 8.2, but ask whether it is necessary in a democratic society, then I have to identify a pressing social need to which the disclosure is directed.  Here it is a general need of the protection of others from crime.  The degree to which this might be said to be “pressing” has to be taken into account in reaching the balance which necessarily falls to be made when assessing proportionality.
+
+I have no doubt that, on a proper assessment of proportionality on the assumption that the proposed disclosure would be in accordance with law and would meet a need which might be said to be pressing, such disclosure would be disproportionate.  It would not fall within Article 8.  It would not meet the LM criteria.  There is, in my view, insufficient here of a developed appreciation of what the risk might be.
+
+It seems to me that to deal with a situation such as this, that is where activities which are otherwise normal are thought to give rise to some risk to women, a policy or information promulgated within the force as to the likelihood of certain behaviour indicating risk in the future would be desirable.  There is otherwise a risk that a decision to disclose is one which owes too much to the individual view, however genuine, of the officer concerned,  however experienced, and too little to a careful evaluation, as evaluations in this field have necessarily to be, and on as objective a basis as possible of the risks.  I have, therefore, some doubts as to whether, in any event, it can be said that the disclosure here was in accordance with law in possessing the necessary degree of accessibility and predictability, despite the quality of Ms Barton's submissions to the effect that existing case law supplies it,  because the peculiar feature of this case is that none of the behaviour which is said to give rise to a risk from the claimant while at his work was unlawful.
+
+A policy or promulgation of information as objective and reliable as possible would avoid the risk, which is real, that an arbitrary decision might be made, genuine but arbitrary in the sense that it would owe much to the decision maker rather than to the quality of the decision.
+
+As for Mind, I have some greater hesitation here, since the claimant was meeting on a one-to-one basis, but in the end I have been persuaded that disclosure here was and would be disproportionate.  I say that because it is plain to me that the Detective Inspector who made the decision had no very clear idea of the extent of the risk to which he was alerted or what precisely it was a risk of, or whether there were intermediate steps which the claimant would be likely to take between his behaviour as revealed by the phone and committing an offence which might be of sufficient gravity to justify an interference which could take away his job from him.
+
+I do not think that, having read the material, he gave sufficient consideration to those three matters.  If he had done so, then the report of Dr King, a psychiatrist instructed on behalf of the claimant whose report has been put before me, was the sort of material that might have been available to him to consider.  I note that no report has been filed to the contrary in respect of the particular circumstances of this case, though that possibility was expressly left open by the court during case management prior to this hearing
+
+I conclude, therefore, that in all the circumstances of this case, applying the approach which I have to apply in respect of Article 8, recognising the real and honest concerns of the police force, but recognising as a fundamental right the right to privacy of the claimant, that there has been insufficient justification within Article 8 for the proposed disclosure, for the reasons I have given.  Nor do I think the disclosure can be justified if one steps outside the Convention, applying necessarily a common law view which begins with a restrictive approach to disclosure rather than the more balanced one which might apply in respect of Article 8.2.
+
+Essentially, for the reasons I have given, I therefore accept too the claimant's case insofar as it rests upon the common law principles I have set out.  It follows that this claim succeeds to the extent I have identified.

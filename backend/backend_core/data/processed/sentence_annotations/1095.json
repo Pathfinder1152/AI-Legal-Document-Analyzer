@@ -1,0 +1,1135 @@
+[
+  {
+    "sentence": "Neutral Citation Number: [2024] EWCA Civ 1095     Case No s: CA-2023 -001940, CA -2023 -001941,   CA-2023 -001944, CA -2023 -001946,   CA-2023 -001953   IN THE COURT OF APPEAL ( CIVIL  DIVISION)   ON APPEAL FROM THE INVESTIGATORY POWERS TRIBUNAL   EDIS LJ, LADY CARMICHAEL, STEVEN SHAW KC   [2023] UKIP  Trib 3   Royal Courts of Justice   Strand, London, WC2A 2LL     Date: 20/09/2024   Before :     LORD JUSTICE HOLROYDE   LORD JUSTICE DINGEMANS   and  LADY JUSTICE ELISABETH LAING   - - - - - - - - - - - - - - - - - - - - -  Between :      (1) Connor Palmer and Anor   (2) Kulvir Singh Shergill   (3) Usman Butt   (4) Nasar Ahmed   (5) ABC  and Others   Appellant s   - and -    National Crime Agency  Respondent     - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - -    Matthew Ryder KC and Daniel Cashman  (instructed by Bindmans LLP ) for the First  Appellant   Thomas Schofield  (instructed by Novate Direct Legal ) for the Second Appellant   Simon Csoka KC and Oliver Cook  (instructed by Eldwick Law ) for the Third  & Fourth  Appellants    Abbas Lakha KC  and Aneurin Brewer  (instructed by Avisons Solicitor s) for the Fifth  Appellant   David Perry KC, Richard O\u2019Brien KC, Victoria Ailes and Andrew Deakin  (instructed by   NCA Legal ) for the Respondent     Hearing date : 16 July 2024   - - - - - - - - - - - - - - - - - - - - -  Approved Judgment        This judgment was handed down remotely at 14.00 hrs on 20. 9.24 by circulation to the  parties or their representatives by e -mail and by release to the National Archives.     .............................      Judgment Approved by the court for handing down.",
+    "legal_references": [
+      "EWCA Civ 1095     Case No s:"
+    ]
+  },
+  {
+    "sentence": "The decision of the IPT concerned the application of the regime in the  Investigatory Powers Act  2016  (\u2018the IPA\u2019) to Operation Venetic.",
+    "legal_references": [
+      "the  Investigatory Powers Act  2016"
+    ]
+  },
+  {
+    "sentence": "Operation Venetic was  the NCA\u2019s response to EncroChat devices, which were  telephone handsets which could   be used to get access to EncroChat, an encrypted service which was either wholly, or  very nearly wholly, used by criminals for criminal purposes.",
+    "legal_references": [
+      "Operation Venetic"
+    ]
+  },
+  {
+    "sentence": "3. Section 67A(1) of the Regulation of Investigatory Powers Act 2000 (\u2018RIPA\u2019) gives a  right of appeal on a point of law from certain determinations of the IPT to this court.  The leave of the IPT or of this court is required (section 67A(6)(b)).",
+    "legal_references": [
+      "RIPA",
+      "Section 67A(1) of",
+      "the Regulation of Investigatory Powers Act 2000",
+      "section 67A(6)(b)"
+    ]
+  },
+  {
+    "sentence": "The IPT and this  court must not give leave unless it considers that the appeal would \u2018raise an important  point of principle or practice or there is another compelling reason for giving leave \u2019  (section 67A(7)).",
+    "legal_references": [
+      "section 67A(7)"
+    ]
+  },
+  {
+    "sentence": "A Judicial Commissioner approved a targeted equipment interference  warrant (\u2018TEI 1\u2019) under Part 5 of the IPA.",
+    "legal_references": [
+      "Part 5"
+    ]
+  },
+  {
+    "sentence": "The Crown Prosecution Service (\u2018the CPS\u2019)  served a European Investigation Order (\u2018EIO\u2019) on the French authorities asking for the  product of the interceptions of EncroChat.",
+    "legal_references": [
+      "a European Investigation Order"
+    ]
+  },
+  {
+    "sentence": "The NCA sought the revocation of TE I 1  because the explanations it gave were not full enough.",
+    "legal_references": [
+      "TE I 1"
+    ]
+  },
+  {
+    "sentence": "The  proceedings in the IPT concerned TEI  2.  7.",
+    "legal_references": [
+      "TEI  2"
+    ]
+  },
+  {
+    "sentence": "The conduct described in TEI  2",
+    "legal_references": [
+      "TEI  2"
+    ]
+  },
+  {
+    "sentence": "The IPT held that the purpose of the warrant was to make the conduct of the JIT  lawful, when it otherwise might have been an offence under the Computer Misuse Act   1990 , which the NCA would commit as a secondary party by encouraging it.",
+    "legal_references": [
+      "the Computer Misuse Act   1990"
+    ]
+  },
+  {
+    "sentence": "As the IPT observed, the necessity and proportionality of getting the data were shown  \u2018to a high degree\u2019 by the application for TEI  2.",
+    "legal_references": [
+      "TEI  2"
+    ]
+  },
+  {
+    "sentence": "Several defendants in those trials challenged the admissibility of that  material , on grounds which included an ar gument that the material  had been intercepted  in the course of transmission and was inadmissible under section 56 of the IPA.",
+    "legal_references": [
+      "section 56"
+    ]
+  },
+  {
+    "sentence": "Those  proceedings led to two decisions of the Criminal Division of this court  (\u2018the CACD\u2019),   including  R v A, B, D and C  [2021] EWCA (Crim) 128 , reported as  R v A and others   [2021] QB 791 (\u2018 A\u2019). As Mr Ryder reminded us, an issue which could not be challenged  in the criminal trials was whether or not the warrant was lawful.",
+    "legal_references": [
+      "R v A"
+    ]
+  },
+  {
+    "sentence": "If the appellants\u2019  proposed appeal s succeed  and if the TEI  is quashed, it seems likely that there will be  applications in the Crown  Court under section 59 of the Criminal Justice and Procedure  Act 2001.",
+    "legal_references": [
+      "section 59",
+      "the Criminal Justice and Procedure  Act 2001"
+    ]
+  },
+  {
+    "sentence": "The legal framework   The Regulation of Investigatory Powers Act 2000   11. Section 65 RIPA creates the IPT \u2019s jurisdiction.",
+    "legal_references": [
+      "The Regulation of Investigatory Powers Act 2000",
+      "Section 65 RIPA"
+    ]
+  },
+  {
+    "sentence": "The authorisations listed in section 65(8) include warrants under Part 5 of the  IPA.",
+    "legal_references": [
+      "Part 5"
+    ]
+  },
+  {
+    "sentence": "The Investigatory Powers Act 2016   12.",
+    "legal_references": [
+      "The Investigatory Powers Act 2016"
+    ]
+  },
+  {
+    "sentence": "Section 1(1) of the IPA declares that it \u2018sets out the extent which certain investigatory  powers may be used to interfere with privacy\u2019.",
+    "legal_references": [
+      "Section 1(1)"
+    ]
+  },
+  {
+    "sentence": "Part 1 \u2018imposes certain duties in relation  to privacy and contains other protections for privacy\u2019  (section 1(2)).",
+    "legal_references": [
+      "Part 1"
+    ]
+  },
+  {
+    "sentence": "Section 2 enacts  various \u2018general duties in relation to privacy\u2019.",
+    "legal_references": [
+      "Section 2"
+    ]
+  },
+  {
+    "sentence": "Part 1 is headed  \u2018General Privacy  Protections\u2019.",
+    "legal_references": [
+      "General Privacy  Protections"
+    ]
+  },
+  {
+    "sentence": "Chapter 1 of  Part 2 provides for  \u2018Interception and Examination with a Warrant\u2019, Chapter 2 for \u2018Other  forms of lawful interception\u2019 and Chapter 3 for \u2018Restrictions on use of disclosure of  material obtained under warrants etc\u2019.",
+    "legal_references": [
+      "Chapter 3",
+      "Chapter 2",
+      "Chapter 1"
+    ]
+  },
+  {
+    "sentence": "Sections 3 -10 are headed \u2018Prohibitions against unlawful interception\u2019.",
+    "legal_references": [
+      "Sections 3 -10 are"
+    ]
+  },
+  {
+    "sentence": "Section 3(3) introduces sections 4 and  5, which, respectively, make provision about the meaning of \u2018interception\u2019 and when  interception is \u2018regarded as carried out in the United Kingdom\u2019.",
+    "legal_references": [
+      "Section 3(3)"
+    ]
+  },
+  {
+    "sentence": "Section 3(4) introduces  section 6 which contains provisions about when a person has lawful authority to carry  out an interception.",
+    "legal_references": [
+      "Section 3(4)"
+    ]
+  },
+  {
+    "sentence": "Section 3 is bolstered by section 7, which gives the Investigatory Judgment Approved by the court for handing down.",
+    "legal_references": [
+      "the Investigatory Judgment",
+      "Section 3"
+    ]
+  },
+  {
+    "sentence": "CP & Ors v NCA      Powers Commissioner (\u2018the Commissioner\u2019) power to serve a monetary penalty notice,  if, among other things, a person has intercepted, in the United Kingdom, any  communication in the course of its transmission by a public telecommunications  system, without lawful authority, and without making any attempt to act in accordance  with an interception warrant, but has not, in the opinion of the Commissioner,  committed an offence under section 3(1)  (section 7(3)) .",
+    "legal_references": [
+      "CP & Ors",
+      "section 3(1)  "
+    ]
+  },
+  {
+    "sentence": "Section 8(1) imposes civil  liability for certain interceptions carried out in the United Kingdom.",
+    "legal_references": [
+      "Section 8(1"
+    ]
+  },
+  {
+    "sentence": "14. Section 4 defines \u2018interception\u2019.",
+    "legal_references": [
+      "Section 4"
+    ]
+  },
+  {
+    "sentence": "Section 4(1) makes clear that the definition of interception applies for \u2018the purposes of  this Act\u2019, and that it is an exhaustive definition.",
+    "legal_references": [
+      "Section 4(1)"
+    ]
+  },
+  {
+    "sentence": "\u2018Content\u2019 is defined in section 261(6).   15.",
+    "legal_references": [
+      "section 261(6).   15"
+    ]
+  },
+  {
+    "sentence": "A \u2018relevant act\u2019 i n relation to a telecommunications system means modifying, or  interfering with the system or its operation, monitoring transmissions made by means of  the system, and monitoring transmissions made by wireless telegraphy to or from  apparatus that is part of the system (section 4(2)).",
+    "legal_references": [
+      "section 4(2)"
+    ]
+  },
+  {
+    "sentence": "16. \u2018Wireless telegraphy\u2019 and \u2018wireless telegraphy apparatus\u2019 have the same meanings as in  sections 116 and 117 of the Wireless Telegraphy Act 2006 .",
+    "legal_references": [
+      "the Wireless Telegraphy Act"
+    ]
+  },
+  {
+    "sentence": "The parties agreed in the IPT that the acquisition of the EncroChat data was an  \u2018interception\u2019 as defined in section 4 of the IPA.",
+    "legal_references": [
+      "section 4"
+    ]
+  },
+  {
+    "sentence": "CP & Ors v NCA      19. Section 6 defines \u2018lawful authority\u2019.",
+    "legal_references": [
+      "CP & Ors",
+      "Section 6"
+    ]
+  },
+  {
+    "sentence": "Section 6(1) de fines th ree situations in which a  person has lawful authority for an interception  (in section 6(1)(a), (b) and (c)) .",
+    "legal_references": [
+      "Section 6(1) de fines th ree"
+    ]
+  },
+  {
+    "sentence": "such situation is if the interception is done in accordance with a targeted interception  warrant (\u2018a TI\u2019) or a mutual assistance warrant (\u2018an MA\u2019) under Chapter 1 of Part 2, or  a bulk interception warrant under Chapter 1 of Part 6  (section 6(1)(a)) .",
+    "legal_references": [
+      "Chapter 1 of Part 2",
+      "Chapter 1 of Part 6"
+    ]
+  },
+  {
+    "sentence": "The  third such  situation i nclude s, in the case of information stored in or by a telecommunications  system, that the interception is done in accordance with a T EI under Part 5 or an MA,  or a bulk equipment interference warrant under Chapter 1 of Part 6  (section 6(1)( c)(i)),  or the interception is done in the exercise of a statutory power that is exercised for the  purpose of obtaining information  (section 6(1)(c)(i i)).",
+    "legal_references": [
+      "Part 5",
+      "Chapter 1 of Part 6"
+    ]
+  },
+  {
+    "sentence": "If conduct is lawful under section  6(1)(a)  or under section 6(1(b) ), it is  \u2018to be treated as lawful for all other purposes\u2019  (section 6(2)).  There is no equivalent provision in relation to section 6(1)(c).   20.",
+    "legal_references": [
+      "section 6(1(b)"
+    ]
+  },
+  {
+    "sentence": "Section 9 is headed \u2018Restriction on requesting interception by overseas authorities\u2019.",
+    "legal_references": [
+      "Section 9"
+    ]
+  },
+  {
+    "sentence": "By subsection (2), a  request to which section 9 applies may  not be made by or on behalf of a person in the United Kingdom unless  (a) a TI has been  issued under Chapter 1 of Part 2 authorising the person to whom it is addressed to  secure the interception of the communications sent by, or intended for, that individual,  or (b) a targeted examination warrant has been issued authorising the selection of the  contents of such communications for examination.",
+    "legal_references": [
+      "Chapter 1"
+    ]
+  },
+  {
+    "sentence": "Section 10(2) is the relevant  restriction.",
+    "legal_references": [
+      "Section 10(2)"
+    ]
+  },
+  {
+    "sentence": "A request to which section 10 applied could not be made by or on behalf of  a person in the United Kingdom to  the competent authorities of a country outside the  United Kingdom unless a n MA  had been issued under Chapter 1 of Part 2 authorising  the making of the request.",
+    "legal_references": [
+      "section 10",
+      "Chapter 1"
+    ]
+  },
+  {
+    "sentence": "Section 10(2A) was inserted on 30 July 2017 by paragraph 9 of Schedule 3 to the  Criminal Justice (European Investigation Order) Regulations 2017 SI No 730 (\u2018the  Regulations\u2019).",
+    "legal_references": [
+      "the  Criminal Justice (European Investigation Order) Regulations",
+      "Section 10(2A)",
+      "paragraph 9 of Schedule 3 to"
+    ]
+  },
+  {
+    "sentence": "The first  exception is that section 10(2) does not apply in the case of a request for assistance in  connection with, or in the form of, interception of a communication stored in or by a  telecommunications device if the request is made in the exercise of a statutory power  that is exercised for the purpose of obtaining information.",
+    "legal_references": [
+      "section 10(2)"
+    ]
+  },
+  {
+    "sentence": "At the relevant time, \u2018EU mutual assistance instrument\u2019 was defined in section 10(3) as  an EU instrument relating to the provision of mutual assistance in connection with or in  the form of, the interception of communications, which requires the issue of a warrant  or equivalent instrument in cases in which assistance is given, and is designated as such  in regulations made by the Secretary of State.",
+    "legal_references": [
+      "section 10(3)"
+    ]
+  },
+  {
+    "sentence": "\u2018International mutual assistance  agreement\u2019 was and is still defined in section 10(3) as an international agree ment which  relates to mutual assistance in connection with, or in the form of, the interception of  communications, requires the issue of a warrant or equivalent authority in cases in Judgment Approved by the court for handing down.  CP & Ors v NCA      which assistance is given and is designated as such an agreement in regulations made  by the Secretary of State.",
+    "legal_references": [
+      "section 10(3)",
+      "CP & Ors",
+      "Judgment Approved by the court"
+    ]
+  },
+  {
+    "sentence": "24. Section 11 creates an offence of unlawfully obtaining communications data.",
+    "legal_references": [
+      "Section 11"
+    ]
+  },
+  {
+    "sentence": "25. Part 2 is headed \u2018Lawful interception of communications\u2019, and Chapter 1, \u2018Interception  and examination with a warrant\u2019.",
+    "legal_references": [
+      "Chapter 1"
+    ]
+  },
+  {
+    "sentence": "Section 15 is in Chapter 1 of Part 2.",
+    "legal_references": [
+      "Section 15",
+      "Chapter 1"
+    ]
+  },
+  {
+    "sentence": "Chapter 1 contains a significant number of protections in relation to  those warrants.",
+    "legal_references": [
+      "Chapter 1"
+    ]
+  },
+  {
+    "sentence": "26. A TI is a warrant which authorises or requires a person \u2018to secure, by any conduct  described in the warrant \u2019, any one or more of three things (section 15(2) ).",
+    "legal_references": [
+      "section 15(2"
+    ]
+  },
+  {
+    "sentence": "\u2018Mutual assistance warrant\u2019 is defined in section 15(4) as a warrant which (among other  things) authorises or requires the person to whom it is addressed to secure, by any  conduct described in the warrant, the making of a request, in accordance with an  international mutual assistance agreement, for the provision of any assistance of a kind  described in the warrant in connection with, or in the form of, an interception of  communications .",
+    "legal_references": [
+      "section 15(4)"
+    ]
+  },
+  {
+    "sentence": "\u2018International mutual assistance agreement\u2019 has the meaning given by  section 10(3): see section 60(1).   28",
+    "legal_references": [
+      "International mutual assistance agreement",
+      "section 60(1).   28",
+      "section 10(3):"
+    ]
+  },
+  {
+    "sentence": "A TI and an MA also authorise the conduct described in section 15(5), in addition to the  conduct described in the warrant.",
+    "legal_references": [
+      "section 15(5)"
+    ]
+  },
+  {
+    "sentence": "A warrant issued under Chapter 2 may relate to a  particular person or organisation, or to a single set of premises (section 17(1)).",
+    "legal_references": [
+      "Chapter 2"
+    ]
+  },
+  {
+    "sentence": "Those who can apply for a warrant under Chapter 1 are listed in section  18(1) and include a person who is the competent authority of a country or territory  outside the United Kingdom for the purposes of an international mutual assistance  agreement.",
+    "legal_references": [
+      "section  18(1",
+      "Chapter 1"
+    ]
+  },
+  {
+    "sentence": "A  warrant which relates to a  particular person must name that person (section 31(3)).   29.",
+    "legal_references": [
+      "section 31(3"
+    ]
+  },
+  {
+    "sentence": "An important further control is the requirement  imposed by section 23 that two aspects of a decision to issue a warrant under Chapter 2  (its necess ity and proportionality) must be reviewed, applying judicial review  principles, by a Judicial Commissioner (see also sections 24 and 25).",
+    "legal_references": [
+      "Chapter 2",
+      "section 23"
+    ]
+  },
+  {
+    "sentence": "A control in  Chapter 1 is that a \u2018relevant mutual assistance warrant\u2019 may be issued by a senior  offici al designated by the Secretary of State if the interception subject is outside the  United Kingdom (section 40(1)(a)).",
+    "legal_references": [
+      "Chapter 1"
+    ]
+  },
+  {
+    "sentence": "If, however, the Secretary of State or a senior  official believes that the person group or organisation named or described in the Judgment Approved by the court for handing down.",
+    "legal_references": [
+      "the Judgment Approved by the court"
+    ]
+  },
+  {
+    "sentence": "Chapter 2 contains many other significant controls to protect privacy.",
+    "legal_references": [
+      "Chapter 2"
+    ]
+  },
+  {
+    "sentence": "30. Section 56 is headed \u2018Exclusion of matters from legal proceedings\u2019.",
+    "legal_references": [
+      "Section 56"
+    ]
+  },
+  {
+    "sentence": "The effect of  section 56(1), subject to the exceptions in Schedule 3 to the IPA, is to make evidence  which has the effects described in section 56(2) and (3) inadmissible in any legal  proceedings.",
+    "legal_references": [
+      "section 56(2)",
+      "Schedule 3"
+    ]
+  },
+  {
+    "sentence": "Paragraph 2(1) of Schedule 3 to the IPA provides that section 56(1) does not prohibit  the disclosure of any content of a communication, or any related secondary data if the  interception of the communication was lawful under section 6(1)(c) (among other  provisions).",
+    "legal_references": [
+      "Paragraph 2(1)",
+      "Schedule 3",
+      "section 56(1)"
+    ]
+  },
+  {
+    "sentence": "Section 99 is headed \u2018Warrants under this  Part: general\u2019.",
+    "legal_references": [
+      "Section 99"
+    ]
+  },
+  {
+    "sentence": "A TEI authorises or requires the person to whom it is  addressed to \u2018secure interference with any equipment for the purpose of obtaining\u2019  communications, equipment data, and any other information (section 99(2)).  A TEI  must also authorise or require the person to whom it is addressed to secure the  obtaining of the matters to which the warrant relates, and may also authorise that person  to secure \u2018the disclosure, in any manner described in the warrant, of anything obtained  under the warrant by virtue of section 99(3)(a) \u2019 (section 99(3)).  The obtaining of  communications or of any other information includes doing so by monitoring etc a  person\u2019s communications or other activities, or by recording anything which is  monitored etc (section 99(4)).   32.",
+    "legal_references": [
+      "section 99(3)(a) \u2019"
+    ]
+  },
+  {
+    "sentence": "A TEI also authorises any conduct which is necessary in order to do what is expressly  authorised or required by the warrant, including conduct for the obtaining of  communications, equipment data or other information, and any conduct by any person  which is conduct in pursuance of a requirement imposed by or on behalf of the person  to whom the warrant is addressed to be provided with assistance in giving effect to the  warrant (section 99 (5)).",
+    "legal_references": [
+      "section 99 (5)"
+    ]
+  },
+  {
+    "sentence": "Any conduct carried out in accordance with a warrant under Part 5 is lawful for all  purposes (section 99(1 1)).   33.",
+    "legal_references": [
+      "section 99(1 1)",
+      "Part 5"
+    ]
+  },
+  {
+    "sentence": "\u2018Equipment data\u2019 is widely defined in section 100.",
+    "legal_references": [
+      "section 100"
+    ]
+  },
+  {
+    "sentence": "\u2018Systems data\u2019 and \u2018identifying data\u2019 are  defined in section 263.",
+    "legal_references": [
+      "section 263"
+    ]
+  },
+  {
+    "sentence": "Section 101 is headed \u2018Subject -matter of warrants\u2019.",
+    "legal_references": [
+      "Section 101"
+    ]
+  },
+  {
+    "sentence": "Section  101(1) lists the eight matters, to any one or more of which a TEI may relate.",
+    "legal_references": [
+      "Section  101(1"
+    ]
+  },
+  {
+    "sentence": "CP & Ors v NCA      34. Section 106(1) and (3) gives various \u2018law enforcement chiefs\u2019 power to issue a TEI on  an application made by an \u2018appropriate law enforcement officer\u2019 if the fo ur conditions  in section 106(1) , or, as the case may be, section 106(3) , are met.",
+    "legal_references": [
+      "section 106(3",
+      "section 106(1)",
+      "Section 106(1)"
+    ]
+  },
+  {
+    "sentence": "Section 107 enacts  restrictions on the power of law enforcement chiefs to issue a TEI under section 106.",
+    "legal_references": [
+      "Section 107",
+      "section 106"
+    ]
+  },
+  {
+    "sentence": "Unless one of the exceptions specified in section 107(1) or 107(3) applies, a TEI may  be issued whether or not the person who has power to issue the warrant considers that  there is a \u2018British Islands connection\u2019.",
+    "legal_references": [
+      "section 107(1)"
+    ]
+  },
+  {
+    "sentence": "That phrase is defined in section 107(4).   35. Section 108 provides for the approval by a Judicial Commissioner of warrants issued  under Part 5 of the IPA.",
+    "legal_references": [
+      "Part 5",
+      "section 107(4).",
+      "Section 108"
+    ]
+  },
+  {
+    "sentence": "Section 135 defines \u2018communication\u2019, and \u2018equipment\u2019, among  other things.",
+    "legal_references": [
+      "Section 135"
+    ]
+  },
+  {
+    "sentence": "36. Part 6 is headed \u2018Bulk Warrants\u2019.",
+    "legal_references": [
+      "Part 6"
+    ]
+  },
+  {
+    "sentence": "Chapter 1 provides for bulk interception warrants ,  Chapter 2 for bulk acquisition warrants,  and Chapter 3 for bulk equipment interference  warrants.",
+    "legal_references": [
+      "Chapter 3",
+      "Chapter 2",
+      "Chapter 1"
+    ]
+  },
+  {
+    "sentence": "None of these types of warrant is relevant to this case because the  communications /information at issue in this case are not \u2018overseas -related\u2019 as defined in  section  136(3) or section 176(2) , and see section 158(3)). Par ts 7, 7A and 7B concern  activities of the intelligence services: respectively warrants r elating to \u2018bulk personal  datasets\u2019  retained by the intelligence services, bulk personal dataset authorisations, and  third party bulk personal datasets.   37.",
+    "legal_references": [
+      "Par ts 7, 7A",
+      "section  136(3",
+      "section 176(2",
+      "section 158(3)"
+    ]
+  },
+  {
+    "sentence": "The European Investigation Order (\u2018EIO\u2019) in this case was made under the Regulations.",
+    "legal_references": [
+      "The European Investigation Order"
+    ]
+  },
+  {
+    "sentence": "When they were in force, regulation 7(1)  provided that if it appeared to a prosecutor that an offence had been committed or that  there were reasonable grounds for suspecting that an offence had been committed, and  proceedings had been instituted in respect of the offence, or it was being investigated,  the prosecutor might make an order under regulation 7.",
+    "legal_references": [
+      "regulation 7(1)"
+    ]
+  },
+  {
+    "sentence": "An order made under regulation  7",
+    "legal_references": [
+      "regulation  "
+    ]
+  },
+  {
+    "sentence": "Regulation 11(1) provided that in applying that  test the prosecutor should consider various matters .",
+    "legal_references": [
+      "Regulation 11(1)"
+    ]
+  },
+  {
+    "sentence": "When the measure is in connection with, or in the form of, the interception of  communications, the relevant authority must consider whether any additional  requirements imposed by any enactment other than the Regulations have been complied  with (regulation 7(4)).   The relevant reasoning in A   38. A was an appeal against a decision of Dove J, made at a preparatory hearing, that  EncroChat material would be admissible in the criminal trials of several defendants.",
+    "legal_references": [
+      "A   38. A"
+    ]
+  },
+  {
+    "sentence": "Dove J Judgment Approved by the court for handing down.",
+    "legal_references": [
+      "Dove J"
+    ]
+  },
+  {
+    "sentence": "CP & Ors v NCA      decided that it was being stored, and that it was therefore covered by paragraph 2(1) of  Schedule 3, and, therefore, admissible.",
+    "legal_references": [
+      "paragraph 2(1)",
+      "Schedule 3"
+    ]
+  },
+  {
+    "sentence": "The \u2018harvesting\u2019 was \u2018interception\u2019 which was made lawful by the TEI and by  section 6(1)(c).",
+    "legal_references": [
+      "section 6(1)(c)"
+    ]
+  },
+  {
+    "sentence": "Paragraph 2 of Schedule 3 made that product of the interception  admissible (paragraphs 67 and 69).",
+    "legal_references": [
+      "Paragraph 2 of Schedule 3"
+    ]
+  },
+  {
+    "sentence": "The CACD added that it was \u2018necessary to say something about Grounds 3 and 4\u2019 while  acknowledging that even if section 9 or 10 had been breached, that would not affect the  admissibility of the material.",
+    "legal_references": [
+      "Grounds 3"
+    ]
+  },
+  {
+    "sentence": "Breaches of sections 9 and 10 might give rise to  arguments under section 78 of the Police and Criminal Evidence Act 1984, although the  CACD  observed that it would be  a \u2018surprising exercise of\u2019 of that power to exclude  evidence which \u2018Parliament has provided in clear terms should be admissible\u2019  (paragraph 71).   40.",
+    "legal_references": [
+      "the Police and Criminal Evidence Act",
+      "section 78"
+    ]
+  },
+  {
+    "sentence": "Unless section  10(2A) applied, it was unlawful because there was no MA (see section 15).",
+    "legal_references": [
+      "section  10(2A"
+    ]
+  },
+  {
+    "sentence": "Dove J had  held that section 10(2A) did apply and that the relevant statutory power was that  conferred by regulation 7 of the Regulations.",
+    "legal_references": [
+      "Dove J",
+      "regulation 7"
+    ]
+  },
+  {
+    "sentence": "The CACD noted that section 10(2A) was  inserted in the IPA by the Regulations.",
+    "legal_references": [
+      "Regulations"
+    ]
+  },
+  {
+    "sentence": "It concluded that the purpose of the Regulations  and of section 10(2A) was to \u2018incorporate the EU investigation order system into  domestic law\u2019 (paragraph 73).   41. It would be inconsistent with that purpose to construe section 10 \u2018so narrowly\u2019 as to  exclude an EIO like the EIO in this case.",
+    "legal_references": [
+      "paragraph 73).   41",
+      "section 10",
+      "Regulations",
+      "section 10(2A)"
+    ]
+  },
+  {
+    "sentence": "Unlike section 10, section 9 does not refer to  communications which are stored in or by a system.",
+    "legal_references": [
+      "section 10"
+    ]
+  },
+  {
+    "sentence": "The defendants argued that activity  which was lawful by virtue of section 6(1)(c), and by section 10(2A), was made  unlawful by section 9.",
+    "legal_references": [
+      "section 6(1)(c)",
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "He considered that the reference in section 9 to interception of  communications was to the interception of communication s governed by Part 2 and by  section 15.",
+    "legal_references": [
+      "Part 2"
+    ]
+  },
+  {
+    "sentence": "That was reinforce d by the reference in section 9(2) to TIs \u2018under Part 2 of  this Act\u2019.",
+    "legal_references": [
+      "Part 2"
+    ]
+  },
+  {
+    "sentence": "To read section 9 as applying to conduct authorised  by section 99 would cut across \u2018the breadth\u2019 of section 99(5) an d would require a TI in  relation to TEI material.",
+    "legal_references": [
+      "section 99",
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "Section 10 covers a request  made under an EIO or under an international mutual assistance agreement.",
+    "legal_references": [
+      "Section 10"
+    ]
+  },
+  {
+    "sentence": "\u201c section 9 of the 2016 Act should be construed so that it is  restricted to prohibiting the requesting of a foreign state to  carry out interception which would require a Part 2 targeted  interception warrant if carried out in the United Kingdom by  the United Kingdom authorities, unless such a warrant is in  place.",
+    "legal_references": [
+      "Part 2"
+    ]
+  },
+  {
+    "sentence": "The position which applies if the request is made under  an EU mutual assistance instrument or an international mutual  assistance agreement is governed by section 10 so far as the  assistance is in connection with or in the form of the  interception of communications.  That provision by necessary  implication  requires  section 9 to be construed so that it does not  apply to cases within section 10.",
+    "legal_references": [
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "They  included whether section 10 required the NCA to get a n MA  (and w hether the absence  of such a warrant made the EIO unlawful ), whether section 9 required the NCA to get a  TI, and whether the NCA was required to get a bulk equipment interference warrant .",
+    "legal_references": [
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "In paragraph 77 the IPT set out Judgment Approved by the court for handing down.",
+    "legal_references": [
+      "Judgment Approved by"
+    ]
+  },
+  {
+    "sentence": "The IPT then held, in paragraph 78, that \u2018The purpose of the warrant was to render the  conduct of the JIT lawful, when otherwise it might have been an offence under the  Computer Misuse Act which the NCA might therefore commit as a secondary party by  encouraging it.",
+    "legal_references": [
+      "the  Computer Misuse Act"
+    ]
+  },
+  {
+    "sentence": "In paragraphs 79 -82  t he IPT described the legislative provisions which were relevant  to the arguments about  sections 9 and 10 of the IPA.",
+    "legal_references": [
+      "IPA"
+    ]
+  },
+  {
+    "sentence": "The IPT set out sections 9 and 10  of the IPA , and regulations 7 and 11 of the Regulations, commenting that the  \u2018designated public prosecutor\u2019 for the purposes of the Regulations was the Director of  Public Prosecutions (\u2018the DPP\u2019) and any Crown Prosecutor, and that regulation 59  designated Directive 2014/41/EU regarding the European Investigation Order in  criminal matters as an EU mutual assistance instrument for the purposes of section 10  of the IPA.",
+    "legal_references": [
+      "Directive 2014/41/",
+      "the European Investigation Order",
+      "IPA",
+      "section 10"
+    ]
+  },
+  {
+    "sentence": "Paragraph 9 of the Regulations amended the IPA by inserting section  10(2A).   49.",
+    "legal_references": [
+      "section  10(2A).",
+      "IPA",
+      "Paragraph 9 of"
+    ]
+  },
+  {
+    "sentence": "In paragraphs 83 -108 the IPT considered the arguments about section 10, under the  heading \u2018Issue (b): The tribunal\u2019s jurisdiction in relation to the claims that the EIO was  unlawful, and the claim that the NCA breached section 10 of the IPA\u2019.",
+    "legal_references": [
+      "IPA",
+      "EIO",
+      "section 10"
+    ]
+  },
+  {
+    "sentence": "It concluded that the claims were claims that the claimants\u2019 human rights had been  breached and that the IPT was the only appropriate tribunal to deal with those claims  (section 65(3)(d) of RIPA).",
+    "legal_references": [
+      "RIPA"
+    ]
+  },
+  {
+    "sentence": "Conduct takes place in such circumstances if it is conduct that took place under,  required the grant of, or at least consideration of seeking, a warrant of the types listed in  section 65(8) (section 65(7)).",
+    "legal_references": [
+      "section 65(8) ("
+    ]
+  },
+  {
+    "sentence": "The IPT stated that the claimants\u2019 characterisation of the \u2018conduct\u2019 was not consistent :  they accepted that the EIO had asked for help with the interception of communications ;  but, they said, the \u2018conduct\u2019 was in \u2018challengeable circumstances\u2019 because it was done  under the authority of a \u2018purported\u2019 warrant under Part 5 of the IPA.",
+    "legal_references": [
+      "IPA",
+      "Part 5"
+    ]
+  },
+  {
+    "sentence": "For the purposes of section 10, the conduct was the making of the request.",
+    "legal_references": [
+      "section 10"
+    ]
+  },
+  {
+    "sentence": "That  was \u2018potentially prohibited\u2019 by section 10(2).",
+    "legal_references": [
+      "section 10(2)"
+    ]
+  },
+  {
+    "sentence": "At a late stage the NCA had argued that the NCA might not have needed a Part 5  warrant.",
+    "legal_references": [
+      "Part 5"
+    ]
+  },
+  {
+    "sentence": "If the NCA did need a Part 5 warrant, the conduct was within section  65(5)(czm) of RIPA, because it was in connection with conduct within section  65(5)(czd) of RIPA.",
+    "legal_references": [
+      "RIPA",
+      "Part 5"
+    ]
+  },
+  {
+    "sentence": "The making of that request did not take place with  the purported authority of a Part 5 warrant.",
+    "legal_references": [
+      "Part 5"
+    ]
+  },
+  {
+    "sentence": "No warrant under Part 5 was required, or Judgment Approved by the court for handing down.",
+    "legal_references": [
+      "Part 5"
+    ]
+  },
+  {
+    "sentence": "53. Regulation 11 of the Regulations did not suggest otherwise.",
+    "legal_references": [
+      "Regulation 11"
+    ]
+  },
+  {
+    "sentence": "Section  10(2A) applied because the request was made in the exercise of a statutory power (the  power of a prosecutor to make or to validate an EIO under regulation 7 of the  Regulations).",
+    "legal_references": [
+      "Section  10(2A",
+      "regulation 7"
+    ]
+  },
+  {
+    "sentence": "The purpose of the regulations and of section 10(2A) was \u2018to incorporate  the EIO system into domestic law\u2019.",
+    "legal_references": [
+      "section 10(2A)"
+    ]
+  },
+  {
+    "sentence": "It was inconsistent with that purpose to construe  section 10(1) and (2A) so as to remove an EIO from their scope.",
+    "legal_references": [
+      "section 10(1)"
+    ]
+  },
+  {
+    "sentence": "If, therefore, the IPT had had jurisdiction, it would have rejected that challenge for the  same reasons as were given in A.  57.",
+    "legal_references": [
+      "A.  57"
+    ]
+  },
+  {
+    "sentence": "The next issue which the IPT considered was whether a TI or a targeted examination  warrant under section 15 was required.",
+    "legal_references": [
+      "section 15"
+    ]
+  },
+  {
+    "sentence": "The claimants submitted that section 9 was  engaged on the facts.",
+    "legal_references": [
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "It was argued that the NCA and the Judicial Commissioner had  erred in law by relying on a Part 5 warrant.",
+    "legal_references": [
+      "Part 5"
+    ]
+  },
+  {
+    "sentence": "Section 9 does not distinguish between live  and stored communications because foreign authorities would not be prepared to  disclose their methods.",
+    "legal_references": [
+      "Section 9"
+    ]
+  },
+  {
+    "sentence": "The intention of section 9 was to stop the  authorities in the United Kingdom from evading the regulation of activity within Part 2  by commissioning overseas authorities to do it in the United Kingdom on their behalf,  and it should be construed accordingly.",
+    "legal_references": [
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "Section 10 governed requests made under an  EU mutual assistance instrument (or under an international mutual assistance  agreement) if the assistance was in connection with or in the form of the interception of  communications.",
+    "legal_references": [
+      "Section 10"
+    ]
+  },
+  {
+    "sentence": "By necessary implication, section 9 did not apply to situations  covered by section 10.",
+    "legal_references": [
+      "section 9",
+      "section 10"
+    ]
+  },
+  {
+    "sentence": "Section 9 only applied to requests other than by means of an EU  mutual assistance instrument or an international mutual assistance agreement.",
+    "legal_references": [
+      "Section 9"
+    ]
+  },
+  {
+    "sentence": "The IPT  considered that section 6(1)(c) and section 10(2A) made the conduct lawful.",
+    "legal_references": [
+      "section 6(1)(c)",
+      "section 10(2A)"
+    ]
+  },
+  {
+    "sentence": "The IPT noted that s ection  9 requires a  TI.",
+    "legal_references": [
+      "s ection  9"
+    ]
+  },
+  {
+    "sentence": "TI material is inadmissible (section 56 and paragraph 2 of Schedule 3).",
+    "legal_references": [
+      "Schedule 3"
+    ]
+  },
+  {
+    "sentence": "It has nothing to do with fairness or Convention rights.",
+    "legal_references": [
+      "Convention"
+    ]
+  },
+  {
+    "sentence": "The NCA  relied on section 101(1)(c) of the IPA.",
+    "legal_references": [
+      "IPA"
+    ]
+  },
+  {
+    "sentence": "Section 101(1)(c) was widely drawn.",
+    "legal_references": [
+      "Section 101(1)(c)"
+    ]
+  },
+  {
+    "sentence": "The IPT referred to paragraph 120 of A.",
+    "legal_references": [
+      "paragraph 120"
+    ]
+  },
+  {
+    "sentence": "1. Did section 9 require the NCA to get a TI?",
+    "legal_references": [
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "2. Was the TEI obtained under Part 5 of the IPA obtained for an improper  purpose ?  3. Did the IPT err in law in holding that it had no jurisdiction to consider  whether the NCA had breached section 10 of the Act by not having a  mutual legal assistance warrant, and that no such warrant was needed ?  4. Was Operation Venetic a \u2018single investigation\u2019 for the purposes of section  101(1)(c) of the IPA?   5.",
+    "legal_references": [
+      "Operation Venetic",
+      "Part 5",
+      "section 10"
+    ]
+  },
+  {
+    "sentence": "Did the IPT bl ur the distinction between thematic and bulk interception  warrants in a way which interfere d with the appellants\u2019 article 8 rights ?",
+    "legal_references": [
+      "article 8"
+    ]
+  },
+  {
+    "sentence": "First, the  circumstances were clearly within section 9 on straightforward reading; second , the IPT  misread section 9, and third, A is not binding.",
+    "legal_references": [
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "Mr Ryder relied on the definitions of \u2018interception\u2019 and of \u2018lawful authority\u2019 in section  4 and section 6, respectively.",
+    "legal_references": [
+      "section  "
+    ]
+  },
+  {
+    "sentence": "Section 9 made it clear that a TI was necessary  in this case .",
+    "legal_references": [
+      "Section 9"
+    ]
+  },
+  {
+    "sentence": "Section 9(1) did not have a  \u2018carve out\u2019 for stored data.",
+    "legal_references": [
+      "Section 9(1)"
+    ]
+  },
+  {
+    "sentence": "The IPT\u2019s purposive interpretation of section 9 (see paragraph 58,  above) did not explain which warrant was necessary.",
+    "legal_references": [
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "Unless the appellants\u2019 construction was linguistically  impossible, this court should give effect to the plain language of section 9.",
+    "legal_references": [
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "The question for the IPT  was which was the right warrant; and the answer was given by section 9.",
+    "legal_references": [
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "A  TEI can only be issued for a statutory purpose, that is, to authorise the conduct  described in the TEI.   70.",
+    "legal_references": [
+      "TEI"
+    ]
+  },
+  {
+    "sentence": "If the EI O is the \u2018statutory power\u2019 referred to in section 10(2A)(a), the  exception created by section 10 (2A)(a) is redundant, because the necessary statutory  power is always present.    71.",
+    "legal_references": [
+      "section 10 (2A)(a)"
+    ]
+  },
+  {
+    "sentence": "It  was inconsistent with an opinion of Lord Anderson KC, with paragraph 298 of the  Explanatory Notes for the Bill which became the IPA, and with the Code of Practice.",
+    "legal_references": [
+      "the  Explanatory Notes for the Bill",
+      "the Code of Practice"
+    ]
+  },
+  {
+    "sentence": "There is no reference in section 15 to material which is stored in a system.",
+    "legal_references": [
+      "section 15"
+    ]
+  },
+  {
+    "sentence": "If the TI is aimed at an individual, that individual must be  name d in the TI.",
+    "legal_references": [
+      "TI"
+    ]
+  },
+  {
+    "sentence": "Those points show that section 9 is directed at the interception, during their  transmission, of communications sent by or intended for a individual whose name is  known to the authorities.",
+    "legal_references": [
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "In other words, section 9 does not address communications  relating to an unidentified or unidentifiable person, or people.",
+    "legal_references": [
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "The point here is that the coverage of  section 9 is confined, not by that general definition, but by the need to interpret section  9 consistently with the provisions governing T Is.   81.",
+    "legal_references": [
+      "T Is.   81",
+      "section 9",
+      "section  9"
+    ]
+  },
+  {
+    "sentence": "Section 10 addresses a different situation from section 9.",
+    "legal_references": [
+      "section 9",
+      "Section 10"
+    ]
+  },
+  {
+    "sentence": "It applies to a potentially wider class of requests than section 9  does, because, for example, it is not limited to requests concerning an individual who is  believed to be in the United Kingdom .",
+    "legal_references": [
+      "section 9"
+    ]
+  },
+  {
+    "sentence": "If, however, the request is \u2018in connection with, or in the form of,  a request for the interception of communications \u2019, and it relates to the interception of a  communication which is stored in or by a telecommunications system, then such a  request may be made if the conditions in section 10(2A) are met.",
+    "legal_references": [
+      "section 10(2A)"
+    ]
+  },
+  {
+    "sentence": "Mr Ryder argue d that section 9 and section 10 cover the same field, and  that whether or not the requirements of section 10 are met, the NCA must still comply Judgment Approved by the court for handing down.",
+    "legal_references": [
+      "section 10"
+    ]
+  },
+  {
+    "sentence": "The consequence of his interpretation would be that whether or not  section 10 is satisfied, section 9 would still require a TI on these facts.",
+    "legal_references": [
+      "section 10"
+    ]
+  },
+  {
+    "sentence": "The word \u2018intercept\u2019 is defined in section 4  as including the \u2018interception\u2019 of stored  material (see section 4(1) read with section 4(4)(b)).",
+    "legal_references": [
+      "section 4"
+    ]
+  },
+  {
+    "sentence": "It follows that the IPT w as not, even arguably, wrong to decide that section  9  should be  construed in the way indicated by the CACD  in A.  Ground 1 therefore raises no  arguable point of law.",
+    "legal_references": [
+      "A.  Ground",
+      "section  "
+    ]
+  },
+  {
+    "sentence": "Nor does it raise any important point of principle or practice  about whether one division of this court is bound by a decision of the other division,  because we have assumed that we are not bound by the decision in A.   87.",
+    "legal_references": [
+      "A.   87"
+    ]
+  },
+  {
+    "sentence": "We turn to the arguments on section 10.",
+    "legal_references": [
+      "section 10"
+    ]
+  },
+  {
+    "sentence": "First, the restriction in section 10(2) applies, by virtue of  section 10(1) , both to requests under an EU mutual assistance instrument and to  requests made under other international mutual assistance agreements.",
+    "legal_references": [
+      "section 10(2)",
+      "section 10(1)"
+    ]
+  },
+  {
+    "sentence": "The exception in section 10(2A), by  contrast, only app lies to requests made in the exercise of a relevant statutory power, or  in accordance with a relevant court order, and which are made in relation to a stored  communications.",
+    "legal_references": [
+      "section 10(2A)"
+    ]
+  },
+  {
+    "sentence": "It is, therefore, a specific and limited exception to the general  restriction enacted by section 10( 2).",
+    "legal_references": [
+      "section 10( 2"
+    ]
+  },
+  {
+    "sentence": "We note the echo, in the language of section  10(2A)(a), of the words of section 6(1)(c)(ii).",
+    "legal_references": [
+      "section  10(2A)(a"
+    ]
+  },
+  {
+    "sentence": "We accept that section 10(2A) was  inserted to deal with EI Os.",
+    "legal_references": [
+      "section 10(2A)"
+    ]
+  },
+  {
+    "sentence": "CP & Ors v NCA      always met by all EI Os.",
+    "legal_references": [
+      "CP & Ors"
+    ]
+  },
+  {
+    "sentence": "A recurrent theme of the  IPA is that the relevant authorities must apply for the warrant which will make their  proposed activity lawful, but also that they must conscientiously consider, in relation to  interception and related matters, whether  any, and if so what, warrant may be necessary ,  as section 7(3)(c) shows.   89.",
+    "legal_references": [
+      "section 7(3)(c)"
+    ]
+  },
+  {
+    "sentence": "Nor do we   consider that the test in section 67A (7) of RIPA is met (see paragraph 3, above).   Grounds 4 -6  90.",
+    "legal_references": [
+      "RIPA",
+      "section 67A (7"
+    ]
+  },
+  {
+    "sentence": "It is significant not only that Operation Venetic  was an operation or investigation in relation to EncroChat but also that its limits were  co-terminous with the activities of the French authorities, that is, the deployment of the  implant on 2 April 2020, and its use for the period described as \u2018stage 2\u2019 in the  application for the TEI.   91.",
+    "legal_references": [
+      "the TEI."
+    ]
+  },
+  {
+    "sentence": "Nor do we  consider that the test in section 67A(7) of RIPA is met (see paragraph 3, above).",
+    "legal_references": [
+      "RIPA"
+    ]
+  }
+]

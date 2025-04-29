@@ -1,0 +1,1206 @@
+Neutral Citation Number: [2021] EWCA Crim 200  
+ 
+IN THE COURT OF APPEAL ( CRIMINAL  DIVISION)  
+ON APPEAL FROM THE CENTRAL CRIMINAL COURT  
+HER HONOUR JUDGE DHIR QC  
+201903944A2  
+AND IN THE HIGH COURT OF JUSTICE  
+QUEEN’S BENCH DIVISION  
+ADMINISTRATIVE COURT  
+CO/5082/2019  
+ 
+Royal Courts of Justice  
+Strand, London, WC2A 2LL  
+ 
+Date: 19/02/2021  
+Before :  
+ 
+PRESIDENT OF THE QUEEN'S BENCH DIVISION  
+MRS JUSTICE CUTTS  
+and 
+MR JUSTICE SAINI  
+- - - - - - - - - - - - - - - - - - - - - 
+Between :  
+ 
+ KL Applican t 
+ - and -  
+ REGINA  Respondent  
+ 
+- - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - 
+ 
+Michael Bromley -Martin QC & Joanne Cecil  (instructed by Stokoe Partnership ) for the 
+Applicant  
+Anthony Orchard QC & Joel Smith  (instructed by  CPS Criminal Appeals Unit ) for the 
+Respondent  
+ 
+Hearing date: 24 November 2020  
+- - - - - - - - - - - - - - - - - - - - - 
+Approved Judgment  
+ 
+Covid -19 Protocol: This judgment was handed down remotely by circulation to the parties’ 
+representatives by email, release to BAILII and publication on the Courts and Tribunals 
+Judiciary website. The date and time for hand -down is deemed to be 10:00am on Friday 19 
+February 2021.
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ Dame Victoria Sharp P.   
+Introduction  
+1. This is judgment of the court.  
+2. On 6 September 2019, KL (the applicant) was convicted following a trial at the Central 
+Criminal Court before a jury and Her Honour Judge Dhir QC, of the murder of Ayub 
+Hassan, aged 17. At the date of the murder, the applicant was 15 years old. By the time 
+of conviction on 6 September 2019 he was aged 16.  
+3. Before trial, on 12 June 2019, an order had been made under section 45(3) of the Youth 
+Justice and Criminal Evidence Act 1999 (the 1999 Act) providing for the applicant to 
+remain anonymous. The order provided that no matter relating to the applicant should 
+(while he is under the age of 18) be included in any publication if it was likely to lead 
+members of the public to identify him as a person concerned in the criminal 
+proceedings.  
+4. On the morning of th e sentencing hearing on 27 September 2019, a media 
+representative made an application to the judge for the removal of that order. Following 
+submissions from that representative and from Leading Counsel for the applicant, Mr 
+Bromley -Martin QC, the judge acc eded to that application. The judge made what is 
+called an excepting direction under section 45(4) of the 1999 Act, thereby permitting 
+the press to name the applicant (the Excepting Direction).   
+5. As to sentence, the judge imposed upon the applicant the man datory sentence of 
+Detention During Her Majesty’s Pleasure pursuant to section 90 of the Powers of 
+Criminal Courts (Sentencing) Act 2000 and determined that the minimum term was to 
+be 15 years.  
+6. The Excepting Direction was stayed by the judge pending the a pplications to this court, 
+which is sitting both as the Court of Appeal, Criminal Division and as a Divisional 
+Court.  
+7. In summary, the applicant argues, both by way of an appeal to the Court of Appeal, 
+Criminal Division and by way of a parallel claim for j udicial review in the Divisional 
+Court, that the making of the Excepting Direction was unlawful.  
+8. As part of his appeal to the Court of Appeal, Criminal Division, the applicant makes a 
+separate application for leave to appeal against the 15 -year minimum te rm, contending 
+that it was manifestly excessive.  
+9. The applications before us in relation to the Excepting Direction require us to resolve 
+the point left open in R v Aziz (Ayman)  [2019] EWCA Crim 1568 at paras 51 to 57. 
+That is, whether the Court of Appeal, Criminal Division enjoys a concurrent jurisdiction 
+with the Divisional Court in challenges to the making of such directions. Both the 
+applicant and the Crown are agreed that judicial review is available and that there exists 
+a concurrent jurisdiction in th e Court of Appeal, Criminal Division to consider the 
+legality of the Excepting Direction. The parties also agree that this jurisdiction on the 
+part of the Court of Appeal, Criminal Division is engaged once an applicant has applied
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ for leave to appeal again st conviction and sentence, and irrespective of the outcome of 
+any such application.  
+10. In addition to valuable submissions from the Counsel for the parties, including excellent 
+written submissions on jurisdiction from Junior Counsel, Ms Cecil and Mr Smith, w e 
+were assisted by oral arguments from Mr Sam Tobin on behalf of PA Media, and a 
+detailed written submission from Mr Dodd, on behalf of PA Media and News Central.  
+ 
+The Facts  
+11. On Thursday 7 March 2018 at about 2pm, in the Marzell House alleyway at the juncti on 
+of North End Road with Lanfrey Place, London W14, Ayub Hassan was stabbed once 
+in the chest by the applicant. The “through and through” injury penetrated Ayub 
+Hassan’s heart. Although Ayub Hassan received extensive medical treatment at the 
+scene, he was  pronounced dead in hospital at 4pm.  
+12. The events before, after and during, the stabbing were clearly captured on CCTV 
+footage, which we have viewed . The footage shows the deceased and his friend (Idris 
+Mohammed) arriving in North End Road at about 12 noon a nd later entering the 
+alleyway with three others. Other males came and went and during this time the 
+deceased is seen with a knife which he placed into an internal pocket of his clothing. 
+Another knife (described as a large “Zombie” knife) was placed into a storage cupboard 
+off camera. Idris Mohammed was also seen to pick something up or secrete something 
+in bushes nearby.  
+13. The applicant and Elijah Oweyo arrived in the North End Road by taxi at 1.57pm. They 
+were joined by other youths (Amrou Greenridge on a “Boris bike”, Tajorn Brown and 
+Idris Mohammed, who had previously been with the deceased). After visiting a café 
+and supermarket, this group entered the alleyway where they appeared to be socialising 
+with the other group.  
+14. The footage shows that the applic ant and deceased then began a discussion. The 
+applicant was holding a lock knife. The deceased walked away, further into the 
+alleyway, but was followed by the applicant and others. When the applicant and 
+deceased came face to face again, they appeared to a rgue and the applicant struck the 
+deceased rapidly once in the chest with his knife. As the deceased moved away, the 
+applicant appeared to be being held back by a larger boy, and when he again tried to 
+approach the deceased with the knife in his hand, he w as blocked and trapped in the 
+corner by another youth.  
+15. The deceased staggered out of the alleyway and collapsed. The applicant immediately 
+left the scene on the “Boris Bike”. Whilst waiting for the emergency services, some of 
+the boys went through the deceased’s pockets in what may have been an attempt to 
+remo ve incriminating items such as the knife he had earlier. Elijah Oweyo was seen to 
+pick up a folding lock knife and drop it into a drain from where it was later recovered 
+by police .
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ 16. The applicant went to his sister’s address where he was subsequently arrest ed. In 
+interview, he accepted that it was him in the CCTV footage but answered no further 
+questions.  
+17. It is shocking to record that two of the other young people in the alleyway at the time 
+of the murder, have been killed since Mr Hassan’s death; and crimin al proceedings in 
+respect of their deaths are currently pending. This is the context to one of the issues 
+which the media has raised in these proceedings, namely the public interest in the full 
+reporting of knife crime in relation to gang related activity which is a matter of serious 
+concern in London.  
+18. At his trial, the applicant gave evidence over the course of three days.  He said that all 
+of the boys were part of a broad ‘group’ with two primary friendship groups which 
+overlapped. There was a background o f drug dealing. The applicant said he had 
+previously sold cannabis on behalf of the deceased, who was a member of the W12 / 
+12Anti /12 World Gang. He said he had acted in self -defence. Loss of control and lack 
+of intent were also left to the jury. The appl icant said the deceased had accused him of 
+owing £50 and had previously stabbed him in the arm.  He claimed that the deceased 
+told him to make up the £50 loss by selling class ‘A’ drugs on a “county lines” basis 
+and threatened to stab him again if he did n ot agree to do so. The applicant also said 
+that the day before the murder, a group of people (including the applicant and the 
+deceased) were in a so -called “cuckoo house” where the deceased made threats to him 
+with a large “Zombie” knife (said to be the on e recovered from the alleyway cupboard). 
+It was an agreed fact that the deceased and Idris Mohammed were linked to two “ cuckoo 
+houses”.  
+19. The applicant said that on the day of the incident he was told that the deceased wanted 
+to see him and that something wa s planned towards him (described by the applicant as 
+“moving dodgy” against him). He said that at the location, he picked up the knife from 
+the bush because this was known to be the place where the deceased kept weapons. He 
+described the argument that unfo lded and said that he stabbed the deceased in self -
+defence because the deceased had reached towards his waistband, where he believed 
+the deceased had a hidden knife.  
+20. On 6 September 2019, the jury convicted the applicant of murder. In view of what could 
+be seen on the CCTV footage, this was not a surprising conclusion. Sentencing was 
+adjourned pending the provision of reports.  
+21. In her sentencing remarks the judge said that she had no doubt that the applicant had 
+deliberately armed himself with a knife and was  ready to use it if he decided to do so. 
+She said the CCTV footage clearly showed that the applicant had the knife in his hand 
+when he entered the alleyway, that the deceased did not have a knife or weapon of any 
+kind in his hand, that the applicant was th e aggressor, that at one stage the deceased 
+walked away but the applicant had followed and stabbed him in the chest with at least 
+moderate force. She also noted that such was his anger that it took two of his friends to 
+restrain him and prevent him from at tacking the deceased again. She observed that the 
+applicant had made no comment in interview and in evidence during the trial had sought 
+to portray the deceased as the aggressor. The judge said that she was not satisfied to the 
+criminal standard however th at the applicant had intended to kill the deceased. As to 
+the minimum term, the judge said that she had considered the seriousness of the offence,
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ the general principles of the Criminal Justice Act 2003, Schedule 21, and the 
+Sentencing Council’s definitive  guideline on sentencing children and young people.  
+22. In assessing culpability, the following aggravating factors were identified: the applicant 
+arrived at a planned meeting with the deceased, armed with a knife; the stabbing took 
+place in an alleyway off a residential street; the fact that the applicant fled from the 
+scene; that members of the public were left to deal with the situation, upon whom it 
+was likely to have a profound effect; the fact that the applicant had a history of 
+offending; and the applica nt’s lack of remorse as indicated by the fact that he fled the 
+scene, disposed of the murder weapon, and went to stay with his sister (the judge did 
+not accept the view of the applicant’s social worker that the applicant had indeed shown 
+remorse). The judg e observed that the applicant had advanced three defences at trial, 
+all of which were rejected by the jury. She did not accept the submission of Mr 
+Bromley -Martin QC that sentence should be passed on the basis that there was an 
+element of provocation and a n element of self -defence. Nor did the judge accept that 
+the applicant had been previously stabbed in the arm by the deceased. She noted his 
+account to his father had been that he was stabbed by an unknown assailant during a 
+robbery. The mitigating feature s were identified as the applicant’s youth and lack of 
+maturity, and the matters set out in the detailed report of the applicant’s social worker.  
+ 
+Leave to appeal against sentence  
+23. The application for leave to appeal against sentence was referred to the Ful l Court by 
+the Registrar to be heard at the same time as the issues raised in relation to the Excepting 
+Direction.  
+24. On behalf of the applicant, Mr Bromley -Martin QC submitted that the 15 -year 
+minimum term was manifestly excessive. He relied in particular on three matters. First, 
+the judge erred in finding a lack of remorse and taking that into account as an 
+aggravating factor. Second, the judge erred in finding that the deceased had not stabbed 
+the applicant on an earlier occasion. Third, the judge referred to the deceased in positive 
+terms in her sentencing remarks when he was in fact an older gang leader with a history  
+of violence and knife possession. We see no arguable merit in any of these points.  
+25. In relation to remorse, the judge had heard the applicant give oral evidence over three 
+days and was best placed to assess the true position. Similarly, the judge was enti tled 
+to find, having heard evidence, that the applicant had not been stabbed on an earlier 
+occasion by the deceased. His claim in this respect was supported only by his evidence, 
+which the judge was entitled to reject. Finally, the judge’s sentencing remar ks do not 
+demonstrate that she impermissibly took into account the deceased’s claimed positive 
+character in arriving at the minimum term.  The judge merely recorded, as she was quite 
+entitled to do, the personal statements made by the deceased’s mother and  sister as to 
+what the deceased had meant to them as well as what could not sensibly be disputed, 
+namely that “Ayub was a much -loved teenager who had his whole life ahead of him.  
+You took that away from him”.  
+26. Apart from these specific matters, there is no  arguable basis for contending that the 
+minimum term was manifestly excessive having regard to the aggravating features
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ correctly identified by the judge, including in particular, that the applicant had brought 
+a knife to the scene. This is a factor that m ay in an appropriate case justify significant 
+upward movement from the starting point of 12 years when sentencing those under 18 
+at the date of the commission of such an offence: s ee R v Odegbune  [2013] EWCA 711, 
+at para 30, and R v Huggins  [2016] EWCA Cri m 1715 at para 44.  
+27. The application for leave to appeal against sentence is accordingly refused.  
+Reporting restrictions: the statutory framework  
+28. Section 45 of the 1999 Act provides as follows:  
+“45.— Power to restrict reporting of criminal proceedings 
+involving persons under 18.  
+(1)  This section applies (subject to subsection (2)) in relation 
+to— 
+(a)  any criminal proceedings in any court (other than a 
+service court) in England and Wales or Northern Ireland; and  
+(b)  any proceedings (whethe r in the United Kingdom or 
+elsewhere) in any service court.  
+(2)  This section does not apply in relation to any proceedings to 
+which  section 49  of the  Children and Young Persons Act 1933  
+applies.  
+(3)  The court may direct that no matter relating to any person 
+concerned in the proceedings shall while he is under the age of 
+18 be included in any publication if it is likely to lead members 
+of the public to  identify him as a person concerned in the 
+proceedings.  
+(4)  The court or an appellate court may by direction (“an 
+excepting direction”) dispense, to any extent specified in the 
+excepting direction, with the restrictions imposed by a direction 
+under subsec tion (3) if it is satisfied that it is necessary in the 
+interests of justice to do so.  
+(5)  The court or an appellate court may also by direction (“an 
+excepting direction”) dispense, to any extent specified in the 
+excepting direction, with the restrictions  imposed by a direction 
+under subsection (3) if it is satisfied — 
+(a)  that their effect is to impose a substantial and 
+unreasonable restriction on the reporting of the proceedings, 
+and
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ (b)  that it is in the public interest to remove or relax that 
+restrict ion; 
+but no excepting direction shall be given under this subsection 
+by reason only of the fact that the proceedings have been 
+determined in any way or have been abandoned.  
+(6)  When deciding whether to make — 
+(a)  a direction under subsection (3) in relati on to a person, or  
+(b)  an excepting direction under subsection (4) or (5) by 
+virtue of which the restrictions imposed by a direction under 
+subsection (3) would be dispensed with (to any extent) in 
+relation to a person,  
+the court or (as the case may be) th e appellate court shall have 
+regard to the welfare of that person.  
+(7)  For the purposes of subsection (3) any reference to a person 
+concerned in the proceedings is to a person — 
+(a)  against or in respect of whom the proceedings are taken, 
+or 
+(b)  who is a witness in the proceedings.  
+(8)  The matters relating to a person in relation to which the 
+restrictions imposed by a direction under subsection (3) apply (if 
+their inclusion in any publication is likely to have the result 
+mentioned in that su bsection) include in particular — 
+(a)  his name,  
+(b)  his address,  
+(c)  the identity of any school or other educational 
+establishment attended by him,  
+(d)  the identity of any place of work, and  
+(e)  any still or moving picture of him.  
+(9)  A direction unde r subsection (3) may be revoked by the 
+court or an appellate court.  
+(10)  An excepting direction — 
+(a)  may be given at the time the direction under subsection 
+(3) is given or subsequently; and
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ (b)  may be varied or revoked by the court or an appellate 
+court. 
+(11)  In this section  “appellate court”, in relation to any 
+proceedings in a court, means a court dealing with an appeal 
+(including an appeal by way of case stated) arising out of the 
+proceedings or with any further appeal. ” 
+ 
+29. The definition of “court” f or the purposes of this provision is found in section 63 of the 
+1999 Act which says: ““court” …means a magistrates’ court, the Crown Court or the 
+criminal division of the Court of Appeal”.  
+30. Section 45 came into force on 13 April 2015. Prior to that, the re levant power to restrict 
+reporting in relation to children and young persons was found in section 39 of the 
+Children and Young Persons Act 1933 (the 1933 Act), which provided:  
+ 
+“39 Power to prohibit publication of certain matter in 
+newspapers.  
+(1)  In relation to any proceedings in any court, the court may 
+direct that — 
+(a)  no newspaper report of the proceedings shall reveal the 
+name, address or school, or include any particulars calculated 
+to lead to the identification, of any child or young pe rson 
+concerned in the proceedings, either as being the person  by or 
+against  or in respect of whom the proceedings are taken, or as 
+being a witness therein:  
+(b)  no picture shall be published in any newspaper as being 
+or including a picture of any child or young person so 
+concerned in the proceedings as aforesaid;  
+ except in so far (if at all) as may be permitted by the direction 
+of the court.  
+(2)  Any person who publishes any matter in contravention of 
+any such direction shall on summary conviction be liabl e in 
+respect of each offence to a fine not exceeding  level 5 on the 
+standard scale.”  
+ 
+31. Section 159 of the Criminal Justice Act 1988 (the CJA 1988) provides, so far as is 
+relevant:
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ “159. — Crown Court proceedings — orders restricting or 
+preventing reports or restricting public access.  
+(1) A person aggrieved may appeal to the Court of Appeal, if that 
+court grants leave, against — 
+(a) an order under section 4 or 11 of the Contempt of Cou rt 
+Act 1981 made in relation to a trial on indictment;  
+(aa)  an order made by the Crown Court under  section 58(7) 
+or (8)  of the  Criminal Procedure an d Investigations Act 
+1996  in a case where the Court has convicted a person on a 
+trial on indictment;.  
+(b)  any order restricting the access of the public to the whole 
+or any part of a trial on indictment or to any proceedings 
+ancillary to such a trial; and  
+(c)  any order restricting the publication of any report of the 
+whole or any part of a trial on indictment or any such ancillary 
+proceedings;  
+and the decision of the Court of Appeal shall be final.  
+… 
+(5) On the hearing of an appeal under this section the  Court of 
+Appeal shall have power —  
+(a) to stay any proceedings in any other court until after the 
+appeal is disposed of;  
+(b) to confirm, reverse or vary the order complained of; and  
+(c) to make such order as to costs as it thinks fit…”  
+ 
+Judicial Review o f the Crown Court  
+32. In R v. Aziz  [2019] EWCA Crim 1568 at para 52, Lord Burnett CJ observed, without 
+argument, that there is a body of authority which makes it plain that orders concerning 
+the issue of whether a child convicted of a criminal offence may be n amed are 
+susceptible to judicial review, at the very least after conviction. It is common ground 
+that these observations were obiter .  
+33. Lord Burnett CJ went on to note at para 57 that “it may become necessary to revisit 
+whether decisions in this area are properly subject to judicial review”. That is the 
+exercise which we need to undertake in the present case. But we emphasise at the outset 
+that the specific question before us is wh ether a Crown Court Judge’s decision to make 
+an excepting direction under section 45(5) of the 1999 Act after a defendant’s 
+conviction, is susceptible to judicial review.  Both the applicant and the Crown are
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ agreed that such a decision is subject to judic ial review. However, no court in England 
+and Wales has decided the point, though there is substantial authority, considered in 
+more detail below, which has addressed the related issue of the availability of judicial 
+review to challenges to orders made by t he Crown Court under section 39 of the 1933 
+Act. 
+34. The starting point is Section 29(3) of the Senior Courts Act 1981 (the 1981 Act), which 
+provides as follows:  
+“(3)   In relation to the jurisdiction of the Crown Court,  other 
+than its jurisdiction in matters relating to trial on indictment , the 
+High Court shall have all such jurisdiction to make  mandatory, 
+prohibiting or quashing orders  as the High Court possesses in 
+relation to the jurisdiction of an inferior court.”  
+(Emphasis added)  
+ 
+35. Accordingly, judicial re view is not available to challenge a decision of a judge sitting 
+in the Crown Court, if that decision is “relating to a trial on indictment”. The 
+interpretation of this wording in Section 29(3) has proved problematic, as is clear from 
+Rose LJ’s observation  in R v Crown Court at Manchester, ex parte H  [2000] 1 WLR, 
+760 at p766C, where he said that this section has “…attracted perhaps more judicial 
+consideration, in not always apparently reconcilable decisions, than any other statutory 
+provision”.  
+36. In Re Smalley [1985] A.C. 622, at  p640H to 641, Lord Bridge explained that as a matter 
+of history the Crown Court inherited the functions of the courts of quarter sessions and 
+assize court. The former had always been subject to the supervisory jurisdiction o f the 
+High Court, exercised by the prerogative writs, while the assize courts, as superior 
+courts of record, were not. Against that background, he observed that there was nothing 
+wrong in principle with the Crown Court being subject to judicial review. Lor d Bridge 
+considered that in interpreting section 29(3) of the 1981 Act (and in deciding what was 
+excluded from such review) a “helpful pointer”  would be to ask whether the decision 
+of the Crown Court was one affecting the conduct of a trial on indictment g iven in the 
+course of the trial or by way of pre -trial directions: see p 642F, p643E -H and p644A.  
+37. In Re Sampson [1987] 1 W.L.R. 194, Lord Bridge returned to this question and 
+emphasised again that the question whether the decision had affected the conduct of the 
+trial was a “pointer” and not a test. So, in that case the House of Lords held that a costs 
+order was an order relating to trial on indictment, as it was “an integral part of the trial 
+process”: see p197F.  
+38. In R v. Manchester Crown Court, ex p. DPP [1993] 1 W.L.R 1524, Lord Browne -
+Wilkinson suggested a further “helpful pointer” was the answer to this question:  is the 
+decision sought to be reviewed one arising in the issue between the Crown and the 
+defendant formulated by the indictment (including the costs of such issue)? If the 
+answer is ‘yes’ then to permit the decision to be challenged by judicial review may  lead 
+to delay in the trial and the matter is therefore probably excluded from review by the 
+section. If the answer is ‘no’, the decision of the Crown Court is truly collateral to the
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ indictment and judicial review of that decision will not delay the trial , therefore it may 
+well not be excluded by the section” : see p467. 
+39. In R v. Central Criminal Court ex  parte Crook and another (The Times 8 November 
+1984) a Divisional Court considered a challenge to an order made under section 11 of 
+the Contempt of Court Ac t 1981. The order prevented the reporting of the identity of a 
+witness who was the victim of offending alleged to amount to kidnap, false 
+imprisonment, robbery, and sexual offending. The order was made before the jury was 
+empanelled and was revisited durin g the course of the witness’s evidence. Stephen 
+Brown LJ, giving the judgment of the Court, found that judicial review was not 
+available. He said:   
+ 
+“I am satisfied that the Judge's order in this case was made in 
+relation to a trial on indictment; the trial had commenced 
+although the jury had not yet been empanelled. He made his 
+order intending it to influence the conduct of the trial by ensuring 
+that the witness in question, who was the principal witness for 
+the Crown, should be protect ed by an order designed to 
+safeguard her anonymity outside the court. Accordingly, I feel 
+bound to hold that this court has no jurisdiction to entertain this 
+application for judicial review.”  
+ 
+40. Stephen Brown LJ said that he had come to this conclusion with “considerable 
+reluctance”. Watkins LJ, concurring, expressed “regret” that he was “driven” to the 
+same view.  
+41. In R v. Leicester Crown Court ex parte S (a minor)  [1993] 1 W.L.R 111, a minor sought 
+to challenge by way of judicial review a decision made after  his conviction by the 
+Crown Court, to discharge a section 39 order which prevented the reporting of matters 
+leading to his identification. The Divisional Court concluded that the power conferred 
+by section 39 was “neither an integral part of the trial pro cess nor does it affect the 
+course or conduct of the trial” and it was therefore subject to judicial review ( p113H). 
+Further, the power conferred by section 39 was “a power designed for use whenever 
+and wherever in some kind of judicial proceeding a curb n eeds to be imposed publicly 
+in the interests of a child or young person and the broader public interest”.  
+42. In R v. Lee [1993] 1 W.L.R 103, the Court of Appeal considered an appeal by a 
+convicted juvenile against a decision to lift a reporting restriction o rder made under 
+section 39 of the 1933 Act. In summary, it decided that:  
+(1) Whilst section 39 permitted “any court” to make an order in relation to “any 
+proceedings”, a proper construction of the section was that the “proceedings” 
+were the proceedings in the court making the order and, therefore, the Court of 
+Appeal was not able to make an order in relation to proceedings in the Crown 
+Court (p108E ).
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ (2) Whilst a member of the press aggrieved at a restriction on reporting might 
+appeal to the Court of Appeal pursua nt to section 159 of the CJA 1988, a 
+defendant aggrieved at the withholding or discharge of such an order should 
+challenge it by way judicial review (p110H ).  
+In that case, the jurisdiction to seek a remedy by way of judicial review was assumed 
+without arg ument.  
+43. Following the decision in Lee the position was therefore tolerably clear. Orders made 
+under section 39 of the 1933 Act were open to challenge in the Court of Appeal pursuant 
+to section 159. However, a refusal to make such an order, or an order disch arging an 
+order made under section 39 of the 1933 Act was only amenable to challenge by way 
+of judicial review.  
+44. In R v Harrow Crown Court, ex parte Perkins and R v. Cardiff Crown Court, ex parte 
+M (a minor)  (1998) 162 JP 162 the judge refused to make a se ction 39 order after 
+sentence. The Divisional Court found his decision was amenable to challenge by way 
+of judicial review as the decision did not “relate to a trial on indictment”. The analysis 
+of Sullivan J (with whom Rose LJ agreed) is of some importanc e to the issues before 
+us. It was as follows:  
+(1) The words (“relate to a trial on indictment”) should not be given an extended 
+meaning: p541G.  
+(2) An order made after the conclusion of the trial “will have no possible effect 
+upon the conduct of that trial” and is  “not an integral part of the trial process”: 
+p542A.  
+(3) The power being exercised was a “separate child protection power, which is 
+distinct from [the] proceedings”, and was “fairly described as collateral to those 
+proceedings”: p542G.  
+(4) The decision was not one  which arose in the issue between the Crown and the 
+defendant formulated by the indictment: p542C -D. 
+ 
+45. Thus far, save for Crook, the approach was all “one way”. In R v Winchester Crown 
+Court ex parte B (a minor)  [1999] 1 W.L.R 788 however a divergent approach was 
+taken. In that case, a convicted minor attempted to challenge by way of judicial review 
+a decision made by the Crown Court to discharge a reporting restriction order made 
+pursuant to section 39. In the D ivisional Court, Simon Brown LJ giving the judgment 
+of the Court held:  
+(1) That previous consideration of the issue had overlooked the ruling in Crook,  in 
+which the Divisional Court had found that an order preventing the reporting of 
+the identity of a witness  pursuant to section 11 of the Contempt of Court Act 
+1981 was “relating to a trial on indictment” and “not amenable to judicial 
+review” (see p791G -H). He explained that the decision in Crook had led to the 
+enactment of section 159 of the CJA 1988.
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ (2) After th e enactment of section 159, a person aggrieved by an order restricting 
+reporting could appeal to the Court of Appeal, but there was no equivalent 
+provision allowing for an appeal by a person aggrieved by the failure to make 
+such an order, or the discharge of such an order (p792E).  
+(3) That the remedy of judicial review had been found to be appropriate, or assumed 
+to be so without argument, in a number of previous cases concerning the 
+discharge of section 39 orders (p794G to 795A).  
+(4) However, adopting the reason ing in Crook , a discharge of a section 39 order 
+would amount to a matter relating to trial on indictment and judicial review was 
+not available.  
+ 
+46. The divergent approach between the decision in Winchester  and the cases which 
+followed Lee was considered in Ex parte H (a minor) . Rose LJ (with whom Forbes J 
+agreed) said that the courts had “done their best” to resolve the issue of jurisdiction to 
+review reporting orders, and it was “time now for Parliament to  introduce, as a matter 
+of urgency, clarifying legislation which addresses the problems arising not only from 
+section 29(3) of the Supreme Court Act 1981 itself, but also from its relationship with 
+other legislation, in particular, section 39 of the Act of  1933 and the provisions of 
+section 159 of the Criminal Justice Act 1988…” (p765H to 766A).  
+47. Rose LJ concluded that, whilst some orders made at the outset of proceedings to protect 
+witnesses would “relate to a trial on indictment”, a decision to lift repor ting restrictions 
+after conviction and sentence would not fall within that prohibition (p767E), and would 
+be amenable to judicial review. To this extent the Winchester case was not followed. 
+Rose LJ also endorsed the approach taken by the Divisional Court in Cardiff Crown 
+Court ex parte M  (see 768D).  Forbes J said further, that permitting a challenge by way 
+of judicial review was also consistent with the protections afforded by the European 
+Convention for the Protection of Human Rights and Fundamental Free doms (“the 
+Convention”).  He added that were the decision to discharge the reporting restrictions 
+not to be susceptible to challenge by way of judicial review, a juvenile offender would 
+be left with no route of appeal against an order permitting the press to report his name. 
+Such a position would, at least arguably, conflict with the offender’s article 6 
+Convention rights ( p770-1).  
+48. In R(Y) v Aylesbury Youth Court [2012] EWHC 1140 (Admin) the Divisional Court 
+assumed (without contrary argument) that the dec ision of the Crown Court to vary an 
+order made under section 39 of the 1933 Act (thereby permitting the identification of 
+the claimant, a minor) was susceptible to judicial review; and the order made by the 
+Crown Court was quashed on the grounds that insuf ficient reasons had been given for 
+making it. At para 21, Hooper LJ said that although there had been doubts expressed in 
+the past, it seemed clear that the High Court had jurisdiction to entertain an application 
+for judicial review of the judge’s order.  
+49. A similar view was expressed by Sir Brian Leveson P in R (JC and another) v. Central 
+Criminal Court [2014] 1 W.L.R 3697. In that case, the Crown Court had decided that 
+a section 39 order made in relation to youths convicted of terrorist offences would 
+autom atically expire for each of them, on their 18th birthday. This decision was
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ challenged by way of judicial review. Sir Brian Leveson P summarised the position that 
+the courts had reached on the issue of the jurisdiction in this way:  
+“40. By way of addendum to this judgment, it is worth adding 
+one further point. Although not argued before us, there has been 
+some doubt whether, in England and Wales, it is open to these 
+claimants to commence proceedings for judicial review in 
+relation to this order: see  Archbol d's Criminal Pleading, 
+Evidence and Practice , 2014 ed, para 7 -13. That is a reflection 
+of R v Winchester Crown Court, Ex p B (A Minor) [1999] 1 
+WLR 788. Simon Brown LJ held that, while those aggrieved by 
+an order restricting publication had a remedy by way  of appeal 
+to the Court of Appeal (Criminal Division) under section 159 of 
+the Criminal Justice Act 1988 , those aggrieved by a failure to 
+restrain publication had no such remedy, and must apply to the 
+trial judge to reconsider that decision: that was a co nsequence of 
+the operation of section 29(3) of the Senior Courts Act 1981 that 
+the High Court had no jurisdiction “in matters relating to trial on 
+indictment”.   
+41. This court has, in fact, tended to consider that section 39 
+orders (and orders discharging such orders) are amenable to 
+judicial review by the child affected (see  R v Leicester Crown 
+Court, Ex p S (A Minor) (Note) [1993] 1 WLR 111  ; R v Inner 
+London Crown Court, Ex p Barnes The Times, 7 August 1995 
+; R v Central Criminal Court, Ex p S [1999] 1 FLR 480  ; R v 
+Harrow Crown Court, Ex p Perkins (1998) 162 JP 527  ; R v 
+Manchester Crown Court, Ex p H (A Minor) [2000] 1 WLR 
+760 ; Ex p W [2001] Cr App R 2 ;  R (T) v St Albans Crown 
+Court [2002] EWHC 1129 (Admin); and R (Y) v Aylesbury 
+Crown Court  [2012] EMLR 642 in which Hooper LJ 
+acknowledged at para 21 that there had been doubts but that it 
+now “seems clear” that there was jurisdiction. That view is 
+entirely consistent with the decision of the  Court of Appeal in R 
+v Lee [1993] 1 WLR 103).   
+42. I n Northern Ireland, on the other hand, where the Crown 
+Court cannot be judicially reviewed (by virtue of section 1 of the 
+Judicature (Northern Ireland) Act 1978), the Northern Ireland 
+Court of Appeal has relied on section 3 of the Human Rights Act 
+1998 to read into section 159(1)(c) of the 1988 Act a right of 
+appeal for the child aggrieved by the withholding or discharge 
+of a section 39 order: see  R v McGreechan [2014] NICA 5  at 
+[24]. Thus, section 159 has a different meaning in different 
+jurisdictions, whi ch cannot be sensible. This also points to the 
+requirement of urgent legislative intervention.”  
+ 
+50. Turning to the 1999 Act, in R v. Markham  [2017] EWCA Crim 739; [2017] 2 Cr. App. 
+R. (S.) 30, the Court of Appeal allowed an appeal against sentence and, in the  same
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ proceedings, considered the propriety of an excepting direction made pursuant to 
+section 45 of the 1999 Act. The excepting direction had been challenged by way of 
+judicial review, and permission had been granted to apply for judicial review in those 
+proceedings. However, the appeal against sentence was considered to “carr[y] with it 
+the need for [the Court of Appeal] to make its own assessment of the position”, and this 
+therefore “superseded the full hearing with the result that the proceedings in the  
+Administrative Court become academic” : para 2.  As was later said in Aziz: “The report 
+of Markham  does not spell this out, but we infer that the Appellants in that case were 
+invoking the power conferred by s.45 (10)…”.  
+51. In Markham  the Court of Appeal rev iewed the decision of the trial judge and exercised 
+their “own discretion independently”  when reviewing the excepting direction :see para 
+88. It is important to note however that at the time the court in Markham undertook this 
+exercise they were seised of a  substantive appeal against sentence, leave to appeal 
+having been granted earlier by the single judge : see para 4. So, the court was there 
+clearly “dealing with an appeal” within section 45(11) of the 1999 Act. This point is 
+relevant to our analysis of the  Court of Appeal’s jurisdiction, considered below.  
+52. As Sir Brian Leveson said in R (JC and another) the courts in this jurisdiction have 
+tended to consider that section 39 orders made by the Crown Court were amenable to 
+judicial review by the child affected .  The parties are agreed that by parity of reasoning, 
+this power of review should be available in respect of excepting directions made under 
+the 1999 Act. We agree. If there remains any doubt about it, in our judgment, the 
+reasoning in Winchester (and Crook) should no longer to be followed.  
+53. We would reach the same conclusion as a matter of principle. Confining ourselves to 
+the specific question we have identified at para 33 above, in our judgment for the 
+purposes of section 29(3) of the 1981 Act the making of an excepting direction after 
+conv ictgion in this case was not a matter relating to trial on indictment and is therefore 
+amenable to judicial review. This is for the following reasons:  
+(1) First, the decision being reviewed was plainly not one arising in the issue 
+between the Crown and the def endant formulated in the indictment (using Lord 
+Browne -Wilkinson’s “helpful pointer”: see para 38 above). The Excepting 
+Direction was made after the verdict had been returned and at the sentencing 
+hearing. It could have been made immediately after sentenci ng was concluded.  
+(2) Second, the applicant’s challenge is to the variation of an earlier order, which 
+had provided protection to a child’s rights, incidental and collateral  to the trial 
+process. In this connection, we would adopt the reasoning of the court i n R v 
+Harrow Crown Court, ex parte Perkins and R v. Cardiff Crown Court, ex parte 
+M (a minor) (see para 44 above). In our view, this reasoning applies with equal 
+force to section 45 challenges.  
+(3) Third, the fact that decisions in this category of cases can be subject to judicial 
+review does not undermine the rationale prohibiting such challenges, namely: 
+(i) the need to discourage the sort of satellite litigation which is capable of 
+disrupting criminal trials (see Smalley  at p642E -H): the decision here i s made 
+after the trial process is complete; and (ii) the fact that the defendant in criminal 
+proceedings has available an adequate alternative remedy or route of appeal 
+against conviction or sentence under the Criminal Appeal Act 1968.
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ 54. We conclude therefo re that the Excepting Direction made in respect of the applicant is 
+susceptible to Judicial review (a decision we have reached without needing to decide 
+whether such an outcome more generally is necessary to protect the Convention rights 
+of juvenile defend ants).  
+ 
+Does a defendant have a right of appeal to the Court of Appeal, Criminal Division in respect 
+of excepting directions made under section 45 of the 1999 Act?  
+55. Before turning to this next question, it is helpful to identify the general jurisdiction of 
+this court.  
+56. The jurisdiction of the Court of Appeal is governed by the 1981 Act under which it is 
+part of the Senior Courts of England and Wales: section 1(1) of the 1981 Act. The Court 
+of Appeal is a superior court of record: section 15(1) of the 1981 Ac t. The general 
+jurisdiction of the Court of Appeal is “all such jurisdiction (whether civil or criminal) 
+as is conferred on it by or under [the 1981 Act] or by any other Act”, and “all such other 
+jurisdiction (whether civil or criminal) as was exercisable by it immediately before the 
+commencement of the [1981] Act”: section 15(1)(a) of the 1981 Act. The jurisdiction 
+of the Court of Appeal, Criminal Division is, accordingly, entirely statutory: R v 
+Jefferies (1968) 52 Cr. App. R 654. See also the helpful exp osition in The Court of 
+Appeal Criminal Division (A Practitioner’s Guide)  (2nd Edition) at para  3-001.  
+57. No jurisdiction to review an excepting direction is conferred on the Court of Appeal, 
+Criminal Division by the Criminal Appeal Act 1968 (the main jurisd ictional statute) as 
+an excepting direction is not an order made by the court when dealing with the offender 
+in respect of the offence: Aziz at para 54 and R v McGreechan   [2014] NICA 5 : paras 
+16 to 19. Section 159 of the CJA 1988, permits only a party agg rieved by an order 
+“restricting”  publication, and not to a party aggrieved by an order discharging or 
+revoking reporting restrictions, to appeal to the Court of Appeal, Criminal Division: 
+Aziz, para 55. So, a person in the position of the applicant in this  case could not use 
+section 159 of the CJA 1988 to bring his challenge before the Court of Appeal, Criminal 
+Division.  
+58. As we have found, in the circumstances of this case, the Divisional Court has 
+supervisory jurisdiction in relation to the making of an exc epting direction. This means 
+there is no lacuna in the protection of the rights of children (and indeed other vulnerable 
+persons) who might be aggrieved at the making of excepting directions in the Crown 
+Court. This also means that the problem which arose in Northern Ireland  and which 
+was addressed in McGreechan at para 15 namely that the High Court cannot review 
+decisions of the Crown Court, does not arise in this jurisdiction.  
+59. Against this background, our conclusions on the question posed above are as fo llows:  
+(1) As a matter of natural and ordinary meaning, section 45 of the 1999 Act does 
+not provide a defendant with the right to appeal to the Court of Appeal, Criminal 
+Division against the making of an excepting direction. This is because there is 
+no languag e such as that found in section 1(1) of the Criminal Appeal Act 1968 
+(“…a person convicted of an offence on indictment may appeal to the Court of
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ Appeal against his conviction), or in  section 159 of the CJA 1988 (“A person 
+aggrieved may appeal to the Court of Appeal…”).   
+(2) The Court of Appeal, Criminal Division enjoys no appellate jurisdiction beyond 
+that specifically conferred on it by statute. The wording of the 1999 Act 
+therefore fir mly resolves the question of the lack of appellate jurisdiction. It is 
+additionally to be noted that the 1999 Act contains no statutory mechanism for 
+the operation of such an appellate jurisdiction (with regard to matters such as 
+leave, and whether it woul d be required,  the grounds for an appeal and whether 
+it would be a review or de novo, the time limits for any appeal and so on).  
+(3) Though no appellate jurisdiction is conferred by the 1999 Act, Parliament 
+clearly intended that in some  situations the Court of Appeal, Criminal Division 
+would have the power to “dispense” with a restriction imposed by the Crown 
+Court under section 45(3), to make an excepting direction itself and to “vary or 
+revoke” excepting directions made by the Crown: see sections 45(4), 45( 6) and 
+45(10) of the 1999 Act.  
+(4) These provisions do not however confer a discrete right of appeal, but are rather 
+powers which  fall to be exercised in the limited situation defined in the 
+legislation, that is when the Court of Appeal, Criminal Division is  “…dealing 
+with an appeal…arising out of the proceedings or with any further appeal”: see 
+section 45(11) of the 1999 Act.  
+(5) In our judgment, both the specific nature of these powers and the time at which 
+they may be exercised, point clearly to the conclusion  that Parliament’s 
+intention in enacting section 45 of the 1999 Act was to equip the Court of 
+Appeal, Criminal Division with the necessary power to make  ancillary orders 
+as regards reporting restrictions and excepting directions when dealing with a 
+substan tive appeal. No freestanding appellate jurisdiction has been conferred.  
+(6) The fact that section 45 confers powers on what is called an “appellate court” 
+does not mean that it creates an appellate jurisdiction. An appellate court could 
+reach a decision on an appeal, or make specific findings, or hear evidence   which 
+would make it appropriate to vary or revoke an excepting direction (if for 
+example, an appeal against conviction was allowed and a retrial ordered, or 
+where there was evidence as to the mental heal th of a convicted child) in 
+circumstances where there was no discrete appeal against the making of an 
+excepting direction itself.  
+(7) Further, the wording of section 45(11) refers only to an appeal . In contrast, the 
+Criminal Appeal Act 1968 differentiates bet ween an “appeal” and an 
+“application”. A “decision of the Court of Appeal on appeal” in section 33 of 
+that Act refers only to a decision following  the grant of leave: R v Garwood 
+[2017] EWCA Crim 59; [2017] 1 WLR 3182 at para 7.   
+60. We consider therefore tha t the Court of Appeal, Criminal Division does not enjoy a 
+concurrent jurisdiction with the Divisional Court to entertain freestanding appellate 
+challenges to excepting directions. It does however enjoy a limited power to consider 
+an excepting direction as an ancillary matter when “dealing with an appeal ” against 
+conviction and sentence.  However, this power is ancillary to an appeal: it does not exist
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ unless and until  leave to appeal has been granted and can never be invoked as the basis 
+for an appeal to th e Court of Appeal, Criminal Division.  
+61. In practical terms, we consider section 45 of the 1999 Act is intended to operate as 
+follows. If an applicant for permission to appeal against conviction or sentence 
+considers that the outcome of that appeal (once deci ded following leave) may require 
+the Court of Appeal, Criminal Division to revisit or vary reporting restrictions under 
+the 1999 Act, they can ask the court to use its ancillary powers under section 45 to do 
+so. But the applicant cannot base any aspect of his appeal to that court on a complaint 
+about an excepting direction. Equally, if leave to appeal has not been granted or has 
+been refused, these ancillary powers cannot be exercised. In neither of those situations 
+is the Court of Appeal, Criminal Division  “dealing with an appeal”. We accordingly do 
+not accept the submissions made on behalf of the Crown and the applicant that once an 
+application for leave is before the Court of Appeal, Criminal Division (and whether 
+leave has been granted and even if it is refused), this Court has jurisdiction to hear an 
+appeal against an excepting direction. The contrary position would be problematic. An 
+application for leave to appeal (against conviction or sentence) which is otherwise 
+hopeless, might then be made simply s o the applicant could get his “foot in the door” 
+and challenge the excepting direction. Further, such a challenge could then be pursued, 
+presumably as of right, without the need for leave (there being no statutory regime 
+prescribing such a condition) and r egardless of issues such as delay which are regulated 
+by the Criminal Appeal Act 1968.  
+62. We would add these further points. First, the availability of judicial review means it is 
+unnecessary to adopt a strained construction of the 1999 Act to enable a chall enge to 
+an excepting direction to be made. Second, having regard to the issues they encompass, 
+we consider challenges to excepting direction s are better dealt with by the Divisional 
+Court, where there are procedural and other safeguards to the rights for e xample of 
+interested parties (which would normally include the media). Third, the availability of 
+judicial review, means that that persons involved in a trial other than the defendant 
+(victims and witnesses for example who have no recourse to the Court of Appeal, 
+Criminal Division) have a route of challenge to excepting directions which may directly 
+affect them. See sections 45A(10) and 46(9) of the 1999 Act which concern excepting 
+directions which respectively remove lifetime anonymity afforded to witnesse s and 
+victims until they are 18, and enable the anonymisation of adult witnesses.  
+ 
+ The challenge to the Excepting Direction in this case  
+63. By an Order dated 20 February 2020, Supperstone J directed that the judicial review 
+claim be heard on a “rolled -up” basis by the Divisional Court at the same time as the 
+applicant’s appeal to the Court of Appeal, Criminal Division. For the purposes of 
+considering the claim we sat as a Divisional Court.  
+64. In his Detailed Grounds, the applicant makes three core complaints about the making 
+of the Excepting Direction and the proceedings before the judge: (i) procedural 
+unfairness; (ii) failure to take into account relevant factors including the applicant’s 
+welfare, leading to an error in finding that it was in  the public interest to remove the 
+restrictions; and (iii) a failure by the judge to give sufficient reasons for making the 
+Excepting Direction.
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ 65. We start by setting out in brief the legal principles which govern the making of such 
+directions and the princ iples applied by the Divisional Court in a public law review.  
+66. As to the legal principles, these were comprehensively considered in Markham  at para 
+73 to 90 and in Aziz at para 30 to 40 and are now well -established. They have been 
+developed taking full acco unt of Convention case law and other international law 
+obligations of the United Kingdom. The international dimension relating to the 
+protection of children is given significant weight in the domestic law balancing exercise 
+and there is no need to recite t he international law materials in every case where this 
+issue arise s: Markham  at para 80. 
+67. Drawing upon those two decisions, the relevant principles may be summarised as 
+follows:  
+(1) The general approach to be taken is that reports of proceedings in open court 
+should not be restricted unless there are reasons to do so which outweigh the 
+legitimate interests of the public in receiving fair and accurate reports of 
+criminal proceedings and in knowing the identity of those in the community 
+who have been guilty of cr iminal conduct.  
+(2) The fact that the person before the court is a child or young person will normally 
+be a good reason for restricting reports of the proceedings in the way permitted 
+by the legislation; and it will only be in rare cases that a direction unde r section 
+45(3) of the 1999 Act will not be given or, having been given, will be 
+discharged.  
+(3) The reason why removal of a restriction will be rare is the very great weight that 
+the court must give to the welfare of a child or young person. In practical ter ms, 
+this means that the power to dispense with anonymity must be exercised with 
+“very great care, caution and circumspection”. See the guidance given by Lord 
+Bingham CJ in the context of the 1933 Act in McKerry v. Teesdale and Wear 
+Valley Justice (2000) 16 4 JP 355; [2001] EMLR 5 at para 19. 
+(4) However, the welfare of the child or young person will not always trump other 
+considerations. Even in the Youth Court, where the regime requires that 
+proceedings should be held in private, with the public excluded, the c ourt has 
+power to lift restrictions. When a juvenile is tried on indictment in the Crown 
+Court there is a strong presumption that justice takes place in open court and the 
+press may report the proceedings.  
+(5) The decision for the trial judge is a case specifi c and discretionary assessment 
+where, guided by the above considerations, a balance falls to be struck between 
+the interests of the child and the wider public interest in open justice and 
+unrestricted reporting.  
+(6) When considering a challenge to an exceptin g direction made by the Crown 
+Court by way of judicial review, the Divisional Court will “respect the trial 
+judge’s assessment of the weight to be given to particular factors, interfering 
+only where an error of principle is identified, or the decision is p lainly wrong”: 
+see Markham  at para 36.
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ (7) To this standard public law approach must be added the conventional public law 
+requirements that: (i) a fair process should be adopted by the judge in 
+considering an application remove a restriction; and (ii) the judg e should give 
+reasons sufficient to explain why the balance has come down in favour of 
+removal of the restriction. This latter point is particularly important because the 
+judge’s reasons are the only indicator that the parties (and a reviewing court) 
+will have to satisfy themselves that the judge has indeed performed a lawful 
+balancing exercise.  
+68. We turn to the first ground, p rocedural fairness. The original anonymity order was made 
+before trial on 12 June 2019. The applicant was convicted on 6 September 2019 and 
+the sentencing hearing was adjourned to 27 September 2019, for the preparation of pre -
+sentence reports. The first in dication that the media wished to apply for an excepting 
+direction came from a communication to the judge in open court on the morning of 27 
+September 2019, at a time when so Mr Bromley -Martin QC told us, he was with his 
+client in the cells.  
+69. Once he was i n court, the application was made orally by a journalist, Mr Cameron 
+Charters of Central News. We were taken to the transcript of the hearing which included 
+the judge’s consideration of the application. The basis for his application was that the 
+press had been prevented in many cases from fully reporting and providing an analysis 
+of knife crime in London. Mr Charters submitted that this meant most knife murders 
+remained “secret and anonymous and those responsible often used masks and shadows 
+to hide their i dentity”; in essence, he argued that the public interest demanded full 
+reporting on a matter of pressing concern within the city. The fact that these crimes had 
+become so common was a matter which made it even more pressing that there be full 
+and unrestric ted reporting. At the hearing before the judge, the Crown remained neutral 
+on the issue, as they have before us.  
+70. Having heard Mr Charters, the judge indicated to the defence that she was aware of the 
+decision in Markham and the principles set out in that case, and she asked Mr Bromley -
+Martin QC if he had any submissions. The following exchanges then took place:  
+ 
+“MR BROMLEY -MARTIN:  You should also know we have 
+received information in particular from [KL’s] half sister, [name 
+redacted], that there had been threats made against her and her 
+family, and also towards [KL] himself. We would suggest that 
+the danger to members of [KL’s] family would be increased by 
+the publication of his name in the press, and that that is another 
+matter which I raise in the intere sts of justice as being a good 
+reason to retain the restriction. Would Your Honour allow me 
+just a moment? I make no complaint of course, but we’ve only 
+just had notice of this application. As I say, I make no complaint.  
+JUDGE DHIR:  It is not unusual.  
+MR BROMLEY -MARTIN:  No.
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ JUDGE DHIR:  I do not think anyone got notice, but they 
+are not unusual applications, are they?  
+MR BROMLEY -MARTIN:  As I say, there’s absolutely no 
+criticism whatsoever, and, as I say, I do have here (Ms Cecil has 
+very kindly provided it to me) a note in relation to the application 
+of section 45, and I would, if I may, like a short pause while I 
+consider whether or not it would assist Your Ladyship if we were 
+to upload it now.  
+JUDGE DHIR:  Right.  
+MR BROMLEY -MARTIN  Could I ask Your…  
+JUDGE DH IR: Mr Bromley -Martin, I really do want to 
+sentence your client today, but I am sitting for a limited period 
+of time this morning, and that is why I asked for the case to be 
+listed at 9.30. It would be a real shame if this case had to be put 
+back for any r eason. This application is one that you will be 
+familiar with. It is not uncommon at all. Certainly when it was 
+mentioned to me this morning for the first time it came as no 
+surprise. It is a matter for you. If you want me to look at it, I will, 
+but can yo u just be aware of the fact there is a limited amount of 
+time. I do not mind. It just means that we will not deal with the 
+sentence today: it will just need to be put off, that is all. I am 
+back in this court on 28 October.  
+MR MARTIN -BROMLEY: Can I suggest , please, that we put 
+this application back until after the sentence and deal with it 
+later?  
+JUDGE DHIR:  We are not going to deal with it later. The 
+application has been made today. They get dealt with at the 
+beginning. Otherwise, I am afraid people who are here just do 
+not know what the position is going to be…”  
+ 
+71. The note to which Mr Bromley -Martin QC referred dealt with the legal test. As can be 
+seen from the transcript it was provided to the judge via the DCS as she sat in court. 
+This note concerned th e guidance given by Haddon -Cave J in Pearce in a ruling given 
+at that trial on 7 December 2017. That ruling contained a detailed exposition of the 
+principles Haddon -Cave J had originally set out at first instance in Markham  (and which 
+were approved by the Court of Appeal in the appeal from this decision [2017] EWCA 
+Crim 739 as a “detailed and comprehensive analysis” of the law at para 75). 
+72. Following the exchanges referred to above, Mr Bromley -Martin QC then made brief 
+submissions as to the risks faced by th e applicant’s family (based on a witness statement 
+from the applicant’s mother) and referred to the pre -sentence reports as well as to the 
+risk of the applicant self -harming. The judge then made her ruling, in which she acceded 
+to the application made by M r Charters. She granted a stay pending the appeal/review
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ application which it was intimated to the judge would be made on behalf of the 
+applicant to the Court of Appeal, Criminal Division or the Divisional Court.  
+73. We recognise that the judge was faced with  a somewhat difficult procedural situation. 
+Moreover, one would expect counsel appearing in cases such as this one to be cognisant 
+of the possibility either that an application may be made for an excepting direction or 
+that the court may require submission s about it of its own motion, and to be prepared 
+for that eventuality. As the judge pointed out,  applications for an excepting direction 
+are not uncommon. Nonetheless m ore notice should have been given of the application;  
+and given its lateness,  and havin g regard to the “very great care, caution and 
+circumspection” which is required by a court when considering whether to remove the 
+anonymity of a child,  we are prepared to proceed on the basis that fairness required 
+that the defence should have been be giv en more time to deal with it, including, if there 
+was no other option, by the judge sentencing the applicant on that day and addressing 
+the substance of the application at a later date. Albeit any report about the murder and 
+its surrounding events would ha ve been of less immediate interest, the cause would 
+have been the very late notice of the application, made on the day of sentencing itself, 
+and some weeks after the applicant’s conviction.  
+74. In this connection, it is to be noted that the application in thi s case did not comply with 
+the requirements of the Criminal Procedure Rules at Part 6 which sets out a detailed 
+code for the imposition and removal of restrictions including those under section 45 of 
+the 1999 Act, including that:  
+ 
+“6.5. —(1) This rule applies where the court can vary or remove 
+a reporting or access restriction. (2) Unless other legislation 
+otherwise provides, the court may do so — (a) on application by 
+a party or person directly affected; or (b) on its own initiative. 
+(3) A party or pers on who wants the court to do so must — (a) 
+apply as soon as reasonably practicable; (b) notify — (i) each 
+other party, and (ii) such other person (if any) as the court 
+directs; (c) specify the restriction; (d) explain, as appropriate, 
+why it should be varied  or removed”.  
+ 
+75. Though the purport of this rule is clear, for the future, we consider that in cases of this 
+nature, it would be helpful for a judge to indicate in open court after a conviction, the 
+court’s  intention (if it be such) to consider the section 45 restrictions at the sentencing 
+hearing; and further, that any specific applications with regard to the relevant 
+restrictions must be made and notified to the parties as soon as reasonably practicable 
+in accordance with the process identified in the Crim inal Procedure Rules.
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ Failure to give sufficient weight to the Applicant’s welfare and the public interest  
+76. The second and third grounds are a challenge to the merits of the judge’s decision and 
+the weight she gave to the material factors. In considering  this ground, the guidance in 
+Markham  requires us to respect the trial judge’s assessment of the weight to be given 
+to particular factors, interfering only where an error of principle is identified or the 
+decision is plainly wrong.  
+77. Additional evidence tha t was not before the judge and going to these factors has been 
+put before us. That additional evidence is material which Mr Bromley -Martin QC 
+submitted would have been relied upon if proper notice had been given of the 
+application to remove the applicant’s  anonymity and would have “demanded” a refusal 
+of the application. While judicial review challenges must be based upon evidence which 
+was before the original decision -maker (and not new material) when there is a valid 
+procedural complaint about an inabilit y to submit evidence below, judicial review 
+principles permit a reviewing court to consider the material which (but for the 
+procedural breach) would have been placed before the decision -maker. Having regard 
+to the view we have taken of procedural fairness,  we therefore take this further evidence 
+into account in considering these grounds of challenge.  
+78. The additional evidence may be summarised as follows. Threats had been made to the 
+applicant’s family, in particular to his siblings and their children. This had resulted in 
+the Local Authority taking steps to protect them by moving them to a different 
+residence. Mr Bromley -Martin QC relied upon a written statement from the Local 
+Authority obtained after the sentencing of the applicant. The statement includes t he 
+following:  
+ 
+“The Local Authority are deeply worried about reprisals towards 
+[KL’s sister] and her children, as well as her siblings and her 
+mother. This is particularly after being present during Court 
+Proceedings, and being seen to be associated with [ KL]. 
+Following the conclusion of Proceedings in September 2019, the 
+Local Authority was so concerned about the welfare of [KL’s 
+sister] and her children that an emergency move was arranged. 
+[KL’s sister] and her children stayed in emergency 
+accommodation u ntil suitable temporary accommodation was 
+located in what was considered a safe area. This move was 
+finalised on 17 September 2019. The family are now living out 
+of Borough. Other measures, such as taxis, were arranged to 
+ensure that [KL’s sister] did not travel alone on public 
+transport.…It is my firm belief and worry that releasing any 
+information on the trial or about [her] brother would seriously 
+jeopardise any safety planning we have put in place for the 
+family. We have seen reprisals for family member s and one of 
+[the sister’s] brothers has now been attacked twice. [She] suffers 
+from severe anxiety and this would impair her ability to care for 
+the children, if she becomes pre -occupied about their immediate 
+safety. The children are under five and they w ould be subjected
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ to comments and possible ridicule and pre -judgment about their 
+Uncle by those who do not understand the context and 
+circumstances…”.  
+ 
+79. Reliance was also placed on a statement from the Youth Offending Team (YOT) 
+obtained after the sentencing hearing. The YOT witness said that the team had ‘grave 
+concerns’ if the applicant were to be identified in the press. She said that the murder 
+had had a significant impact on the local community, with a number of families having 
+to be relocated out of the Borough due to safety concerns. She said that it is anticipated 
+that these issues may create more conflict in the community and she also raised welfare 
+concerns with regards to the applicant and his vulnerabilities and prospects of 
+rehabilitatio n. The witness does not elaborate upon this point, however by explaining 
+for example, how it is said the applicant’s rehabilitation will be impeded if he remains 
+anonymous for another 18 months and in circumstances where he is to remain in 
+custody for the next 15 years.  
+80. As it is, on the material before her the judge ruled as follows:  
+“1. On 6 September 2019 the jury convicted the defendant 
+(referred to in this judgement as A) of the murder of Ayub 
+Hassan. He was 15 at the time of the murder and is now 16.  This 
+morning, on the day of sentence, the press have made an oral 
+application to publish the name of A.  
+2. On 12 June 2019 an order was made under subsection 45(3) 
+of the Youth Justice and Criminal Evidence Act 1999 (“the 
+Order”).  It provides that no mat ter relating to A shall while he 
+is under the age of 18 be included in any publication if it is likely 
+to lead members of the public to identify him as a person 
+concerned in these proceedings.  
+3. I have power to make an excepting direction, dispensing wit h 
+any of the restrictions imposed by the Order: a. under subsection 
+45(4), if I am satisfied that it is necessary in the interests of 
+justice to do so; or b under subsection 45(5), if I am satisfied:  
+i. that the effect of the restriction is to impose a sub stantial 
+and unreasonable restriction on the reporting of the 
+proceedings, and  
+ii. that it is in the public interest to remove or relax the 
+restriction.  
+4. In either case, I am obliged to have regard to A’s welfare.  The 
+mere fact that the proceedings have  now been determined and 
+that A has been convicted is not in itself a reason for making an 
+excepting direction.
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ 5. I also have power under subsection 45(9) to revoke the Order 
+entirely, which is equivalent to making an excepting direction 
+which dispenses  with all of the restrictions imposed by the 
+Order.  
+6. That is what the Evening Standard Newspaper and Central 
+News say I should do.  Counsel for A, Mr Bromley Martin QC, 
+opposes their application.  They have not referred me to the law 
+but they do say that , at the very least, the requirements of section 
+45 (5) are satisfied.  
+7. I have been referred by the defence to a decision of the High 
+Court, R v Pearce (unreported 7th December 2017), in which 
+Haddon Cave J (as he then was) presided over. They say.  
+a. There is ‘good reason’ to maintain the direction 
+restricting reporting of A’s identity under Article 2 and 
+8. 
+b. The additional element of identifying A by name adds 
+little to the reporting in this particular case.  
+8. I have also considered the decision o f the Court of Appeal of 
+R v Markham [2017] 2 Cr.App.R. (S.) 30. which gives guidance 
+to Crown Court judges as to who to approach applications such 
+as this.  I do not propose to repeat that guidance, but I have it 
+very much in mind.  
+9. In summary, I have t o balance the interests of the public in the 
+full reporting of criminal proceedings against the desirability of 
+not causing harm to a child concerned in the proceedings.  
+10. I start with the factors relied on in support of the 
+application.  The context is,  of course, the open justice principle.  
+There is a strong public interest in open justice.  This includes 
+the reporting of criminal proceedings, including the identity of 
+defendants.  Exceptions to the open justice principle should be 
+confined to what is necessary to protect other, competing 
+interests.  
+11. Against that background, Evening Standard and Central 
+News rely, in particular, on the following matters: (a) Knife 
+crime is rightly a matter of considerable public concern at 
+present (b) To a lesser ext ent, identifying the defendant to 
+proceedings is part of the reporting of proceedings in any case 
+and the naming of defendants who have been convicted of knife 
+crime has a deterrent effect.   
+12. I have listened to the arguments and considered the law 
+and I have taken all relevant factors into account.  In doing so, I
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ bear in mind that it is suggested that there is a risk of reprisals to 
+A’s family and that there have been threats made to them.  
+13. Overall, I consider that the balance comes down in 
+favour o f allowing the application to report the name of A and I 
+do so. I am satisfied to the required standard that the two 
+condition in section 45(5) are met”.  
+ 
+81. In our judgment it is clear that the judge directed herself correctly on the law by 
+reference to both  Markham  and Pearce ; and it not arguable that she was unaware of the 
+substantial weight to be given to the child’s interests and welfare. The case law the 
+judge considered repeatedly emphasises that very weighty interest and the judge made 
+specific referen ce to the child welfare considerations in her ruling. Further, the judge 
+expressly identified the public interest factors relied upon by the media and applied the 
+balancing test. We note that judgment in Aziz was handed down on 17 September 2019, 
+a few day s therefore before the judge’s ruling. It did not however alter or modify the 
+principles to be derived from the cases cited by the judge  
+82. Although the judge’s reasons could have been more detailed, we do not consider her 
+decision was plainly wrong on the ma terial she considered or that she failed to take into 
+account the evidence before her.  
+83. We must however consider whether the additional evidence now relied on would have 
+justified maintaining the applicant’s anonymity in a fresh balancing exercise.  
+84. Two points should be made. First, in our judgment, the additional evidence does not 
+add anything new; instead it relies on essentially the same points as were in evidence 
+before the judge, particularly, the welfare of the applicant’s family. Second, what i s 
+now said does not materially assist the applicant. The identities of the family members 
+are well -known by those who might cause them harm. Not naming the applicant would 
+not give his family any greater protection than that which the Local Authority have 
+provided by relocating them. We are also not persuaded that identifying the applicant 
+will create further conflict within the community: it is plain that those who are already 
+causing conflict (gang members) already, and know well, his identity.  
+85. As for th e applicant’s rehabilitation, which is capable of being an important factor, as 
+in Markham (see para 89) there is no specific evidence before us, nor was there before 
+the judge, that the reporting of the applicant’s identity would adversely affect his futu re 
+rehabilitation. In reaching this conclusion we have considered the material before the 
+judge and the additional evidence. Other than highly generalised assertions to the effect 
+that “publication of his identity will impact on his future progress and reh abilitation”, 
+no particulars are given as to how this affects the issue of the maintenance of the 
+applicant’s anonymity until he reaches the age of 18 in July 2022. The length of time 
+before the child affected reaches 18 is a relevant consideration: see Ma rkham at para 
+89. In this case, the applicant would (absent the Excepting Direction) enjoy about 18 
+months more of anonymity. He is also due to serve a minimum of 15 years in custody. 
+In these circumstances, it is difficult to see how naming him now will i nhibit his 
+rehabilitation. No written or oral argument (or evidence) grappled with this issue. On
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ the other side of the balance is the substantial public interest in reporting horrific gang 
+related murders such as the present and the open justice principle .  
+86. Looking at the matter in the round we do not consider that the judge’s decision was 
+wrong, either on the material before her, or with the benefit of the additional evidence 
+which has been put before this court. We would add that it is not necessary in e very 
+case to demonstrate as some form of condition of removal of anonymity that the public 
+needs to know the defendant’s identity in order to understand the case. Each case 
+depends on its own facts. The case-specific  balance between the open justice princi ple 
+and the welfare rights of the child in issue on the facts of the case was underlined in 
+Markham at para 84.  
+87. Finally, we should address the submission that anonymity cannot be removed unless 
+the facts are “exceptional”. In our judgment, though the facts  in cases such as Markham 
+and Aziz were indeed truly shocking, there is no rule of law or iron clad principle which 
+requires this to be the case before an excepting direction can be made. So, when the 
+Court of Appeal in Aziz observed at para 43  that the cr ime was regarded by the judge 
+as “exceptionally serious”, and explained at para 41, that Markham was “exceptional 
+on its facts” it was not identifying some form of additional condition that had to be 
+satisfied before an excepting direction could be made. In our judgment, this approach 
+is not inconsistent with the principles we have summarised at para 67 above: these give 
+very substantial weight to the interests of the child which is why it will be rare for an 
+excepting direction to made.  
+88. The fact that such murders are now so common cannot be sensibly prayed in aid to say 
+that there is nothing “exceptional” about this murder, even if, contrary to our view, 
+there was some form of exceptionality requirement.  We note the statistics presented 
+on behalf of t he media in this case that knife crime in England and Wales was at a 
+record level in September 2020,  and that offences recorded involving a knife or sharp 
+instrument are now at the highest level ever recorded. This issue is clearly a matter of 
+substantial  public interest.  
+ 
+Reasons  
+89. We can deal with this matter briefly. We consider the judge’s reasons could have been 
+more detailed, in particular as they addressed the factors telling in favour of continued 
+anonymisation.  However, we do not consider her rulin g fell below public law 
+standards. On a fair reading, it is clear that she did consider the relevant welfare 
+considerations in coming to her decision and the importance of the child’s interests 
+emphasised in Markham at para 36. 
+90. By way of conclusion on the judicial review application, we grant permission to apply 
+for judicial review. However, applying section 31(2A) of the Senior Courts 1981 we 
+are satisfied that the outcome for the applicant would have been the same even if there 
+had been no procedural unfa irness. Taking into account the additional evidence before 
+us, the judge’s decision was not plainly wrong. The judicial review claim is accordingly 
+dismissed.
+
+Judgment Approved by the court for handing down.  KL v Regina  
+ 
+ Conclusion  
+ 
+91. Sitting as the Court of Appeal, Criminal Division, the application for leave to appeal 
+against sentence is refused. Sitting as the Divisional Court, we grant permission to 
+apply for judicial review but dismiss the claim. The stay of the Excepting Direction  will 
+be removed, subject to any further applicatio ns.

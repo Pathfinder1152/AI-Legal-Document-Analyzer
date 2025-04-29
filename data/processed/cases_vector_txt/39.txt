@@ -1,0 +1,1160 @@
+High Court  Approved Judgment   GovData v Indeed  UK 
+1 Neutral Citation Number:  [2024] EWHC 39 (Comm)  
+ 
+Claim  No: CC -2023 -MAN -000069  
+ 
+IN THE HIGH COURT OF JUSTICE  
+BUSINESS AND PROPERTY COURTS IN MANCHESTER  
+CIRCUIT COMMERCIAL COURT (KBD)  
+Before His Honour Judge Pearce si tting as a Judge of the High Court  
+ 
+BETWEEN:  
+ 
+GOVDATA LIMITED  
+Claimant  
+ 
+-and- 
+  
+INDEED UK OPERATIONS LIMITED  
+Defendant  
+ 
+- - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - 
+ 
+Mr IAN SKEATE instructed by  way of direct access  for the Claimant  
+  
+MS CLAIRE OVERMAN  instructed by  Lewis Silk in LLP for the Defendant  
+ 
+Hearing date: 1 November 2023  
+Judgment handed down : 12 January 2024  
+- - - - - - - - - - - - - - - - - - - - - 
+JUDGMENT
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+2 INTRODUCTION  
+1. The Claimant is a company that (according to its website) is a market leader in Public 
+Sector business and provides  speci alist advice to assist  companies  that are looking to 
+gain access to government business.  
+2. The Defendant  operates  an employment website,  that lists jobs and also provid es a 
+facility  for the anonymous  posting of  information  about employers . From  the material 
+in the hearing bundle , it would appear that those posts are typically from ex-employees 
+speaking of their experience of working for the particular company  - certainly the four 
+reviews identified by the Claimant in this case are said to come fr om its former 
+employees .  
+3. The Claimant contends that certain anonymous reviewers have posted  reviews that are 
+critical of the Claimant  and its management on the Defendant’s website. It alleges  that 
+those reviewers  are (or at least may  be) guilty  of wrongdoing  vis-a-vis the Claimant (or 
+certain employees of the Claimant). It brings this claim  in an attempt to identify putative  
+wrongdoers on the basis that it has no other way of identifying  them. The order sought 
+is broadly speaking of a kind that has been developed by the court in a line of cases , 
+generally known as Norwich Pharmacal orders.  
+4. In accordance with other courts that have dea lt with applications  similar to this, I shall  
+call the anonymous reviewers the “targets .” This is  in the sense that their identity is the 
+target of this application .  
+5. At the beginning of this hearing, I ruled that, notwithstanding the parties’ names had 
+been anonymised in the court list, there was no good basis for anonymising them in the 
+judgment. I gave my reasons for that ruling at the time. Accordingly, the parties may be 
+identified by name.  
+THE CLAIM AS PLEADED  
+6. This claim is brought pursuant  to CPR Part 8. The Claim Fo rm, issued on 8 September 
+2023,  pleads the Claimant’s case as follows:  
+“The Defendant, via its operation on the website www.indeed.com has facilitated the 
+wrongdoing of others in that forum  on dates between 01/01/2018 to 28/02/2023.  The 
+wrongdoing comprised of statements about the Claimant published on the website by
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+3 the forum users whose identities are currently unknown to the Claimant. The statements 
+contain seriously defamatory allegations about the Claimant.  
+The Claimant is entitled to seek redress in relation to the statements which contain 
+seriously defamatory allegations .  
+The Claimant wishes to inspect the information requested so as to be able to take legal 
+action or seek other redress . 
+The Defendant is able to provide the information from which the individuals identities  
+can be ascertained . 
+ The Claimant is not able to identify the persons responsible for the postings unless the 
+Defendant provides the requested information .”  
+7. The order  sought by the Claimant is put in these terms  in its Draft Order:  
+“The Respondent must by 4.00pm on 18th August 2023 carry out a reasonable search 
+to locate the information sought below and make and serve on the Applicant a witness 
+statement stating whether that Information is now in its control, and to the extent that 
+such information was once but is no longer in its control and what has happened to that 
+information.  
+1.1 We require all personal identifiers of the publishers of the posts on Indeed of the 
+reviews detailed at pages 2 to 5 of the bundle containing the comments we wish to take 
+further legal action on. These include but are not exclusive to the registrants name, age, 
+location, IP address, telephone and mobile numbers and email addresses. We 
+additionally require information on whether they have logged into or created an identity 
+via a 3rd party identity verification such as Facebook or google in order to create an 
+account. (the Information).  
+2 The Applicant has permission to use the information provided pursuant to this Order 
+for the purposes of bringing proceedings for Defamation, libel and any other such 
+actions we are so advised to pursue in respect of untrue and malicious information 
+poste d against the company and its employees/shareholders/directors .” 
+8. The Claimant relies in suppo rt of the application  on statements from  its Chief Executive 
+Officer,  Mr Christian  Victor  Hugo , dated 21 March 2023 and 26 October 2023 and from 
+its Chief Operating Officer, Ms Kelly Ann Hugo , dated 5 May 2023 and 26 October 
+2023.  The Defendant relies on statements from Mr Thomas Dowling of Indeed  Ireland
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+4 Operations  Ltd dated 25 October  2023 and Ms Anne Mannion of its solicitors of the 
+same date.  
+AMENDMENT  
+9. By Application  Notice dated 23 October 2023, the Claimant applie d to add  Mr Christian  
+Victor  Hugo and Ms Kelly Ann  Hugo  as Claimants . Mr Hugo is identified  in some of 
+the reviews  by job title, though Ms Hugo is not. Nevertheless  it might be arguable  that 
+they are people  to whom the reviews are referring and therefore might be relevant  
+Claimants.   
+10. If, as the Claimant contends, this claim is good without the addition of Mr Hugo and 
+Ms Hugo , their addition as Claimants would not be necessary  because Gov Data itself  
+would  be able to achieve  the remedy it seeks . If, as the Defendant  contends,  the claim 
+is doomed to failure for re asons unrelated to the fact that Mr and Ms Hugo are not 
+parties, their  addition to the claim would add nothing.  
+11. It is only if the underlying claim is otherwise good but fails for want of joinder of one 
+or both of Mr and Ms Hugo that their addition to the claim would be  necessary  to 
+achieve the Claimant’s purposes . Accordingly, I propose to consider the claim to 
+determine whether this is so before determining  the amendment application . 
+12. There is a second manner in which the Claimant  seeks to change the way it puts this 
+application , albeit that in this respect there is no formal application before the court.  
+The Claim Form does not identify  which reviews the Claimant say s should  be the 
+subject of the order sought. The Draft Order provided on the application  seeks the 
+disclosure  of “all personal identifiers of the publishers of the posts on Indeed of the 
+reviews detailed at pages 2 to 5 of the bundle containing the comments we wish to take 
+further legal action on .” This is a reference to the four reviews which  appear at pages  
+17 to 21 of the Hearing Bundle  (Reviews  1, 2, 3 and 4 respectively ). Those Reviews 
+are dealt with individually below.  
+13. However, i n his oral submissions, Mr Skeate  for the Claimant invited the court  to make 
+a broader order, identifying other anonymous reviewers  who had used the Defendant’s 
+website.  The existence of other reviews that have been removed  from the website is 
+referred to in paragraph  9 of Mr Hugo’s witness statement of 21 March 2023, and indeed 
+in that statement he refers to obtaining relief in respect of other reviews.
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+5 14. I dea l further below with the lack of detail of other reviews in respect  of which  the 
+Claimant  seeks an order . There is of course nothing to prevent  a party seeking an order  
+on different terms than the draft that it produces  in its application , but the failure to 
+produce a draft order encompassing  the other reviews creates considerable difficulty in 
+making such an order . There can be no doubt that  a Norwich Pharmacal  Order in respect 
+of anonymous reviews which could no longer be shown to the court would  require 
+careful  drafting to ensure that the Defendant was clear as to what it was obliged to 
+disclose.  
+THE LAW – NORWICH PHARMACAL ORDERS  
+15. The requirements  for Norwich Pharmacal  orders are not in issue. They are  summarised  
+in Mitsui  & Co Ltd  v Nexen Petroleum  Ltd [2005] EWHC 625 (Ch) at [21]: 
+“(i) a wrong  must have been carried out, or arguably carried out, by an ultimate 
+wrongdoer;  
+(ii) there must be a need for an order to enable action to be brought  against the 
+ultimate  wrongdoer ; 
+(iii) the person against  whom the order is sought must  be (a) mixed up in so as to 
+have facilit ated the wording; and (b) be able or likely  to be able to provide the 
+information  necessary to enable the ultimate  wrongdoer to be sued .” 
+16. If these requirements are met, the Court  has a discretion  whether to make the order 
+sought.  The court  should only make an or der if it is necessary and proportionate in all 
+the circumstances  (see Ashworth  Hospital Authority  v MGN Ltd  [2002] UKHL 29 ). In 
+Rugby Football Union v Viagogo Ltd  [2012] UKSC 55,  the Supreme Court  identified  
+ten non -exhaustive  factors to  which  the court should have regard in  determining  the 
+grant of relief:  
+a. the strength of the possible cause of action contemplated by the applicant for 
+the order;  
+b. the strong public interest in allowing an applicant to vindicate their legal rights;  
+c. whether the making of the order will deter similar wrongdoing in the future;  
+d. whether the information could be obtained from another source;  
+e. whether the respondent to the application knew or ought to have known that 
+they were facilitating arguable wrongdoing;
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+6 f. whether the order might reveal the names of innocent persons as well as 
+wrongdoers, and if so whether such innocent persons will suffer any harm as a 
+result;  
+g. the degree of confidentiality of the information sought;  
+h. the privacy rights under article 8 of the European Convention for the Protection 
+of Human Rights and Fundamental Freedoms of the individuals whose identity 
+is to be disclosed;  
+i. the rights and freedoms under the EU data protection regime of the individuals 
+whose identity is to be disclosed;  
+j. the public interest in maintaining the confidentiality of journalistic source s. 
+17. The decision in Viagogo  involved  consideration  of the privacy of potential  wrongdoers  
+who were allegedly selling rugby tickets  at more than their face value. Whilst it clearly 
+involved  issues of privacy, it did not, unlike the instant case, involve  any issue  of 
+freedom  of expression.  
+18. The particular  factors  in play in cases that do involve  arguments  about freedom  of 
+expression  were considered by Nicklin  J in Davidoff v Google  [2023] EWHC 1958. 
+Like this case, the claimant s in Davidoff  were seeking to identify  targets  who had posted  
+anonymous  reviews (in that case , reviews  of a firm of estate agents). Again as in  this 
+case, the claimants stated an inten tion to commence proceedings  in defamation and/or 
+malicious falsehood ( though  as we shall note later, certain  other causes of action  may 
+be in play here).  Having  noted that the order sought raised  issues under  both Article  8 
+(respect for private and family life) and Article 10 (freedom of expression)  of the 
+European  Convention  on Human Rights , Nicklin  J stated at [ 30]: 
+“Article 10 protects both speech by an identified individual and anonymous speech. 
+Whilst anonymity on the Internet can be used as a cloak behind which to harm others 
+by unlawful acts, not all anonymous speech is of this character. Such speech, 
+particularly in a political context, as a dimension of freedo m of expression, can have a  
+real value and importance. It also has a long pedigree both in the United Kingdom and  
+the United States...  “ 
+Nicklin  J went on to state:
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+7 “[31] As a starting point …, where a  Norwich Pharmacal  order is sought to unmask an 
+anonymous online poster, the terms of that order are likely to interfere with the privacy 
+interests of the target. Depending on the nature of the speech, for example if anonymity 
+is (or maybe) being used to avoid recrimination/retribution/punishment (e.g.  a whistle -
+blower), it may also interfere with the Article 10 rights of the target (and  the 
+respondent) , see e.g.  Standard Verlagsgesellschaft mbH. ” 
+In applying the Viagogo factors, the court  was required to focus on whether there was 
+sufficient justification  for interference with Article 8 and/or 10 rights. He said at [3 3]: 
+“An intense focus on the comparative importance of the specific rights being claimed 
+requires an applicant for a  Norwich Pharmacal  order to demonstrate more than simply 
+an arguable case that s/he has been the subject of a civil wrong. S/he must show that a 
+claim that has sufficient weight or substance to outweigh the countervailing rights of 
+the target.  Viagog o factor (1) requires, an assessment of the strength of the underlying 
+claim relied upon, which is consistent with the obligation to examine the claim 
+articulated in  Standard Verlagsgesellschaft mbH . For practical purposes, this means 
+that an applicant applying for  Norwich Pharmacal  relief must demonstrate, in the 
+evidence in support of application, that s/he has, at least, a claim with a real prospect 
+of success.”  
+ Nicklin  J warn ed at [41]:  
+“In most cases, proper respect for (and protection of) any engaged Article 10/8 rights 
+is likely to be achieved by the Court making a careful assessment of whether there has 
+been an arguable wrong and the strength of the identified cause(s) of action, and 
+whether the public interest in allowing an applicant to vindicate his legal rights is  
+outweighed by any countervailing interests of the target. Norwich Pharmacal orders 
+will not be granted, speculatively to strip away online anonymity, unless the Court is 
+satisfied that justice requires it. The danger of too lax an approach is obvious. The 
+subject of an unfavourable publication may have many reasons for wanting to identify 
+his/her online critic, not all of which would provide a justification for a Norwich 
+Pharmacal order. The jurisdiction is not to be used to satisfy curiosity o r to enable any 
+form of revenge or retribution. It exists to do justice by  enabling someone who can 
+demonstrate that s/he has been the victim of an arguable wrong, for which s/he wishes  
+to seek legitimate redress, to obtain an order from the Court that wil l assist him/her to 
+do so by assisting in the identification of the wrongdoer .”
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+8 19. In determining  whether any particular  cause of action against a target has a re al prospect 
+of success  for the purpose of making an order of the kind sought here against a third 
+party, the Claimant  invites  me to apply the same test as that applied on applications  for 
+summary judgment , which is usually identified  by reference to Swain v Hillman  [2001] 
+1 All ER 91 (though the court  should also bear in mind  the factors referred to by 
+Lewison J in Easyair v Opal Telecom  [2009] EWHC 339 and the other cases usefully 
+summarised at [24.3.2] and [24.3.3] of the White Book) . I accept that this is the test that 
+Nicklin J  set in Davidoff  for a claimant to obtain  relief in this kind of case. However, 
+he was cle arly not saying that it was  sufficient  in order for relief to be granted that the 
+claimant  show  an arguable case , since his warning in paragraph 41 of his judgment  
+would be redundant  were that so . Rather , he was identifying  the Swain v Hillman  test 
+as a threshold  criterion. Even if the Claimant show s an arguable  case, it is necessary 
+that the court  also conduct  the assessment referred to at [41] of Davidoff  before granting  
+relief.  
+THE PROSPECTIVE CAUSES OF ACTION  AGAINST THE TARGETS  
+20. The Claim Form identified defamation  as the prospective cause of action against the 
+targets. Mr Hugo’s  statement might be taken to suggest  that malicious falsehood is in 
+the contemplation  of the Claimant as a potential  claim and reference is made to 
+harassment. Mr Skeate ’s skeleton argument mentions , in addition  to defamation and 
+malicious  falsehood , the possibility of claims in harassment,  assault,  breach of 
+employment  contract , breach of privacy  and what are described as  “the economic torts .” 
+In addition, in correspondence  the Claimant has referred to the possibility  of claims  
+based on misfeasance  in public  office  and “ computer misuse.”  
+21. It is relevant to consider the elements of these cause s of action in turn  in order  to 
+consider  whether the Claimant shows that it has a real prospect of success . 
+22. In respect  of a claim in defamation , I rely on the summary  of law in Davidoff  at [47] to 
+[54].The signi ficant parts of that judgment may be summarised , as far as  relevant to the 
+instant claim,  as follows:  
+a. Such a claim would require evidence that:  
+i. a statement had been made that refer s to the Claimant ; 
+ii. the statement was published by the target ;
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+9 iii. the statement was defamatory of the Claimant ; 
+b. The test of whether a statement  is defamatory  was set out by Warby LJ in Millett 
+v Corbyn  [2021] EMLR 19 at [9]:  
+“At common law, a meaning is defamatory and therefore actionable if it satisfies 
+two requirements. The first, known as ‘the consensus requirement ,’ is that the 
+meaning must be one that ‘tends to lower the claimant in the estimation of right -
+thinking people generally ‘The Judge has to determine ‘whether the behaviour 
+or views that the offending statement attributes to a claimant are contrary to 
+common, shared values of our society’: Monroe v Hopkins  [2017] 4 WLR 68 
+[51]. The second requirement is  known as th e ‘threshold of seriousness .’ To be 
+defamatory, the imputation must be one that would tend to have a ‘substantially 
+adverse effect’ on the way that people would treat the claimant: Thornton v 
+Telegraph Media Group Ltd  [2011] 1 WLR 1985 [98]... ” 
+c. At common law , once these ma tters are established , falsity, malice and damage 
+are presumed in favour of the Claimant.  This would  equally  apply to their 
+claims, were Mr and/or Ms Hugo to be added as c laimants.  
+d. However , by reason of section 1 of the Def amation Act 2013  where (as here) 
+the Claimant trades  for profit, it must also show that “the publication has caused 
+or is likely  to cause serious harm to the reputation of the claimant. ” The 
+“serious harm ” requirement  is not met  unless the harm to the claimant’s 
+reputation  “has caused or is likely to cause the body serious financial loss .” 
+This requirement would not apply to Mr and Mrs Hugo , were they to be  joined 
+as claimants  in the action.  
+23. Again, in respect  of the tort of m alicious  falsehood , I refer to the judgment of Nicklin J 
+in Davidoff , this time at [55]  to [62]  summarising  the relevant principles  as being: 
+a. The Claimant must show  that: 
+i. a statement ha s been made that refers to the Claimant , its property or 
+business ; 
+ii. the statement was false ; 
+iii. the statement was published by a target ; 
+iv. the statement was published  maliciously .
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+10 b. The Claimant must  also show that it has suffered special damage,  unless “the 
+words upon which the action is founded are calculated to cause pecuniary 
+damag e” to the claimant (section 3(1) of the Defamation Act 1952).  As the 
+Court of Appeal makes clear in George v Cannell  [2022] EWCA Civ 1067, this 
+requirement  will be met if the statement of which complaint is made is “of such 
+a nature that, viewed objectively in context at the time of publication, financial 
+loss is an inherently probable consequence or, putting it another way, financial 
+loss is something that would probably follow naturally in the ordinary course 
+of ev ents.”   
+24. The time limit for bringing a claim in defamation or malicious falsehood is, by virtue 
+of Section 4A of the Limitation Act 1980, one year  from the date of publication. It will 
+be noted that two of the four reviews identified by the Claimant as allegedly defamatory 
+were published more than one year before the issue of the instant proceedings; a claim 
+against the target in respect of any of them wo uld by now be time barred by the 
+operation of Section 4A. Section 32A of the Limitation Act 1980 allows the court  to 
+disapply Section 4A. Sharp LJ said of this power in Bewry v Reed Elsevier UK Ltd  
+[2014] EWCA Civ 1411:  
+“The discretion to disapply is a wide one, and is largely unfettered: see Steedman v 
+BBC [2001] EWCA Civ 1534; [2002] EMLR 17 at 15. However  it is clear that special 
+considerations apply to libel actions which are relevant to the exercise of this discretion. 
+In particular, the purpose of a libel action is vindication of a claimant’ s reputation. A 
+claimant who wishes to achieve this end by swif t remedial action will want his action 
+to be heard as soon as possible. Such claims ought therefore to be pursued with vigour, 
+especially in view of the ephemeral nature of most media publications. These 
+considerations have led to the uniquely short limita tion period of one year which 
+applies to such claims and explain why the disapplication of the limitation period in 
+libel actions is often described as exceptional.”  
+25. In respect  of the tort of h arassment : 
+a. This arises under section 1 of the  Protection  from Harassment Act 1997  (“the 
+1997 Act”)  where : 
+i. a person (that is to say an individual – see section 7(5) of th e 1997  Act) 
+pursues a course of conduct  which amounts to harassment ; and
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+11 ii. that person knows or ought to know that the course of conduct amount 
+to harassment of the other.  
+b. “Harassment” fo r this purpose includes alarming a person or causing  them 
+distress  – see Section 7(3) of the 1997 Act.  
+26. A claim in assault might be made out if the Claimant showed that a target had used or 
+threatened unlawful violence  towards the Claimant . 
+27. Claims in b reach of contract  require of course evidence of the target having bre ached 
+an identified  contractual term. It is suggested  in oral submissions  that the targets might 
+be in breach of terms as to confidentiality in their employment contracts . However, 
+neither the contractual  terms nor the alleged manner of breach is set out.   
+28. As regards a breach of privac y claim, t he suggestion  that domestic tort law protects 
+privacy in general terms is open to debate. This judgment is certainly not the place to 
+have such a debate . I accept that English law provides some protection against the 
+unwarranted publication of private information.  
+29. The Claimant has refer red to a claim  based on “the economic  torts.” The possible 
+signi ficance of such tor ts has been suggested in no more than this generic way  in the 
+Claimant’s skeleton argument . In his oral submissions , Mr Skeate  accepted that it was 
+not possible on the material before  the court to suggest that any c onspiracy could be 
+alleged, but he argue d that the  reviews might amount to an unlawful means tort.  This 
+tort, carefully analysed in OBG v Allen  [2007] UKHL 21 , was described by Lord 
+Hoffman at [51] of his judgment as consisting of “acts intended to cause loss to the 
+claimant by interfering with the freedom of a third party in a way which is unlawful as 
+against that third party and which is intended to cause loss to the claimant. ” As the 
+House of Lords had held in OBG v Allen  and the Supreme Court confirmed in Secretary 
+of State for Health v Servier Laboratories  [2021] UKSC 24, it is central to this tort that 
+the unlawful means have affected the third party’s freedom to deal with the claimant.  
+30. Misfeasance  in public  office has been  said by the Law Commission ( see their 
+publication , “Misconduct in Public Office” 2020) to involve showing that a public 
+officer acting as such has , without reasonable  excuse of justification , wilfully  neglected 
+to perform their duty or wilfully misconducted  themselves to such a  degree as to an 
+amount to an abuse of the public ’s trust in  the office holder .
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+12 31. As to the vague assertion of a claim for “computer misuse ,” there are various respects  
+in which the use of computers for malign purposes or in unauthorised  circumstances  
+may amount to a tort. The Claimant has not identified  any especially  relevant 
+circumstances  so I cannot further identify what cause of action is here being referred 
+to. The Defendant s ays in its skeleton argument that the Claimant may be suggesting 
+that there is some criminal breach of the Computer Misuse Act 1990.  
+THE REVIEWS  
+32. As I have noted, t he Claimant has , in its draft  order,  identified  four reviews that are 
+specifically targeted:  
+Review (1) of 31.5.18 : 
+“Intense and stressful  
+I have been working here just a short while as an administrator. The 
+pressure is quite intense and I've not felt adequately supported. After 
+persevering a few weeks I handed in my notice to a bemused manager. 
+Not everything is as it appears until you begin  working in such a place.  
+Pros  
+Salary is ok for the location  
+Cons  
+Very very stressful and lack of support”  
+In reply to that review, the fol lowing was posted  on 6 June 2018 :  
+“Official response from GovData  
+This is not a truthful comment as you only worked here for 4 weeks and 
+had in that time scale had lied about your skill set and also used 
+personal data for your own benefit therefore I was not bemused when 
+you handed in your notice the day after you had your warning about 
+using personal data and al so that you were not trustworthy to continue 
+to be working within a HR/Recruitment area.  
+As for the fact you say you were not support you claimed that you were 
+management level therefore had wages to that standard and this was 
+clearly not true. The only thing that bemused anyone within the whole 
+office was the fact that you were not terminated  straight away for gross
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+13 misconduct after abusing other staff members details for your own 
+gains. As was clearly stated in the written notice you were given.  
+I do hope the next place you become employed is not fooled by your lies 
+and ensures that you can actually do the work you say you can and that 
+no personal data is available to you.”  
+ Review  (2) of 14.8.21:  
+“Extremely toxic environment  
+Bad management that borders on being abusive to it's employees and a 
+toxic workplace culture that encourages a frightening level of contempt 
+between staff. All of which encouraged by the CEO. Avoid this company 
+at all costs.  
+Pros  
+Free parking  
+Cons  
+Hostile management & CEO, No training ” 
+Review (3) of 29.9.22:  
+“Negative Experience  
+“I did not have a good time at GovData. There is a lot of pressure to 
+perform at all times but with very little training or coaching. If the CEO 
+likes you then you'll be fine, but he doesn't seem to like many people. 
+Lots of overtime expe cted as standard and no time owing can be taken. 
+A culture of fear and paranoia instilled from the top.  
+Pros  
+Nice office, could bring my dog to work  
+Cons  
+Overtime on most days, CEO's leadership style is undesirable”  
+Review  (4) of 8.1.23  
+“Don't even bother applying.  
+The culture at this company is shocking. I come  to the  conclusion that 
+the only reason this company  still has  employees is because they've been 
+made to feel so worthless that they think they can't do any better .
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+14 Management your typical incompetent bosses that got where they are by 
+default in the 90s. Nothing spectacular but working here isn't worth 
+dealing with that  until you  find something else.  
+Pros  
+Easy to get to, Parking  
+Cons  
+Poor Management, High Staff Turnover”  
+33. As to other revie ws of which the Claimants complain, there is next to no detail within 
+the evidence  as to the content of the reviews.  The high water  mark of the 
+particularisation  of these reviews is paragraphs 7 , 8 and 10 of Mr Hugo’s first witness 
+statement : 
+“[7] This matter arises due to the publishing on Indeed of frequent, malicious, untrue 
+and damaging and hurtful allegations on the Indeed website by anonymous ‘user(s)’ 
+who make a range of statements collectively against the company, GovData Ltd, and 
+variously, personalised to myself, other colleagues, managers, shareholders. The 
+current various fake reviews are attached at pages 2 to 5 of the bundle . 
+[8] These comments began several years ago. Despite frequently complaining to Indeed 
+and seeking removal, which was done on several occasions, the abuse is a campaign of 
+hate and harassment, damaging to the business, and to the reputation and mental health 
+of employees, including those personally targeted. In fact, it  has reached a point where 
+even unbeknownst to the directors and other staff, some staff have taken it upon 
+themselves to personally object to the way in which the company is being defamed … 
+[10] The allegations continue to be made, and some are removed whilst others, entirely 
+at the whim of the publisher, Indeed, remain there to damage our business and persons. 
+The reviews are becoming increasingly fanciful but vicious and abusive in nature as we 
+continue to try and navigate post Covid growth. We need to know who this individual 
+or individuals working in collusion are so that we can bring proceedings against them 
+for personal reputational damage and clear financial damages for the company. ” 
+Although the reviews  referred to at the end of paragraph  7 of the statement are in fact 
+simply those reviews referred to in paragraph 32 above, it would seem from the 
+reference to reviews that have been removed and to the fact that such reviews are
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+15 “personalised”  to several people other than Mr Hugo himself that he is in fact referring 
+to more than  simply  the four reviews set out above.   
+PRELIMINARY ISSUES  
+34. Some of the Claimant’s arguments can be dealt with swiftly and do not merit prolonged 
+consideration , in particular : 
+a. The suggestion  of collusion  between reviewers ; 
+b. The suggestion  that the review ers are “ entirely  fake”:  
+c. The attempt by the Claimant to rely on reviews other than the four set out at 
+paragraph  32 above;  
+d. The Claimant’s reliance on causes of action other than defamation and malicious 
+falsehood.  
+35. It will be noted from the passage in paragraph 10 of Mr Hugo’s first witness statement 
+that he speaks of reviewers “ working in collusion.”  There is no direct evidence that 
+reviewers have in some way worked together to criticise the Claimant or to cause it 
+harm. The content of the four identified reviews does not show any clear indication of 
+collusion – whilst all four contain  criticism of the management of the Claimant 
+company, the criticism is in different terms . Mr Hugo, as CEO is identified  for particular 
+criticism in reviews [2] and [3], but again  the criticism is not in the same terms. 
+Moreover  each of the reviews  contains at least some positive as well as negative 
+comment. Whilst the positive  comments would be unlikely to outweigh the negative 
+points in the eye of a reader who was thinking of applying for  a job with the Claimant, 
+the overall tone of the reviews simply doe s not point to collusion.  
+36. During the course of his oral submissions for the Claimant, Mr Skeate acknowledged 
+that he was not able to show prima facie evidence of some conspiracy between the 
+reviewers to target the Claimant, though he argued that the order sought might lead to 
+the d isclosure of information that showed there was collusion between the targets. It is 
+undoubtedly the case that there is insufficient material before the court to show an 
+arguable case of conspiracy between the reviewers  whether of the identified reviews or 
+of other reviews .  
+37. On a separate issue, a t paragraph 14 of his witness statement, Mr Hugo speak s of the 
+revie wers in these terms :
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+16 “these  people, from the timings, language and even job titles of the individuals are 
+entirely fake and have no correlation to anyone genuinely leaving our firm .” 
+This is a surprising  assertion  given that, in respect  of review [1], the Claimant appears 
+from the response to have identified  the author  as a former employee in respect  of 
+whose behaviour  the Claimant was critic al. During the course of his submissions, Mr 
+Skeate  dealt with the assertion that this response seemed to show that the Claimant 
+knew who the author was  (a matter of some relevance given the second criterion 
+referred to in Mitsui v Nexen ). In reply to the argument that there was no “ need” for an 
+order where the Claimant already knew the identity of the author of the review, he said  
+that the Claimant had no more than a suspicion  of the person’s identity at this stage and 
+needed the order sought to confirm that suspicion . I will return to that point  below, bu t 
+the ability of the Claimant to make even a guess at the author as a former employee 
+contradicts Mr Hugo’s comments that the people are “ entirely fake.”  Further, t he 
+assertion that the timings and/or language and/or job titles referred  to in the reviews 
+show them to be fake is not otherwise explained. If it is said to be true of the four 
+identified reviews , it was open to the Claimant to explain the assertion . Not only has it 
+failed to do so but its identification  of the author of the first review directly contradict s 
+the Claimant’s argument . If on the other hand it is said to be a reference to other reviews 
+that h ave been deleted, the Claimant has failed to provide any explanation  for what 
+information is said to show that the reviewers were fake.  There is no material fr om 
+which the Claimant can draw the  prima facie case that any of the reviews  (again whether 
+identified or not)  is not in fact a comment from an ex -employee , whatever its motivation  
+or purpose .  
+38. In so far as the Claimant seeks to rel y on reviews other than those particularised  in the 
+Claim Form, the claim as formulated cannot succeed. The failure to make even a 
+rudimentary attempt at drafting such an order demonstrates the weakness of the 
+Claimant’s position. The problem could be put in two different ways:  
+a. In the absence of any attempt to describe  the conten ts of the reviews  the court 
+has no basis to conduct the assessment anticipated in Davidoff  or even to 
+determine  whether the alleged claims against the targets have a real prospect of 
+success.  Mr Hugo’s desc ription in paragraph 7 of his first statement of 
+“frequent, malicious, untrue and damaging and hurtful allegations”  is far too 
+vague.
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+17 b. How could the court even frame  an order when it does not know the basics of 
+what the reviews are alleg ed to say  or to have said ? If the Claimant had made 
+some attempt to particularise  them , this might be possible, but absent any such 
+attempt, it would seem that the court would have to define the reviews which 
+the Defendant was obliged to respond to as those being any review which is 
+“critical ” of the Claimant, a definition  far to o wide to meet the targeted 
+circumstances in which this kind of order might  be made. Even that terminolo gy 
+might be said to  introduce a level of subjectivity and to be lax which is not 
+consistent with the  jurisprudence for the making of this kind of order.  
+39. The Claimant complains that, if the Court does not make the order sought, it is not in a 
+position to particularise  its case. However, the Claimant  must  have some material from 
+which  to have reached the conclusion that an order might be justified. On the Claimant’s 
+case, t hat might be limited to a person’s recollection  of what  was said  in a review that 
+has now been deleted , but to begin to meet the threshold requirements for bringin g a 
+claim , such a  person would have to be able to de scribe why they considered any 
+particular  review to be defamatory, a malicious falsehood or to fall within  any of the 
+other potenti al wrongs identified. If  the Claimant  does not attempt to do so, it would 
+appear that it is simply targeting  any review that is critical . This would clearly not come 
+close to satisfying  the Davidoff  test. 
+40. It follows that the Claimant is not entitled  to an order based upon reviews which have 
+not been identified  and wher e there h as been no attempt to particularise them. Given 
+the complete failure of attempt  to give particula rs, it is not necessary for the purpose of 
+this judgment to identify what particulars might suffice.   
+41. Further, if the application  were amended to add Mr and/or Ms Hugo  as Claimants , the 
+argument would be no stronger. An amendment  for this purpose would not be proper.  
+42. Accordingly, this application  can only succeed to the extent that the identified  reviews 
+referred to at paragrap h 32 above are shown to be the potential  subject of a claim against 
+the respective targets . 
+43. Further, in respect  of the identified  reviews, there is simply no material to support the 
+following causes of action:  
+a. Assault : none of the reviews involved  the use or threat of violence.
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+18 b. Breach of contract : There is no identified  term as to obligations of 
+confidentiality . I accept that this may be difficult  where the targets  are not 
+identified (since the relevant employment contract could  not be  identified ) and 
+that in any event the contractual term as to confidentiality may be an implied  
+term that at least arguabl y was owed by any employee. However , there is no 
+material fr om which it can be concluded that any of the reviews involve d the 
+use of confidential  information and therefore even arguably amounted to a 
+breach of confidentiality  
+c. Breach of privacy : As I have indicated, there may be circumstances  in which 
+misuse  of private information is actionable in tort. Here however, no private 
+information is identified and any argument is bound  to fail.  
+d. “The economic torts :” I have noted above that the potential  relevance of such 
+tortious liability its said to lie in the possibility that there is an “unlawful means” 
+claim here. The difficulties in this argument are obvious. What are the alleged 
+unlawful  means ? Is this any more than simply restating the other tor ts which are 
+the subject matter of the claim, especially defamation and/or malicious 
+falsehood ? Mr Skeate was not able to identify  any way in which it could be said 
+that the reviews may have harmed  the Claimant other than by their direct 
+consequence on its reputation. In those circumstances , the tort here relied on 
+simply adds nothing to the other causes of action. In particular, I can see no 
+basis for moulding that tort to fit factual circumstances which  are in fact 
+actionable applying other well -established  tortious tests.  
+e. Misfeasance in public office : I do not see any possible  basis for invoking  this 
+tort. Apart fr om anything else, none of the targets  are alleged to be public office 
+holders  and none appear to have been acting in any public office.  
+f. “Computer misuse :” The Claimant’s complete failure to identi fy any alleged 
+tort leaves me incapable of judging this argument, though it is far from obvious  
+to me what tort could be relevant.  For example, if some offence under the 
+Computer Misuse Act 1990 were alleged, I would need to have explained what 
+the alleged offence is said to comprise and how that offence is actionable at the 
+suit of the Claimant. The case as currently particularised wholly fails to do 
+either.
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+19 44. It follows  from the above that  the remainder  of this judgment deals only  with: 
+a. the four reviews expressly referred to;  
+b. the causes of action in defamation  and/or malicious  falsehood.  
+THE CLAIMANT’S CASE  
+45. In dealing with the various reviews,  the Claimant’s starting position  is that the 
+Defendant hold s the information that it seeks to assist in identifying  the reviewers . This 
+much is not in dispute.  
+46. Further, the Claimant contends  that it has no other means of identifying  the authors  of 
+the review s than by the voluntary disclosure of information by the Defendant (which it 
+will not provide) or by this Court making the order now sought.  Whilst this is not in 
+dispute in respect of reviews [2] to [4], the Claimant does seemingly have material to 
+identify  the author of review [1]. However, the Claimant contends that it  has no more 
+than a suspicion of the identity  of the author – the material sought fr om the Defendant 
+would conf irm their identity . 
+47. Yet f urther, the Claimant contends that the Defendant is “mixed up” in the wrongdoing 
+sufficient to justify an order being made. A s Nicklin  J noted at paragraph  102 of his 
+judgment in Davidoff , where a claim is brought  against the operator of a website on  
+which  the alleged wrongdoer  has posted an anonymous review, “ there is little doubt 
+that the website has become mixed up in the wrongdoing because it has, through its 
+platform or service, enabled and facilitated the publication complained of.” This 
+principl e applies her e. 
+48. It follows that, on the Claimant’s case, the court’s decision  as to whether  to grant an 
+order turns solely on the issue of the alleged wrongdoing of the targets , the other 
+threshold criteria having been met . The Claimant contend s that it s claims (whether 
+limited to those in defamation  and malicious falsehood  or more broadly covering the 
+other caus es of action identified  above) are more than merely  fanciful. The Claimant 
+can show a real prospect  of success in respect of each of the reviews.  
+49. In terms of the Davidoff  balancing exercise, the Claimant points  out first that, in that 
+case, Nicklin J identified the value of anonymous speech in the traditions of the United 
+Kingdom and the USA. At paragraph 30 he stated:
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+20 “As the Court of Appeal noted in Motley Fool , Article 10 protects both speech by an  
+identified individual and anonymous speech. Whilst anonymity on the Internet can be 
+used as a cloak behind which to harm others by unlawful acts, not all anonymous 
+speech is of this character. Such speech, particularly in a political context, as a 
+dimension of freedom of expression, can have a real value and importance. It also has 
+a long pedigree both i n the United Kingdom and the United States. As Lord Neuberger 
+noted, extra judicially:  
+“It is unsurprising that the most robust protection of anonymous speech is to be 
+found in US law. In McIntyre v Ohio Elections Commission  (1995) 514 US 334, 
+a case on a statute prohibiting anonymous political literature, it was famously 
+said by Justice Stevens that:  
+‘Under our Constitution, anonymous pamphleteering is not a 
+pernicious , fraudulent practice, but an honourable tradition of advocacy 
+and of dissent. Anonymity is a shield from the tyranny of the majority.’”  
+The modern equivalent of the anonymous pamphleteers of 200 years ago are 
+anonymous online commentators, such as “The Secret Barrister”, for whom anonymity 
+is an important dimension of the exercise of their rights of freedom of expression. ”  
+50. In contrast to the protection  of political or religious opinions , cases such as the instant 
+one are concerned with a  much lower level of freedom of expression in the context of 
+comments  that (it is said) harm and are intended to harm the commercial interest of the 
+Claimant, rather than to protect their own beliefs  or challenge the beliefs  of others . The 
+interests of the targets in their anonymity  are, on the Claimant’s case,  less worthy or 
+protection (or at least  worthly of less protection)  than those of the kind o f case that 
+Nicklin J had in mind in Davidoff . 
+51. Furthermore, the comments made here are (it is said  on behalf of the Claimant ) not 
+simply statements of opinion  but statements  (at least in part) of fact. The example  given 
+is the assertion  in review (2)  that the workplace culture is “ toxic”.  The Claimant 
+contends that, where the anonymous comments that are being targeted are statements 
+of fact (or at least mixed  statements  of fact and opinion ), the balance will more readily  
+fall in favour of making an order sought to identify the author. The r ationale  behind this 
+distinction is not entirely clear from the Claimant’s arguments although it would seem 
+to lie in the argument that it will be more straightforward  to prove that a statement is
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+21 actionable  as defamatory or a malicious falsehood if it is at least in part a statement of 
+fact. 
+52. The Claimant contends that there is evidence that reviews such as those on the 
+Defendant’s website  have caused damage to its business. In this regard , my attention is  
+drawn  to a document attached to Mr Hugo’s witness  statement, headed “ Reviews 
+Affecting Sales.”  The document purports to bring together a  number of sources  of 
+material as evidence that the Claimant’s business has been harmed by what people have 
+discovered from searc hing details of the Claimant’s business online.  
+THE DEFENDANT’S CASE  
+53. I have noted above that the Defendant accepts that it has the relevant  information  to 
+identify  the authors of the four identified reviews . It may have the information to 
+identify the authors of other anonymous reviews that have now been deleted, so long 
+as they are clearly identified1. Further , the Defendant does not dispute that, save in 
+respect  of review (1), the Claimant is unlikely to be able to obtain the information  
+necessary to trace  the target from any other source.  Yet further  the Defendant does not 
+dispute that it is “ mixed up ” in the alleged wrongdoing in a  manner that would make it 
+the potential subject of  a Norwich Pharmacal type order.  
+54. However, the Defendant contends that , when considering the balancing exercise 
+anticipated in Davidoff , the Claimant’s argument  fails adequately to de al with the rights 
+of the targets as anonymous posters  whilst overstating the strength of the cases against 
+the targets.   
+55. Dealing first with the claims that are intimated against the targets, the Defendant 
+contends that each of the claims is weak  even without consideration of the evidence of 
+any loss flowing from the alleged torts : 
+a. Of review (1), the Defendant points out that this claim is significantly  out of 
+time. The Claimant has known  (or at the very least has suspected that it knows) 
+the identify of the poster  for over 3 years , yet there is no evidence that it has 
+taken any s teps against that person,  whether to establish their identity with 
+ 
+1 I had understood during the hearing that the Defendant was able to identify the authors of now deleted reviews 
+so long as the reviews themselves are clearly identified. Having sent out this judgment in draft, I was told that this 
+was not necessarily the case and could only be known if the reviews themselves were first identified. Whilst this 
+may be a discrete arguable ground for refusing relief, I have not determined the case on this issue and would have 
+required further submissions if it had affected the outcome of the application. In the event it does not.
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+22 greater certainty or to seek relief for the wrongdoing . Any argument for the 
+disapplication  of the limitation  period would be very weak . Of course, it would 
+be for the target of the current application to take that line of defence, but the 
+likelihood  of the point being successfully  taken must be very high. I n any event, 
+the Defendant contends th at it is far fr om cle ar that a statement  of the kind in 
+review (1)  that the pressure of a job is quite intense and that an employee  has 
+not felt supported are capable  of being defamatory  and/or of being shown to be 
+false . They are statements of the perception of the author not of objective fact . 
+Even if capable of being defamatory, the Defendant contends that it is not clear 
+to whom the statement is targeted. Is i t said to be defamatory of the Claimant 
+itself or of Mr/Mrs H ugo? If the latter, why would the reader of the comment 
+think it referred  to either of them?  
+b. Again, review (2) would be out of time for a claim in defamation or malicious 
+falsehood . Although the Claimant may not know the identity of the reviewer, it 
+has taken no steps until now to establish that identity. Further the language of 
+the review  is largely that of opinion rather than assertion of fact , though perhaps 
+not so obviously as review (1) . Whilst there is one reference to Mr Hugo as 
+CEO, th e review  is not highly critical of him  and arguably  would not make the 
+reader think less highly of him . The re is no reference to Ms Hugo or her role  in 
+the Claimant . 
+c. Yet again  review (3) would be out of time for  a claim in defamation  or malicious  
+falsehood  though  only marginally so such that the Defendant  would accept that 
+an argument  to permit the claim to continue under Section 32A of the Limitation  
+Act would be stronger. Further, like review (2), the Defendant accepts that 
+somewhat stronger language of this review may make a claim in defamation  or 
+malicious falsehood more arguable though again there is no express  reference 
+to Ms Hugo.  
+d. In respect of review (4) a claim against the author would have been in time if 
+brought  at or shortly after the hearing on 1 November  2023 so a limitation  
+argument is not likely to be a serious bar to the contemplated claim. However 
+the Defendant doubts that the contents of this review are capable of being held 
+to be defamatory or a false statement.
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+23 56. Turning to t he right of privacy of the person  posting an anonymous  review, a t paragraph 
+31 of his judgment  in Davidoff , Nick lin J made clear that such posters have an interest 
+in their privacy. Th e Defendant contends that th is applies just as much to  someone 
+posting a review of  an estate agent whose services they have sued (as in Davidoff  itself) 
+or their fo rmer employee (as here) as it does to the political pamphleteer or indeed the 
+author of the Secret Barrister.  
+57. The Defendant asks me to bear in mind the terms upon which reviewers post on the 
+Defendant’s website. They include the following:  
+“1. The reviews you submit are anonymous . 
+… 
+3. Identifiable information is not shared with the company you review. However,  Indeed 
+may honor subpoenas, search warrants, law enforcement or court -mandated  requests 
+to disclose user content you have provided, your identity, or other  information.  
+4. These are your personal experiences and opinions, and those can be emotionally  
+charged. However, any content that is unlawful, fraudulent, discriminatory, 
+threatening, abusive, libelous, defamatory, obscene, or otherwise objectionable, or that 
+contains sexual, ethnic, racial, or other discriminatory slurs, or that does not include 
+relevant or constructive content is not allowed on Indeed and we reserve the r ight to 
+remove such content.”  
+58. It is apparent fr om this te xt that, whilst reviewers should realise that their identity might 
+be disclosed in certain circums tances, the expectation is that reviews will be 
+anonymous.  
+59. That is not to say that the anonymity of the poster is necessarily worthy of protection . 
+The Defendant acknowledges the passage at paragraph 112 of  his judgment in Davidoff , 
+where Nicklin J said,  “where there is a real basis on which to suspect or conclude that 
+a person has used anonymity merely as an expedient by which s/he hopes to avoid 
+identification and the potential consequences of their online activity the Court is likely 
+to attach limited we ight to the need to protect that anonymity.”  However the use of 
+anonymity here is not an expedient to avoid the reviewers taking responsibility for their 
+words; rather it is the very condition that frees them to make the comments in  the first 
+place. It would be inimical to free speech to allow the disclosure of the identity of those
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+24 who would not post their comments if they believed that their identity would be 
+disclosed.  
+60. In the exercise  of the discretion  to make an order , the Defendant asks me to bear in 
+mind that, although the Claimant acted as a litigant in person until shortly before the 
+hearing before me, it has shown a degree of lega l sophistication , for example copying  
+in a legal email address to i ts correspondence . It has purported to express opinion s on 
+legal matters, for example in an email from Mr Hugo dated 24 October 2023 where he 
+says to the Defendant’s solicitors,  “I would welcome an explanation please. We wrote 
+to you today and to the court in reference to the requirement to amend the claim form 
+and the intent of your client to resist the amendment, necessitating an application to be 
+made. We will have counsel on th e day and shall seek our costs on an indemnity basis. 
+I see no reason whatsoever for your object ion, nor any validity in law. Further, in 
+response to your original correspondence and defence, I found it to be ill founded and 
+furthermore, outside of your client’ s boundaries as a party to these proceedings. It is 
+not for you to ‘pre -try’ a case of defamation, or for that matter any other ac tion that 
+may arise from unmasking the malicious and damaging allegations made on your 
+client’ s website.”  In so far as the Claimant seeks the indulgence of the court for lack of 
+specificity in its application, the cou rt should bear in mind that  it has behaved as though 
+it has either received legal advice or has relevant legal knowledge on the issues before 
+the court.  
+61. As to the argument that the reviews complained of have caused damage to the Claimant, 
+the witness statement of Anne Mannion exhibits several reviews fr om sources other 
+than the Defendant. At paragraph 11, she sets out various reviews on Googl e that show 
+some signi ficant dissatisfaction  with the Claimant from a variety of sources.  Overall, 
+she states that the average rating of the Claimant on Google is 4.1/5. This compares 
+with the average rating on the Defendant’s platform which, according to Mr Dowling’s  
+statement, is 4.5/5. This would suggest that the publications on the Defendant’s 
+platform a re likely to be a lesser cause of harm to the Claimant than those on Google.  
+62. The Defendant points out that this is consistent with the Claimant’s own material in the 
+document referred to at paragraph 52 above. None of the material in that document 
+indicates that it is reviews on the Defendant’s website that have caused potential 
+customers not to place business with the Claimant. I n so far as any specifi c reasons are 
+given , the sources cited are either reviews on Google or reports of Employment
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+25 Tribunal proceedings, neither of which are attributable to the reviews on the 
+Defendant’s site.  
+63. Further , the Claimant , in particular through the communications of Mr Hugo, has shown 
+itself willing to act aggressively to protect its position. A particularly  striking  example 
+of this is an email from Mr Hugo to one Dale Rowland  dated 12 April 2021 , which can 
+be seen online in a review posted by Mr Rowland on Google and  exhibited  by Ms 
+Mannion . The context  of this email is not clear, but the text in the bundle reads as 
+follows:  
+“You are a very rude and gutless little weasel. Never  write anything you wouldn't have 
+the guts to say  directly to someone's face.  Insulting me is fine, insulting my integrity as 
+a person, not my job role, I will respond to  appropriately. I will be back in the UK 
+shortly. You will  then be able to make your nasty spiteful immature  comments to my 
+face. As for your inadequate  understanding of what you were all told back in  December, 
+I will now refresh your very selective  memory.  
+If your brains were not in your arse you would be able  to add up, that the new closers 
+are now in month 5,  hence their last month was month 4, are you able to  count along 
+so far?   
+They fully understand their target is now in place, the sales team (who have been there 
+for 4 months and more) will also realise that. Yet you want to blame me? Are you sure 
+it isn't John, or Simon, or Brendan as previously?  
+In short everyone but pathetic little Dale. Typical shite inadequate salesperson, 
+remembers the bits that suit them and blame everyone else but themselves for their crap 
+performance. I am delighted you were too stupid to realise your mistake. Whether you 
+left now or at the end of April, the commission position would be no different. 
+Suggesting I don't honour contracts is not going to go down well AT ALL with me! You 
+cheeky lying little arsehole. You want to talk about contracts? Where was your 
+performance e ach month to hit targets? Did I ever personalise it with you or anyone 
+else? You want to get personal? No problem with me. Let's do that eh?  
+That's what you were employed to do. Failure. Stop snivelling and go and better 
+yourself for the benefit of your new employer. The fact you were prepared to take a non 
+commission and bonus paid role shows how you don't even have the self image of a 
+proper salesperson…”
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+26 64. A similar  tone can be seen in the Claimant’s response  to one of the Google review s 
+from Mr Kishour Zahid . 
+65. Ms Mannion’s researches  also show that, if one searches on line against  the Claimant’s 
+name, one may well turn up reports of proceedings in the Employment  Tribunal. This 
+is of interest when one considers the points made within the Claimant’s document 
+headed “Reviews Affecting Sales,” in which customers who are said to have decided 
+against placing business with the Claimant refer not to reviews by former employees, 
+but, amongst  other things, reports of employment  tribunal hearings  and negative  
+reviews on Goo gle.  
+66. Taken together, this material would indicate that , not only is it unlikely, looked at 
+prospectively, that negative reviews on the Defendant’s platform , as opposed to the 
+contents of other reviews and other material available online,  would cause loss to the 
+Claimant (or Mr and Mrs Hugo), the evidence points in the direction that in fact any 
+losses that could be said to have arisen had other causes.  
+DISCUSSION  
+67. In considering the evidence as to loss, I bear in mind that the issue only arises a t an 
+interim stage and that the Claimant (and Mr and/or Ms Hugo, if they are joined  as 
+Claimants either in this case or in subsequent  litigation  against  the wrongdoers ) may be 
+able to marshal considerably more evidence as to the effect of the reviews. The 
+Claimant has clearly made some effort to show the effect of the reviews  on it, but, for 
+reasons identified by the Defendant and noted above, not only does it fail to show any  
+financial  loss attributable  to the reviews, its evidence tends to suggest that any loss 
+actually has other causes , such as reports  of proceedings in the Employment  Tribunal 
+and/or reviews on Google which can not be laid at the door of the Defendant’s platform .  
+68. Further, Mr and Ms Hugo have taken no steps to show that they  personally  have suffered 
+reputational  loss du e to the reviews. The y are therefore driven back on to the 
+presumption of loss . In respect of the  claim in defamation, that loss is presumed without 
+more, but in respect of the claim in malicious falsehood, it requires proof that the words 
+are calculated to cause pecuniary damage. I am satisfied that t here is no material before 
+the court from which that inference can be drawn.  
+69. It is of course  the case that, were the Claimant to obtain disclosure of the details of 
+reviewers, it might be able to find material to support its contention that comments were
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+27 made with intent to cause damage and/or its suspicion that there is collusion between 
+reviewers. The failure to make the order sought might therefore deprive the Claimant 
+of the ability to vindicate its rights.  This risk was recognised  by Nicklin J at paragraph  
+83 of his judgment  in Davidoff , but, as he said there, this does not relieve the Claimant 
+of the burden of proving the necessary  ingredients  of the tort on which it relies  in 
+support of the making of an order.  
+70. In considering the various reviews, I shall look at the contents of each and the evidence 
+that the Claimant, Mr Hugo and/or Ms Hugo have suffered any loss as a result of each 
+or all of them. In my judgment, the cases against the authors of each of the reviews, 
+whether in defamation  or in malicious  falsehood , are distinctly problematic , although 
+some are stronger than others . I shall deal with the reviews  one by one, subdividing 
+them according to potential cause of action and potential claimant.  Where I use the 
+word “ weak ,” I mean a claim or argument  that does not , on the material placed before 
+the court,  meet the Swain v Hillman  test of having a real prospect of su ccess.  
+71. Dealing with review (1), I consider this to be a very weak basis for a claim against any 
+of the Claimant, Mr Hugo and/or Ms Hugo for the following reasons.  
+a. Defamation  claim by the Claimant : 
+i. The claim is out of time under Section 4A of the Limitation Act 1980. 
+An application to extend time for bringing the claim under section 32A 
+of the Act would be very unlikely to succeed given for how long the 
+Claimant has at the very least suspected that it has known the identity of 
+the reviewer.  
+ii. The argument that this review is defamatory of anyone is weak since  it 
+contains  statements of opinion  or perception that would be difficult to 
+contradict.  It is not clear why those statements would have a 
+substantially adverse effect on how people would treat the Claimant , Mr 
+Hugo and/or Ms Hugo.  
+iii. The Claimant has poor prospects of showing  that the review has caused 
+serious harm to its reputation . 
+b. Malicious  falsehood  claim  by the Claimant :
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+28 i. The claim is out of time under Section 4A of the Limitation Act 1980. 
+An application to extend time for bringing the claim under section 32A 
+of the Act would be very unlikely to succeed given for how long the 
+Claimant has at the very least suspected that i t has known the identity of 
+the reviewer.  
+ii. The arguments that this review is false and/or was pub lished maliciously  
+are weak since  it contains  statements of opinion or perception that would 
+be difficult to contradict.  
+iii. There is no evidence to show that the Claimant, Mr Hugo and/or Ms 
+Hugo have  in fact  suffered pecuniary damage as a result of the 
+publication  and such material as there is would indicate that any losses 
+have other causes.  
+iv. There is no material from which to draw the conclusion that the words 
+were calculat ed to cause pecuniary damage to the Claimant , Mr Hugo 
+and/or Ms Hugo.  
+c. Defamation  claim by Mr Hugo : 
+i. As 71(a)(i) and (ii) for the Claimant. Also , 
+ii. The reader would be very unlikely to understand this review to be a 
+reference to Mr Hugo as opposed to any other manager at the Claimant.  
+d. Malicious  falsehood  claim by Mr Hugo : 
+i. As 71(b)(i) , (ii), (iii)  and (i v) for the Claimant. Also,  
+ii. The reader would be very unlikely to understand this review to be a 
+reference to Mr Hugo as o pposed to any other manager at the Claimant.  
+e. Defamation  claim by Mrs Hugo : 
+i. As 71(a)(i)  and (ii) for the Claimant. Also,  
+ii. The reader would be very unlikely to understand this review to be a 
+reference to Ms Hugo as opposed to any other manager at the Claimant.  
+f. Malicious falsehood claim  by Mrs Hugo : 
+i. As 71(b)(i), (ii), (iii) and (iv) for the Claimant. Also,
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+29 ii. The reader would be very unlikely to understand this review to be a 
+reference to Ms Hugo as opposed to any other manager at the Claimant.  
+72. Dealing with review (2) , I consider this to be a  weak  case as against the Claimant and 
+Mr Hugo, and to be very weak as against Ms Hugo.  
+a. Defamation claim by the Claimant : 
+i. The claim is out of time under Section 4A of the Limitation Act 1980. 
+An application to extend time for bringing the claim under section 32A 
+of the Act would be unlikely to succeed given the length of time since 
+the review was published.  The mere fact that the identity of the author 
+was not known does not greatly assist since no steps appear to have been 
+taken to identify the person earlier.  
+ii. The contents of the review are capable of being defamatory of the 
+Claimant and Mr Hugo  on the basis that they include factual assertions 
+relating to bad management in the Claimant and encouragement of this 
+by Mr Hugo  which may have a substantially adverse effect on the way 
+that people would treat the Claimant itself and/or Mr Hugo.  
+iii. The Claimant has poor prospects of showing that the review has caused 
+serious harm to its reputation.  
+b. Malicious falsehood claim by the Claimant : 
+i. The claim is out of time under Section 4A of the Limitation Act 1980. 
+An application to extend time for bringing the claim under section 32A 
+of the Act would be unlikely to succeed given the length of time since 
+the review was published. The mere fact that the identity of the author 
+was not known does not greatly assist since no steps appear to have been 
+taken to identify the person earlier.  
+ii. The contents of the review are capable of amounting to a malicious 
+falsehood actionable against the Claimant and Mr Hugo on the basis that 
+they include factual assertions relating to bad management in the 
+Claimant and encouragement of this by Mr Hugo.  
+iii. There is no evidence to show that the Claimant, Mr Hugo and/or Ms 
+Hugo have in fact suffered pecuniary damage as a result of the
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+30 publication and such material as there is would indicate that any losses 
+have other causes.  
+iv. There is no material from which to draw the conclusion that the words 
+were calculat ed to cause pecuniary damage to the Claimant , Mr Hugo 
+and/or Ms Hugo.  
+c. Defamation claim by Mr Hugo : 
+i. As 72(a)(i)  and (ii) for the Claimant.  
+d. Malicious falsehood claim by Mr Hugo : 
+i. As 72(b)(i), (ii), (iii)  and (i v) for the Claimant.  
+e. Defamation claim  by Mrs Hugo : 
+i. As 72(a)(i)  and (ii) for the Claimant.  Also,  
+ii. There is no material fr om which the reader would conclude that this 
+review referred to Ms Hugo.  
+f. Malicious falsehood claim by Ms Hugo : 
+i. As 72(b)(i), (ii), (iii) and (iv) for the Claimant.  
+ii. There is no material from which the reader would conclude that this 
+review referred to Ms Hugo.  
+73. Dealing with review (3) , I consider this to  be a weak claim  against the Claimant,  but to 
+give rise to an arguable  claim in defamation against  Mr Hugo and Ms Hugo.  
+a. Defamation claim by the Claimant : 
+i. The claim is out of time under Section 4A of the Limitation Act 1980. 
+However, since the present claim to identity  the target was brought  less 
+than 12 months fr om the date of publication, the court might apply 
+Section 32A in favour of the Claimant, Mr Hugo and/or Ms Hugo.  
+ii. The contents of the review are capable of being defamatory of the 
+Claimant, Mr Hugo and/or Ms Hugo on the basis that they include 
+factual assertions relating to a bad culture in the Claimant instilled “ from 
+the top”  which is capable of being a reference to Mr and/or Mrs Hugo ,
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+31 and which would have a substantially adverse effect on the way that 
+people would treat the Claimant itself and Mr and/or Ms Hugo.  
+iii. The Claimant has poor prospects of showing that the review has caused 
+serious harm to its reputation.  
+b. Malicious falsehood claim by the Claimant : 
+i. The claim is out of time under Section 4A of the Limitation Act 1980. 
+However, since the present claim to identity the target was brought less 
+than 12 months from the date of publication, the court might apply 
+Section 32A in favour of the Claimant, Mr Hugo  and/or Ms Hugo.  
+ii. The contents of the review are capable of being proved false, in which 
+case they may be proved to have been made maliciously. They may be 
+taken to refer to Mr  and/or Ms Hugo as well as the Claimant itself on 
+the basis that they include factual assertions relating to a bad culture in 
+the Claimant instilled “ from the top”  which is capable of being a 
+reference to Mr and/or Mrs Hugo . 
+iii. There is no evidence to show that the Claimant, Mr Hugo and/or Ms 
+Hugo have in fact suffered pecuniary damage as a result of the 
+publication and such material as there  is would indicate that any losses 
+have other causes.  
+iv. There is no material from which to draw the conclusion that the words 
+were calculat ed to cause pecuniary damage to the Claimant, Mr Hugo 
+and/or Ms Hugo.  
+c. Defamation claim by Mr Hugo : 
+i. As 73(a)(i) and (ii) for the Claimant.  But also,  
+ii. Given the presumption s of falsity, malice and damage referred to at 
+paragraph 21(c) above and the fact that Mr and Ms Hugo are not trading  
+for profit, they may be able to make out a n arguable  cause of action in 
+defamation .  
+d. Malicious falsehood claim by Mr Hugo : 
+i. As 73(b)(i), (ii) (iii) and (iv) for the Claimant.
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+32 e. Defamation claim by Ms Hugo : 
+i. As 73(a)(i) and (ii) for the Claimant.  
+ii. As 73(c)(ii) for Mr Hugo.  
+f. Malicious falsehood claim  by Ms Hugo : 
+i. As 73(b)(i), (ii) (iii) and (iv) for the Claimant.  
+74. Dealing with review (4) , I consider this to be a weak claim against each of the Claimant, 
+Mr Hugo and Ms Hugo.  
+a. Defamation claim by the Claimant : 
+i. The claim is out of time under Section 4A of the Limitation  Act 1980. 
+However an application  under Section 32A would have re asonable 
+prospect of success on the basis  that the claim to identify  the target was 
+made less than 12 months  after publication . The argument is the stronger 
+for the fact that, had a judgment favourable to the Claimant been handed 
+down ex tempore  at the hearing before me, any claim against the author 
+or review (4) might have been brought in time.  
+ii. The argument that this review is defamatory of anyone is weak since  it 
+contains  statements of opinion or perception that would be difficult to 
+contradict and which in any event do not obviously refer to Mr and/or 
+Ms Hugo. It is not clear why those statements would have a substantially 
+adverse effect on how people would treat Mr Hugo and/or Ms Hugo.  
+iii. The Claimant , Mr Hugo and Ms Hugo  have poor prospects of showing 
+that the review has caused serious harm to their reputation s. 
+b. Malicious falsehood claim by the Claimant : 
+i. The claim is out of time under Section 4A of the Limitation  Act 1980. 
+However an application  under Section 32A would have reasonable 
+prospect of success on the basis  that the claim to identify  the target was 
+made less than 12 months  after publication.  
+ii. The argument that this review is a malicious  falsehood  is weak since  it 
+contains  statements of opinion or perception that would be difficult to
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+33 contradict or to show as being made maliciously  and which in any event 
+do not obviously refer to Mr and/or Ms Hugo.  
+iii. There is no evidence to show that the Claimant, Mr Hugo and/or Ms 
+Hugo have in fact suffered pecuniary damage as a result of the 
+publication and such material as there is would indicate that any losses 
+have other causes.  
+iv. There is no material from which to draw the conclusion that the words 
+were intended to cause pecuniary damage to the Claimant, Mr Hugo 
+and/or Ms Hugo.  
+c. Defamation claim by Mr Hugo : 
+i. As 74(a)(i), (ii) and (iii) for the Claimant.  
+d. Malicious falsehood claim by Mr Hugo : 
+i. As 74(b)(i), (ii), (iii) and (iv) for the Claimant.  
+e. Defamation claim by Mrs Hugo : 
+i. As 74(a)(i), (ii) and (iii) for the Claimant.  
+f. Malicious falsehood claim by Ms Hugo : 
+i. As 74(b)(i), (ii), (iii) and (iv) for the Claimant.  
+75. It follows that the only case that I consider to be arguable is that on behalf of Mr and 
+Ms Hugo in respect of review (3). I consider the threshold  requirements for a Norwich  
+Pharmacal  order to be made out  in respect of a prospective claim brought by Mr and/or 
+Ms Hugo ar ising fr om the contents of that review.  
+76. I therefore turn to consider whether on the facts of the case, the interest of Mr and Ms 
+Hugo in obtaining  an order that  might enable them to vindicate their rights in respect  
+of their arguable  claim is outweighed by the interest of the target. I bea r in mind the 
+words of Nicklin J in paragraph 41 of his judgement in Davidoff  cited above, and in 
+particular the need to ensure that, in the context of revealing the identity of those who 
+make comments anonymously, the Court should be careful to ensure that any order it 
+makes has the purpose of vindicat ing a right to seek legitimate redress for the wrong 
+suffered  rather than some other motive such as seeking revenge.
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+34 77. I am troubled here by the manner in which the Claimant  and Mr and M s Hugo  have 
+gone about  this litigation  for several reasons:  
+a. Their approach to the identity  of the correct claimant has been casual. Whilst  I 
+appreciate  that the distinction  between the claim being brought by the company 
+or by Mr and Mrs Hugo as individuals  is a relatively nuanced argument that 
+may no t be obvious  to non -lawyers, the Claimant appears to be a sophisticated  
+company  which, for example, copies in  (or purports  to copy in) its lega l team  to 
+correspondence  through the use of an email address, legal@govdata.co.uk  and 
+which firmly asserts its  legal  position.  As I have indicated, in correspondence, 
+it has shown an ability to assert its purported legal rights in firm terms.  
+b. The Claimant’s scatter  gun tactic in respect of causes of action is inappropriate . 
+It has alleged a variety of claims  without any explanation  of the basis of the 
+claims.  The majority appear to be simply unarguable , either on the grounds that 
+the legal elements cannot be made out or that the material relied on in support 
+of the claims does not bear the meaning  for which the Claimant contends.  This 
+is concerning  conduct for a company and its senior management when they are 
+required to show that their actions are simply an attempt to vi ndicate a legitimate 
+complaint.  
+c. The Claimant’s approach to those critical  of it can be noted in the documents 
+referred to above and relied on by the Defendant in support of the argument that 
+the cause of any reputational  problems that the  Claimant may have is likely to 
+lie other  than with the material published on the Defendant’s website.  One might 
+consider that the email fr om Mr Hugo  dated 12 April 2021 provide s some 
+support for the criticism that the anonymous reviewers have made of the 
+Claimant company and its management. More importantly, it shows that Mr 
+Hugo is willing to act aggressive ly in  correspondence in a way that suggests 
+that his aim might be to exact revenge rather than to vindicate his rights.  
+78. Taken together these matters cause me concern  that the Claimant and Mr and Ms Hugo 
+are conducting  this litigation  not with a view to seeking redress for genuine interference 
+with their rights but rather with a view to closing down any and all criticism of their 
+business.
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+35 79. I balance against this the interests of the reviewer. Given the absence of any evidence 
+that reviewers have acted in concert , the author of review 3 must be taken for present 
+purposes to have acted alone. I have rejected the suggestion that this is a fake review in 
+the sense that it was not authored by someone who had worked for the Claimant. 
+Though strongly worded, the review purports to reflet the opinion of the author.  There 
+is no reason to think that the author is trying to use the anonymity that the we bsite 
+affords to cause harm to the Claimant (or Mr and Mrs Hugo) rather than to express an 
+opinion.  Doubtless that person believed that they would remain anonymous. The person 
+would not expect to be the victim of litigation brought by the Claimant or Mr and Ms 
+Hugo, still less to be the subject of vitriolic  communication  of the kind in which Mr 
+Hugo has engaged before . Further, even accepting the presumption in favour of loss 
+caused by a malicious false or defamatory statement, the evidence points to other causes 
+for loss. If this were proved to be a defamatory statement , the loss that flowed fr om it 
+must  be minimal , in the light of other mater ial before the court that is critical of the 
+Claimant or its management .  
+80. Weighing these factors, the balance comes down firmly against granting relief. Whilst 
+I accept that there may  be stronger arguments for protecting anonymity in cases 
+involving the expression of deeply held political or religious beliefs, there is a public 
+interest generally in those who post anonymous comments having their anonymity 
+respected as  Nicklin J made clear in Davidoff . The harm to the interest of the author 
+losing anonym ity is greater than the harm to Mr and Ms Hugo being prevented fr om 
+pursuing a claim which, if successful, is likely to be of minimal value and which could 
+only go a small way to vindicating the rights that they consider to have been infringed 
+by people posting on the Defendant’s platform.  
+CONCLUSION  
+81. It follows from the above that  amendment to the Claim Form to permit the addition of 
+Mr and M s Hugo as claimants would be pointless because I would in any event refuse 
+the relief sought . I therefore refuse the application to amend. I refuse the Claimant’s 
+own application for relief for reasons identified above.  
+82. For the sake of clarity, had I been persuaded that Mr and Ms Hugo would have been 
+entitled to relief if joined as claimants, I would have granted that application since  the 
+Claimant made clear from an early stage in the litigation that it was seeking this
+
+High Court  Approved Judgment   GovData v Indeed  UK 
+36 amendment and  the prejudice to them from being refused relief that they would 
+otherwise have been entitled to outweighs any prejudice to the Defendant from 
+permitting the amendment .

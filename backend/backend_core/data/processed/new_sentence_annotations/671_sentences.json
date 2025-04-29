@@ -1,0 +1,1253 @@
+[
+  {
+    "sentence": "Neutral Citation Number: [2021] EWHC 671 (Ch)     Case No: BL-2019 -BRS -000028   IN THE HIGH COUR T OF JUSTICE   BUSINESS AND PROPERTY COURTS IN BRISTOL   INSOLVENCY AND COMPANIES LIST (ChD)     Bristol Civil Justice Centre   2 Redcliff Street, Bristol, BS1 6GR     Date: 25/03/20 21    Before  :    HHJ PAUL MATTHEWS   (sitting as a Judge of the High Court)   - - - - - - - - - - - - - - - - - - - - -  Between :      (1) NIHAL MOHAMMED KAMAL BRAKE   (2) ANDREW YOUNG BRAKE  Claimants    - and -    (1) GEOFFREY WILLIAM GUY   (2) THE CHEDINGTON COURT ESTATE  LIMI TED   (3) AXNO LLER EVENTS LIMITED  Defendants     - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - -    Daisy Brown  (instructed by Porter Dodson LLP ) for the Claimants   Andrew Sutcliffe QC and William Day (instructed by  Stewarts Law LL P) for t he  Defendants     Hearing dates: 23 -27 November 2020   - - - - - - - - - - - - - - - - - - - - -  Approved Judgment   I direct that pursuant to CPR PD 39A para 6.1 no official shorthand note shall be taken of this  Judgment and that copies of this version a s handed down may be treated as authentic.       .............................      HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     2   Covid -19 Protocol:",
+    "legal_references": [
+      {
+        "text": "CPR PD 39A para 6.1",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Covid -19 Protocol",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In October 2014 Adam & Co, the bank which had lent money to Mrs Brake against  the security of the Farm, appointed receivers under th e Law of Property Act 1925.",
+    "legal_references": [
+      {
+        "text": "th e Law of Property Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The se cond  purpose was (as against the truste e) to esta blish t hat the Brakes\u2019 pre -existing interests  in the  cottage and the adjacent parcels had revested  in them and Mrs Brake  respectively on 12 May 2018 under the Insolvency Act 1986, section 283A, on the  basis that they were the Brakes\u2019 sole or prin cipal resi dence a t the da te of bankruptcy,  and Mr Swift had ta ken no steps to realise them three years later .",
+    "legal_references": [
+      {
+        "text": "the Insolvency Act 1986",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I struck out the whole of the Liquidation App lication ([2020 ] EW HC  538 (Ch)), and most  of the  Bankruptc y Application ([2 020] EW HC 537 (Ch)) , for  lack of standing.",
+    "legal_references": [
+      {
+        "text": "the  Bankruptc y Application",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "was however allowed,  so tha t that app lication is yet t o be tr ied (see  [2020] EWCA Civ 1491 for both appeal s).",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 1491",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "But, as  at March 2020, the only sig nificant  matter left from the Liquidation and Bankruptcy Applications  to be tried in May  of  that year, against the former trustee and Chedington, was the  revesting issue under   section 283A.    13.",
+    "legal_references": [
+      {
+        "text": "the Liquidation and Bankruptcy Applications",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 283A.    13",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "So the section 283A  claim",
+    "legal_references": [
+      {
+        "text": "section 283A",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The  claim form made c laims for a final injunction and da mage s based on  causes of action  in breach of c onfidence, misu se of p rivate information, procuring a breach of contract,  and compensation under article 82 of the (EU) General Data Protection Regulation .",
+    "legal_references": [
+      {
+        "text": "article 82",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the (EU) General Data Protection Regulation",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "General Data Protection Regulation",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "The relevant provisions  of the order  are as follows:   \u201c3. The Guy Parties, until final determination of the Documents Claim or  further order, w hether b y themselves, thei r directors, partners , emplo yees,  agen ts or othe rwise, shall not further disclose or publish or cause the  disclosure or publication or make any further use of any documents within the   Account  (the \u2018Injunction \u2019).",
+    "legal_references": [
+      {
+        "text": "the Documents Claim",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Injunction shall not apply in respect of the  Guy Parties \u2019 use of the  bundles prepared for  the hearing for t he Documents Applicat ion and  the LPP  Application  (\u2018the Hearing Bundles \u2019) in order to:   i. Plead the Defence to the Do cuments Claim ; and HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     6   ii. Draft the Appellant s\u2019 Notice , grounds of appeal and skeleton  argument and prepare the b undles to se ek permission to a ppeal from  the Court of Appe al in respect of the  Documents Appli cation and the   LPP Application  (and to argue such appeal in the event permission to  appeal is granted).",
+    "legal_references": [
+      {
+        "text": "the  Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "6. This Injunction does not prevent the court or tribunal seised in an y of the  following  proceedings from mak ing an order for disclosure  of insp ection of  documents in the  Account:   i. The Insolvency Proceedings,   ii. The Documents Claim ,  iii. The claims in the employment tribu nal proceedings with claim  numbers 140 0598/2019 and  1400597/2019,   iv. The proceedings rela ting to  West Axnoller Farm with claim number  E00YE350,  v. The proceedings relating to  West Axnoller  Cottage with claim  number F00YE085.  [ \u2026 ]",
+    "legal_references": [
+      {
+        "text": "The Insolvency Proceedings",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "By 4 PM on Thursday,  27 Februar y 2020 , the Guy Part ies will destroy all  copies in their possession of documents identified pursuant to paragraph 15 (i)  above and the  Brakes shall destroy all copies in their possession of documents   from the  Account ot her than t hose identified pursu ant to paragr aph 14 above.",
+    "legal_references": [
+      {
+        "text": "paragr aph 14",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The first claimant,  Nihal (\u201cAlo\u201d) B rake, was also a witness in an earlier tr ial before   me, between some of the sam e parties , which dealt with the so-called \u2018revest ing\u2019 issue  under section 283A of the Insolvency Act 198 6.",
+    "legal_references": [
+      {
+        "text": "section 283A",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Insolvency Act 198",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Sometimes th e reg istered controller of the domain is HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     12   referred to as the \u2018 owner\u2019 o f it.",
+    "legal_references": [
+      {
+        "text": "A nother v",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Indeed, the European  Court of H uman Rights has held  that a domain can be \u2018possess ions\u2019 f or the purposes of arti cle 1 of protocol 1 of the  European Convention on Human Righ ts: Paeff gen GmbH v Germany , Nos 25379/04,  21688/05, 21722/05 , and 21 770/05, 18  September 2007.   41.",
+    "legal_references": [
+      {
+        "text": "arti cle 1 of protocol 1 of the  European Convention on Human Righ ts",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In order for email sent and received by the HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     13   old account to show in the new  account, those emails will have to b e \u2018migrated\u2019 to the  new account,  and this is a manua l rather  than an a utomated process.    45.",
+    "legal_references": [
+      {
+        "text": "A nother v Guy and  Others",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Indeed,  the Amended Particulars of Claim ([13]) p leads that the axnoller  domain r emained do rmant u ntil 2013.",
+    "legal_references": [
+      {
+        "text": "the Amended Particulars of Claim",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "On 2 3 July 201 5, W est Ax noller Farm was sold, nominally by Mrs Brake as  registered proprietor of the legal estate,  but in reality by the Law of Property Act  receivers  appointed by the chargee of the p roperty,  and acting in he r name .",
+    "legal_references": [
+      {
+        "text": "the Law of Property Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Given the high HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     19   reputation in which Savills i s held, I cons ider the latter to be the m ore likely.  But fo r  presen t purpose s it is not ne cessary for me to make a finding about this.    70. As I have already said, Mr and Mrs Brake were prohibited by an injunction  dated 1  July 2015 from  continuing to run the w edding bus iness  at the property, for a pe riod  lasting  six mo nths.",
+    "legal_references": [
+      {
+        "text": "A nother v Guy and  Others",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The result is t hat I have been shown  only a single  example of an email successfully  sent to or from  the email address enquirie s@axnoller.co.uk  before August 2015 , and HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     24   that is the one from  Mr Culme -Seymour se nt to that addre ss on 8 February 2015   (which, becau se it cannot  be tested, is not itself conclusive) .",
+    "legal_references": [
+      {
+        "text": "Judgment  Brake and A nother v Guy",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "he was comforta ble,  because what h e needed was covered by clause 13,  which was simpler.",
+    "legal_references": [
+      {
+        "text": "clause 13",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless,  there is  an obl igation in clause 16 to \u201creturn \u2026 anything in your poss ession which b elongs to  the Employ er \u2026 whic h contains \u2026 any confidential i nformation  \u2026 in whatever form   \u2026 including comp uter program mes with rela ted storage media .\u201d",
+    "legal_references": [
+      {
+        "text": "clause 16",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Clause 20 provides  for Mrs Brake to consent to the processing of her  data (and sensitive da ta) by the thi rd  defendant for the  purposes  of her employment.",
+    "legal_references": [
+      {
+        "text": "Clause 20",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Brake s complaine d that these  infringed their data protection and GDPR rights.",
+    "legal_references": [
+      {
+        "text": "GDPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "The truste e in bankru ptcy  justifie d his actions  under section 311 of  the Insolvency Act 1 986.",
+    "legal_references": [
+      {
+        "text": "section 311",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Insolvency Act 1 986",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The amend ed particulars of cl aim at [21] allege that, despite the acqu isition of West  Axnoll er Farm by Sarafina in 2015, Mrs Brake retained and used the ax noller email  accounts as her own.",
+    "legal_references": [
+      {
+        "text": "cl",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The first sentence  of parag raph 3 of this complaint  says  \u201cDuring the course of our em ployme nt, much of o ur personal data was  retained on the serv ers of AEL  and CC EL \u2013 specificall y emails on the  enquiries@axnoller.co.uk , alo@axnoller .co.uk and andy@axnoller.c o.uk  account s.\u201d  148.",
+    "legal_references": [
+      {
+        "text": "parag raph 3",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Lawyers acting for the Brakes \u2019 trustee in ban kruptcy, Mr Swift , wrote  to Dr and Mrs  Guy on 20 March 2019  to reques t the supply of informatio n, and referred to  the  trustee \u2019s being  \u201centitle d under section 366 of the Insolvenc y Act to r eceive from any  person information that t hey have i n relation to the bankrupt s or their dealings, affa irs  or property\u201d. It does not appea r that at  any time a n order was made  requiring any of  the defendants to c omply with such a request under sect ion 366 of th e Ins olvency Act  1986.  However, Dr Guy \u2019s instruct ions to his legal team  were to do what was  necessary to respond .",
+    "legal_references": [
+      {
+        "text": "the Insolvenc y Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "sect ion 366 of th e Ins olvency Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "of working out what to do with the informa tion they came acr oss with an HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     40   appreciation of the sensitivit y of what the y were doing , and a desire to respect th e  rights of other s, including Mrs Br ake.",
+    "legal_references": [
+      {
+        "text": "an HHJ Paul Matthews   Approved Judgment  Brake",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "A nother v Guy and  Others",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The claima nts additionally say in their closing submissions that they have suffered  a  loss under  Art 6 of the ECHR by being deprived of a copy  of the emails in t he  enquiries accoun t whilst the defendants we re litigat ing against them in relation  to HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     41   those emails.",
+    "legal_references": [
+      {
+        "text": "Art 6 of the ECHR",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The  second  of HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     43   the three c ategories put forward by  the claimants consisted of 4 ,338 emai ls which  were now accepted by the claimants as business emails , and no longer claim ed to be  private .",
+    "legal_references": [
+      {
+        "text": "HHJ Paul Matthews   Approved",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "A nother v",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Dr Guy  understood that  these documents had been passed  to Mr Swif t in response to a re quest under section  366 of the  Insolvency Act 1986.",
+    "legal_references": [
+      {
+        "text": "section  366",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the  Insolvency Act 1986",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section  366 of the  Insolvency Act 1986",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "Paragraph s 14 to 17 of th at order  provided a m echanism fo r  the review of the document s in dispute and for the destruction of  documents w hich  were either not in dispute  or the c ourt decide d should be destroyed.",
+    "legal_references": [
+      {
+        "text": "Paragraph s 14 to 17 of th",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The defendants h ave interpreted  paragra ph  18, taken together w ith paragraph 6 , as meaning t hat, if a document is disclosab le in  any of the liste d procee dings , then t hey are not  obliged to destroy it.",
+    "legal_references": [
+      {
+        "text": "paragra ph  18",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Paragraph 13 of the Particulars of Claim says:   \u201c13. In October 2009, unrelated to the  Partnershi p, the Brakes registered the  domain nam e \u201caxno ller.co.uk \u201d (\u201cAxnoller Domain \u201d), which remained dormant  until the formal disso lution of the  Partnership in  2013.\u201d",
+    "legal_references": [
+      {
+        "text": "the Particulars of Claim",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The claiman ts go on to refer in the Amended Particul ars of Clai m to \u201cany email  accounts wi thin the Axnoller Domain \u201d as \u201cthe Axnoller Ac counts\u201d, and go on  to say:  \u201c16. The Conf idential Documents/Information within the Axnoll er Accounts  include :  (i) Private correspondence to fr iends and family .  (ii) Private corr espondenc e with legal advisers .",
+    "legal_references": [
+      {
+        "text": "the Amended Particul ars of Clai m",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "The Conf idential Documents/Information",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(iv) Private corres ponde nce with medical professionals.   Many of the emails  contain inform ation of an i ntense ly perso nal nature  including medic al test results, a lett er of wishes , feedbac k from Mrs Brake\u2019s  son\u2019s school teachers  and emails w ithin the family a nd friends.   17.  The Confidential Docume nts/Information  contain the Claimants\u2019 personal  data within t he mea ning of Article 4 of the General D ata Protection Re gulati on  and sensi tive pers onal data within the meani ng of Article 9 of the Gene ral  Data Protectio n Regulation .",
+    "legal_references": [
+      {
+        "text": "Article 4 of the General D ata Protection Re",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Article 9 of the Gene ral  Data Protectio n Regulation",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "21. Following the acquisition of the  Farm by SPL/AE L in 2015 , Mrs Brake  continued to employ ACS personally under the  Conf identiality Agreement,  retaining and using",
+    "legal_references": [
+      {
+        "text": "the  Conf identiality Agreement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(ii) It was in breach of  ss 1 and 2  of the  Computer Misuse Act 1990.   (iii) It was in breach of  s 170  of the  Data Protection Act 2018.",
+    "legal_references": [
+      {
+        "text": "ss 1 and 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the  Computer Misuse Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s 170",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the  Data Protection Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "s 1 and 2  of the  Computer Misuse Act 1990",
+        "match_type": "Regex - Complex Pattern"
+      },
+      {
+        "text": "s 170  of the  Data Protection Act 2018",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "(iv) It constitu ted a personal data breach within the meaning of the general  regulation on data protection.",
+    "legal_references": [
+      {
+        "text": "the general  regulation on data protection",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(v) It was  in breach of the Brakes \u2019 rights under Article 8 of the European  Convention on Hum an Rights , including their rights to private life and  correspondence   (vi) The accessing, deployment and distribution of the  Confidential  Documents /Information  constitutes a c ourse of condu ct which the  Guy Parties  knew or ought to have known amounted to harassment of the  Brakes within  the meaning of the Protection  from Harassme nt Act 1997.   (vii) The availability to the  Guy Parties \u2019 legal team of unfettered access to the   Confiden tial/Informat ion denies the  Brakes of t heir rights under Article 6  of  the European Convention on Human Rights to a fair trial.",
+    "legal_references": [
+      {
+        "text": "Article 8 of the European  Convention on Hum an Rights",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the  Confidential  Documents /Information  constitutes a",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Protection  from Harassme nt Act 1997",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Article 6",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the European Convention on Human Rights",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the  Guy Partie s have procured a Breach of the  Confidentiality  Agreement  by ACS.",
+    "legal_references": [
+      {
+        "text": "a Breach of the  Confidentiality  Agreement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Paragr aph 16(i) is embarrassing for want of particular ity and",
+    "legal_references": [
+      {
+        "text": "Paragr aph 16(i)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Further , in the  Review, the  Brakes have label led a lar ge number of other emails as private  which d o not fal l into any of the c ategories pleaded  at paragraph 16 inclu ding  (but not limited to):   (1) Emails between Mr s Brake  and D r Guy;   (2) Emails betwee n Mrs Brake  and Mrs Guy;  (3) Emails bet ween Mrs Brake and other former SPL/AE L employe es, namely  Ms Holt  and Mr W indus;  (4) Emails b etween Mrs Brake  and AEM accountants an d financial advisers  Milstead Langd on, Old Mill and AF B Accou ntants ;  (5) Emails betwe en Mrs Brake  and the Guy Parties \u2019 solic itors, Verisona Law  and Moore Blatch ;  (6) Emails between Mrs Brak e and SPL/AEL\u2019s former IT pr ovider, ACS; and   (7) Emails sent and re ceived by  Mrs Brake  in the course o f working for  SPL  during t he per iod proh ibited by  the Second Bl ackburne Order.",
+    "legal_references": [
+      {
+        "text": "the Second Bl ackburne Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is admitted t hat t he Enquiries Acco unt c ontains some data within the  meaning of Articles 4 and 9 of th e Genera l Data Pro tection Regul ation  (GDPR).",
+    "legal_references": [
+      {
+        "text": "Articles 4 and 9",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "th e Genera l Data Pro tection Regul ation",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "Paragr aph 17  is otherwis e denied.",
+    "legal_references": [
+      {
+        "text": "Paragr aph 17",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is den ied that any emails evidenc ing or sent in furt herance of the   Unlawfu l Scheme a re conf identi al or priva te.\u201d  197.",
+    "legal_references": [
+      {
+        "text": "the   Unlawfu l Scheme",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The claim fo rm does howe ver mention other claims, n amely procuring a breach of  contract, and the claim for compensation under article 82 of the (EU)",
+    "legal_references": [
+      {
+        "text": "article 82",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The parti culars of claim also include a claim under the   Protection from Harassment Act 1997.",
+    "legal_references": [
+      {
+        "text": "the   Protection from Harassment Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Protection from Harassment Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "In  addition,  they allege that  criminal liability  under the Computer Misuse Act and the Data Protection Act was engaged, and rely on  this as supp ort for claims f or breach of privacy.",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Data Protection Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "iii) The ACS Confid entiality Agreement.",
+    "legal_references": [
+      {
+        "text": "The ACS Confid entiality Agreement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In par ticular, is the  Enquiries Account within the scope of the ACS Confidentiality  Agreement?",
+    "legal_references": [
+      {
+        "text": "the ACS Confidentiality  Agreement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "For th e purpose of a claim in conf identiality o r privacy are  any o f the following  provisions relevant in law and/or actionable:   iv) Sections 1 and 2 of the Computer Misuse  Act 1990;   v) The General Data Prote ction Regulation 2016;    vi) The Pr otection from Harassment Act 1997; and   vii) Articl es 8 and 6  of the European  Convention o n Huma n Rights?",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse  Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "The General Data Prote ction Regulation 2016",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "The Pr otection from Harassment Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Articl es 8 and 6",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the European  Convention o n Huma n Rights",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s 1 and 2 of the Computer Misuse  Act 1990",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "If therefore  Mrs Brake still possess ed any residual rights in the domain, then those  vested in the  trustees, for  the benefit of M rs Brake\u2019s creditors , under s ection  283(1) o f the  Insol vency  Act 1986 . The claimant s did not se ek to argue that  section 2 83(2)(a) of the  Act applied, and I p roceed on the basis that Mrs Brake was entirely di veste d of any  remaining rights in  the domain, for t he benefit of her cr editors.",
+    "legal_references": [
+      {
+        "text": "s ection  283(1) o f the  Insol vency  Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 2 83(2)(a)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Cla use 5 of the written agr eement made clear t hat the  busines s was included in the sale, and clause 13 warranted that Sar afina owne d all the  assets w hich it used in the bu sines s (except those dispos ed of since the date of the l ast  accounts) .",
+    "legal_references": [
+      {
+        "text": "Cla use 5",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "clause 13",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It was not argued before me, but it is however e lementar y justice that, as Lord  Cran worth says in  Ramsden v Dys on (1866) LR 1 HL 129,  140-141:  \u201cIf a str anger b egins to build o n my  land supposing  it to be his  own, and I ,  perceiving his mi stake, a bstain from setting him right, and leave him to  persevere i n his er ror, a Cou rt of equity will not allow me afterward s to asser t  my title to the  land on which he h ad expe nded mone y on th e supposition that  the land was his own.",
+    "legal_references": [
+      {
+        "text": "a Cou rt of",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The contents ar e infor mation, which may (depending on the circumst ances)  be protect ed by aspects of  intellectual property la w, such as copyright and trade marks ,  and also by t he law of brea ch of confidence and indeed the new law on priv acy (as  this claim itself asserts) .",
+    "legal_references": [
+      {
+        "text": "the new law on priv acy",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": ", Bowen LJ  referred to informat ion as partnersh ip property, and in Re Keene  [1922] 2 Ch 475,  the  Court of Ap peal treated tr ade inform ation as \u2018pr operty\u2019  for the  purposes of  the  Bankrup tcy Act 1914.",
+    "legal_references": [
+      {
+        "text": "Re Keene  [",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the  Bankrup tcy Act 1914",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In Racing Partnership v Sport s Informa tion S ervices [2020] EWCA Civ 1 300, Arnold  LJ (di ssenting in the re sult) referred to this case and said:   \u201c70. Sec ondly, c ouns el for SIS  submitted that the jud ge's conclusion wa s  inconsi stent with the la w of pri vacy, which onl y applies to informati on in  respect o f which the claimant has a rea sonable expec tation of privacy.  I do not  accept this submission.",
+    "legal_references": [
+      {
+        "text": "Racing Partnership v Sport s Informa tion S ervices",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EWCA Civ 1 300",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This i s reinforced by  the  subsequent decisi on of the  Court  of Appeal i n Vidal-Hall v Goo gle Inc  [2015 ]  EWCA Civ 311,  [2016] QB 1003  that breach of confidence and mis use of  private informa tion are tw o separate a nd di stinct causes  of actio n which rest  on different  legal foundati ons and protect differ ent inter ests, and hence a claim  for mis use o f private inf ormation is \u2018made in tort\u2019 even though a claim for  breach of con fidence is an equitabl e one.\u201d",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 311",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In Imerman  at paragraph 76 Lord Neuberge r MR said:   \u201876. Co mmunications which  are concerned with an individual's private  life, incl uding his pers onal financ es, personal  busine ss dealings , and  (possibly) his other  busines s dealings are the stuff of personal  confidentiality , and are sp ecifically co vered  by article 8  of the  Convention , which confers the right to respect for privacy and  expressly menti ons corresp ondence .\u2019  49.",
+    "legal_references": [
+      {
+        "text": "Imerman",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "article 8  of the  Convention",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As the  claim ants said in closing, someth ing that is  private  is concer ned with a  person \u2019s private  life, and is  protected by article 8 and the new tort of breach o f  privacy.",
+    "legal_references": [
+      {
+        "text": "article 8",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the new tort of breach o f  privacy",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The second point to not e is that, although t he claiman ts appea r to r ely sep arately on  Art 8 of the European Co nvention o n Human Rights, and its domesti c equivalents i n  Engl ish law by v irtue of the Human  Rights Act 1 998, in thi s context it adds nothing to  the tort of breach of priv acy, which is indeed  derived (at lea st in part) from that  article.",
+    "legal_references": [
+      {
+        "text": "Art 8 of the European Co nvention o n Human Rights",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Human  Rights Act 1 998",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "the Computer  Misus e Act  1990, s s 1 a nd 2, and the  Data Protection Act 2018, s 170.",
+    "legal_references": [
+      {
+        "text": "the Computer  Misus e Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the  Data Protection Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "But no  suggestion is made that these  provisions crea te civil l iability as w ell, an d therefore , in  the context of thes e civil pr oceedings , these references  add nothing.",
+    "legal_references": [
+      {
+        "text": "w ell",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "thes e civil pr oceedings",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "They also refer t o  Art 82 of the  (EU) Genera l Data Prot ection Regulation , both i n the claim form and in  the amen ded pa rticulars of  claim.",
+    "legal_references": [
+      {
+        "text": "t o  Art 82 of the  (EU) Genera l Data Prot ection Regulation",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Howe ver, in the cla imants \u2019 opening  submissions , they ref er to the  earlier provisions   and the GDPR as \u201cbolst ering \u201d their expectation of privacy .",
+    "legal_references": [
+      {
+        "text": "GDPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "Fourthly, there are references to  the Protection from Ha rassment Act 19 97, including  a claim in t he prayer of the amend ed particulars of claim for dam ages under that Act.",
+    "legal_references": [
+      {
+        "text": "the Protection from Ha rassment Act 19 97",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "\u201cIn m y judg ment, three el ements are no rmally required if, a part from  contra ct,  a case of br each of co nfide nce is to succeed .",
+    "legal_references": [
+      {
+        "text": "m y judg ment",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Turning now to the elem ents of th e act ion for brea ch of priva cy, in Mosley v News  Grou p Newspapers Ltd  [2008] EMLR 20, Eady  J summari sed the r elevant law in this  way:  \u201c7. \u2026 The law now affor ds protection to informa tion in respect of which there  is a reasonable expect ation of pri vacy,",
+    "legal_references": [
+      {
+        "text": "th e act ion",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EMLR 20",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The relevan t values are e xpressed i n Arts 8 and 10 of the Convention  \u2026  [ \u2026 ]   10. If the first hurdle  can be ov ercom e, by demons trating a r easonable  expectation  of privacy, it is now clear that  the cou rt is requ ired to c arry out the  HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     65   next ste p of weighing  the relevant competing Conv ention rig hts in the light  of  an \u2018intense  focus \u2019 upon the indiv idual facts of the cas e. \u2026\u201d   Reaso nable e xpect ation of privacy   235.",
+    "legal_references": [
+      {
+        "text": "the  HHJ Paul Matthews   Approved",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "She agreed  in her 2017 HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     67   contract of employment ( by clause 16) to give up to her em ployer on ter mination  assets belonging to the bu siness conta ining  confidenti al information .",
+    "legal_references": [
+      {
+        "text": "HHJ Paul Matthews   Approved",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "A nother v Guy and  Others",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The earliest ECtHR  case wa s that of  Foxley v  United Kingdom",
+    "legal_references": [
+      {
+        "text": "ECtHR",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(2001) 31  EHRR 2 5.",
+    "legal_references": [
+      {
+        "text": "31  EHRR 2",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "In this case the trustee in b ankruptcy  of a bankrupt obtaine d an order under the Inso lvency Act 1986 for his po st to be  diverted from his home add ress to the trustee .",
+    "legal_references": [
+      {
+        "text": "the Inso lvency Act 1986",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The second  ECtHR case was Copland  v Unit ed Kingdom (2007) 45  EHRR  37.",
+    "legal_references": [
+      {
+        "text": "45  EHRR  37",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "The court held that there  had been a violation of Art 8 of the ECH R. Spec ifically on the ques tion of reasonable   expectation, th e court said;   \u201c42.",
+    "legal_references": [
+      {
+        "text": "Art 8 of the ECH R. Spec",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The  reference is to the decision o f the ECtHR in  Halford v United  Kingdom [1997 ] IRLR  471.",
+    "legal_references": [
+      {
+        "text": "IRLR",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "These  teleph ones HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     69   were part of the  Mersey side police internal telephone network, a  telecommunicati ons system outsid e the public network.",
+    "legal_references": [
+      {
+        "text": "A nother v Guy",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He comp lained of a breach of Ar t 8.  252.",
+    "legal_references": [
+      {
+        "text": "Ar t 8.",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Furtherm ore, [the court]  has held th at telephone  conv ersations are  covered by t he notions of \u2018private life \u2019 and \u2018correspondence \u2019 within the  mean ing o f Article 8 (see Roman Zakharov v. Russ ia [GC], no. 47143/06, \u00a7   173, ECHR  2015).",
+    "legal_references": [
+      {
+        "text": "ECHR",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "on business p remises (see  Halford, cited above, \u00a7 44,  and Amann  v. Switzerland [GC], no. 2 7798/ 95, \u00a7 44, ECHR 2000 -II).",
+    "legal_references": [
+      {
+        "text": "\u00a7 44",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "ECHR 2000 -II)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "which enjoy similar  protection under  Article 8, as does inf ormatio n derived fr om th e monitoring o f  a person\u2019s  internet use (see Copland , cited above, \u00a7 41 in fine ). HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     70   73.",
+    "legal_references": [
+      {
+        "text": "Article 8",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "inf ormatio n derived",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "\u00a7 41",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is cle ar from the Cour t\u2019s case -law that commu nications from business  premis es as w ell as from the home m ay be covered by the notions of \u2018priva te  life\u2019 and \u2018corre spond ence\u2019 within t he meaning o f Article 8 of the Convention  (see Halfor d, cited above, \u00a7 44; an d Copland, cited above, \u00a7 41). In order to  ascertain whether the not ions o f \u2018private lif e\u2019 and \u2018corresp ondence \u2019 are",
+    "legal_references": [
+      {
+        "text": "the Cour t\u2019s",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "t he meaning o f Article 8",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Halfor d,",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "an d Copland",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": ", the Court has  on sev eral occasio ns ex amined whether  individuals   had a reasona ble expectation t hat their privacy would be respect ed an d  protected (ibid.; and as regards \u2018private life \u2019, see also  K\u00f6pke v.  Germany  (dec.) , no. 420/07 , 5 October 2010).",
+    "legal_references": [
+      {
+        "text": "an d Copland",
+        "match_type": "Contextual - Ibid Reference"
+      }
+    ]
+  },
+  {
+    "sentence": "Applying th ose principl es, the court noted that  insta nt mess aging s ervice s were just  one kind of co mmunication enabling individ uals to lead  a private social l ife, and was   \u2018corresponden ce\u2019 within Art 8 , even when  sent from an employe r\u2019s comp uter.",
+    "legal_references": [
+      {
+        "text": "Art 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": ", in the circumstances of the  present case, Articl e 8 of the Co nventio n is ap plicable .\u201d",
+    "legal_references": [
+      {
+        "text": "Articl e 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Acco rdingly, this was  not a case where the  court \u2019s applicatio n of Art 8 depended  on  any reas onab le expecta tion of privacy, because t he court expressly did no t dec ide that  any such expectat ion existed.",
+    "legal_references": [
+      {
+        "text": "Art 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That does not help me in  the a pplicat ion of the domestic  English tort of bre ach of privacy, which , by vi rtue of the decis ions al ready r eferred to ,  including Mosl ey v News Group N ewspapers Ltd  [2008] EMLR 20,  and Racing  Partnership v Sports Informa tion Serv ices [2020] EWCA Civ 130 0, does depend in  the first instanc e on establishing  that very concept .   256.",
+    "legal_references": [
+      {
+        "text": "Mosl ey v News Group N ewspapers Ltd",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Racing  Partnership",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In th ose pr oceedin gs, the empl oyer disclosed ce rtain document s (described b y the  judge as \u201c highly personal to  the claimant and  obviously confidential \u201d), which had  been pr epared by the claimant a nd his  solici tors in relation to his own divorce  proceedings.",
+    "legal_references": [
+      {
+        "text": "ce rtain document",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This was how the do cuments came to b e in the defendan ts\u2019  possession , and thereafter disclosed in the dismissal proceeding s.   257.",
+    "legal_references": [
+      {
+        "text": "s.   257",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Where  privileged (and therefore necess arily confidential)  communica tions are sh own or sent  by the holder of the priv ilege to  another person in confidence for a  limited purpose  without any inten tion to waiv e pri vilege, then normally it is  not w aived:  see eg  Nationwide Building Society v Various  Solicitors [1999] PNLR 52, 7 2. The emplo yee  had no intentio n of placing the d ocuments  on the empl oyer\u2019s server  or otherwise of  disclosing them to the empl oyer, and did not realise that this would be  the  consequ ence of openin g them on her work email accoun t. Neither the claimant nor t he  employee ever thought  that t he employer \u2019s IT p olicy wo uld mean that the claimant \u2019s  privilege would be at risk.    260.",
+    "legal_references": [
+      {
+        "text": "PNLR 52",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "First, the cl aimant signed a copy of the company's IT policy  whic h made  clear  that e mails sent and receiv ed on its IT system were the pr operty of HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     73   Berkeley.",
+    "legal_references": [
+      {
+        "text": "HHJ Paul Matthews   Approved Judgment  Brake",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In Campbell v MGN Ltd  [2004] 2 AC 457 , the House of Lords expanded  the scope of the equitable action for breach of confidence by absorbing into it  the v alues  underlying articles 8 and 10 of  the E uropean  Conven tion on Human  Rights, thus effe ctively  recognising a qualified common law right of privacy.",
+    "legal_references": [
+      {
+        "text": "the E uropean  Conven",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Without the court having the power to grant such relief, the information will,  through the unauthorised act of th e defen dant, either lose it s confiden tial  characte r, or w ill at least be at risk of doin g so.",
+    "legal_references": [
+      {
+        "text": "the unauthorised act of th e defen dant",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is only fair to mention, t hat in White v With ers the appe al agai nst  Eady J\u2019s decision was not pursued on the issue of  confidenti ality: [2010]  EWCA Civ  1122, [2 010] 1 F LR 859,  para [40].",
+    "legal_references": [
+      {
+        "text": "White v With ers the",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EWCA Civ  1122",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In relation to the se requests, reliance  is placed on sec tion 366 of the Insolvency Act 1986.",
+    "legal_references": [
+      {
+        "text": "sec tion 366 of the Insolvency Act 1986",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Consi stently with the policy behin d section 366, that trustees in bankru ptcy should  have the maximum available info rmation about the ban krupt\u2019s estate , in order to  protect the interests of credi tors i n the bankr uptcy, and taking a realistic view of the  resour ces available to trustees in bankruptcy, I hold that it is not a brea ch of privacy  or confidence for third parti es on re quest from a trustee in bankruptcy  to supply that  information which  the court  would have  ordere d to be suppl ied if an applicat ion had  been  made (I am not now dealing with privileged  information, to which d ifferent  considerations may apply) .",
+    "legal_references": [
+      {
+        "text": "behin d section 366",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "There the House  approved the state ment by Lord Watson i n Allen  v Flood  [1898] AC 1 , 107, that  \u201cHe who wilfully induces another t o do an unlawful act  which, but for his  persuasion, would o r might n ever have been committed, is rightly held to be  responsible for the wrong he has procured .\u201d",
+    "legal_references": [
+      {
+        "text": "AC 1 , 107",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "For it is un lawful for a third person t o procure a  breach of contr act knowingl y, or reckles sly, indifferent whether it is a  breach or not \u2019.\u201d  296.",
+    "legal_references": [
+      {
+        "text": "contr act knowingl y",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The  passwords  were intended to protect  the informatio n in t hem for the benefit  of  those ent itled to the  relevant account.  SPL/AE L was e ntitled to  instruct (i)  ACS to cha nge the passwords , and to instruct ( ii) employe es to provide it with  the passwords (see [240]).",
+    "legal_references": [
+      {
+        "text": "SPL/AE L",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In answering issues 9 and 10 above, wh at effect do the followin g contracts  have:  HHJ Paul Matthews   Approved Judgment  Brake and A nother v Guy and  Others     86     (1) The terms of the Brakes\u2019 emp loyment by SPL/AEL and/or  Chedington.     Clause 16 is a factor (see [2 41]).",
+    "legal_references": [
+      {
+        "text": "Clause 16",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(3) The A CS Confid entiality Agreement.",
+    "legal_references": [
+      {
+        "text": "The A CS Confid entiality Agreement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In particular, is  the  Enquiries Account within the scope  of the ACS Confidentiality  Agreement?",
+    "legal_references": [
+      {
+        "text": "the ACS Confidentiality  Agreement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Miscellaneous     18. For th e purpose of a claim in conf identiality or  privacy are any of the  following provisions relevant in law and/or actionable:     (1) Sections 1 and 2 of the Comp uter Misuse  Act 1990;   No, see [226].",
+    "legal_references": [
+      {
+        "text": "the Comp uter Misuse  Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(2) The General Data Protection Regulation 2016;    No, see [226].",
+    "legal_references": [
+      {
+        "text": "The General Data Protection Regulation",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "General Data Protection Regulation",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "(3) The Pr otection from Harassment Act 1997;   No, see  [227].",
+    "legal_references": [
+      {
+        "text": "The Pr otection from Harassment Act 1997",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(4) Articles 8 and 6  of the European C onvention on Human R ights?",
+    "legal_references": [
+      {
+        "text": "the European C onvention on Human R ights?",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "On the facts and matters pleaded by the  Guy Parties at paragraphs 16 -17,  19-47 and 75 of the  Defence,  is an in iquity or public interest defenc e  available to them in law?",
+    "legal_references": [
+      {
+        "text": "Defence",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The  claimants objected, on the basis that it was an attempt to put in further d ocumentation  after th e trial , and was inappropriate. I agree with the claimants that there is no need  for me to  alter the sub stance of m y draft judgment at [15 1].   304. However,  I consider  that, in light of the vivid terms of the entry in the chronology ,  and the undoubted media inter est in sens ational news stories, it would be sensible for  me formally  to note that the letter, dated 3 December 2018 , and  from a firm called  Equine Law, makes  a claim  under the Animals Act 1971, section 7C (inserted by   section 3 of  the Control of Horses Act 2015)  to detai n the claimants \u2019 horses , which  are said to be  in their possession, and gives notice  that the claimants should remove  them w ithin 96 hours  (a period stipulated by the Act  itself ).   305.",
+    "legal_references": [
+      {
+        "text": "the Animals Act 1971",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 3",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Control of Horses Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It then points out, in accordance wit h section 7C , that, if the horses are not removed   within that period , they will become the defend ants\u2019 property and the defendants will  be entitled to dispose of them.",
+    "legal_references": [
+      {
+        "text": "h section 7C",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

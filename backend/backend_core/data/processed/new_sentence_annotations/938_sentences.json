@@ -1,0 +1,615 @@
+[
+  {
+    "sentence": "Ms Ali contends that, in doing so, they breached her rights under Articles 5 and 6 of Regulation (EU) 2016/679 (\u201cthe General Data  Protection  Regulation  or \u201cGDPR\u201d), misused her private  information, breached her confidence and acted incompatibly with her right to respect for her private life under Article 8 of the European Convention on Human Rights (\u201cECHR\u201d) and therefore contrary to s. 6 of the Human Rights Act 1998 (\u201cthe 1998 Act\u201d).",
+    "legal_references": [
+      {
+        "text": "Articles 5 and 6",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Regulation (EU) 2016/679",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the General Data  Protection  Regulation",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR\u201d",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Article 8 of the European Convention on Human Rights",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s. 6 of the Human Rights Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 1998 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Human Rights Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      },
+      {
+        "text": "s. 6 of the Human Rights Act 1998",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "He explains thatMR JUSTICE CHAMBERLAINApproved JudgmentALI V BEDFORDSHIRE POLICE any report of a domestic incident where there has been a grading of medium or high risk to children will always be shared with the relevant local authority.",
+    "legal_references": [
+      {
+        "text": "JudgmentALI V BEDFORDSHIRE POLICE",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "She pleaded guilty before Luton Crown Court to an offence under s. 1 of the Computer Misuse Act 1990 and on 12 October 2020 was sentenced to 3 months\u2019 imprisonment, suspended for 12 months, together with 150 hours of unpaid work.",
+    "legal_references": [
+      {
+        "text": "s. 1 of the Computer Misuse Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "s. 1 of the Computer Misuse Act 1990",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "The law The GDPR 15Article 5(1) of the GDPR provides as follows: \u201cPersonal data shall be: (a) processed lawfully, fairly and in a transparent manner in relation to the data subject (\u2018lawfulness, fairness and transparency\u2019); (b) collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; further processing  for  archiving  purposes  in  the  public  interest,  scientific  or historical research purposes or statistical purposes shall, in accordance with Article 89(1), not be considered to be incompatible with the initial purposes (\u2018purpose limitation\u2019); \u2026 (f) processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures (\u2018integrity and confidentiality\u2019).\u201d",
+    "legal_references": [
+      {
+        "text": "The GDPR 15Article 5(1)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Article 89(1),",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "16Article 6(1) provides: \u201cProcessing shall be lawful only if and to the extent that at least one of the following applies: (a)  the  data  subject  has  given  consent  to  the  processing  of his  or her personal data for one or more specific purposes; (b) processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract; (c) processing is necessary for compliance with a legal obligation to which the controller is subject; (d) processing is necessary in order to protect the vital interests of the data subject or of another natural person; (e) processing is necessary for the performance of a task carried out in the public  interest  or  in  the  exercise  of  official  authority  vested  in  the controller; (f)  processing  is  necessary  for  the  purposes  of  the  legitimate  interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.MR JUSTICE CHAMBERLAINApproved JudgmentALI V BEDFORDSHIRE POLICE Point (f) of the first subparagraph shall not apply to processing carried out by public authorities in the performance of their tasks.\u201d",
+    "legal_references": [
+      {
+        "text": "JudgmentALI V BEDFORDSHIRE POLICE",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "17The Police entered into an Information Community Agreement (\u201cthe Agreement\u201d) with various bodies involved in the delivery of services for children and vulnerable adults, including Luton.",
+    "legal_references": [
+      {
+        "text": "an Information Community Agreement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "ECHR 20It",
+    "legal_references": [
+      {
+        "text": "ECHR 20It",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "was agreed on all sides that the disclosure by the Police to Luton constituted an interference  with Ms Ali\u2019s right to respect for her private life within Article 8(1) ECHR.",
+    "legal_references": [
+      {
+        "text": "Article 8(1) ECHR",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "If the disclosure was necessary for the purposes of the GDPR and/or the torts of misuse of private information and breach of confidence, then it was also necessary for the protection of the rights and freedoms of others for the purposes of Article 8(2).",
+    "legal_references": [
+      {
+        "text": "GDPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Article 8(2).",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "If not, the disclosure to Luton was incompatible with Article 8 and therefore contrary to s. 6 of the 1998 Act.",
+    "legal_references": [
+      {
+        "text": "Article 8",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s. 6 of the 1998 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This in turn means that the Police cannot establish that the disclosure was necessary for the purposes of the GDPR, nor that there was a sufficient countervailing  interest  for  the  purposes  of  misuse  of  private  information,  nor  a justification for the purposes the law of confidence or Article 8(2) ECHR. 22Jennifer  Oborne  for  the  Police  submitted  that  the  claimant  had  no  reasonable expectation that her identity as the source of the information she provided would not be passed to Luton.",
+    "legal_references": [
+      {
+        "text": "GDPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the law of confidence",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Article 8(2) ECHR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "23In any event, Ms Oborne submitted that s. 11(2) of the Children Act 1989 imposes an obligation to make arrangements for ensuring that its functions are discharged having regard to the need to safeguard and promote the welfare of children.",
+    "legal_references": [
+      {
+        "text": "s. 11(2) of",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Children Act 1989",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Children Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "s. 11(2) of the Children Act 1989",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "Thus, passing on to Luton the fact that Ms Ali was the source of the information she had given was \u201cnecessary\u201d for the purposes of Article 6 GDPR and was justified for the purposes of the law of misuse of private information and breach of confidence.",
+    "legal_references": [
+      {
+        "text": "Article 6 GDPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "Conclusion on liability The claim under the GDPR",
+    "legal_references": [
+      {
+        "text": "GDPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "27The key issue in this case is whether the disclosure by the Police to Luton of Ms Ali\u2019s identity as the source of the information was \u201cnecessary\u201d for one of the purposes identified in Article 6(1) of the GDPR.",
+    "legal_references": [
+      {
+        "text": "Article 6(1) of",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Scott is correct to say that Article 6(1)(f) is inapplicable here, but I approach the case on the basis that the Police are entitled to rely on Articles 6(1)(b) and (c), even though neither of those was expressly pleaded in the defence.",
+    "legal_references": [
+      {
+        "text": "Article 6(1)(f)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Articles 6(1)(b) and",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "28In the human rights context, the question whether an interference with a Convention right is \u201cnecessary\u201d is for the court, giving such weight as is appropriate to the view of the public authority whose decision is under challenge: see e.g. R (Begum) v Denbigh High School Governors  [2006] UKHL 15, [2007] 1 AC 100.",
+    "legal_references": [
+      {
+        "text": "Convention",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I would apply the same approach to the question whether a disclosure is \u201cnecessary\u201d for one of the purposes set out in Article 6 of the GDPR.",
+    "legal_references": [
+      {
+        "text": "Article 6",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "36It follows that, in my judgment, the Police breached Article 5(1)(a) and (b) of the GDPR by passing on to Luton Ms Ali\u2019s identity as the source of the information she provided about her ex-husband.",
+    "legal_references": [
+      {
+        "text": "Article 5(1)(a) and",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "So, there would in any event have been a breach of Article 5(1)(a) of the GDPR.",
+    "legal_references": [
+      {
+        "text": "Article 5(1)(a) of",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "Article 8 ECHR 41As",
+    "legal_references": [
+      {
+        "text": "Article 8 ECHR 41As",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "noted above, the disclosure by the Police to Luton of Ms Ali\u2019s identity as the source of the information she provided constituted an interference with her right to respect for her private life, as guaranteed by Article 8(1) ECHR.",
+    "legal_references": [
+      {
+        "text": "Article 8(1) ECHR",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "For the reasons set out at [31]- [35], the Police have not established that the interference was necessary in a democratic society within Article 8(2).",
+    "legal_references": [
+      {
+        "text": "Article 8(2)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The disclosure was therefore contrary to s. 6 of the 1998 Act.",
+    "legal_references": [
+      {
+        "text": "s. 6 of the 1998 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "43Mr Scott referred to three authorities  on quantum:  Halliday  v Creation Consumer Finance Ltd [2013] EWCA Civ 333, [2013] 3 CMLR 4 (where \u00a3750 was awarded for a data protection breach);  Gulati v MGN Ltd",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 333",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "[2015] EWCA Civ 1291, [2017] QB 149 (where it was said that damages awards for misuse of private information should bear a \u201creasonable relationship\u201d with awards in personal injury cases); and ST (A Child) v L Primary School [2020] EWHC 1046 (QB) (where Deputy Master Hill QC awarded damages  of \u00a31,500 for misuse of personal information in a case where there wasMR JUSTICE CHAMBERLAINApproved JudgmentALI V BEDFORDSHIRE POLICE \u201climited evidence of direct impact\u201d on the claimant)",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 1291, [",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EWHC 1046",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In the latter case, reference was made to the decision of Mitting J in TLT v Secretary of State for the Home Department [2016] EWHC 2217 (QB) (where awards of between \u00a32,500 and \u00a312,500 were made to asylum seekers whose details had been erroneously made public).",
+    "legal_references": [
+      {
+        "text": "TLT v Secretary",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "There was no permission for expert evidence and, under CPR 35.4, no entitlement to rely on the report without permission.",
+    "legal_references": [
+      {
+        "text": "CPR 35.4",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Conclusions on causation and quantum 45It is important to keep the claim under the GDPR separate from the claims for misuse of private information and breach of confidence.",
+    "legal_references": [
+      {
+        "text": "GDPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "The claim under the GDPR 46In Lloyd v Google [2021] UKSC 50, [2022] 1 WLR 1217, at [138], Lord Leggatt (with whom the other members of the Court agreed) held that there is no right, whether under the Data Protection Act 1998 or the EU legislation which preceded the GDPR, to damages other than for material damage or distress.",
+    "legal_references": [
+      {
+        "text": "the Data Protection Act 1998",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "There is no reason to suppose that the position is any different under the GDPR.",
+    "legal_references": [
+      {
+        "text": "GDPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "But on a fair reading of the Particulars of Claim there is no pleaded claim for psychiatric injury; and I agree with Ms Oborne that Dr Mir\u2019s report should not now be admitted, no permission having been sought.",
+    "legal_references": [
+      {
+        "text": "the Particulars of Claim",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The only basis for damages under the GDPR is, therefore, distress.",
+    "legal_references": [
+      {
+        "text": "GDPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "On an orthodox analysis, the question whether the Police are liable for this distress depends on whether their breach of the GDPR caused that distress.",
+    "legal_references": [
+      {
+        "text": "GDPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "52I would therefore hold that Ms Ali is entitled to some compensation for distress under the GDPR.",
+    "legal_references": [
+      {
+        "text": "GDPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "I note that this is in the bottom half of the range of awards for \u201cless severe psychiatric harm\u201d in the Judicial College Guidelines for the Assessment of General Damages in Personal Injury Cases (16th ed.).",
+    "legal_references": [
+      {
+        "text": "the Judicial College Guidelines",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "the analysis in [51] above is wrong, compensation is available in the tort of misuse of private information on a wider basis than under the GDPR.",
+    "legal_references": [
+      {
+        "text": "GDPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "Article 8 ECHR",
+    "legal_references": [
+      {
+        "text": "Article 8 ECHR",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "54If it were necessary to do so, I would award the same amount \u2013 \u00a33,000 \u2013 for breach of Ms Ali\u2019s rights under Article 8 ECHR.",
+    "legal_references": [
+      {
+        "text": "Article 8 ECHR",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "There is some doubt about whether damages may be awarded for a breach of Article 8 where the breach has not given rise to some form of \u201cmental harm\u201d (see  Lloyd v Google, [127]), but it is well established that compensation  for  breaches  of  Convention  rights  does  not  require  the  same  strictMR JUSTICE CHAMBERLAINApproved JudgmentALI V BEDFORDSHIRE POLICE approach to causation of loss as is required for some common law torts.",
+    "legal_references": [
+      {
+        "text": "Article 8",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Convention",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "JudgmentALI V BEDFORDSHIRE POLICE",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Result 55The claims  for breach of Article  5(1)(a) and (b) of the GDPR, misuse of private information and breach of s. 6 of the 1998 Act succeed.",
+    "legal_references": [
+      {
+        "text": "Article  5(1)(a) and",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s. 6 of the 1998 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "GDPR",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  }
+]

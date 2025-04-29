@@ -1,0 +1,624 @@
+[
+  {
+    "sentence": "The appellants are charged with conspiring unlawfully to intercept communications in the course of their transmission without lawful authority contrary to section 1(1) Criminal Law Act 1977.",
+    "legal_references": [
+      "section 1(1) Criminal Law Act 1977"
+    ]
+  },
+  {
+    "sentence": "Under section 1(1)(b) Regulation of Investigatory Powers Act 2000 (\u201cRIPA\u201d), it is an offence intentionally to intercept, without lawful authority, any communication in the course of its transmission by means of a public telecommunications system.",
+    "legal_references": [
+      "section 1(1)(b) Regulation of Investigatory Powers Act"
+    ]
+  },
+  {
+    "sentence": "The appellants made dismissal applications on a ground which raises the true construction of sub-sections 2(1), 2(2) and 2(7) RIPA.",
+    "legal_references": [
+      "sections 2(1),"
+    ]
+  },
+  {
+    "sentence": "The central point taken on behalf of the appellants is that the words \u201cin the course of transmission\u201d in section 1(1) RIPA do not extend to cover voicemail messages once they have been accessed by the intended recipient.",
+    "legal_references": [
+      "section 1(1) RIPA"
+    ]
+  },
+  {
+    "sentence": "The decision of Fulford L.J., endorsed by Saunders J., is that section 2(7) RIPA extends the concept of transmission to include the period when the transmission system stores the communication, in such a manner that enables the intended recipient to have access to it, whether or not it has previously been received by the intended recipient.",
+    "legal_references": [
+      "section 2(7) RIPA"
+    ]
+  },
+  {
+    "sentence": "In accordance with section 30, Criminal Procedure and Investigations Act 1996, the appellants should have been arraigned before the start of the preparatory hearing.",
+    "legal_references": [
+      "section 30, Criminal Procedure and Investigations Act"
+    ]
+  },
+  {
+    "sentence": "Indeed Part 15.6 of the Criminal Procedure Rules requires that:    \u201cAt the beginning of a preparatory hearing, the court must: \t(a)\tannounce that it is such a hearing; and \t(b)\ttake the defendant\u2019s plea (unless already done).\u201d",
+    "legal_references": [
+      "Part 15.6",
+      "the Criminal Procedure Rules"
+    ]
+  },
+  {
+    "sentence": "In fact the defendants were arraigned at some stage during that hearing and it is obviously sensible, and in accordance with the overriding objective, to hear this appeal now despite that fact that there was not scrupulous observance of Part 15.6 at the time.",
+    "legal_references": [
+      "Part 15.6"
+    ]
+  },
+  {
+    "sentence": "The History of the Provisions    RIPA replaced the Interception of Communications Act 1985 (\u201cICA 1985\u201d), which had previously governed the interception of electronic communications in the United Kingdom.",
+    "legal_references": [
+      "the Interception of Communications Act 1985",
+      "ICA 1985",
+      "The History of the Provisions"
+    ]
+  },
+  {
+    "sentence": "In 1997 the European Parliament and Council had issued Directive 97/66/EC of 15 December 1997 concerning the processing of personal data and the protection of privacy in the telecommunications sector (\u201cthe 1997 Directive\u201d).",
+    "legal_references": [
+      "Directive 97/66/EC",
+      "the 1997 Directive"
+    ]
+  },
+  {
+    "sentence": "It is clear that one purpose of RIPA was to implement Article 5 of the 1997 Directive, which required Member States to safeguard the confidentially of communications.",
+    "legal_references": [
+      "RIPA",
+      "Article 5",
+      "the 1997 Directive"
+    ]
+  },
+  {
+    "sentence": "Following the enactment of RIPA, in 2002 the European Parliament and Council adopted Directive 2002/58/EC of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (\u201cthe 2002 Directive\u201d) which repealed the 1997 Directive.",
+    "legal_references": [
+      "RIPA",
+      "Directive 2002/58/EC",
+      "the 2002 Directive",
+      "the 1997"
+    ]
+  },
+  {
+    "sentence": "The Statutory Provisions  Section 1 Criminal Law Act 1977 provides: \u201c1.\u2014 The offence of conspiracy.",
+    "legal_references": [
+      "The Statutory Provisions  Section 1 Criminal Law Act"
+    ]
+  },
+  {
+    "sentence": "The relevant substantive offence is contained in section 1(1) RIPA which provides: \u201c1.\u2014 Unlawful interception.",
+    "legal_references": [
+      "section 1(1) RIPA"
+    ]
+  },
+  {
+    "sentence": "This provision follows closely the language of section 1(1) of ICA 1985 which RIPA replaced.",
+    "legal_references": [
+      "section 1(1)",
+      "ICA 1985"
+    ]
+  },
+  {
+    "sentence": "Section 2(1) defines \u201ctelecommunication system\u201d as follows: \u201ctelecommunication system\u201d means that any system (including the apparatus comprised in it) which exists (whether wholly or partly in the United Kingdom or elsewhere) for the purpose of facilitating the transmission of communications by any means involving the use of electrical or electro-magnetic energy.\u201d",
+    "legal_references": [
+      "Section 2(1)"
+    ]
+  },
+  {
+    "sentence": "Section 2(2) provides: \u201c(2) For the purposes of this Act, but subject to the following provisions of this section, a person intercepts a communication in the course of its transmission by means of a telecommunication system if, and only if, he\u2013 (a) so modifies or interferes with the system, or its operation, (b) so monitors transmissions made by means of the system, or (c) so monitors transmissions made by wireless telegraphy to or from apparatus comprised in the system, as to make some or all of the contents of the communication available, while being transmitted, to a person other than the sender or intended recipient of the communication.\u201d",
+    "legal_references": [
+      "Section 2(2)"
+    ]
+  },
+  {
+    "sentence": "At the heart of this appeal is the effect of section 2(7) which provides:  \u201c(7) For the purposes of this section the times while a communication is being transmitted by means of a telecommunication system shall be taken to include any time when the system by means of which the communication is being, or has been, transmitted is used for storing it in a manner that enables the intended recipient to collect it or otherwise to have access to it.\u201d",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "The provisions of sections 1 and 2 RIPA are intended to apply to a number of different technologies.",
+    "legal_references": [
+      "sections 1 and 2"
+    ]
+  },
+  {
+    "sentence": "The appellants submit that, save in the particular circumstances provided for in section 2(7), the references in RIPA to the course of transmission in the context of the use of a telephone system should be understood as meaning that the transmission ends when the signal delivered to the handset is converted back into sound waves or the call is terminated.",
+    "legal_references": [
+      "RIPA",
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "They accept that section 2(7) effects an extension of the \u201ccourse of transmission\u201d but submit that the ordinary meaning of \u201ctransmission\u201d contemplates conveyance from one person or place to another and that therefore the extension is limited to covering the transient storage of electronic communications before receipt.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "They submit that section 2(7) will apply to periods of transient storage that arise as a consequence of the use of modern electronic communications, as well as communications such as e-mail and voicemail when the intended recipient was not immediately available.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "However, they submit that that is the limit of the extension effected by section 2(7).",
+    "legal_references": [
+      "section 2(7"
+    ]
+  },
+  {
+    "sentence": "The Crown submits that there is no warrant for the restrictions which the appellants seek to impose on section 2(7).",
+    "legal_references": [
+      "section 2(7"
+    ]
+  },
+  {
+    "sentence": "It is clear that RIPA should be construed, if possible, so as to comply with Article 8, European Convention on Human Rights and the relevant Directives.",
+    "legal_references": [
+      "RIPA",
+      "Article 8, European Convention on Human Rights"
+    ]
+  },
+  {
+    "sentence": "(R v E [2004] 2 Cr App R 29 per Hughes J. at para 37).",
+    "legal_references": [
+      "R v E"
+    ]
+  },
+  {
+    "sentence": "Compliance with a production order, made under the Police and Criminal Evidence Act 1984, required the company to interfere with the operations of its system so as to divert a copy of the e-mail message to a second e-mail address before it was downloaded or otherwise collected by the intended recipient.",
+    "legal_references": [
+      "the Police and Criminal Evidence Act 1984"
+    ]
+  },
+  {
+    "sentence": "In support of the contention that \u201cinterception\u201d has to occur between two defined points which are the beginning and the end of a \u201ctransmission\u201d the appellants rely on R v E [2004] 2 Cr App R 29 where this court said: \u201cIn our view the natural meaning of the expression \u201cinterception\u201d denotes some interference or abstraction of the signal, whether it is passing along wires or by wireless telegraphy, during the process of transmission.\u201d",
+    "legal_references": [
+      "R v E"
+    ]
+  },
+  {
+    "sentence": "R v Effik [1995] 1 AC 309 is a decision on the Interception of Communications Act 1985.",
+    "legal_references": [
+      "1 AC 309",
+      "R v Effik",
+      "the Interception of Communications Act 1985"
+    ]
+  },
+  {
+    "sentence": "The ICA 1985 lacked any provision resembling section 2(7) and the reasoning has no bearing on the present issue.",
+    "legal_references": [
+      "The ICA 1985"
+    ]
+  },
+  {
+    "sentence": "For the same reason Thomas Porter v H.M. Advocate [2005] SCCR 13 is not in point.",
+    "legal_references": [
+      "SCCR 13"
+    ]
+  },
+  {
+    "sentence": "In R v Hardy [2003] 1 Cr. App. R. 30 this court held that a tape recording by undercover officers of telephone conversations with the Appellants was not an interception of the communication in the course of its transmission within the meaning of section 2(2) RIPA, but was the same as the secret recording by the officer of the conversation whilst meeting the suspect face to face.",
+    "legal_references": [
+      "R v Hardy"
+    ]
+  },
+  {
+    "sentence": "On behalf of the appellants, Miss Montgomery sought to rely on certain passages in Hansard, in particular the debate on the Regulation of Investigatory Powers Bill in Standing Committee F on 16 March 2000.",
+    "legal_references": [
+      "the Regulation of Investigatory Powers Bill",
+      "Hansard",
+      "Standing Committee F"
+    ]
+  },
+  {
+    "sentence": "The circumstances in which it is permissible for the courts to refer to Hansard for the purposes of statutory interpretation are not present in this case.  Even if section 2(7) could be considered ambiguous or obscure, there is certainly no clear statement by the promoter of the legislation which casts any light on the issue before us.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "The statutory language Concentrating on the provisions themselves, section 2(7), which has no counterpart in the ICA 1985, was clearly intended to extend the scope of the course of transmission.",
+    "legal_references": [
+      "the ICA 1985"
+    ]
+  },
+  {
+    "sentence": "We accept that if section 2(7) is to make effective provision for the mischief of unlawful interception of voicemail communications such an extension is necessary.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "There is nothing in the language of the statute to indicate that section 2(7) should be read in such a limited way.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "Miss Montgomery draws attention to the speech of Lord Oliver in R v Effik [1995] 1 AC 309 at p.318 where he observed, in relation to section 1(1) of the ICA 1985, that to constitute the offence under that section the interception must occur \u201cin the course of\u201d the transmission of the communication which he considered could mean no more than during the transmission of the communication.",
+    "legal_references": [
+      "the ICA 1985",
+      "R v Effik"
+    ]
+  },
+  {
+    "sentence": "We agree that section 2(7) makes effective provision for that particular mischief.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "Section 2(7) is intended to extend that concept by deeming certain identified situations to be in the course of transmission.",
+    "legal_references": [
+      "Section 2(7)"
+    ]
+  },
+  {
+    "sentence": "Fulford L.J., in accepting the Crown\u2019s submission as to the effect of section 2(7), considered that voicemails are not \u201ccollected\u201d in the same way as e-mails in that the latter are downloaded from the internet service provider\u2019s server to the computer of the subscriber, whereas voicemail messages are \u201caccessed\u201d when they are listened to.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "On behalf of the appellants, Miss Montgomery draws attention to the expression \u201cintended recipients\u201d in section 2(7) and submits that this provides further support for the view that the extension of protection effected by that sub-section is not intended to extend beyond the point of first access.  However, we agree with Fulford L.J. that these words are not meant to limit the ambit of this provision to the period prior to first access; rather, they are simply intended to identify the person to whom it is addressed and who was entitled to have access to it.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "We consider that it is readily apparent from the plain words that it was the intention of Parliament that section 2(7) should extend the course of transmission to include this situation.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "As Fulford L.J. put it: \u201cI accept, therefore, that the period of storage covered by the section does not come to an end on first access or collection by the intended recipient, but it continues for so long as the system is used to store the communication, and whilst the intended recipient has access to it in this way.",
+    "legal_references": [
+      "Fulford L.J."
+    ]
+  },
+  {
+    "sentence": "The European Directives One purpose of the enactment of RIPA was to implement Article 5 of the 1997 Directive.",
+    "legal_references": [
+      "RIPA",
+      "Article 5"
+    ]
+  },
+  {
+    "sentence": "In Case C-106/89 Marleasing SA v La Comercial Internacional de Alimentacion SA [1990] ECR I-4135 Court of Justice observed, at para 8: \u201cIt follows that, in applying national law, whether the provisions in question were adopted before or after the Directive, the national court called upon to interpret it is required to do so, as far as possible, in the light of the wording and the purpose of the Directive in order to achieve the results pursued by the latter and therefore comply with the third paragraph of Article 189 of the Treaty.\u201d",
+    "legal_references": [
+      "Article 189",
+      "Case C-106/89 Marleasing SA v"
+    ]
+  },
+  {
+    "sentence": "It follows therefore that in interpreting RIPA courts must do so, as far as possible, so as to achieve the results pursued by both the 1997 and the 2002 Directives.",
+    "legal_references": [
+      "RIPA"
+    ]
+  },
+  {
+    "sentence": "The 1997 Directive provides: \u201cArticle 1 Object and scope 1. This Directive provides for the harmonisation of the provisions of the Member States required to ensure an equivalent level of protection of fundamental rights and freedoms, and in particular the right to privacy, with respect to the processing of personal data in the telecommunications sector and to ensure the free movement of such data and of telecommunications equipment and services in the Community. \u2026\u201d",
+    "legal_references": [
+      "The 1997 Directive",
+      "This Directive"
+    ]
+  },
+  {
+    "sentence": "Article 2(c) defines \u201cpublic telecommunications network\u201d: \u201c'public telecommunications network' shall mean transmission systems and, where applicable, switching equipment and other resources which permit the conveyance of signals between defined termination points by wire, by radio, by optical or by other electromagnetic means, which are used, in whole or in part, for the provision of publicly available telecommunications services\u201d",
+    "legal_references": [
+      "Article 2(c)"
+    ]
+  },
+  {
+    "sentence": "Article 5(1) provides: \u201cArticle 5 Confidentiality of the communications 1.",
+    "legal_references": [
+      "Article 5 Confidentiality of the communications",
+      "Article 5(1)"
+    ]
+  },
+  {
+    "sentence": "In particular, they shall prohibit listening, tapping, storage or other kinds of interception or surveillance of communications, by others than users, without the consent of the users concerned, except when legally authorised, in accordance with Article 14 (1).\u201d",
+    "legal_references": [
+      "Article 14 (1)"
+    ]
+  },
+  {
+    "sentence": "Article 6(1) provides:  \u201cArticle 6 Traffic and billing data 1.",
+    "legal_references": [
+      "Article 6(1)",
+      "Article 6"
+    ]
+  },
+  {
+    "sentence": "The 2002 Directive repeals the 1997 Directive and provides: \u201cArticle 1 Scope and aim 1.",
+    "legal_references": [
+      "Article 1 Scope",
+      "The 2002 Directive"
+    ]
+  },
+  {
+    "sentence": "This Directive harmonises the provisions of the Member States required to ensure an equivalent level of protection of fundamental rights and freedoms, and in particular the right to privacy, with respect to the processing of personal data in the electronic communication sector and to ensure the free movement of such data and of electronic communication equipment and services in the Community.",
+    "legal_references": [
+      "This Directive"
+    ]
+  },
+  {
+    "sentence": "Article 2 includes the following definitions: \u201c(d) 'communication' means any information exchanged or conveyed between a finite number of parties by means of a publicly available electronic communications service. \u2026",
+    "legal_references": [
+      "Article 2"
+    ]
+  },
+  {
+    "sentence": "Article 5(1) provides: \u201cArticle 5 Confidentiality of the communications 1. Member States shall ensure the confidentiality of communications and the related traffic data by means of a public communications network and publicly available electronic communications services, through national legislation.",
+    "legal_references": [
+      "Article 5(1)"
+    ]
+  },
+  {
+    "sentence": "In particular, they shall prohibit listening, tapping, storage or other kinds of interception or surveillance of communications and the related traffic data by persons other than users, without the consent of the users concerned, except when legally authorised to do so in accordance with Article 15(1).",
+    "legal_references": [
+      "Article 15(1)"
+    ]
+  },
+  {
+    "sentence": "Article 6(1) provides: \u201cArticle 6 Traffic data 1. Traffic data relating to subscribers and users processed and stored by the provider of a public communications network or publicly available electronic communications service must be erased or made anonymous when it is no longer needed for the purpose of the transmission of a communication without prejudice to paragraphs 2, 3 and 5 of this Article and Article 15(1).\u201d",
+    "legal_references": [
+      "Article 6(1)",
+      "Article 15(1)",
+      "Article 6"
+    ]
+  },
+  {
+    "sentence": "Miss Montgomery submits that the more limited interpretation of section 2(7) for which she contends is supported by the Directives.",
+    "legal_references": [
+      "Directives"
+    ]
+  },
+  {
+    "sentence": "She submits that it corresponds with the plain meaning of the Directives which distinguish between stored communications and the automatic, transient and intermediate storage of a communication for the purposes of transmission.",
+    "legal_references": [
+      "Directives"
+    ]
+  },
+  {
+    "sentence": "With regard to the 1997 Directive, she submits that Article 5(1) has to be read in conjunction with Article 6(1) which requires that traffic data must be deleted subject to certain qualifications.",
+    "legal_references": [
+      "Article 5(1) has",
+      "Article 6(1) which"
+    ]
+  },
+  {
+    "sentence": "She draws attention to the fact that the obligation to erase arises upon termination of the call.  She also draws attention to the fact that the definition of \u201cpublic telecommunications network\u201d in Article 2(c) refers to the conveyance of signals \u201cbetween defined termination points\u201d.",
+    "legal_references": [
+      "Article 2(c)"
+    ]
+  },
+  {
+    "sentence": "Thus Article 5(1) provides in its last sentence that the duty to ensure the confidentiality of communications shall not prevent technical storage which is necessary for the conveyance of the communication.",
+    "legal_references": [
+      "Article 5(1) provides"
+    ]
+  },
+  {
+    "sentence": "She submits that these provisions provide the key to understanding the scope of section 2(7) which was intended to extend the scope of the statutory protection only to communications in automatic, intermediate and transient storage for the purposes of transmission.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "While we accept that the 2002 Directive does make provision for technical storage of communications and is not intended to prohibit any automatic, intermediate and transient storage for the sole purpose of carrying out the transmission, we do not accept that this limits the reading of section 2(7).",
+    "legal_references": [
+      "the 2002"
+    ]
+  },
+  {
+    "sentence": "No doubt section 2(7) achieves that result.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "However, if it had been the intention simply to ensure that such technical storage necessary for the conveyance of the communication was not prohibited, we would expect section 2(7) to say so in terms.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "In fact the language employed in section 2(7) is far wider and, for reasons we have already explained, extends the protection of a voicemail message beyond the point of first receipt.",
+    "legal_references": [
+      "section 2(7"
+    ]
+  },
+  {
+    "sentence": "However, there is a further issue on the Directives, namely whether it was open to the United Kingdom, consistently with its obligations in EU law, to enact a provision of the breadth for which the Crown contends.",
+    "legal_references": [
+      "Directives"
+    ]
+  },
+  {
+    "sentence": "It was common ground between the parties below that Parliament, in enacting section 2(7), had gone beyond the duty in EU law to implement Directives and had afforded protection to communications in circumstances beyond those required by the Directives.",
+    "legal_references": [
+      "section 2(7)",
+      "Directives"
+    ]
+  },
+  {
+    "sentence": "Fulford L.J. came to the same conclusion: \u201cIn the result, the words of section 2(7) of RIPA should be interpreted as extending the concept of transmission in this context so as to include any period during which the transmission system itself stores the communication.",
+    "legal_references": [
+      "RIPA",
+      "section 2(7)",
+      "Fulford L.J. came"
+    ]
+  },
+  {
+    "sentence": "Undoubtedly, this protection goes further than that seemingly envisaged in Directives 1997/66/EC or 2002/58/EC, but it is entirely a matter for Parliament to decide whether or not to provide a scheme which provides greater protection than that indicated by the European Parliament and Council in a particular Directive, for instance in order to ensure that an individual\u2019s right to privacy, when viewed broadly in this context, is substantively upheld\u2026\u201d",
+    "legal_references": [
+      "Directives 1997/66/"
+    ]
+  },
+  {
+    "sentence": "With regard to the 1997 Directive he submits that Article 5(1) protects the confidentiality of \u201ccommunications\u201d and therefore requires Member States to prohibit, inter alia, \u201clistening\u201d to such communications by persons other than their intended recipients.  He submits that the question is whether mobile phone voicemail messages stored on a public telecommunications network are \u201ccommunications by means of a public telecommunications network\u201d.",
+    "legal_references": [
+      "Article 5(1) protects",
+      "the 1997"
+    ]
+  },
+  {
+    "sentence": "With regard to the 2002 Directive he submits that it is clear from Article 5(1) that the Directive protects the privacy of \u201ccommunications\u201d and therefore requires prohibition of \u201clistening\u201d to such communications by persons other than their intended recipients.",
+    "legal_references": [
+      "the 2002 Directive",
+      "Article 5(1) that"
+    ]
+  },
+  {
+    "sentence": "The 2002 Directive does include a definition of \u201ccommunications\u201d in Article 2(d).",
+    "legal_references": [
+      "Article 2(d).",
+      "The 2002 Directive"
+    ]
+  },
+  {
+    "sentence": "Mr. Edis submits that voicemail messages stored on a mobile telecommunications network plainly satisfy each of the three requirements of the definition so as to fall within the protection conferred by Article 5(1): they contain information, they are conveyed between a finite number of parties and they are conveyed by means of an electronic communications service because they are stored on a communications network rather than on an answering device attached to or incorporated in the recipient\u2019s handset.",
+    "legal_references": [
+      "Article 5(1):"
+    ]
+  },
+  {
+    "sentence": "In response, Miss Montgomery submits that the obligation imposed by the Directives in this regard is limited to transmission and that ends with the first receipt by the intended recipient of the voice message.",
+    "legal_references": [
+      "Directives"
+    ]
+  },
+  {
+    "sentence": "Here she relies in particular on Recital 27 to the 2002 Directive which states: \u201c(27) The exact moment of the completion of the transmission of a communication, after which traffic data should be erased except for billing purposes, may depend on the type of electronic communications service that is provided.",
+    "legal_references": [
+      "Recital 27 to the 2002 Directive"
+    ]
+  },
+  {
+    "sentence": "First, Recital 27 is concerned with a different matter, the definition of the exact moment of the completion of transmission for the purposes of provisions concerning the erasure of traffic data and so, at best, can only be relevant by way of analogy to the scope of the protection conferred by Article 5(1).",
+    "legal_references": [
+      "Article 5(1).",
+      "Recital 27"
+    ]
+  },
+  {
+    "sentence": "In addition in this regard, the appellants rely on the definition of \u201celectronic mail\u201d in Article 2(h) of the 2002 Directive which employs the concept of ability to be stored \u201cuntil it is collected by the recipient\u201d.",
+    "legal_references": [
+      "Article 2(h)"
+    ]
+  },
+  {
+    "sentence": "Article 2(h) clearly includes a voice message.",
+    "legal_references": [
+      "Article 2(h)"
+    ]
+  },
+  {
+    "sentence": "In any event, it is not necessary for us to decide whether the wider meaning of section 2(7), which we consider was intended by Parliament, goes beyond what is required by the Directives because it is clear that even if it does, it is not prohibited by EU law.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "Here she relies on the reference in Article 1(1) of the 2002 Directive to harmonization \u201cto ensure the free movement of such data and of telecommunications equipment and services in the Community\u201d.",
+    "legal_references": [
+      "Article 1(1) of"
+    ]
+  },
+  {
+    "sentence": "In this regard, Miss Montgomery also draws attention to Directive 2006/24/EC of the European Parliament and the Council of 15 March 2006 on the retention of data generated or processed in connection with the provision of publicly available electronic communications services or of public communication networks.",
+    "legal_references": [
+      "Directive 2006/24/"
+    ]
+  },
+  {
+    "sentence": "In particular she draws attention to Recital 6 of the preamble which states: \u201c(6) The legal and technical differences between national provisions concerning the retention of data for the purpose of prevention, investigation, detection and prosecution of criminal offences present obstacles to the internal market for electronic communications, since service providers are faced with different requirements regarding the types of traffic and location data to be retained and the conditions and periods of retention.\u201d",
+    "legal_references": [
+      "Recital 6 of the preamble which"
+    ]
+  },
+  {
+    "sentence": "One of the purposes of the 2002 Directive was undoubtedly to bring about harmonisation in relation to free movement of data, goods and services in the electronic communications sector.",
+    "legal_references": [
+      "the 2002"
+    ]
+  },
+  {
+    "sentence": "However, Recital 8 makes clear that harmonisation in this regard is intended to be limited.",
+    "legal_references": [
+      "Recital 8 makes"
+    ]
+  },
+  {
+    "sentence": "It states: \u201c(8) Legal, regulatory and technical provisions adopted by the Member States concerning the protection of personal data, privacy and the legitimate interest of legal persons, in the electronic communication sector, should be harmonised in order to avoid obstacles to the internal market for electronic communication in accordance with Article 14 of the Treaty.",
+    "legal_references": [
+      "Article 14"
+    ]
+  },
+  {
+    "sentence": "We are totally unable to accept that section 2(7) could give rise to any concerns as to its effect on inter-State trade.",
+    "legal_references": [
+      "section 2(7)"
+    ]
+  },
+  {
+    "sentence": "Our conclusion on this point is, moreover, entirely consistent with the protection afforded by Article 5 of the 2002 Directive, whatever its scope, and no question of derogation under Article 15 arises.",
+    "legal_references": [
+      "Article 5 of the 2002 Directive",
+      "Article 15"
+    ]
+  },
+  {
+    "sentence": "Finally, in this regard, we note that the 2006 Directive is concerned with a different matter, namely the harmonisation of obligations on service providers to retain data for the purposes of the investigation and prosecution of crime, a matter to which very different considerations apply.",
+    "legal_references": [
+      "the 2006 Directive"
+    ]
+  },
+  {
+    "sentence": "On behalf of the appellants, Miss Montgomery submits that the conduct alleged in these proceedings comes within the provisions of the Computer Misuse Act 1990 and the Data Protection Act 1998.",
+    "legal_references": [
+      "the Computer Misuse Act 1990",
+      "the Data Protection Act 1998"
+    ]
+  },
+  {
+    "sentence": "She draws attention to differences between these Acts and RIPA, in particular to the fact that under section 55(2)(d) Data Protection Act there is a public interest defence which is not available under RIPA.",
+    "legal_references": [
+      "RIPA",
+      "Data Protection Act"
+    ]
+  },
+  {
+    "sentence": "She submits that adopting the broader interpretation of section 2(7) RIPA for which the Crown contends risks creating parallel offences which do not provide the same defence.",
+    "legal_references": [
+      "section 2(7) RIPA"
+    ]
+  },
+  {
+    "sentence": "The offence contrary to section 1(1) RIPA, unlike the offences protecting computers under the Computer Misuse Act or data under the Data Protection Act, is committed only while the communication is in the course of transmission by means of a public telecommunication system.",
+    "legal_references": [
+      "section 1(1) RIPA",
+      "the Data Protection Act",
+      "the Computer Misuse Act"
+    ]
+  },
+  {
+    "sentence": "Admissibility of evidence Miss Montgomery draws attention to section 17 RIPA which excludes material from legal proceedings and submits that the wider reading of section 2(7) for which the Crown contends could have far-reaching implications for law enforcement agencies and criminal procedure.",
+    "legal_references": [
+      "section 2(7)",
+      "section 17 RIPA"
+    ]
+  },
+  {
+    "sentence": "However, while section 17 excludes from evidence intercept material obtained under warrant or obtained unlawfully, stored communications are admissible in evidence if obtained by means of a production order under section 1(5)(c) RIPA or with consent.",
+    "legal_references": [
+      "section 17",
+      "section 1(5)(c) RIPA"
+    ]
+  }
+]

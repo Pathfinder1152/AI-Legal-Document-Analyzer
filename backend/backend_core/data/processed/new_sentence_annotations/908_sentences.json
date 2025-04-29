@@ -1,0 +1,1241 @@
+[
+  {
+    "sentence": "Case No: A2/2009/2133 B4/2010/0139 & 0140  Neutral Citation Number: [2010] EWCA Civ 908  COURT OF APPEAL (CIVIL DIVISION) ON APPEAL FROM THE HIGH COURT OF JUSTICE Mr Justice Eady [2009] EWHC 2024 (QB) Mr Justice Moylan [2009] EWHC 3486 (Fam) [2009] EWHC 64 (Fam) Royal Courts of Justice Strand, London, WC2A 2LL  Date: 29/07/2010 Before :  MASTER OF THE ROLLS LORD JUSTICE MOSES and LORD JUSTICE MUNBY - - - - - - - - - - - - - - - - - - - - - Between : |1. Robert Tchenguiz 2. Vincent Tchenguiz",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 908  COURT OF APPEAL (",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "They raise fundamentally important questions in relation to the so-called Hildebrand rules: see Hildebrand v Hildebrand [1992] 1 FLR 244.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Zaiwalla then passed those files on to Withers, the solicitors acting for Mrs Imerman in her divorce, who had already issued Form A, giving notice of Mrs Imerman\u2019s intention to seek ancillary financial relief.",
+    "legal_references": [
+      {
+        "text": "Form A",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "They require consideration of the law of confidence, both in general and as between husband and wife; the power of the court to exclude or admit wrongfully obtained documents and information; and the proper attitude which the court, and lawyers advising parties, should adopt in ancillary relief proceedings when one of the parties is, or may be, concealing assets, or when the other party may have unlawfully obtained documents which may reveal such assets.",
+    "legal_references": [
+      {
+        "text": "the law of confidence,",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "While these issues involve domestic points of equity, common law, civil procedure, and statutory construction, articles 6, 8, and 10 of the European Convention on Human Rights (in summary terms, the right to a fair trial, the right to respect for privacy, and the right to freedom of speech, respectively) are also engaged.",
+    "legal_references": [
+      {
+        "text": "the European Convention on Human Rights",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "We emphasise this fact because it was only then that, under the relevant provisions of the Family Proceedings Rules 1991 (as amended), the time had come for Mr Imerman to give disclosure of his assets and disclosure (discovery) of documents and for Mrs Imerman to protest at any inadequacy in his disclosure.",
+    "legal_references": [
+      {
+        "text": "the Family Proceedings Rules 1991",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is convenient at this stage, first, to set out the relevant parts of the Family Proceedings Rules and, then, to set out what we understand by the Hildebrand rules, including our analysis of the curious process, what we venture to suggest is the unprincipled and never properly articulated process, by which what may properly be described as the \u2018rule in Hildebrand\u2019 became transformed into the (very different) so-called \u2018Hildebrand rules\u2019.",
+    "legal_references": [
+      {
+        "text": "the Family Proceedings Rules",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Livesey (formerly Jenkins) v Jenkins [1985] AC 424 and, for the most part, the modern Form E are concerned with disclosure, not discovery.",
+    "legal_references": [
+      {
+        "text": "AC 424",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This reflects the fact that section 25(1) of the Matrimonial Causes Act 1973 requires the court \u201cto have regard to all the circumstances of the case\u201d, from which it follows, as Lord Brandon observed (page 440), that \u201cunless the parties make full and frank disclosure of all material matters, the court cannot lawfully or properly exercise [its] discretion [under sections 23 and 24 of the Act].\u201d",
+    "legal_references": [
+      {
+        "text": "the Matrimonial Causes Act 1973",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 25(1) of the Matrimonial Causes Act 1973",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "The content of and need for compliance with Form E are regulated by rule 2.61B of the Family Proceedings Rules.",
+    "legal_references": [
+      {
+        "text": "Form E",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "rule 2.61B",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Family Proceedings Rules",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The rubric on the first page of Form E deals with both disclosure and discovery as follows: \u201cYou have a duty to the court to give a full, frank and clear disclosure of all your financial and other relevant circumstances \u2026",
+    "legal_references": [
+      {
+        "text": "Form E",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Discovery of documents is confined to (a) those which Form E itself identifies as documents that \u201cmust\u201d be provided and (b) those which are \u201cnecessary\u201d to explain or clarify.",
+    "legal_references": [
+      {
+        "text": "Form E",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Procedure in ancillary relief cases is regulated by the Family Proceedings Rules.",
+    "legal_references": [
+      {
+        "text": "the Family Proceedings Rules",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Rule 2.51D, the equivalent of Rule 1.1 of the Civil Procedure Rules, sets out the \u201coverriding objective\u201d as follows: \u201c(1) \tThe ancillary relief rules are a procedural code with the overriding objective of enabling the court to deal with cases justly.",
+    "legal_references": [
+      {
+        "text": "Rule 2.51D",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Rule 1.1",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Civil Procedure Rules",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Rule 2.61B sets out the procedure before the first appointment.",
+    "legal_references": [
+      {
+        "text": "Rule 2.61B",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(2) \tForm E must be exchanged and filed not less than 35 days before the date of the first appointment.  (3) \tForm E must have attached to it:  (a) \tany documents required by Form E;  (b) \tany other documents necessary to explain or clarify any of the information contained in Form E;  \u2026   (4) \tForm E must have no documents attached to it other than the documents referred to in paragraph (3).  (5) \tWhere a party was unavoidably prevented from sending any document required by Form E, that party must at the earliest opportunity:  (a) \tserve copies of that document on the other party, and  (b) \tfile a copy of that document with the court, together with a statement explaining the failure to send it with Form E.  (6) \tNo disclosure or inspection of documents may be requested or given between the filing of the application for ancillary relief and the first appointment, except \u2013  (a) \tcopies sent with Form E, or in accordance with paragraph (5); or  (b) \tin accordance with paragraph (7).",
+    "legal_references": [
+      {
+        "text": "Form E",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Form E.",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Rule 2.61D deals with the first appointment.",
+    "legal_references": [
+      {
+        "text": "Rule 2.61D",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Rule 2.61E deals with the financial dispute resolution (FDR) appointment.",
+    "legal_references": [
+      {
+        "text": "Rule 2.61E",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Rule 2.62 deals with the substantive hearing.",
+    "legal_references": [
+      {
+        "text": "Rule 2.62",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Rule 2.66(4) gives the same powers to the judge when the case has been transferred for hearing by a judge rather than a district judge.",
+    "legal_references": [
+      {
+        "text": "Rule 2.66(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "and even more significantly, that the process of disclosure (discovery) of documents both then and thereafter is closely regulated by the Rules and, in accordance with the Rules, by the court.",
+    "legal_references": [
+      {
+        "text": "Rules",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": ", there is, despite the duty imposed on the court by section 25 of the 1973 Act, no duty of general disclosure (discovery) of documents of the kind required in ordinary civil proceedings by the Civil Procedure Rules.",
+    "legal_references": [
+      {
+        "text": "section 25",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Civil Procedure Rules",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "But two features of ancillary relief proceedings have led to the Family Courts refusing to condemn, still less to impose any sanction (save very occasionally in particularly egregious circumstances), when a spouse obtains and copies the other spouse\u2019s documents, even though they are confidential, provided, according to the Hildebrand rules, that no force is used.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Second, and as we have described, the court is under the statutory obligation imposed by section 25 to investigate and discover the true extent of  the parties\u2019 finances, a role described by Thorpe LJ as \u201cquasi-inquisitorial\u201d: Parra v Parra [2002] EWCA Civ 1886, [2003] 1 FLR 942, para [22].",
+    "legal_references": [
+      {
+        "text": "section 25",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EWCA Civ 1886",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Hildebrand rules  What have become known as the Hildebrand rules form the basis of advice by lawyers to their clients with the apparent approval of the judges of the Family Division.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "An accurate statement of the Hildebrand rules as currently understood was given by Ward LJ in White v Withers LLP and Dearle [2009] EWCA Civ 1122, [2010] 1 FLR 859, para [37]: \u201cIt may be appropriate to summarise the Hildebrand rules as they apply in the Family Division as follows.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EWCA Civ 1122",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is necessary to ascertain the origin of the Hildebrand rules so as to understand their meaning and their juridical basis (if any).",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Hildebrand v Hildebrand itself is accordingly no authority for the proposition that a spouse may, in circumstances that would otherwise be unlawful, take, copy and retain copies of confidential documents.",
+    "legal_references": [
+      {
+        "text": "Hildebrand v Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In other words, it is no authority for the so-called Hildebrand rules.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As he said (para [79]):  \u201cThe ratio decidendi of Hildebrand, important though it has proved to be, relates only to the time at which copy documents thus obtained should be disclosed to the other spouse, namely no later than at the normal disclosure stage and thus in effect (albeit now subject to the prohibition against disclosure prior to the first appointment contained in Rule 2.61B(6) of the Family Proceedings Rules 1991) at the time of service upon that spouse of the first questionnaire (or as soon after service of the questionnaire as that rule permits and in any event before service of answers to it).",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Rule 2.61B(6) of",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Family Proceedings Rules 1991",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Hildebrand v Hildebrand, in our judgment, is authority only as to the time when copies obtained unlawfully or clandestinely should be disclosed to a spouse.",
+    "legal_references": [
+      {
+        "text": "Hildebrand v Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "On that narrow point \u2013 what we have referred to as the \u2018rule in Hildebrand\u2019 \u2013 it was and remains good law.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Disclosure in this way of the fact of what she has done is not in any way inconsistent with the Rules.",
+    "legal_references": [
+      {
+        "text": "Rules",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, a wife who wishes to deploy such documents against her husband cannot rely upon the privilege as a reason for not disclosing the fact that she has them at the time when such disclosure would otherwise be required by the rule in Hildebrand.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In December 1993, Wilson J (as by then he had become) gave an address, an abridged version of which was published as \u2018Conduct of the Big Money Case\u2019 [1994] Fam Law 504.",
+    "legal_references": [
+      {
+        "text": "Fam Law 504",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In White v Withers Wilson LJ (as by then he had become) observed (para [82]) that since the decision in T v T no judge of the Family Division had, to his knowledge, sought to add to, or subtract from, the so-called \u2018rules\u2019 which he had suggested in T v T as to the three areas of misconduct in the manner in which documents may be taken or kept, adding that:  \u201cperhaps partly because they are so easily understandable, the \u2018rules\u2019 now constitute the foundation of advice conventionally given to clients by family lawyers, as well as of the approach of the family judiciary to the treatment of Hildebrand documents\u201d.",
+    "legal_references": [
+      {
+        "text": "T v T",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In J v V (Disclosure: Offshore Corporations) [2003] EWHC 3110 (Fam), [2004] 1 FLR 1042, para [32], Coleridge J could describe such behaviour as \u201cperfectly permissible\u201d.",
+    "legal_references": [
+      {
+        "text": "J v V",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Wilson J did not in T v T, as he later acknowledged in White v Withers (para [81]), consider the effect of that approach to the law in relation to tortious acts, let alone to the law in relation to the protection of confidential information.",
+    "legal_references": [
+      {
+        "text": "T v T",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Matrimonial Causes Act 1973 can be invoked to justify admitting the evidence contained in the documents: but one cannot construe the Act as authorising the commission of the torts of trespass or conversion.",
+    "legal_references": [
+      {
+        "text": "The Matrimonial Causes Act 1973",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "At most the Hildebrand rules, and the extent to which they are observed or broken, may have an impact upon damages and, therefore, upon whether or not the court should allow a civil claim to go to trial.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Sedley LJ said this (para [73]): \u201cThere may, however, be cases in which a properly conducted Hildebrand removal has done appreciable harm and the question has to be answered whether Hildebrand affords a substantive defence to the tort.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Such an exception would be founded on the words of s 25(1) and (2) of the Matrimonial Causes Act 1973, which, exceptionally, confer upon the court a duty to despatch certain litigation, namely applications for ancillary relief, with regard to certain factors, namely to a \u2018first consideration\u2019 (the welfare of any relevant child while a minor), to the \u2018matters\u2019 specified in subs (2) and, more widely, to \u2018all the circumstances of the case\u2019.",
+    "legal_references": [
+      {
+        "text": "s 25(1) and",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Matrimonial Causes Act 1973",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "subs (2)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s 25(1) and (2) of the Matrimonial Causes Act 1973",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "It would be as unfortunate as it would be unnecessary for us to suggest, as does Ward LJ, at [57] above, that to act even in accordance with the Hildebrand \u2018rules\u2019 \u2018is to take a risk\u2019; or to state, as he does, at [58] above, that \u2018at most the Hildebrand \u2018rules\u2019, and the extent to which they are observed or broken, may have an impact upon damages\u2019.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In the latter case, Laws J suggested (page 807) that the law recognised \u201ca right to privacy, although the name accorded to the cause of action would be breach of confidence\u201d.",
+    "legal_references": [
+      {
+        "text": "Laws J",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It goes a little further than nomenclature in that, in Wainwright v Home Office [2003] UKHL 53, [2004] 2 AC 406, the House of Lords held that there was no tort of invasion of privacy, even now that the Human Rights of Act 1998 is in force.",
+    "legal_references": [
+      {
+        "text": "the Human Rights of Act 1998",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, following its later decision in Campbell, there is now a tort of misuse of private information: as Lord Phillips of Worth Matravers MR put it in Douglas v Hello! Ltd (No 3) [2005] EWCA Civ 595, [2006] QB 125, a claim based on misuse of private information has been \u201cshoehorned\u201d into the law of confidence.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 595",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "QB 125",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As Lord Phillips\u2019s observation suggests, there are dangers in conflating the developing law of privacy under article 8 and the traditional law of confidence.",
+    "legal_references": [
+      {
+        "text": "article 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(It chimes well with the test suggested in classic commercial confidence cases by Megarry J in Coco v A N Clark (Engineers) Ltd [1969] RPC 41, page 47, namely whether the information had the \u201cnecessary quality of confidence\u201d and had been \u201cimparted in circumstances importing an obligation of confidence\u201d.)",
+    "legal_references": [
+      {
+        "text": "RPC 41",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As stated in Stanley on The Law of Confidentiality: A Restatement (2008), page 4,  \u201cCases asserting an \u2018old fashioned breach of confidence\u2019 may well be addressed by considering established authority [whereas c]ases raising issues of personal privacy which might engage article 8 ... will require specific focus on the case law of the European Court of Human Rights\u201d.",
+    "legal_references": [
+      {
+        "text": "article 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "However, given that the domestic law on confidentiality had already started to encompass privacy well before the 1998 Act came into force, and that, with the 1998 Act now in force, privacy is still classified as part of the confidentiality genus, the law should be developed and applied consistently and coherently in both privacy and \u2018old fashioned confidence\u2019 cases, even if they sometimes may have different features.",
+    "legal_references": [
+      {
+        "text": "the 1998",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The fact that the law of confidentiality was extended in Campbell for the purpose of giving effect to article 8 in English law, cannot, as we see it, mean that the law of confidentiality has somehow been circumscribed in other respects.",
+    "legal_references": [
+      {
+        "text": "Campbell",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "article 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "does not mean that there has to be such misuse before a claim for breach of confidentiality can succeed, unless that was the position before the Human Rights Act 1998 came into force, which it was not.",
+    "legal_references": [
+      {
+        "text": "the Human Rights Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Human Rights Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "(It is only fair to mention, that in White v Withers the appeal against Eady J\u2019s decision was not pursued on the issue of confidentiality: [2010] EWCA Civ 1122, [2010] 1 FLR 859, para [40].",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 1122",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The claim for confidence in this case   Communications which are concerned with an individual\u2019s private life, including his personal finances, personal business dealings, and (possibly) his other business dealings are the stuff of personal confidentiality, and are specifically covered by article 8 of the Convention, which confers the right to respect for privacy and expressly mentions correspondence.  In this case, at far as we can see, there is no question but that Mr Imerman had an expectation of privacy in respect of the majority of his documents stored on the server, so that issue can properly be answered in his favour even at this interlocutory stage.",
+    "legal_references": [
+      {
+        "text": "article 8",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Convention",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "And in R v R [1992] 1 AC 599 (where the doctrine that a man could not be guilty of the rape of his wife was similarly swept away) Lord Keith of Kinkel observed (page 617) that \u201chusband and wife are now for all practical purposes equal partners in marriage.\u201d",
+    "legal_references": [
+      {
+        "text": "R v R",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is, moreover, implicit in the protection which article 8 affords each spouse in relation to his or her personal and individual private life, in contrast to their shared family life.",
+    "legal_references": [
+      {
+        "text": "article 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "But where, as in this case, information is surreptitiously downloaded from a computer, there may also be criminal offences under the Computer Misuse Act 1990 and the Data Protection Act 1998.",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Data Protection Act 1998",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "On behalf of Mr Imerman, it is contended that, in addition to infringing his rights of confidence, the defendants, or some of them, in accessing his computer records without his consent, were in breach of statutory duty under the 1998 Act, and committed crimes under the provisions of the 1990 Act and 1998 Act.",
+    "legal_references": [
+      {
+        "text": "the 1998 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Alleged criminality under the 1990 Act Section 1(1) of the 1990 Act provides that it is an offence for a person to \u201ccause ...  a computer to perform any function with intent to secure access to any program or data held in any computer\u201d, where \u201cthe access ... is unauthorised\u201d and \u201che knows at the time .... that that is the case\u201d.",
+    "legal_references": [
+      {
+        "text": "the 1990 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "By virtue of section 17(2), securing access includes taking copies of any data, or moving any data \u201cto any storage medium\u201d, or using such data.",
+    "legal_references": [
+      {
+        "text": "section 17(2)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 17(8) provides that an act is \u201cunauthorised, if the person doing [it] ... is not [and does not have the authority of] a person who has responsibility for the computer and is entitled to determine whether the act may be done\u201d.",
+    "legal_references": [
+      {
+        "text": "Section 17(8)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "On the basis of the arguments that have been, relatively briefly, presented to us on the issue, there does seem to be a real possibility that those defendants responsible for accessing Mr Imerman\u2019s computer records stored on the server in early 2009 were guilty of an offence under section 1 of the 1990 Act.",
+    "legal_references": [
+      {
+        "text": "section 1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Accordingly, at this stage, while we properly can, and do, conclude that there is a real possibility that an offence under the 1990 Act was committed when Robert Tchenguiz obtained copies of Mr Imerman\u2019s documents downloaded from the server in early 2009, it is not possible and not necessary to reach a final conclusion on that issue.",
+    "legal_references": [
+      {
+        "text": "the 1990 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The alleged breach of statutory duty arises out of section 4(4), which imposes a duty on a \u201cdata controller\u201d to comply with \u201cthe data protection principles\u201d, set out in schedule 1, in relation to \u201call personal data [of] which he is data controller\u201d.",
+    "legal_references": [
+      {
+        "text": "section 4(4)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "schedule 1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 1 of the 1998 Act contains definitions; \u201cdata controller\u201d is defined as meaning  \u201ca person who ... determines the purposes for which and the manner in which any personal data are ... processed\u201d; \u201cpersonal data\u201d is defined as meaning \u201cdata which relate to a living individual who can be identified ... from those data ...\u201d.",
+    "legal_references": [
+      {
+        "text": "Section 1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Paragraph 1 of Part I of Schedule 1 to the 1998 Act states that data \u201cshall be processed fairly and lawfully\u201d, and only if \u201cone of the conditions in schedule 2 is met\u201d.",
+    "legal_references": [
+      {
+        "text": "Paragraph 1",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part I",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Schedule 1 to the 1998 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "There is force in the argument that, far from being lawful, fair and in accordance with schedule 2, the accessing in early 2009 failed all three requirements.",
+    "legal_references": [
+      {
+        "text": "schedule 2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "floated by the defendants (and found respectively in paragraphs 5 and 6 of Schedule 2).",
+    "legal_references": [
+      {
+        "text": "Schedule 2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The defendants also rely on section 35(2), which permits disclosure of data if it \u201cis necessary ... for the purpose of, or in connection with, legal proceedings ... or is otherwise necessary for the purpose of establishing, exercising or defending legal rights\u201d.",
+    "legal_references": [
+      {
+        "text": "section 35(2)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "On the basis of the arguments we have heard, it is clear that Mr Imerman has a powerful case to the effect that, in accessing and copying his computer records, Robert Tchenguiz was in breach of his statutory duty under section 4(4) of the 1998 Act, and that Vincent Tchenguiz may also have been liable.",
+    "legal_references": [
+      {
+        "text": "section 4(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 55(2) exempts from the ambit of section 55(1) cases where (a) the obtaining or disclosing was \u201cnecessary for the purpose of preventing or detecting a crime\u201d or \u201crequired ... by any rule of law\u201d, (c) the person reasonably believed that he had the consent of the data controller, or (d) the action was \u201cjustified as being in the public interest\u201d.",
+    "legal_references": [
+      {
+        "text": "Section 55(2)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 55(1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 55(3) provides that a person who breaches section 55(1) \u201cis guilty of an offence\u201d.",
+    "legal_references": [
+      {
+        "text": "Section 55(3)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 55(1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "We have already referred to the definitions in section 1 of the Act, and discussed, briefly, the argument based on necessity, which would arise under section 55(2)(b).",
+    "legal_references": [
+      {
+        "text": "section 1",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 55(2)(b)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Nor does section 55(2)(d) look a particularly promising avenue for the defendants: the fact that accessing the documents can be said to have been to protect Mrs Imerman\u2019s rights can scarcely be said to render it \u201cin the public interest\u201d, even if it was done with a view to exposing, or preventing, Mr Imerman\u2019s anticipated wrongful concealment of assets.  However, for the reasons already given when discussing the alleged criminality under the 1990 Act, it would be inappropriate to say any more than that we consider that there is a realistic prospect of Mr Imerman establishing that at least some of the defendants (but not Mr Zaiwalla) were guilty of breaching section 55(1) of the 1998 Act.",
+    "legal_references": [
+      {
+        "text": "section 55(2)(d)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 1990 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 55(1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "So far as concerns a claim in tort, and leaving aside all questions of copyright, it would seem that where confidential papers are surreptitiously copied, even in situ, without the knowledge of the owner, the inevitable if minimal asportavit may give rise to an action in trespass to goods: see the discussion in Salmond and Heuston on the Law of Torts, ed 21, page 95 and in particular Thurston v Charles (1905) 21 TLR 659 per Walton J and the discussion by Ward LJ in White v Withers, paragraphs [44]-[50].",
+    "legal_references": [
+      {
+        "text": "the Law of Torts",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is at this point, and having got to this stage in the analysis, that the previous acceptance of a spouse\u2019s unlawful conduct by virtue of the assumed jurisprudential acceptability of the Hildebrand rules in the Family Division requires particular scrutiny.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "After all, the very existence of the so-called Hildebrand rules is a recognition of the seriousness of the problem and of the need to do something about it.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Indeed (para [82]), he advocated an extension of the Hildebrand rules, saying that in his view they should be extended to a family computer used by both parties which is not password protected, adding that documents on such a machine can be \u201clegitimately copied\u201d in the same way as documents lying around the home.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "But what of the arguments, which seem to have appealed in White v Withers to Sedley LJ and Wilson LJ, though not to Ward LJ, that such conduct is in fact lawful, either on the basis of some, albeit previously unrecognised, \u201csubstantive defence\u201d, as Sedley LJ put it, or, as Wilson LJ suggested, because of some public policy exception founded on the words of section 25 of the 1973 Act?",
+    "legal_references": [
+      {
+        "text": "section 25",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "We agree with Ward LJ that the so-called Hildebrand rules cannot in law be justified on any of the bases suggested, whether on the basis of lawful excuse, self-help or public interest, or, indeed, we would add, on any other basis.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "After all, legislative prohibition of self-help, enforced with criminal penalties, dates back to the Statute of Marlborough of 1267.",
+    "legal_references": [
+      {
+        "text": "the Statute of Marlborough",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 1, which is still on the statute book, after providing that \u201call persons, as well of high as of low estate, shall receive justice in the King\u2019s court\u201d, prohibits anyone taking \u201crevenge or distress of his own authority, without award of the King\u2019s court\u201d and provides for the punishment of offenders by fine.",
+    "legal_references": [
+      {
+        "text": "Section 1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "But this cannot be a justification for riding roughshod over established legal rights nor for permitting a litigant without sanction to evade by lawless recourse to self-help the safeguards of the Anton Piller (search order) jurisprudence (discussed in paragraphs [127]-[136] below), which are not merely enshrined in our domestic law but are indeed essential if there is to be proper compliance with the Convention: see Chappell v United Kingdom (1989) 12 EHRR 1.",
+    "legal_references": [
+      {
+        "text": "12 EHRR 1",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "Nor, in our judgment, and with great respect to Wilson LJ, do we think that section 25 will bear the weight of the argument sought to be founded on it.",
+    "legal_references": [
+      {
+        "text": "section 25",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is true that section 25(2)(a) provides that, when making financial provision, the court must \u201chave regard to ... the [actual and prospective] income, earning capacity, property and other financial resources [available to] each of the parties\u201d.",
+    "legal_references": [
+      {
+        "text": "section 25(2)(a)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Secondly, section 25(2)(g) also requires the court to \u201chave regard to ... the conduct of each of the parties ... if that conduct is such that it would be inequitable to disregard it\u201d.",
+    "legal_references": [
+      {
+        "text": "section 25(2)(g)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "We conclude, therefore, that there is no legal basis for the so-called Hildebrand rules.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The rule in Hildebrand as we have stated it in paragraph [42] above was and remains good law.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It follows that nothing in the so-called Hildebrand rules can be relied upon in justification of, or as providing a defence to, conduct which would otherwise be criminal or actionable (whether as a tort or in equity) nor as providing any reason why the relief (whether at law or in equity) which would otherwise be available should not be granted.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "More particularly it follows that neither the wives who purloin their husband\u2019s confidential documents nor the professional advisers who receive them (or copies of them) can plead the so-called Hildebrand rules in answer to a claim for relief of the kind we have referred to in paragraphs [73]-[74] above.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Referring to F v F (Divorce: Insolvency: Annulment of Bankruptcy Order) [1994] 1 FLR 359 and Baker v Baker [1995] 2 FLR 828, he said (page 146) that:  \u201cwhere the court finds that a spouse has lied about his means, has withheld documents and failed to give full and frank disclosure, it is open to the court to find that beneath the false presentations are undisclosed assets and to make an order on that basis.\u201d",
+    "legal_references": [
+      {
+        "text": "F v F",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Recent examples can be found at first instance in \u00adAl-Khatib v Masry [2002] EWHC 108 (Fam), [2002] 1 FLR 1053 and in Ben Hashem v Al Shayif [2008] EWHC 2380 (Fam), [2009] 1 FLR 115, and, in this court, in Mahon v Mahon [2008] EWCA Civ 901.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 901",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Secondly, there is the wider point made by Wilson LJ in Mahon v Mahon [2008] EWCA Civ 901, para [6]: \u201cMy experience of hearing applications for ancillary relief regularly over 12 years in the Family Division, and then of considering appeals to them in this court during the last three years, leads me to the conclusion that spouses, particularly husbands, who face claims for ancillary relief made through the courts of England and Wales have come to recognise that our legal system has become sophisticated in detecting and dealing with dishonest disclosure and that a refusal to make clear, candid, early disclosure very seldom benefits the party who adopts that strategy \u2026",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 901",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Coleridge J, another judge with great experience of such cases, made much the same point in J v V (Disclosure: Offshore Corporations) [2003] EWHC 3110 (Fam), [2004] 1 FLR 1042, paragraphs [16]-[17], a case involving what the judge described as a network of offshore, largely Liberian, corporations.",
+    "legal_references": [
+      {
+        "text": "J v V",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Now views may differ as to how significant a role is played in this context by Hildebrand documents (and they were, as we recognise, an important feature in both Mahon and J v V).",
+    "legal_references": [
+      {
+        "text": "J v V",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "We also have very much in mind what Wilson LJ, with his vast experience of such matters, said in Charman v Charman [2005] EWCA Civ 1606, [2006] 1 WLR 1053, para [47]: \u201cIn my experience \u2026 the wife will very seldom have the knowledge with which to prove the existence of a document which, if it does exist, may have a crucial bearing on the outcome of her financial application.\u201d",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 1606",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "What is surprising, not least given what, as have seen, is the justification for the so-called Hildebrand rules, is the extreme rarity in the Family Division of any application for an Anton Piller order, something which is all the more puzzling given the relative frequency with which Mareva (freezing) orders are both sought and granted in the Division.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Although involved in many cases where he or other judges in the Division had granted a freezing order, whether under section 37 of the Matrimonial Causes Act 1973 or section 37 of the Senior Courts Act 1981, Lord Justice Munby cannot recall a single occasion during some nine years in the Division when he was asked to make an Anton Piller order.",
+    "legal_references": [
+      {
+        "text": "section 37",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Matrimonial Causes Act 1973",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Senior Courts Act 1981",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 37 of the Matrimonial Causes Act 1973 or section 37 of the Senior Courts Act 1981",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "If (as we believe) Waite LJ thereby meant that such an order would rarely be sought in ancillary relief proceedings and should only be sought when it was proportionate, just as in proceedings in the Queen\u2019s Bench and Chancery Divisions, then we would agree.",
+    "legal_references": [
+      {
+        "text": "Waite LJ",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The determination of whether any of Mr Imerman\u2019s documents, and if so what documents, were to be seized, inspected, checked, preserved, sent to Withers, or used by Mrs Imerman, or were to be subject to some other order, would have been determined, supervised, regulated and approved by the court, and any such exercise, having been approved by the court, would be lawful, both in domestic law, and in the eyes of the Strasbourg Court: Chappell v United Kingdom (1989) 12 EHRR 1.",
+    "legal_references": [
+      {
+        "text": "12 EHRR 1",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "As pointed out by Tugendhat J in L v L [2007] EWHC 140 (QB), [2007] 2 FLR 171, para [93], this would be far more satisfactory than an unauthorised, inequitable, tortious, and quite possibly criminal, accessing, copying, dissemination and proposed use, of the documents, as happened in this case from 6 January 2009.",
+    "legal_references": [
+      {
+        "text": "L v L",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Family Proceedings Rules prevented it.",
+    "legal_references": [
+      {
+        "text": "The Family Proceedings Rules",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In that case, confidential documents had been obtained by private investigator agents making so-called \u201cpretext calls\u201d to banks in circumstances where there was, as the judge held, a strong prima case of criminal or fraudulent conduct in the obtaining of the information involving either breaches in England of the Data Protection Act 1984 or in Switzerland of its banking secrecy laws.",
+    "legal_references": [
+      {
+        "text": "the Data Protection Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "His approach has been endorsed by this court in Memory Corporation Plc v Sidhu (No 2) [2000] 1 WLR 1443 and in Kuwait Airways Corpn v Iraqi Airways Co (No 6) [2005] EWCA Civ 286, [2005] 1 WLR 2734.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 286",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "What was done here cannot be justified under the so-called Hildebrand rules.",
+    "legal_references": [
+      {
+        "text": "Hildebrand",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The rules required him only to give full disclosure under Form E.",
+    "legal_references": [
+      {
+        "text": "Form E.",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "So long as Hughes Fowler Carruthers continue to act for Mr Imerman, they will be obliged to take reasonable steps to consider and advise on any documentation which is provided to them, with a view to ensuring that their client complies with his disclosure obligations, whether under the Rules or pursuant to orders of the court, and whether in relation to assets or documents.",
+    "legal_references": [
+      {
+        "text": "Rules",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In explaining our reasoning, we have concentrated on domestic law, although we have mentioned the Convention, and in particular the fact that articles 6, 8, and 10 are engaged.",
+    "legal_references": [
+      {
+        "text": "Convention",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It has been authoritatively said that, once the court has to carry out a balancing exercise between competing Convention rights, \u201can intense focus on the comparative importance of the specific rights being claimed in the individual case is necessary\u201d and that \u201cthe justifications for interfering with or restricting each right must be taken into account\u201d (per Lord Steyn in In re S (A Child) (Identification: Restrictions on Publication) [2004] UKHL 47, [2005] 1 AC 593, para [17]).",
+    "legal_references": [
+      {
+        "text": "Convention",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "In re S",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "UKHL 47",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "HRH Prince of Wales v Associated Newspapers Ltd [2006] EWHC 522 (Ch), [2006] EWCA Civ 1776, [2008] Ch 57.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 1776",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Subject to certain exceptions, notably information obtained by torture, the common law does not normally concern itself with the way evidence was obtained when considering admissibility: see R v Sang [1980] AC 402, relying on Kuruma v The Queen [1955] AC 197.",
+    "legal_references": [
+      {
+        "text": "R v Sang",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Where the CPR apply, the position is even clearer: see Jones v University of Warwick [2003] EWCA Civ 151, [2003] 1 WLR 954.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 151",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In that case, relying on CPR 32.1(2), which provides in terms that the court can exclude evidence, as well as the overriding objective in CPR 1.1, the Court of Appeal held that the trial judge had a discretion as to whether or not to admit highly relevant evidence obtained in an underhand manner.",
+    "legal_references": [
+      {
+        "text": "CPR 32.1(2)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "CPR 1.1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "First, the equivalent of the overriding objective in CPR 1.1 applies to ancillary relief proceedings: see Rule 2.51D of the Family Proceedings Rules.",
+    "legal_references": [
+      {
+        "text": "CPR 1.1",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Rule 2.51D of the Family Proceedings Rules",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It was also suggested that the court would have no power to exclude documents which might affect the ancillary relief awarded, in the light of the provisions of section 25 of the 1973 Act.",
+    "legal_references": [
+      {
+        "text": "section 25",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is true that section 25(2)(a) provides that, when making financial provision, the court must \u201chave regard to ... the [actual and prospective] income, earning capacity, property and other financial resources [available to] each of the parties\u201d.",
+    "legal_references": [
+      {
+        "text": "section 25(2)(a)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It would be all the more surprising in the light of the Human Rights Act 1998.",
+    "legal_references": [
+      {
+        "text": "the Human Rights Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Human Rights Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "As was explained by Ward LJ in Lifely v Lifely [2008] EWCA Civ 904, in a case of this type, the decision whether to admit or exclude evidence involves weighing one party\u2019s (in this case, the wife\u2019s) article 6 right to a fair trial with all the available evidence, against the other party\u2019s (the husband\u2019s) article 8 right to respect for privacy.",
+    "legal_references": [
+      {
+        "text": "Lifely v Lifely [2008] EWCA Civ 904",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "article 6",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "article 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(It may also involve the wife\u2019s right under Article 10 to say what she wants to say, and the husband\u2019s article 6 right, on the basis that he might say the trial was unfair if it extended to evidence which had been wrongly, even illegally, obtained from him).",
+    "legal_references": [
+      {
+        "text": "Article 10",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "article 6",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

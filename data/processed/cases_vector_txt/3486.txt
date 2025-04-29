@@ -1,0 +1,759 @@
+No. FD09D00047
+
+Neutral Citation Number: [2009] EWHC 3486 (Fam)
+
+IN THE HIGH COURT OF JUSTICE
+
+FAMILY DIVISION
+
+Royal Courts of Justice
+
+Friday, 11th December 2009
+
+Before:
+
+MR. JUSTICE MOYLAN
+
+- - - - - - - - - - - - - - - -
+
+B E T W E E N :
+
+ELIZABETH TCHENGUIZ IMERMAN	Petitioner
+
+-  and  -
+
+VIVIAN SAUL IMERMAN	Respondent
+
+- - - - - - - - - - - - - - - -
+
+Transcribed by BEVERLEY F. NUNNERY & CO
+
+Official Shorthand Writers and Tape Transcribers
+
+Quality House, Quality Court, Chancery Lane, London WC2A 1HP
+
+Tel:  020 7831 5627    Fax:  020 7831 7737
+
+info@beverleynunnery.com
+
+- - - - - - - - - - - - - - - -
+
+MR. J. TURNER QC and MR. D. SHERBORNE (instructed by Withers LLP) appeared on behalf of
+
+the Petitioner.
+
+MR. C. HOWARD, QC, MR. A. WHITE QC and MISS L. SKINNER (instructed by
+
+Hughes Fowler Carruthers) appeared on behalf of the Respondent.
+
+- - - - - - - - - - - - - - - -
+
+J U D G M E N T
+
+MR. JUSTICE MOYLAN:
+
+The substantive proceedings in this case are an application by a wife for ancillary relief.  At this hearing I am determining three applications:
+
+(1)	The principal application is that made by the husband (a) for the return of seven files of documents containing information belonging to him, which information was secretly obtained from a computer system used by him and provided to the wife or her solicitors, and (b) for other orders seeking to restrain the wife and her legal representatives from making any use of that information, including for the purposes of her ancillary relief application.
+
+(2)	The second application is that made by the wife for an order that the parties file and serve forms E.
+
+(3)	A subsidiary and very recent application is that made by the wife for an order that other confidential information, obtained in a similar manner but not provided to the wife or her solicitors, should be retained by the husband’s solicitors pending the determination of the wife’s ancillary relief application.
+
+To repeat what I said in an earlier judgment of mine given at an interlocutory hearing, the issues raised at this hearing are some way removed from the principal issues directly relevant to the substantive proceedings.  I remain of the opinion that the energy and costs already invested by the parties suggest that this is going to be hard fought litigation.  This also gives an insight into one of the frequent consequences of information having been irregularly obtained, namely to inflame the litigation process.
+
+The husband is represented at this hearing by Mr. Howard QC, Mr. White QC and Miss Skinner.  The wife is represented by Mr. Turner QC and Mr. Sherborne.
+
+The issues which fall for determination result from private and confidential information of the husband’s being downloaded and copied by one of the wife’s brothers, or by others on his behalf, from a computer system which the brothers and the husband (and their respective staff) used because they worked in the same premises for a number of years.  The premises and the computer system belong directly or indirectly to the wife’s brother or brothers.  The estimated volume of the material taken from the husband’s computer files is between 250,000 pages and 2½ million pages.  These estimates were given in proceedings in the Queen's Bench Division between the husband and the wife’s brothers and others, which I will return to later in this judgment.  The wife received part of this material and this is now contained in seven lever arch files being held by the wife’s legal representatives in these proceedings (“the seven files”).  It is this latter material which forms the focus of this application.  It appears that the documents in these files had been seen and read by a number of solicitors at Withers and one or two junior counsel instructed by them, although the precise extent to which each of them has done so is not clear.
+
+As a result of earlier orders, as I will explain later in this judgment, no part of the material in the seven files has been adduced in evidence or has been otherwise referred to for the purposes of this application.  The material which was taken from the computer system is summarised by the husband as consisting of:
+
+“(a) Emails to and from Len Durham, a South African lawyer who advises me in relation to tax, legal and commercial matters, and documents prepared for the purposes of such advice.  Much of this is subject to legal professional privilege;
+
+(b) Emails to and from my financial advisers;
+
+(c) Records concerning the business dealings of my family’s trusts, including trusts of which I am not a beneficiary;
+
+(d) Correspondence with banks and other bank documentation;
+
+(e) A number of financial ledgers and statements, including my personal financial statements, the financial statements of my companies and of family trusts;
+
+(f) Documents relating to my UK tax affairs;
+
+(g) Documents recording transfers and loans to and from me;
+
+(h) Draft reports of a commercially sensitive nature;
+
+(i) Records of my bank transactions;
+
+(j) Credit card statements for myself and my adult daughters.”
+
+It is agreed by Mr. Turner that the material in the seven files consists of confidential information belonging to the husband and that all the information or material relevant to the applications I have to determine derive from the husband’s computer files.
+
+The husband seeks an order for the delivery up of the seven files and for other orders, including orders restraining the wife and her legal representatives from making any (I emphasise) use of those files or the information derived from them, including for the purposes of her ancillary relief application.  Other orders are sought for the purpose of identifying the extent to which the information and documents have been disseminated and distributed.
+
+The wife contends that, in the circumstances of this case, I have no power to order the delivery up of the files.  She also contends that I have no power to restrain the wife or her legal advisers from making use of the documentation and information in them for the purposes of her ancillary relief application other than the general power which the court has to regulate the use of this material, as with any other material, in accordance with the rules applicable generally to ancillary relief claims.
+
+Additional arguments are advanced by both parties in respect of some of the material which is alleged to be privileged.
+
+Accordingly, to adapt the summary contained in Mr. Howard’s written submissions, this application raises:
+
+(a) the issue of whether and, if so, in what circumstances, a party should be permitted to retain and/or make use of confidential information belonging to the other party which has been obtained other than through the court process and which might have been obtained in a manner which constitutes a crime or crimes and/or a civil wrong or wrongs;
+
+(b) the court’s consequential powers in such circumstances to prohibit the recipient from making use of such information for the purposes of ancillary relief proceedings;  and
+
+(c) what approach should be taken, if different, to material that is claimed to be privileged.
+
+The parties agree that the principles applicable to these issues are of general application and not specific to the Family Division, although the manner in which they are applied will or may reflect the nature of the substantive proceedings.
+
+For ease of reference, in this judgment I use the term “irregularly obtained information” to mean, broadly, confidential information, including documents, belonging to one party and obtained by another party other than through the court process, and by acts which might include acts which are criminal and/or which constitute a civil wrong.  These acts might have been undertaken by a party or on their instructions or by someone else on their behalf.
+
+The Family Division has developed what are known as “Hildebrand rules” after the decision in Hildebrand v. Hildebrand [1992] 1 F.L.R.244.  These rules are perhaps better described as judicial guidance as to the manner in which parties to ancillary relief proceedings should give disclosure of irregularly obtained information – to which the description “Hildebrand documents” or “Hildebrand material” is applied.  Further, the rules do not directly address, and no reported Family Division case directly addresses, the issues which have been raised in the current application.  In that context, Wilson LJ recently observed that, if only in the interests of legal clarity, the time might have arrived when the matter should be considered by the Court of Appeal.
+
+Background History
+
+The parties married in 2001.  They have one child.  Very shortly before the marriage, apparently at the wife’s insistence, they entered into a premarital agreement which provides that:
+
+“All matters arising from or in connection with the intended marriage and this contract including but without any limitation whatsoever its interpretation, validity, existence or termination shall be determined in accordance with the laws as at the date of signing hereof of the Republic of South Africa.”
+
+I have heard no submissions as to the meaning and effect of the agreement and nobody has sought to argue that this agreement should in any way govern the issues I have to determine.  Even if it were to be argued that the agreement is intended to determine the applicable law of this marriage this could not affect procedural issues.
+
+The wife petitioned for divorce on the 31st December 2008.  The petition was sent to the husband by letter dated the 31st December.  On the 4th February 2009 the wife gave notice of her intention to proceed with her application for ancillary relief.  This notice led to the court automatically listing the First Appointment for hearing on the 5th May 2009, with the parties’ respective forms E being required by the 31st March 2009.
+
+During the course of the marriage the husband and the wife’s brothers shared office space and a computer system or systems.  The computer systems were linked to common servers through which the husband conducted his business and personal affairs.  The husband summarises the position in his affidavit:
+
+“The computer system contained many thousands of documents and emails created and/or sent and/or received by me and/or by my staff on my behalf or on behalf of my companies or family trusts, including communications with legal advisers such as my solicitors and Len Durham, a South African lawyer who provides extensive legal advice to me, and documents prepared for the purposes of obtaining legal advice.  In addition, the computer system contained much material of a commercially and/or financially sensitive nature.  Further, the computer system contained a great deal of personal and some medical information concerning both myself and my staff.”
+
+The husband asserts that, although he shared the computer systems with the wife’s brothers (and others), he expected his business and personal data and correspondence to be respected as private in part because everyone “had their own passwords for their own documents and e-mail accounts and only a system administrator would be able to access someone else’s, and then only with the permission of the person concerned or for the purpose of maintaining the system”.
+
+In the very first letter written by the husband’s solicitors on the 5th January 2009 they asked to be provided with all Hildebrand documents obtained by the wife.  The wife’s solicitors replied on the 12th January 2009 saying that the wife believed she had one Hildebrand document of no consequence.
+
+There was then correspondence concerning a number of properties which were said by the wife to be properties in which the husband had an interest.  The husband denied that he had any interest, saying the properties were all owned by offshore companies held by trusts of which neither the wife nor the husband were beneficiaries.  On the 22nd January the wife’s solicitors wrote setting out their understanding of the ownership structure.  The details contained in that letter included references to specific named companies and trusts and an assertion that:
+
+“It seems clear that steps were taken by and on behalf of your client to attempt to protect his interests in the event of divorce in the early part of 2007.”
+
+On the 23rd January the husband’s solicitors asked how the information in respect of the properties had been obtained because most of it was not a matter of public record.  Clearly the husband’s suspicions were raised, and to quote from that letter:
+
+“My client, of course, accepts that your client is perfectly entitled to look at the Land Registry or other public registers or records, but it is surprising that your client has information in relation to the trusts.  Can you please explain the position and confirm, once again, that your client or her family are not either in possession of Hildebrand documents you should disclose or in the process of obtaining any such documents or information.  Please specifically confirm that your client and her family have not sought to access my client’s records or those of his staff and/or assistants whether on a computer or stored in any other way, and have not sought to intercept telephone or other discussions.”
+
+The request was repeated on the 30th January 2009.
+
+On the 18th February 2009 the wife’s solicitors replied:
+
+“Since your letter of 23 January my client, through a delivery to this firm, has been provided with copy documents, further copies of each I enclose.  Neither my client nor ourselves have ever had any of the originals of these documents and I am therefore writing to you in this way without conceding that they constitute Hildebrand material.  Neither my client nor we are in possession of any further Hildebrand material nor in the process of obtaining such.  For the sake of clarity I confirm that my client has not instigated any search leading to the material that is the subject of this letter.”
+
+The documents sent with that letter, with a further small clip sent on the 25th February, are contained in the seven lever arch files to which I have referred.
+
+It appears from Eady J’s judgment in the parallel Queen's Bench Division proceedings, to which I will refer in more detail later in this judgment, that Withers originally received 11 lever arch files.  On instructions, it appears from one or more of the defendants to the Queen's Bench Division proceedings counsel, Mr. Wolanski, looked through these files and removed from them those pages which he deemed to be subject to legal professional privilege.  This led to the husband’s solicitors receiving a lever arch file of privileged material on the 10th March 2009.  In his written submissions Mr. Turner states that it was the wife’s brother, Robert, who, through his solicitors, provided the material to the wife’s solicitors and also arranged for it to be “privilege checked” by Mr. Wolanski.
+
+On the 26th February the husband’s solicitors sought from the wife’s solicitors a full account of the circumstances in which the documents arrived at their offices and the wife’s case as to each step taken which resulted in the arrival of the documents.  The wife’s solicitors replied the next day:
+
+“[The Wife] did not commission, nor did she participate in, the process by which the third party who obtained these documents did so.  The same applies to this firm.  My client and I reject your assertion that the action by which they were so obtained was illegal …  I have already supplied you with the entirety of the documents with which we have been provided and I am therefore entirely confident that we have complied with the well established principles in Hildebrand cases.”
+
+The husband’s solicitors wrote on the 5th March under the heading “Hildebrand documents”:
+
+“I write substantively in relation to this matter.  You are invited once more to reply to my letter dated 26 February 2009.  The onus is upon you and your client to give a full and truthful account as to what has happened.  I regard this matter as extremely serious.”
+
+The letter then refers to earlier correspondence before continuing:
+
+“It now appears that you have held documents in your office since the 3 February 2009 without informing us and without taking any appropriate steps, and it was not until the 18 February that you sent them to me.  You have refused to provide a full account of the circumstances in which the documents arrived in your office which I asked for in my letter of the 26 February.
+
+Quite frankly, it beggars belief that your client has had no involvement in the obtaining of these documents.
+
+An analysis of the files is ongoing, but it is our case that the files you have sent to us contain privileged information.  You have no right whatsoever to retain these files or any copies of them or any paperwork derived from them including any index or catalogue of the documents.
+
+Please provide us by return the names of all those in your firm or outside your firm, including counsel, who have read these documents.  Please let us know how many copies have been made, and to whom they have been sent.  Please also confirm immediately upon receipt of this letter that no further reading of these files will take place.
+
+We invite you to return the files to us and any copies in their entirety today, together with any and all notes or other documents created by you or by counsel which have been based upon the Hildebrand documents, on the basis that our firm will undertake to keep the files and documents in our offices pending any application you wish to make in relation to the contents of those files.
+
+You have provided no justification whatsoever for the retention of them, and we expect to receive the files this afternoon.  If not, litigation will immediately follow.”
+
+The wife’s solicitors replied on the same day saying:
+
+“The information contained in my letter of the 22 January was given to me by my client.  She informs me that she made notes of what her brother Robert told her verbally but did not receive any documents, merely the information in question.  This was after your letter of the 15 January denying that your client had any interest in various valuable properties we had listed and which my client knew your client had had interests in.  It was ludicrous for your client to instruct you to deny any interest in them and expect my client to accept that assertion.”
+
+It is explained in this letter that the material was sent to the wife’s solicitors by another firm of solicitors, Zaiwalla & Co., whose principal, Sarosh Zaiwalla, is also a defendant in the Queen's Bench proceedings.  Five of these documents are attached to this letter.  It is also said that the wife’s brother:
+
+“… formed a view that it was appropriate and necessary to obtain the documents that are the subject of the separate proceedings in order to protect my client’s interests given the position taken by your client in your correspondence to me which my client had shown Robert.  When she became aware that he had obtained the documents in question, she took advice from myself and from counsel … I am afraid I do not accept that the material in this office, all of which has been copied to you, and which may or may not technically be Hildebrand documents, should be treated any differently from how the authorities require Hildebrand documents to be treated and I consider that we have complied with all our obligations in those respects and that it is not appropriate to be providing you with answers to your further queries.”
+
+It then continues:
+
+“Of course my client is aware that the material held here is confidential to the proceedings and will be provided only to such third parties as are instructed to advise her in connection with these proceedings.”
+
+The reference to the “position taken” by the husband can, sensibly, only be a reference to the letter dated the 15th January 2009, in which it was asserted that he had no interest in the mentioned properties.  Accordingly, this justification does not fit easily with the assertions made by the defendants, as recorded in Eady J’s judgment, including that the husband’s data was accessed and significant volumes were copied on the 6th and 7th January 2009.
+
+On the 6th March the husband’s solicitors wrote asserting:
+
+“The documentation sent under cover of your letter of 5 March is largely privileged and a significant proportion of the documentation you have previously sent is probably privileged.  It is clear from the Queen's Bench Division proceedings that the question of privilege has been tested unilaterally by Mr. Zaiwalla and his counsel, Mr. Wolanski.  We do not accept their analysis.”
+
+The wife’s solicitors requested that the husband identify those documents which he considered to be privileged and the basis for that contention.  The husband’s solicitors replied that this was not an exercise which the husband was obliged to conduct but that of the 35 pages sent with the letter of the 5th March 32½ of them were privileged.
+
+On the 26th February 2009 the husband commenced proceedings in the Queen's Bench Division.  The application which I am determining is dated the 6th March 2009.
+
+Queen’s Bench Division Proceedings
+
+On the 26th February the husband commenced proceedings in the Queen’s Bench Division against the wife’s brothers and others but not including the wife or Withers.  The documents relating to those proceedings, which have taken place in private, have not been adduced in these proceedings save for orders and two public judgments.
+
+In his claim the husband contended, as summarised in Mr. Howard’s written submissions for the hearing before me, that accessing his confidential information breached s.1(1) of the Computer Misuse Act 1990, that obtaining and/or disclosing his confidential information breached s.55 of the Data Protection Act 1998, that the activities of the defendants amounted to a breach of confidence, a misuse of private information, a breach of s.4 of the Data Protection Act 1998, and infringed his proprietary rights in the information.
+
+The husband’s application for interim orders was determined by Eady J. on the 20th March 2009.  The defendants undertook not to communicate, disclose to any third party (including the wife and Withers save for the seven files) or in any other way use (a) the documents and the information in the seven files, (b) documents and information referred to in an accountant’s report, (c) any information relating, inter alia, to the husband’s personal, financial or business affairs obtained from documents or emails held at the business premises of the wife’s brothers or on any computer systems at these premises.  By a proviso, these undertakings did not prevent:
+
+“… the proper user of any of the Confidential Information referred to in [(a), or (b)] for the purpose of conducting the Defendants’ defence of this action.”
+
+The defendants also undertook to deliver up to the husband’s solicitors in those proceedings to be preserved and securely held by them, inter alia, two memory sticks and a hard drive, and all hard copy documents within (a), (b) and (c).
+
+The husband then applied for summary judgment.  Eady J. gave judgment on this application on the 31st July 2009.  From his judgment it emerges that it was accepted in those proceedings by one of the wife’s brothers that the husband’s information had been accessed, transferred, downloaded, copied and printed out on a number of occasions between the 6th January and the 24th February 2009.  It was asserted that the wife’s brother had been looking for material which was or was “likely to be relevant to the likely issues” in the matrimonial proceedings, and specifically information regarding the husband’s financial status and the whereabouts of his money.  As I have said, the brother had access to the husband’s data because they shared premises and computer facilities for a number of years.
+
+I have been referred extensively to Eady J’s judgment.  It was plain to him that any issues as to the admissibility, relevance and use which the wife should be permitted to make of the disputed information and documents in the matrimonial proceedings were for the Family Division to determine.  It also appears from his judgment to have been agreed by the husband in those proceedings that the Family Division should have available to it the seven files subject, as pointed out by Eady J., to this court deciding “questions of admissibility, relevance, and the use to which they may be put”.
+
+When dealing with the defendants’ case, Eady J. identified arguments which were [28]:
+
+“… more problematic, [namely] (a) that, by reason of the particular arrangements entered into the First Defendant [the wife’s brother, Robert] was entitled to access all the material and (b) that, in any event, there would be an overriding public interest that the information be retained, even now, and made available for the purposes of the administration of justice and/or the protection of the [wife’s] financial interests and Article 6 rights and, in particular, to equality of arms in the conduct of her matrimonial dispute.  There may be something of an irony about this argument … in circumstances where there is no way that any of the Defendants could have obtained access to the Claimant’s material by means of a court order.  As Mr. White pointed out, court orders are available in appropriate circumstances for the preservation of evidence, and sometimes the carrying out of a search.  That being so, it is hard to see how any infringement of the claimant’s Article 8 rights could be categorised as proportionate or necessary when no such steps have been taken on behalf of his wife.  As a matter of fact, such orders are far from common and would only be made as a matter of last resort on the basis of strong evidence that a spouse has failed to give truthful disclosure.”
+
+He then refers to two authorities, Emanuel v. Emanuel [1982] 1 W.L.R.669 and Araghchinchi v. Araghchinchi [1997] 2 F.L.R 142.
+
+“This circumspect approach on the part of the court serves to underline how inappropriate the First Defendant’s efforts at “self-help” were in the present case:  see in this context the remarks of Tugendhat J. in L v. L [2007] 2 F.L.R.171 at [108].”
+
+The husband also did not accept that the exercise apparently conducted by Mr. Wolanski had resulted in all the material properly regarded as subject to legal professional privilege being removed from the hard copy documents.  In answer to this, the defendants argued that it was for the husband to identify this material, and they specifically reserved “the right to plead to that case, including, if appropriate, that the relevant communications do not attract privilege, including by reason of illegality or fraud, as foreshadowed in the course of the hearing”.  Eady J. considered the defendants’ position unattractive in two respects [52]:
+
+“First, since the First Defendant (at least) took the equivalent of thousands of documents, it is hardly reasonable to expect the Claimant to identify all the material which he says is subject to legal professional privilege.  He relies upon first instance authority as support for the proposition that the burden lies on the Defendants to return the mixed bag …”
+
+He then refers Industrial Furnaces v. Reaves [1970] R.P.C.605 at 628, a decision of Graham J.
+
+“There would on that basis be no need to resolve any factual dispute.  Moreover, if the Defendants wish to raise illegality or fraud, it is plainly for them to do so in the clearest terms.  It has not been pleaded and was raised at the hearing before me for the first time.  There would not, as yet, appear to be any authority for the proposition that an individual, such as the First Defendant is entitled to access the confidential data of another for the purposes of seeking evidence of fraud.  It would not be permitted even in the execution of a search and seizure order.”
+
+Eady J. made an order prohibiting any of the parties in the proceedings before him (including the wife’s brothers) from communicating or disclosing to any third party, again including the wife or Withers, any confidential information being, broadly summarised, the documents to which I have referred and information derived from those documents.  Eady J. also ordered delivery up of all the documents save that one complete copy was to be retained by the husband’s solicitors pending the determination of the defendants’ appeal against his order, and save that the defendants’ legal advisers were permitted to retain the bundles prepared for the hearing before Eady J. for the purposes of their application to the Court of Appeal for permission to appeal.
+
+For the purposes of his judgment and order, Eady J. did not determine whether the defendants, as alleged by the husband, had infringed any of the provisions of the Computer Misuse Act or the Data Protection Act, nor whether there had been any unlawful conduct which would entitle the husband to an award of damages against any of the defendants.  He determined simply that the husband was “entitled to have his information “back”, or rather to take it out of circulation and to restrain its use or onward transmission by others” [66].
+
+An application has been made to the Court of Appeal by one or other of the defendants for permission to appeal against Eady J’s order.
+
+The Matrimonial Proceedings
+
+The wife’s ancillary relief application is dated the 4th February 2009.  The First Appointment was initially fixed for the 5th May 2009.
+
+The husband’s application is dated 6th March and was amended on the 3rd April.  The application, as amended, seeks the following orders:
+
+(1)	that Withers be made a party to the application;
+
+(2)	that the wife and Withers deliver to the husband’s solicitors, to be preserved and securely held by them (i) all originals and copies of the confidential information as defined in the draft order, (ii) all notes or information whether stored electronically or otherwise, derived directly or indirectly from the confidential information or any part of it save (a) that any material falling within (i) or (ii) which is subject to the wife’s legal professional privilege is to be delivered up to Withers, to be securely held by them and not to be disclosed to any other person save by order of the court, and save (b) for any electronic copies of the confidential information which cannot practicably be delivered up, which must be permanently deleted immediately after delivery up has taken place unless such material falls within (a) above;
+
+(3)	The wife be forbidden from communicating or disclosing to any third party, copying or reading or in any other way using the seven files or any other part of the confidential information;
+
+(4)	Orders that the wife and Withers supply certain specified information.
+
+In addition, the husband’s application sought the adjournment of the first appointment and an extension of the time for the filing of forms E.
+
+The terms of the proposed draft order runs to several pages.  It defines the confidential information as being:
+
+(a) the documents in the seven files and the information obtained from those documents; and
+
+(b) any information relating to the husband’s “personal, financial or business affairs or the financial or business affairs of the [husband’s] companies or family trusts … which was derived from documents or emails created and/or sent and/or received by the [husband] or created and/or sent and/or received on his behalf or on behalf of his companies or family trusts … held at or obtained from” the shared premises “or on or obtained from any computer systems” at the shared premises.
+
+The purpose of the order is to prevent the wife and her legal advisers from making any use whatsoever of this confidential information.  Ancillary orders are sought for the purposes, essentially, of tracing what has happened to the confidential information, including by, among other things, requiring the identification of each individual within Withers who has received or had communicated to them any part of the confidential information.
+
+The husband’s application was, when issued, listed for the 8th April.  On the 23rd March the husband made an, effectively, without notice application to Coleridge J.  Coleridge J. made an order prohibiting the wife and Withers from making any use of the confidential information.  Mr. Turner has complained that Coleridge J. was misled as this order did not contain the proviso which appeared in an order made by Cox J. in the Queen's Bench Division proceedings, and which was to the same effect as that appearing in the subsequent order made by Eady J, namely that the defendants were permitted to make use of the confidential information for the purposes of the proceedings.  He makes this submission on the basis that Coleridge J. was told that the terms of the order being sought from him were “in very similar terms” to the order made by Cox J.  This is a serious allegation.  I do not consider that Coleridge J. was misled.  It was made clear to him that the husband was seeking to freeze the position as it then was, and also the order did not prevent any communication between the wife and her legal advisers for the purposes of these proceedings.  In addition, when the matter came before me I continued this part of Coleridge J’s order without including the proviso sought by Mr. Turner.
+
+The hearing fixed for the 8th April was listed at risk and the case was not reached.  The consent order records the husband’s contention that he should not be required to file his form E until the determination of his application of the 6th March and that the wife does not accept this contention.  The application was adjourned and a directions hearing was fixed for the 26th June.  The first appointment was also adjourned and it is now listed for the 26th February 2010.
+
+The 26th June hearing was also not effective and the husband’s application came before me for directions on the 7th July in the applications court.  I determined three issues, namely:
+
+(1)	Should Withers be made a party to the husband’s application - I decided that they should not;
+
+(2)	Whether the parties should be required to exchange forms E prior to the determination of the husband’s application - I decided again that they should not; and
+
+(3)	What use could the wife make of the confidential information for the purposes of defending the husband’s application.
+
+On this last point, the wife sought the inclusion of the proviso which, as I have mentioned, was included in the orders made by Cox J. and by Eady J. so as to permit her (and her legal advisers) to use the disputed material for the purposes of this application.
+
+The husband opposed the inclusion of this proviso.  The husband submitted - I quote from my judgment of the 8th July:
+
+“Mr. Howard submits that the substantive part of his application which falls for determination in October would be rendered nugatory, or substantially diminished, if the wife and her legal representatives were to be permitted to read the seven files and/or to deploy the information contained within it for the purposes of the October hearing.  He submits that this would significantly undermine the very issue being determined at that hearing, namely whether the wife can make any use at all of the material or whether the documents should be returned without any use being made of them either at that hearing or subsequently.  He argues that there is, or should be, a clear line to the effect that no party can make use of improperly obtained material.”
+
+The wife, through Mr. Turner, argued, and again I quote from my judgment, that:
+
+“… the wife’s legal representatives should be entitled to go through all the documents in order to be able to argue at the October hearing (a) whether and if so which are relevant;  and (b) whether and if so which might be privileged or might not be privileged.  He accepts … that a party is entitled to assert privilege, but appears to be submitting that the other party’s legal representatives are themselves to look at the documents to see whether privilege is proper claimed.  This seems to me a rather startling proposition.  Nevertheless, Mr. Turner submits … that the wife’s legal representatives should be able to go through all of the documents to be able to argue whether they are (a) relevant; and (b) privileged.  He submits that all members of the wife’s legal team should be able to look at the documents for the purposes of conducting the defence of the application to be determined in October.  He asks why the proviso which was considered to be appropriate for the defence in the Queen's Bench Division proceedings should not also be considered to be appropriate for him and the wife, or for the wife in the Family Division proceedings.  So, he submits, that to be able properly to argue all the issues which will arise for determination at the October hearing, the wife’s legal representatives need to be able to use the documents and the information contained within the seven files.”
+
+I decided to permit the husband to advance what I called his “clear line” argument of principle and, accordingly, have not permitted the wife to make any use of any of the information contained within the seven files for the purposes of this application.
+
+Evidence
+
+Written evidence for the purposes of the applications before me has been given by the husband, the wife and her two brothers.  I have also been provided with a transcript of a telephone conversation between the husband and one of the wife’s brothers which was recorded by the latter unknown to the former.
+
+In his affidavit the husband says that he had conversation with one of the wife’s brothers in late January/early February in which the brother said, “things were going to get very nasty as a result of my separation from (the wife) and that he had a team of forensic people going through every bit of my information”.
+
+“I was very alarmed by this.  As explained above, the computers held information about my business dealings, private financial information, family trusts and legal advice provided by lawyers helping to look after these various matters, as well as personal and medical information concerning myself and my staff.  In light of this, with the help of … [he names a number of individuals] … we instructed [a company] to transfer all data generated or received by myself and my staff from the computer system to a separate server within our sole control.  This process began on about the 6th February 2009 and was completed by about the 10 or 11 February.  Mr. Taylor has informed me that he watched all our data being deleted from the servers at [the shared premises] and that he instructed [one of the wife’s brother’s] IT manager, to delete our data held on another server at [other premises].”
+
+The husband then says in his affidavit that he hoped this had dealt with matters.  It had not.
+
+The husband describes his reaction to finding out that his information had been obtained from the shared computer system.
+
+“I was (and still am) very angry and concerned about what has been done.  Large volumes of my confidential and privileged information had been taken from me with absolutely no justification.  I have always maintained that I will provide appropriate disclosure at the proper time in these proceedings.  Further, the [wife’s] brothers are competitors of mine in potential deals.  I was, and remain, very concerned that they will seek to deploy information to try to damage my business and personal interests.”
+
+In their evidence, the wife and her brothers set out their justification for the manner in which the husband’s information was obtained.  In her affirmation the wife makes the following assertions.  She says that she now believes the husband only returned to live with her in the spring of 2008, after a period of separation, “so as to give himself ample time to organise his affairs in such a way as to ensure that any financial claims made by me on divorce would be defeated”.  She says that during the course of friendly banter at family dinners the husband would make clear his intention that she should have nothing on their divorce.
+
+“He used to say such things as ‘I have revolving trusts, I press a button and they change; I press another button and they change again; the … family will never be able to find my money; it is so well hidden that I cannot find it myself.’”
+
+On one occasion she alleges he said to one of her brothers, “You … will never find my money”.  She also says that, and again I quote from her affirmation:
+
+“In one of what became our frequent arguments along the lines of my challenging Vivian as to why he stayed in our marriage when he seemed to have so little commitment to it, I asked him what he was waiting for, and specifically whether he was waiting to sort out his money before divorcing me.  His response was to the effect of: ‘I don’t need to wait, Lisa, to secure my money, I am always prepared’.”
+
+The wife also says that in December 2008, when she sought to instruct matrimonial lawyers, she found that a number of specialist matrimonial lawyers could not act for her as they had acted in 2007 for the “trustees of trusts established by him”.
+
+The wife’s brothers have also provided evidence, and I propose to quote certain parts of their respective affirmations.  First:
+
+“On many occasions over the last year or so, when sitting around the dinner table with the family, Vivian has said in a gleeful and boastful, but nevertheless serious way, that no one would ever find his money because he had hidden it so well.
+
+It seemed to me from what I learned of Lisa’s divorce proceedings, and from the sort of remarks referred to … above, that Vivian was intending to misrepresent his financial position in the matrimonial litigation, so I decided to download financial material relating to him that was held on my computer system.  Only a small part of this material went to Withers … before Vivian secured injunctions preventing me from sharing with them the balance of the material.  As a result, there is still information relating to Vivian’s financial resources and trust structures, and his recent activities in respect of the same, that is known to me but which has not gone to Lisa or Withers, and which       I believe to be crucial to the proper determination of Lisa’s financial claims within the divorce proceedings.  I would like to share that information with Lisa’s solicitors and the Family Court if permitted to do so but, at present,     I am prevented from doing so.”
+
+He then refers to the order made by Eady J, and continues:
+
+“It is my belief that Vivian has been arranging his financial affairs in such a way as to prevent Lisa from receiving a proper settlement on their divorce.”
+
+What precisely is being referred to when the affirmation refers to what the brother “learned of Lisa’s divorce proceedings” is not entirely clear as there had only been very limited correspondence.
+
+The wife’s other brother refers to and relies on aspects of the telephone conversation which, as I have indicated, took place between himself and the husband at about the end of February 2009, and which was recorded.  He sets out in his affirmation certain matters which he says derive from that telephone conversation, and then he continues:
+
+“What Vivian was saying to me was reminiscent of things he has said to me on many occasions over the last year and a half.  For example, he has used phrases to the effect of: ‘I'm bullet proof’: ‘my structure is bullet proof’: ‘you could never find my money’.  He has also said on many occasions that his money could go quickly from one jurisdiction to another and that he can move it around the world to different jurisdictions very easily.”
+
+Then he continues:
+
+“From what Vivian has been saying to me, I now know that he has been arranging his financial affairs in such a way as to try to prevent Lisa from having a proper divorce settlement.  I have further information which I believe is relevant to the determination of Lisa’s financial claims ...”
+
+I have been referred extensively to the transcript of the conversation which was recorded.
+
+In his evidence in response the husband denies many of the factual allegations made by the wife and her brothers.  I am of course not in a position at this hearing to determine any such factual disputes.
+
+The Legal and Procedural Framework
+
+As is well known, s.25 of the Matrimonial Causes Act 1973 imposes a duty on the court, when determining an application for ancillary relief, to have regard to all the circumstances of the case.  One consequence of this, as identified by Lord Brandon in Jenkins v. Livesey [1985] A.C.424, is that unless the court is provided with correct, complete and up-to-date information it cannot “lawfully and properly” exercise its powers.  The parties are therefore under a clear obligation to provide full and frank disclosure of all relevant matters.
+
+The manner in which the parties must comply with this obligation is set out in the Family Proceedings Rules 1991.  They must each provide a statement in form E which must have attached to it, in addition to documents specifically required by the form, any documents necessary to explain or clarify any of the information contained within it.  After receipt of the form E each party is required to file and serve a questionnaire, if appropriate, setting out any further information and documents requested from the other party, or a statement that no information or documents are required.  The rules also expressly state, by r.2.61B(6), that, between the filing of the application for ancillary relief and the first appointment, no disclosure or inspection of documents may be requested or given except (i) documents required to be disclosed with the Form E and (ii) requests made in a questionnaire as permitted by 2.61B(7).
+
+It is into this procedural framework which the Hildebrand guidance falls, although it was first given when a different framework was in place.  In Hildebrand itself, the husband, who had surreptitiously obtained copies of the wife’s documents, was objecting to the disclosure of some of them, contending that he wanted to maintain an element of surprise in the face of the wife’s alleged fraud.  This argument failed and the husband was ordered to disclose all the documents.  Further, in the light of the husband’s conduct, the wife argued that she should not be ordered to answer the husband’s questionnaire.  This latter argument was founded on two grounds, both of which were accepted by Waite J. (as he then was), and to quote [3] of the headnote:
+
+“The wife would not be compelled to answer the husband’s questionnaire on the following grounds:  (1) it would be an abuse of the process of the court to compel the wife to answer the husband’s questionnaire, because of the husband’s improper conduct by making surreptitious discovery of the wife’s papers as to do so would be to condone the conduct of those who acted improperly and in bad faith;  (2) it was of the essence of the questionnaire procedure that the request for information was a genuine one and made by a party in ignorance of the answer.  Where the request represented an attempt by the husband to obtain information as to which he was already fully or partially informed by making improper discovery of [certain documents] …it would be oppressive for the wife to answer the questionnaire in ignorance of the extent of the fund of knowledge which the husband was in a position to derive from [those documents].  That principle also applied to the interrogatory procedure.”
+
+As part of his submissions on behalf of the wife in Hildebrand Nicholas Wilson QC (now LJ) had argued:
+
+“The court should regard the use of all methods of discovery by a party who has taken discovery into his own hands as an abuse of its process and restrain it.”
+
+This submission was accepted although Waite J. made it clear that once both sides had made full disclosure of all relevant documents the husband was entitled to renew his application for further discovery.
+
+Hildebrand was developed in the case of T v. T (Interception of Documents) [1994] 2 F.L.R.1083.  This is a decision of Wilson LJ when a first instance judge.  He decided that the wife’s actions in that case were improper in three respects, namely that she used force to obtain documents, she intercepted the husband’s mail, and she kept original documents.  Although improper, he also decided that the wife’s activities should not affect his substantive award but should prima facie have some relevance in respect of costs.  He gave the following guidance, namely that:
+
+“The original and copy documents which [the wife] had taken were discoverable documents and all those that she had in her possession at the discovery stage of the litigation should have been disclosed at that time, i.e. at the time of the delivery of her questionnaire, or earlier upon request.  Those coming into her possession at a later stage should have been disclosed forthwith.”
+
+In neither Hildebrand nor T v. T was any application made for the return of the documents, nor any application made to prohibit use being made of the information which had been irregularly obtained.  As Wilson LJ has recently observed the “ratio decidendi of Hildebrand … relates only to the time at which copy documents thus obtained should be disclosed to the other spouse”.
+
+The Hildebrand guidance was considered, although not directly applicable, in the recent Court of Appeal decision of White v. Withers & Anor. [2009] E.W.C.A.Civ.1122.  Ward LJ summarised the effect of Hildebrand at [37]:
+
+“The Family Courts will not penalise the taking, copying and immediate return of documents but do not sanction the use of any force to obtain the documents, or the interception of documents or the retention of documents nor I would add, though it is not a feature of this case, the removal of any hard disk recording documents electronically.  The evidence contained in the documents, even those wrongfully taken, will be admitted in evidence because there is an overarching duty on the parties to give full and rank disclosure.  The wrongful taking of documents may lead to findings of litigation misconduct or orders for costs.”
+
+Later when addressing the question of whether Hildebrand could provide a defence to a civil claim Ward LJ said, first at [57]:
+
+“Here there is no public interest in taking another’s documents: the public interest in so far as it prevails, is in the need for a fair trial of the ancillary relief claim with all relevant facts before the court and this could be achieved by resort either to the court’s search and seizure warrants or to a Hildebrand plea to admit the documents in evidence no matter how they were procured.  The Matrimonial Causes Act 1973 can be invoked to justify admitting the evidence contained in the documents: but one cannot construe the Act as authorising the commission of the torts of trespass or conversion.  Thus it seems to me to resort to self-help is to take a risk.”
+
+Then at [63] he said:
+
+“The deviousness of one of the parties and the need for the court to have full and frank disclosure to fulfil the court’s statutory duty will justify the admitting the documents in evidence but, subject to the possibility of de minimis infractions being overlooked for the reasons I have just discussed above, it cannot justify or excuse the commission of the wrongful interference with property.  Nothing in this judgment is intended to cast doubt upon the Family Division’s practice to admit all relevant evidence in the search for truth or to impose sanctions where there has been improper conduct.”
+
+Wilson LJ expressed some reservation about Ward LJ’s comment in [37] that “wrongfully” obtained information “will” be admitted.  He said, at [82]:
+
+“Ward LJ may be right to suggest … that even documents taken in breach of the Hildebrand ‘rules’ will at any rate be admitted in evidence; but, I, for my part, would not express myself so categorically.”
+
+He then observed that:
+
+“… in an appropriate case there must be an authoritative adaptation of the ‘rules’ to documents in electronic form; and it will no doubt be informed in part by Tugendhat J’s decision in L v. L.”
+
+Wilson LJ expressed profound opposition to, and I quote from [84] and [85]:
+
+“… a co-existence of the admissibility in the family courts of documents secretly obtained with, nevertheless, a tortious liability on the part of those who had obtained them or who shared responsibility for their having been obtained.  Such a co-existence would compromise the ability of family practitioners to advise that action on the part of their clients in accordance with the Hildebrand ‘rules’ was permissible and would thus in my view disable the family courts from discharging their statutory duty in certain cases.  It would be as unfortunate as it would be unnecessary for us to suggest, as does Ward LJ at [57] that to act even in accordance with the Hildebrand ‘rules’ ‘is to take a risk’, or to state, as he does at [58] that ‘at most the Hildebrand “rules”, and the extent to which they are observed or broken, may have an impact upon damages’.  Indeed, as already appears, I am far from persuaded of the validity either of his suggestion or of his statement, about which we have not heard argument.
+
+The present proceedings, whether at this preliminary stage or at substantive trial, are not those in which actions within the Hildebrand “rules” fall to be tested, whether against the law of tort or otherwise.  Other such proceedings may arrive in this court; in my view, if now only in the interests of legal clarity, they should do so.  But, although (to be fair to Eady J) the claimant’s defence to the strike-out application was not presented to him with specificity, his appeal to us is squarely presented on the basis that his claim does not challenge actions in accordance with the Hildebrand “rules”.”
+
+Before turning to the parties’ submissions, I make a few general observations.  The effect of the guidance given in Hildebrand and T v. T has been applied in ancillary relief proceedings for the last 15 years without significant challenge or review.  The practical consequences are well understood and, in my experience, invariably complied with (including in respect of information held in electronic form), although there is sometimes debate as to how the guidance applies to the new ancillary relief procedure.  For example, does the guidance require disclosure of the irregularly obtained information prior to the delivery of the questionnaire and, in particular, prior to service of forms E or not?  A conventional method of meeting this uncertainty, as occurred in this case, is for a specific request for the disclosure of all Hildebrand documents to be made at the outset of proceedings.  As Wilson LJ comments in White v. Withers, FPR r.2.61B(6) might appear to conflict with this practice, although I doubt whether this factual situation was in the mind of the drafters of this provision.
+
+However, despite the efficacy of Hildebrand, I am also well aware, from my experience over the past 30 years, of the consequences of and the concerns caused by information being irregularly obtained.  I have already referred to the fact that it invariably inflames the litigation process.  It is seen as creating an uneven litigation process if, as is usually the case, only one party is circumventing the normal rules of procedure – they are, after all, procedural rules not merely guidelines.  “Why [a party will ask] must I act in accordance with the rules when the other party seems to be free to ignore not only the court’s own rules but even commit a crime in order to access my personal information?”  Of course, the extent to which a party can protest in this way will inevitably be in direct correlation with the extent to which the irregularly obtained information demonstrates that they have not been complying with their obligation to give full and frank disclosure.  Further, such crimes do not necessarily go unpunished, albeit that this is a very, very rare occurrence.
+
+On the other hand, concerns can also be raised by the party who seeks to obtain and rely on information which has been irregularly obtained.  “Why [this party might ask] must I refrain from taking copies of documents, which might be relatively easily available within a home or office, when to do so would mean that they are irregularly obtained, when I confidently predict or believe that such documents will show that the other party is not being frank?  Why must I comply with the rules and my obligations of complete disclosure when I believe the other party is not?”  The prospect of civil or even criminal sanctions might not deter a party in such a position.
+
+These broadly stated concerns demonstrate some of the issues raised by this application, and also the way in which the consequent debate can now be framed quite easily within the principles contained in articles 6 and 8 of the European Convention on Human Rights.  The protection of personal information and documents and the fairness of the trial process are both directly engaged.  More broadly expressed, however, the issues raised involve the need to maintain and promote the attainment of justice in a way which does not undermine the fair and effective administration of justice.
+
+The Parties’ Submissions
+
+Counsel have set out their respective positions in very full submissions, and I have also heard very extensive oral submissions.
+
+During the course of the hearing the parties produced what at one time felt like a flurry of additional legal material - authorities and extracts from textbooks - in support of a variety of additional points which they sought to make.  This led at times to a marked lack of structure in the way in which their respective cases were being advanced.  I have not felt it necessary to address all these points or all this additional material in this judgment as I have focused on what I consider to be the essential issues which I have to determine.
+
+The Husband’s Case
+
+Mr. Howard submits that the purpose of this hearing is to determine whether, as a matter of principle, the wife should be permitted to retain and make use in these proceedings of the material obtained by her brothers surreptitiously and without the husband’s consent from the shared computer system.  He submits, as he did at the hearing before me in July, that there is a clear line to be drawn as a matter of principle as a result of which the material should be removed from the wife and her legal advisers and she and they should be prohibited from making any use of it whatsoever.
+
+He identifies in his written submissions a number of specific issues:
+
+(1) whether the court should make an order for the delivery up of the husband’s confidential information to his solicitors without it being further read;
+
+(2) whether the wife and/or her legal advisers can make any use of the information, already gained as a result of reading the husband’s confidential information, for the purposes of the ancillary relief application;
+
+(3) whether the wife and/or her legal advisers should be permitted to read the confidential information notwithstanding that it includes material in respect of which the husband claims privilege;
+
+(4) whether the wife should be permitted to deploy any of the confidential information for the purposes of the ancillary relief application.
+
+He adds that it may also be necessary, in due course, for the court to determine whether Withers and/or counsel should be permitted to continue to act, having regard to the reading that has already taken place of the confidential information.
+
+Mr. Howard identifies the principal purposes of the husband’s application as being:
+
+(a) to effect the return of all the confidential information to be preserved by the husband’s solicitors pending the outcome of the wife’s ancillary relief application;
+
+(b) to obtain information about the extent to which the wife and anyone within Withers has read the confidential information so that the husband with his legal advisers can consider whether or not to make an application for Withers to be removed as the wife’s solicitors in these proceedings; and
+
+(3) to ensure that orders made in the Queen's Bench Division proceedings are effective, and that the husband is informed of the full extent of the dissemination by the wife to date.
+
+The essential theme of Mr. Howard’s submissions is, as I have indicated, that a party should not be entitled to circumvent the court’s process by being permitted to make use of confidential information or documents which have been irregularly obtained.  This constitutes, he submits, a breach of the other party’s rights under article 8 and a breach of their right to a fair trial.  The former because it is an unregulated and wrongful interference with their private life and the correspondence.  The latter because it distorts the legal process as one party has obtained an unfair advantage and has thereby ensured that the parties are not on an equal footing.  The husband’s article 6 rights are also engaged and are protected, he submits, by adherence to the court’s own procedures, which are consistent with the overriding objective.
+
+Mr Howard submits that the wife’s article 6 rights do not justify steps being taken by way of self-help because the court’s own procedures provide her with the appropriate means by which to obtain a fair trial.  He contends that if the wife’s case is right there is no limit to what parties might do - even break into a solicitor’s offices to obtain documents and then he say, “Well, I have the information, so let me use it”.  This, says Mr. Howard, would be the “Wild West”.
+
+In his written submissions Mr. Howard sets out the following particular features on which he relies.  (1) The documents have been obtained in circumstances which bypass entirely the ordinary processes of disclosure.  (2) The documents have been obtained in circumstances which bypass entirely the important safeguards necessary to ensure compliance with article 8 which are built into orders which the court may make in appropriate circumstances, such as search, seizure, freezing and preservation orders.  (3) Had an application been made for orders such as those outlined in (2), none would properly have been made.  (4) The documents obtained not only consist of disclosable documents but also include large numbers of privileged and irrelevant documents.  (5) The effect of allowing that party to make use of the documents is to licence the conduct of proceedings on an unequal footing because the party who has obtained the documents has thereby gained a litigation advantage which he or she would not have had had the proper processes been adhered to.
+
+Mr. Howard structures his case as follows.
+
+(i)	The husband’s confidential information was unlawfully or improperly removed.  At the very least, there is a strong prospect of the husband establishing that the taking and subsequent use of the information amounted to a breach of confidence and/or a misuse of private information.  It also, he submits, amounted to a clear breach of the husband’s article 8 rights, and he relies on the Strasbourg decision of Copland v. UK [2007] 25 B.H.R.C.216, in which the Strasbourg court determined that emails from business premises are protected under article 8.1.  He refutes Mr. Turner’s submission that the wife’s intended use is not a misuse.
+
+Mr. Howard also submits that the court will act to prevent use being made of improperly obtained material.  He relies on ITC Ltd. v. Video Exchange Ltd. [1982] 1 Ch.431, in which Warner J. said:
+
+“Counsel for the plaintiffs puts his case in two ways.  First, he relies on Lord Ashburton v. Payne [1913] 2 Ch.460.  He submits, and I agree, that that was not an isolated decision but is illustrative of a general rule that where A has improperly obtained possession of a document belonging to B the court will, at suit of B, order A to return the document to B and to deliver up any copies of it that A has made, and will restrain A from making any use of any such copies or of the information contained in the document.”
+
+(ii)	Mr. Howard submits that unregulated “self-help” is unjustified and, as a matter of public policy, should be outlawed, to use his “Wild West” analogy.  It is to be deprecated not least because it overrides the rights of the victim, subverts the proper processes of disclosure, and provides the self-helper with advantages which could not have been obtained if they had followed legitimate procedures.  If one party’s information is irregularly obtained it will invariably, if not inevitably, be obtained in breach of that party’s article 8 rights and this cannot, he submits, be justified by reference to the other party’s article 6 rights.  Mr. Howard relies extensively on L v. L, to which I will refer later in this judgment.
+
+Mr. Howard submits that the husband’s article 8 rights have been overridden because the information has been obtained irregularly.  Appropriate remedies are available through the court and it is these, he submits, which provide the sole recourse available to the wife.  If there are proper grounds for concern, orders can be sought from the court through the Family Proceedings Rules or by means of a preservation order or an Anton Piller order.  These are legitimate routes, with appropriate safeguards to ensure compliance with article 8, by which information or documents can be obtained from or relating to another party.  No application was made in this case for any such order.  In any event he submits, there existed no or no sufficient grounds which would have justified the exercise by the court of its powers to make such orders, and accordingly there existed no justification for the husband’s rights being overridden by a unilateral act by or on behalf of the wife.  There was, he submits, simply no justification for interfering with the husband’s article 8 rights in the manner which has occurred in this case.
+
+Mr. Howard also submits that the husband’s article 6 rights have been infringed, again because the proper procedures have been circumvented.  His rights to a fair trial are assured by adherence to these proper procedures and, as a consequence, to the overriding objective to deal with cases justly, including by ensuring, so far as practicable, that the parties are on an equal footing.  He relies on the Family Proceedings Rules as providing the mechanism by which disclosure is properly regulated so that it is proportionate to the issues in the case and in accordance with the overriding objective.  Not to make the orders he seeks will, Mr. Howard submits, give the wife an illegitimate litigation advantage as she will have available to her information which she could not legitimately have obtained.  At the time the husband’s information was taken she was not entitled to disclosure.  She can in due course request further information and documents, but he submits it is inconceivable that disclosure would be ordered of privileged material or to the extent contained in the seven files, much of which Mr. Howard submits is irrelevant.
+
+If the husband’s confidential information is not returned Mr. Howard submits that this will only serve to encourage others to use self-help.  He asks, rhetorically, why bother with applying to the court through the proper channels when you can obtain and subsequently make use of far more information through self-help.
+
+The only potential justification on which the wife can rely, so as to entitle her to retain and use the information, is her right to obtain justice, i.e. to give effect to her article 6 rights.  However, Mr. Howard submits, these rights do not justify the retention and/or use of the information at this stage.  By denying the wife the right to retain or use the information the wife’s right to a fair trial is not thereby prejudiced or undermined.  The court’s own procedures and powers strike the right balance between the parties’ respective rights and obligations.  It is not for one party to make up their own rules and thereby gain an illicit advantage and avoid “vetting” by the court.
+
+Accordingly, the wife’s rights to a fair trial would be protected through the court’s own process and through the normal disclosure process.  The relevant parts of the material will be disclosed by the husband, through his solicitors, in due course.  The husband also, as I have indicated, agrees to the preservation of the seven files pending the determination of the wife’s ancillary relief claims so that the wife can apply for further disclosure, if justified.  As the wife’s rights to a fair trial will thereby be appropriately protected, there is nothing to balance against the breach of the husband’s rights and interests.  She cannot therefore use her article 6 rights as justification for breaching the husband’s article 8 rights and/or his article 6 rights.  There is frankly, Mr. Howard submits, nothing to put in the balance on the wife’s side against the husband’s rights, and there is accordingly no conflict at all between the legitimate interests of both parties.
+
+Mr. Howard also points to what he submits are a number of undesirable practical consequences, inconsistent with the overriding objective, including that there is a substantial risk that significant costs will be incurred by the pursuit of “red herring” issues resulting from the incomplete picture which will be obtained from the information contained in the seven files and from the irrelevant information in them.
+
+Mr. Howard relies on the authorities of Jones v. University of Warwick [2003] 1 W.L.R.954, Lifely v. Lifely [2008] E.W.C.A.Civ.904, and SOCA v. Olden [2009] E.W.H.C.610, as establishing that the court has a discretion to exclude otherwise admissible material by reference to the manner in which it has been obtained and the principles applicable in such circumstances.
+
+(iii)	Turning to the third topic raised in Mr. Howard’s submissions, namely that many of the documents are privileged, or at least there is a prima facie case to that effect.  It is well established, he submits, that the courts will restrain the use of and order delivery up of material subject to legal professional privilege which has been improperly or surreptitiously obtained.  It is not, he submits, for the wife or her legal advisers to determine whether the material is privileged.  As a matter of practical reality, Mr. Howard submits that neither the wife nor Withers nor any third party lawyer, without knowledge of the purposes for which the documents in the seven files were created, would have all the information necessary to determine what is privileged and what is not.  Mr. Turner accepts this last point.  Mr. Howard submits that, as a mixed file, including privileged information, the documents should simply be returned.
+
+Accordingly, Mr. Howard submits that the husband, in any event, should not be required to identify those documents in the seven files in respect of which he claims privilege and thereby enable the wife’s legal representatives to look at those documents.  He submits that neither the wife nor her legal representatives are entitled to look at documents in respect of which a claim of privilege is made for the purposes of evaluating that claim.  When privilege is claimed and disputed the most that might occur, as a last resort, is that the court will read the contested documents and determine whether they are privileged.  In support of this submission, Mr. Howard referred me to Atos Consulting Ltd. v. Avis plc [2007] E.W.H.C.323 at [28] to [37], to Derby & Co. Ltd. v. Weldon (No. 8) [1991] 1 W.L.R.73, at pp.97 and 100, and to Industrial Furnaces Ltd. v. Reaves [1970] R.P.C.605, at pp.627 and 628.
+
+Subsidiary to his principal submissions, Mr. Howard also submits that the court’s focus should be as at the date on which the information and documents were irregularly obtained.  He submits that any assessment of whether, what he calls, the “plundering” of the husband’s information might be justified must be by reference to the circumstances which then existed.  In summary, Mr. Howard submits that the manner in which the husband’s information was accessed was “a completion perversion of the right processes” and constituted “blatant and conscious breaches of the husband’s rights”.
+
+In support of his application for information as to the extent to which the relevant documents and information have been read by the wife and/or her legal representatives so that the husband and his legal advisers can consider what application, if any, to make, Mr. Howard relies on two authorities which deal with the court’s power to prohibit a party from continuing to use their legal representatives, namely Ablitt v. Mills & Reeve, Times Law Report 25th October 1995, and Skjevesland v. Geveran Trading Co. Ltd.  [2002] E.W.C.A.Civ.1567.
+
+Finally, Mr. Howard strongly refuted Mr. Turner’s submission that the husband’s application is merely tactical manoeuvring and an abuse of process.  He challenges Mr. Turner’s use and interpretation of the transcribed telephone conversation and submits that whatever the husband might have said in this private conversation does not significantly affect his case in respect of this application.
+
+The Wife’s Case
+
+Mr. Turner submits that, for the reasons set out in their evidence, the wife and her brothers had proper cause to fear that the husband was likely to misrepresent his financial position for the purposes of the ancillary relief proceedings.  It was this that led one of her brothers to cause the copying of information that the husband had stored so that the material was available to address the situation if their fears were borne out by events.
+
+The wife also relies on the transcribed telephone conversation.  In particular, passages which are said to provide support for the fear that the husband has taken steps to arrange his financial affairs in such a manner as to defeat the wife’s claims.  And other passages in which it is said that the husband makes clear he has no objection to the wife’s matrimonial solicitors, namely Withers, retaining the seven files for the purposes of these proceedings.  On this latter point, Mr. Turner also referred to certain passages in Eady J’s judgment.
+
+In respect of the form of the current hearing, Mr. Turner submits that the wife is improperly prejudiced in addressing the husband’s application because she has been unable to deploy any of the confidential information in support of her opposition to the husband’s application.  The wife would wish to refer to and rely on the specific nature of the information, or parts of it, contained in the seven bundles, in part to demonstrate its relevance and also as “providing a justification for what her brother did”.  Mr. Turner submits that, as a result, the court is also handicapped in dealing with the husband’s application because it is not in a position to assess the quality and relevance of the material which has been obtained.
+
+As a general proposition, Mr. Turner draws attention to the fact that there are many cases, reported and unreported, in which the deployment of irregularly obtained information has had an important or even crucial effect on the court’s determination of an ancillary relief application by, for example, the discovery of previously undisclosed wealth.  By this means, he submits, a fairer and more just result will have been achieved.  If too many obstacles are created it would assist those who are seeking or might be seeking to avoid their obligation to make full and frank disclosure.  By way of example, he referred me to T v. T, J v. V, and also Jones v. Warwick.
+
+Notwithstanding this, Mr. Turner accepts that, if a criminal or civil wrong has been committed when the information has been obtained, then the consequent legal sanctions will apply in spite of the material being obtained for use in legal proceedings.  He submits that this provides the appropriate balance and disincentive.
+
+The central themes of Mr. Turner’s submissions are:
+
+(a)	All relevant evidence is admissible even if it has been irregularly obtained;
+
+(b)	The husband’s application is merely tactical manoeuvring and is an abuse of the process;
+
+(c)	The husband has no substantive cause of action which entitles him to the orders which he seeks.  A court can order delivery up of documents which contain confidential information and can make an injunction restraining any further use of that information but only if the use or proposed use is a misuse.  The use or proposed use in this case is for, and only for, the purposes of the wife’s ancillary relief application which cannot, of itself, amount to a misuse.  The normal procedural rules would govern whether the intended use, such as requests in a questionnaire, would or would not be permitted.  Further, any such determination is fact-sensitive;
+
+(d)	The wife’s advisers are entitled to look at the material which is claimed to be privileged for the purposes of considering whether that claim is made out.
+
+I turn to set out these points in more detail.
+
+(a)	Mr. Turner relies on the common law principle that all relevant evidence is admissible even if it has been obtained unlawfully or irregularly.  There is no exclusionary rule in respect of the use of “the fruit of the poisoned tree”.  The court is concerned with “getting at” the truth, even more so when the court has a quasi-inquisitorial role as under the Matrimonial Causes Act 1973.  Any proposed exclusion of relevant evidence must be strictly justified.
+
+(b)	Mr. Turner submits that the husband’s application is merely tactical manoeuvring and is an abuse of the process.  In support of this submission he relies on four matters.
+
+(i)	That Coleridge J. was misled - I have already dealt with this submission.
+
+(ii)	That the husband has sought to “divide and rule” based on the differences between the proceedings commenced by him in the Queen's Bench Division and his application in the Family Division.  He instituted proceedings in the Queen's Bench Division to which the wife was not a party whilst making a separate application against the wife in this Division.  Mr. Turner submits that this “has served to increase the legal costs and court time required to deal with the matter and has enabled the husband in effect to prevent any one court from considering the entirety of the matter, to put his case differently between the various courts in certain respects, to prevent the opposing litigants in one set of proceedings having access to certain evidence and material deployed in the other proceedings, and to divide and rule”.
+
+I do not accept this submission.  In my view, the husband was entitled to bring proceedings in the Queen's Bench Division as well as the application before me.     I note that no submission appears to have been made in the Queen's Bench Division proceedings that they were effectively an abuse.  I also do not consider that the husband is running different cases in the two sets of proceedings.  When Eady J. said it would be for the Family Division to decide questions of admissibility, relevance and, I emphasise, the use to which the disputed material could be put, he specifically referred to the submission made by Mr. White that the husband was “content that the judge in the family proceedings should decide what use, if any, the wife may make of those documents”.
+
+(iii)	That the husband misused information provided to him under compulsion.  Mr. Turner submits that the use by the husband of the material supplied to his solicitors by Withers in February 2009 for the purposes of the Queen's Bench Division proceedings was a contempt of court and that the husband should be debarred from pursuing his present application.  Information supplied under compulsion in legal proceedings cannot, as a general rule, be used for any other purpose.  There are a number of exceptions to this rule.  This submission was not the focus of much discussion during the course of the hearing.  The material was used by the husband only for the purposes of the Queen's Bench Division proceedings.  Whilst it may be correct that an application should have been made by the husband, I do not consider that the husband’s use of this information in this way should have any effect on the issues I have to determine.
+
+(iv)	The fourth point advanced by the wife is that the husband is “game playing” and is not genuinely seeking the delivery up of the seven files.  Mr. Turner relies in particular on Eady J’s judgment and the transcript of the telephone conversation.  I have already dealt with the husband’s case before Eady J.  As to the transcript, during the course of this conversation the husband does indeed appear to say that he is happy for the information to be left with Withers and for it to be used in the matrimonial proceedings.  I do not, however, consider that when viewed overall the passages on which Mr. Turner relies bear the weight he sought to put on them.  They are part of a general discussion in which a great deal is said and they do not show that the husband is, as Mr. Turner submits, “game playing”.  In my view, the wife is seeking to cherry-pick certain extracts and, as I have said, give them disproportionate weight.  I do not therefore consider that the husband’s application is merely tactical manoeuvring and/or is an abuse of the process, and certainly not such that it should be rejected on those grounds.
+
+(c)	Turning to the third substantive point raised by Mr. Turner, Mr. Turner submits that the husband has no cause of action which entitles him to the orders which he seeks.  The relevant documents are not his documents so he has no claim to any physical object.  The documents contain confidential information which belongs to him but the proposed use by the wife is not a misuse.  Mr. Turner submits, therefore, that as the husband has no substantive entitlement there is no platform from which he can seek an injunction or the other orders he has applied for.  There is no claim based on confidentiality or privacy and there is no claim for wrongful interference with goods as the information is not contained in a document or physical object that belongs to him.
+
+Mr. Turner submits, as I have indicated, that the use which the wife proposes to make of the information, namely solely for the purposes of her ancillary relief application, is not a misuse.  The use of irregularly obtained information for such purposes cannot be characterised as a misuse.  In support of this submission, Mr. Turner relies on the Court of Appeal’s decision in White v. Withers, and, in particular, [23], where Ward LJ says that Mrs. White’s:
+
+“… communication of that confidential and private information to her solicitors for use in the litigation could never be characterised as misuse of it.”
+
+Based on this premise, Mr. Turner submits that the court has no power to order the wife to deliver up the documents to the husband and there is no question of any balance of rights as between the husband and the wife.  The court also has no power to prevent the wife from using this information in the substantive proceedings, such as to craft a questionnaire.  All the court can do is control the extent to which the wife seeks to deploy or make use of the information by the exercise of its powers under the procedural rules which apply generally to ancillary relief applications.
+
+Mr. Turner develops this argument additionally, or possibly alternatively, by submitting that the wife cannot be prevented from making use of the information in the proceedings because this would interfere with her right to a fair trial, which requires her to be able to use the information for that purpose.  The wife’s proposed use of the information also does not amount to a breach or interference with the husband’s article 8 rights because the use of the information for the purposes of proceedings is not an improper interference with such rights as it is for a legitimate purpose and is a use which, as a general proposition, is proportionate to that purpose.
+
+Mr. Turner submits that the husband’s article 6 rights are protected by the application of the Hildebrand rules as judge-made principles of procedure.  They direct what must be done before the irregularly obtained information can be used in proceedings, namely that it must be disclosed.
+
+(e)	The issue of privilege.  Mr. Turner accepts that the wife is not entitled to retain material in respect of which legal professional privilege is asserted and established.  He also accepts that, although the wife’s advisers would be able to identify material which is obviously overtly privileged, they will not necessarily be able to identify all privileged material.  The procedure which Mr. Turner submits should be followed is:
+
+the husband should identify those documents which he claims are privileged and should set out the grounds on which he relies;
+
+if the husband establishes a prima facie case, the wife is entitled to seek to rebut the claim and for such purposes is entitled to read and make use of all the material in the seven files.  The “cat is out of the bag”, says Mr. Turner, so there is no reason not to permit the wife to use this material for the purposes of challenging any privilege claim and, further, none of the material was so overtly privileged as to be seen as such by Mr. Wolanski.  Mr. Turner also submits that the usual “unsatisfactory process of a judge considering the documents in respect of which privilege is claimed and then ruling on the matter without the assistance of fully informed submissions on behalf of the other party” need not be followed in this case.  The wife is able to provide “informed assistance” because she is aware of what is in the files.  Any assertion of privilege must be investigated and the wife “should be entitled to deploy material already available to her” for that purpose.
+
+Mr. Turner referred to Phipson on Evidence, West London Pipeline and Storage Ltd. v. Total UK Ltd. & Ors. [2008] EWHC 1729, and the various potential grounds on which privilege can be challenged, including that some of the material may not be privileged, as claimed, as the person alleged to be a legal adviser may in fact be acting as the husband’s “man of business” and the ground of iniquity.
+
+As for the wife’s application, Mr. Turner submits that the husband should be restrained from disposing of any of the materials delivered up to him as a result of the orders made in the Queen's Bench Division proceedings and any order I might make unless he is able to establish that such material will never be relevant or disclosable in the course of the ancillary relief proceedings.  Such a restriction, Mr. Turner submits, would cause the husband no prejudice.
+
+I now turn to consider in more detail some of the authorities to which I have been referred.
+
+Irregularly Obtained Evidence
+
+The first is Jones v. Warwick, which concerned a claim for damages for personal injuries.  Lord Woolf gave the judgment of the Court.  The issue identified as being raised by the appeal was [1]:
+
+“… whether and, if so when, a defendant to a personal injury claim is entitled to use as evidence a video of the claimant which was obtained by filming the claimant in her home without her knowledge after the person taking the film had obtained access to the claimant’s home by deception.”
+
+This issue required [2]:
+
+“… this court to consider two competing public interests: the interests of the public that in litigation the truth should be revealed and the interests of the public that the courts should not acquiesce in, let alone encourage, a party to use unlawful means to obtain evidence.”
+
+Under the heading “Squaring the Circle” Lord Woolf said [21-30]:
+
+“It is not possible to reconcile in a totally satisfactory manner, the conflicting public policies which the district judge and the judge had to try and balance in this case.  The approach of Judge Harris was consistent with the approach which would have been adopted in both criminal and civil proceedings prior to the coming into force of the Civil Procedure Rules and the Human Rights Act 1998.  The achieving of justice in the particular case which was before the court was then the paramount consideration for the judge trying the case.  If evidence was available, the court did not concern itself with how it was obtained.
+
+While this approach will help to achieve justice in a particular case, it will do nothing to promote the observance of the law by those engaged or about to be engaged in legal proceedings.  This is also a matter of real public concern.
+
+If the conduct of the insurers in this case goes uncensured there would be a significant risk that practices of this type would be encouraged.  This would be highly undesirable, particularly as there will be cases in which a claimant’s privacy will be infringed and the evidence obtained will confirm that the claimant has not exaggerated the claim in any way.  This could still be the result in this case.
+
+Fortunately, in both criminal and civil proceedings, courts can now adopt a less rigid approach to that adopted hitherto which gives recognition to the fact that there are conflicting public interests which have to be reconciled as far as this is possible.  The approach adopted in Kuruma v The Queen [1955] AC 197 and R v Sang [1980] AC 402 and R v Khan (Sultan) [1997] AC 558 which was applied by the judge has to be modified as a result of the changes that have taken place in the law.  The position in criminal proceedings is that now when evidence is wrongly obtained the court will consider whether it adversely affects the fairness of the proceedings and, if it does, may exclude the evidence …  In an extreme case, the court will even consider whether there has been an abuse of process of a gravity which requires the prosecution to be brought to a halt …”
+
+He then quotes from the judgment of Potter LJ (as he then was) in Rall v Hume [2001] 3 All ER 248 at p. 254:
+
+“In principle … the starting point in any application of this kind must be that, where video evidence is available which, according to the defendant, undermines the case of the claimant to an extent that would substantially reduce the award of damages to which she is entitled, it will usually be in the overall interests of justice to require that the defendant should be permitted to cross-examine the claimant and her medical advisors upon it.”
+
+Continuing with Lord Woolf’s judgment:
+
+“Potter LJ added that this does not apply if the conduct of the defendant amounts ‘to trial by ambush’.  The discretion on the court is not, however, confined to cases where the defendants have failed to make proper disclosure.  A judge’s responsibility today in the course of properly managing litigation requires him, when exercising his discretion in accordance with the overriding objective contained in CPR Pt 1, to consider the effect of his decision upon litigation generally.  An example of the wider approach is that judges are required to ensure that a case only uses its appropriate share of the resources of the court … Proactive management of civil proceedings, which is at the heart of the Civil Procedure Rules, is not only concerned with an individual piece of litigation which is before the court, it is also concerned with litigation as a whole.  So the fact that in this case the defendant’s insurers … have been responsible for the trespass involved in entering the claimant’s house and infringing her privacy contrary to article 8(1) is a relevant circumstance for the court to weigh in the balance when coming to a decision as to how it should properly exercise its discretion in making orders as to the management of the proceedings.
+
+Mr. Weir argues that unless it was necessary for the insurers to take the actions they did, the evidence must inevitably, at least in a case such as this, be held inadmissible.  He submits that otherwise the court would be contravening the duty that it is under, pursuant to section 6 of the Human Rights Act, not to contravene article 8.  While the court should not ignore the contravention of article 8, to adopt Mr. Weir’s approach would fail to recognise that the contravention would still remain that of the insurer’s enquiry agent and not that of the court.  The court’s obligation under section 6 of the [1998 Act] is to not itself act in a way which is incompatible with a convention right …
+
+As the Strasbourg jurisprudence makes clear, the Convention does not decide what is to be the consequence of evidence being obtained in breach of article 8 …”
+
+He then refers to Schenk v. Switzerland (1988) 13 EHRR 242 and PG and JH v. United Kingdom The Times 19 October 2007 para 76.
+
+“This is a matter, at least initially, for the domestic courts.  Once the court has decided the order, which it should make in order to deal with the case justly, in accordance with the overriding objectives … in the exercise of its discretion under rule 32.1, then it is required or it is necessary for the court to make that order.  Accordingly if the court be said to have breached article 8(1) by making the order which it has decided the law requires, it would be acting within article 8(2) in doing so.
+
+That leaves the issue as to how the court should exercise its discretion in the difficult situation confronting the district judge and Judge Harris.  The court must try to give effect to what are here the two conflicting public interests.  The weight to be attached to each will vary according to the circumstances.  The significance of the evidence will differ as will the gravity of the breach of article 8, according to the facts of the particular case.  The decision will depend on all the circumstances.  Here, the court cannot ignore the reality of the situation.  This is not a case where the conduct of the defendant’s insurers is so outrageous that the defence should be struck out.  The case, therefore, has to be tried.  It would be artificial and undesirable for the actual evidence, which is relevant and admissible, not to be placed before the judge who has the task of trying the case.  We accept Mr. Owen’s submission that to exclude the use of the evidence would create a wholly undesirable situation. … For these reasons we do not consider it would be right to interfere with the Judge’s decision not to exclude the evidence.”
+
+He continued a short while later:
+
+“While not excluding the evidence it is appropriate to make clear that the conduct of the insurers was improper and not justified.  … The fact that the insurers may have been motivated by a desire to achieve what they considered would be a just result does not justify either the commission of trespass or the contravention of the claimant’s privacy which took place.  We come to this conclusion irrespective of whether Mr. Weir is right in contending that in this particular case the evidence could be obtained by other means.
+
+Excluding the evidence is not, moreover, the only weapon in the court’s armoury.  The court has other steps it can take to discourage conduct of the type of which complaint is made.  In particular it can reflect its disapproval in the orders for costs which it makes.  In this appeal, we therefore propose, because the conduct of the insurers gave rise to the litigation over admissibility of the evidence which has followed upon their conduct, to order the defendants to pay the costs of these proceedings to resolve this issue before the district judge, Judge Harris and this court even though we otherwise dismiss the appeal.  This is subject to Mr. Owen having an opportunity to persuade us to do otherwise.  In addition, we would indicate to the trial judge that when he comes to deal with the question of costs he should take into account the defendant’s conduct which is the subject of this appeal when deciding the appropriate order for costs.”
+
+Then a bit later:
+
+“In giving effect to the overriding objective, and taking into account the wider interests of the administration of justice, the court must, while doing justice between the parties, also deter improper conduct of a party while conducting litigation.  We do not pretend that this is a perfect reconciliation of the conflicting public interests.  It is not; but at least the solution does not ignore the insurer’s conduct.”
+
+In L v L Tugendhat J. determined an interlocutory application by a husband for the delivery up of copies of the hard drive of his computer which had been surreptitiously obtained by the wife.  They were engaged in matrimonial financial proceedings.  The contents of the hard drive had not been accessed by or on behalf of the wife, but were said to include information in three different categories, namely (a) information protected by legal professional privilege, (b) information which was confidential and potentially relevant to the English proceedings, and (c) information about the husband and others which was not potentially relevant to the English proceedings.  The husband commenced proceedings in the Queen's Bench Division for the delivery up of the hard drive.  The parties agreed that the contents of the hard drive should be retained pending the trial in the Queen's Bench Division and of any issue that might arise in the proceedings in the Family Division.  They did not agree as to how this should be achieved and the husband’s application for interim relief was determined by Tugendhat J.
+
+Tugendhat J decided that there was a “sufficiently arguable case that the hard drive contains information in all three categories … so as to justify a delivery up order in respect of the copies of the whole hard drive”.  He was not able to form a view as to whether the wife had behaved unlawfully, but found that the husband had a real prospect of establishing that the wife had acted unlawfully.  He concluded that [119]:
+
+“[T]he balance of justice in the period before any judgment is delivered in this action requires that the copies be held in the custody of the husband’s solicitors, pending resolution of the issues in this case.  If that happens, then the husband and his solicitors will be under the obligations which any litigant in the Family Division is under, in particular the obligation to give disclosure of relevant material at the appropriate time (if the proceedings are not dismissed).  Disclosable documents may in principle include documents that have been deleted from the hard drive but are still recoverable from it.”
+
+At the commencement of his judgment Tugendhat J. made a number of general observations:
+
+“It is frequent in matrimonial disputes for one party (in this case the wife) to suspect that the other party is about to destroy documents, or conceal information which is, or may be, relevant to the proceedings, and to do so with a view to preventing her from obtaining from the court the financial provision to which she claims to be entitled.  While the law provides for court orders to be made for the preservation and obtaining of evidence for the purpose of future legal proceedings, claimants, or potential claimants sometimes resort to measures of self-help by copying, seizing or attempting to access digital copies of documents.  The other party in such a case, in this case the husband, has rights, including privacy, confidentiality and legal professional privilege, in relation to relevant documents.  The rights of privacy and confidentiality (but not any right to privilege) may be overridden by the competing public interest that any trial should be conducted on full evidence where the documents are relevant.  But unless a document or information is relevant to the actual or intended proceedings in question, the rights of privacy and confidentiality will not be overridden at the instance of the potential or actual claimant, here the wife.  These measures of self-help therefore give rise to legal difficulties.
+
+The difficulties that measures of self-help give rise to in this context include the danger that the husband’s rights will be overridden, when they would not be overridden if the matter had been the subject of an application for a preservation or search order made to the court.  Rights of confidentiality, and legal professional privilege, have long been protected by the common law.  Measures of self-help could in the past involve the commission of civil wrongs, such as trespass, breach of confidence and breach of copyright.  In the last 20 years or so the legal protection of information has been greatly increased.  This has in large measure been in response to the development of computers and their use for word processing and sending of electronic messages.  The amount of information that can be stored on a laptop is vast, and techniques for copying are quick and simple for experts.  So the potential fruits of self-help are of a different order from those of former days.  These developments have given rise to the question of the extent to which measures of self-help are also in breach of the criminal provisions of the law designed to protect the databases contained in digital form in computers.”
+
+During the course of his judgment Tugendhat J. observed that the cases in the Family Division to which he had been referred, including Hildebrand and T v. T, did not contain any discussion of whether, and in what circumstances, a party who obtains the other side’s documents by wrongful means is entitled to read them or deploy them in any way in the matrimonial proceedings.  He also considered the court’s powers to make a seizure (or Anton Piller) order and the safeguards incorporated into that process [88]:
+
+“It is illuminating to look at the form of search order set out in the practice direction to CPR Part 25.  It contains provision for the solicitors for one party to search the documents of the opposing party, effectively for the purpose of carrying out the exercise of finding what is disclosable and separating it from what is not disclosable.  The form contains numerous safeguards for the party whose documents are being searched.  Without them, a Court could not make a search order consistently with article 8 of the Convention.  There is provision for the party to whom the order is directed to have an opportunity to seek legal advice and to ask the court to vary or discharge the order before it is executed.  The court will normally require the appointment of a supervising solicitor, who is an independent third party.  There is provision for the person whose documents are to be searched to gather together documents he believes may be incriminating or privileged.  The applicant for such an order must give undertakings to the court.
+
+[89] Perhaps most important, is that it has long been recognised that such orders are extremely intrusive and should only be granted if and to the extent that they are necessary and proportionate.  In Lock v. Beswick [1989] 1 WLR 1268 Hoffmann J. said:
+
+‘Even in cases in which the plaintiff has strong evidence that an employee has taken what is undoubtedly specific confidential information, such as a list of customers, the court must employ a graduated response.  To borrow a useful concept from the jurisprudence of the European Community, there must be proportionality between the perceived threat to the plaintiff’s rights and the remedy granted.  The fact that there is overwhelming evidence that the defendant has behaved wrongfully in his commercial relationships does not necessarily justify an Anton Piller order.  People whose commercial morality allows them to take a list of customers with whom they were in contact when employed will not necessarily disobey an order of the court requiring them to deliver it up.  Not everyone who is misusing confidential information will destroy documents in the face of a court order requiring him to preserve them.’”
+
+Tugendhat J. then considers a number of matters under the heading “Safeguarding the documents and information”; in particular, that the application came before him, as he put it, “whilst the ball is still in the air, and before there is an accomplished fact”.  This was because, as I have indicated, the hard drive had been copied but its contents had not by then been accessed by the wife or anyone on her behalf:
+
+“[97] Thus the argument is that the wife is seeking to retain a position which she has occupied by self-help, when, on the evidence available, she could not have got herself into that position by an application to the Court, and in any case could not have got herself into that position without submitting to conditions which by law are necessary to protect the rights of the husband.  This seems to me a powerful argument, which I accept.
+
+[98] So long as the laptop and all copies are preserved by other means, the wife should not be permitted to that advantage.  The husband, of course, proposes that the laptop and all copies be preserved by other sufficient means, namely by his own solicitor.”
+
+I have also been referred to [106 – 108] and [112 – 115].
+
+In Lifely v. Lifely the Court of Appeal again considered, briefly, the effect of evidence having been obtained, at least arguably, by means of a civil wrong, namely misuse of personal information as protected by article 8.  Ward LJ, with whose judgment the other members of the court agreed, said at [32] and [33]:
+
+“I am prepared to accept for the purpose of this argument that there is at least a good arguable claim for misuse of private information which is protected by article 8 of the ECHR.  However, the matter does not end there.
+
+Even before the Human Rights Act 1988 was enacted, the court has had a discretion whether or not to admit evidence which was wrongfully obtained.”
+
+He then refers to a passage from the judgment of Sir Christopher Slade in the decision of Marcel v. Commissioner of Police for the Metropolis [1992] Ch.225 at 265 and, in particular, a passage when Sir Christopher Slade said:
+
+“I cannot, however, see why that public interest should in all cases and in all circumstances outweigh the public interest in ensuring a full and fair trial on full evidence ...”
+
+After referring to Jones v. Warwick, Ward LJ then said at [35]:
+
+“The Campbell case also involved the balancing of Miss Campbell’s right to respect for her private life under article 8 and the right of freedom of expression as is enshrined in article 10 of the Convention.  Lord Hope spoke in paragraph 95 of his speech of the need for the court “to carry out a balancing operation, weighing the public interest in maintaining confidence against a countervailing public interest favouring disclosure”.  For article 10 in that case read article 6 in this case.”
+
+Ward LJ refers to a passage from Lord Steyn’s speech in Re S before coming to his conclusion at [37]:
+
+“It would be wholly disproportionate to exclude this evidence and I have no hesitation whatsoever in rejecting the submission advanced on Nicholas’s behalf.  I add this caveat.  What forensic use, if any, should be permitted of an opponent’s private information when it has been obtained criminally, or unlawfully, or opportunistically, or even adventitiously gives rise to current problems ...  My judgment will not be and should not be the last word on this expanding jurisprudence as it is deliberately fact centred and fact sensitive.”
+
+In the Serious Organised Crime Agency v. Olden Holroyde J. had to consider the use of evidence obtained consequent on an unlawful arrest.  It was submitted that such evidence, although admissible, should be excluded because it would be “unfair, oppressive and a breach of Mr. Olden’s rights under article 6 and article 8 and article 1 of the 1st protocol to permit SOCA, a public authority closely linked to the Police and deriving material from the Police, to use material unlawfully obtained by the Police”.  Turning to the judgment, he said at [25 – 27]:
+
+“The general rule in English law is that relevant evidence is admissible, regardless of how it may have been obtained.  That principle has been well established in both criminal and civil cases for a long time ...”
+
+He then refers to Kuruma and Sang.
+
+“Both those cases recognise that in a criminal trial the judge always had a discretion to exclude evidence if its admission would be unfairly prejudicial to the accused, and of course the Police and Criminal Evidence Act 1984 now makes specific provision in that regard.”
+
+After referring to a passage in the judgment of Longmore LJ in C Plc v. P [2008] Ch 1 he continues:
+
+“In civil cases there is no directly corresponding statutory provision.  That there is nonetheless a discretion to exclude evidence if its admission would dishonour the administration of justice or compromise the integrity of the judicial process was recognised by Lord Hoffmann at paragraph 87 of       his speech in A v. Home Secretary (No. 2) [2006] 2 A.C.221 at p.280.        Mr. Talbot conceded, in my view rightly, that the discretion would also extend to excluding evidence if its admission would give rise to a breach of a litigant’s right to a fair trial under article 6.  But he submitted the circumstances here were not such as to require the court to exclude any of the evidence.
+
+Mr. Krolick submits that, quite apart from the discretion confirmed in          A v. Home Secretary (No 2), there is a wider basis for the exclusion of evidence because the CPR 32.1(2) permit the court to use its power under that rule “to exclude evidence which would otherwise be admissible”.  That rule, he submits, means that it is no longer sufficient simply to say that in civil proceedings the court is not concerned with where evidence has come from.”
+
+Then from para.32:
+
+“In my view, the decision whether to exercise the court’s power in civil proceedings to exclude evidence which would otherwise be admissible must depend upon an assessment of the circumstances of those proceedings.  The court must balance competing considerations: on the one hand, the public interest in the court considering all relevant evidence and on the other hand, the need to avoid a disproportionate interference with the rights of an individual.”
+
+Then at para.33:
+
+“I derive support for my views from the note at paragraph 32.1.4 of the current edition of the White Book.  This is to the effect that there is no express limitation on the exercise by the trial judge of the power under 32.1(2) to exclude evidence, but it must be exercised in accordance with the overriding objective of dealing with the case justly.  Where it is argued that evidence has been obtained in breach of an ECHR right there is no rule under the ECHR requiring the exclusion of such evidence, but the court must act in such a way as to ensure the proceedings as a whole are fair.”
+
+White v. Withers concerned a civil claim by a husband against his wife’s matrimonial solicitors, the same solicitors as in this case.  It was a claim for “breach of confidence, misuse of personal information, invasion of privacy and wrongful interference with property by possessing, taking or intercepting the claimant’s correspondence and documents, including personal family letters, private and confidential letters concerning business opportunities and documents containing financial information”.  The action was struck out by Eady J. and the husband appealed.  In the course of his judgment, Eady J. said:
+
+“A variation on this theme is that interference with correspondence is contrary to the right of privacy protected by article 8 … The cases in which these new principles have so far been applied [Wainwright v. Home Office [2004] AC 406, Campbell v MGN Ltd [2004] AC 457 and McKennitt v Ash [2008] QB 73] have been primarily concerned with the wrongful communication of information, in respect of which the claimant had a reasonable expectation of privacy, to a third party or to the world at large.  That is not the situation now before the court.  There has been no ‘misuse’ of any information, or breach of confidence, on the part of the solicitors.  Such information as they have been given has been received, noted and retained purely for use in connection with court proceedings and the protection of their client’s interest in that context.  That is in accordance with the common practice recognised in the Hildebrand cases.  It does not involve ‘misuse’.”
+
+In the Court of Appeal the husband’s counsel, while not conceding that [23] “the claim for damages for breach of confidence and privacy could never succeed, he was quite clear that he “need not trouble us” with that element of the claim’”.  As    I have previously mentioned, Ward LJ agreed that the communication of the confidential or private information to the wife’s solicitors for their use in the litigation could never be characterised as “misuse” of it.
+
+Privilege
+
+Turning to the authorities to which I have been referred on the issue of privilege.  In Atos Consulting v. Avis, Ramsey J considered the application of the Civil Procedure Rules to the issue of privilege.  He described the remedy of the court looking at the documents at issue as a “solution of last resort”.  He sets out the appropriate procedure when the issue of privilege is being addressed:
+
+(1) The court has to consider the evidence produced on the application, namely an application under r.31.19(5);
+
+(2) If the court is satisfied that the right to withhold inspection of a document is established by the evidence and there are no sufficient grounds for challenging the correctness of that asserted right the court will uphold the right;
+
+(3) If the court is not satisfied that the right to withhold inspection is established because, for instance, the evidence does not establish a legal right to withhold inspection, then the court will order inspection of the documents;
+
+(4) If sufficient grounds are shown for challenging the correctness of the asserted right then the court may order further evidence to be produced on oath or, if there is no other appropriate method of properly deciding whether the right to withhold inspection should be upheld, it may decide to inspect the documents.
+
+(5) If it decides to inspect them, then having inspected the documents it may invite representations.
+
+On the exercise by the court of its powers to make orders when one party has obtained privileged documents of another party, I have been referred to Guinness Peat Properties Ltd. v. Fitzroy Robinson Partnership [1987] 1 W.L.R.1027, and Derby & Co. v. Weldon (No. 8) [1991] 1 WLR 73.  Where inspection of privileged documents has been obtained by fraud or by reason of an obvious mistake, the court will ordinarily intervene by granting an injunction unless the case is one where an injunction can properly be refused.  In the latter case the court specifically endorsed Slade LJ’s observation in the first case, that the law should “not encourage parties to litigation or their solicitors to take advantage of obvious mistakes made in the course of the process of discovery”.
+
+Legal Representatives
+
+Turning now to the issue of legal representatives, I have been referred, briefly, because the issue is not directly raised by the husband’s current application, to the court’s power to prohibit a party from using their chosen legal representatives.  The issue is relevant because the husband seeks the provision of information as to the extent to which the wife’s legal advisers have knowledge of the information in the seven files, in particular for the purpose of enabling him to decide whether to make an application that the wife should be prohibited from instructing them in these proceedings.
+
+In Ablitt v. Mills & Reeve Blackburne J. granted an injunction restraining Mills & Reeve from acting as the defendant’s solicitors.  In that case, coincidentally, seven lever-arch files had been sent in error by a clerk in the plaintiff counsel’s chambers to the defendants’ solicitors.  The defendants instructed the solicitors to read the files before returning them.  Subsequently, the defendants had offered an undertaking not to make any use of any information derived from the files.  Blackburne J. granted the injunction sought by the plaintiff as “it offended elementary notions of fairness and justice if the defendant having knowingly taken advantage of mistaken delivery of counsel’s papers could nevertheless continue to have the services in the main action of people who, having read them all, had a very accurate perception of just how the plaintiff’s advisers viewed the merits of the claim and the steps they were advising him to take”.
+
+In Skjevesland v Geveran, the Court of Appeal heard an appeal against a bankruptcy order.  The appellants sought a retrial on the basis that counsel for the petitioning creditor was acquainted with his wife and her friends during a period that was the subject of examination in the bankruptcy petition.  Giving the judgment of the court, Arden LJ said:
+
+“The court has an inherent power to prevent abuse of its procedure and accordingly has the power to restrain an advocate from representing a party”
+
+if this is necessary to ensure a fair trial.
+
+Conclusions
+
+As referred to earlier in this judgment, Mr. Turner accepts that the information contained in the seven files is confidential information belonging to the husband.  In my view, all the information obtained by the wife’s brother is likely to be confidential information within the scope of article 8 derived, as it is, from emails and consisting of private communications.
+
+I accept Mr. Turner’s submission that, as a general proposition, relevant evidence is admissible regardless of how it may have been obtained.
+
+The Court’s Powers?
+
+The next question I propose to consider is whether, as Mr. Turner submits, I have no power to order the delivery up of the seven files, nor to make any order prohibiting the wife or her legal representatives from making use of the information for the purposes of her ancillary relief application.
+
+Mr. Turner, as I have indicated, submits that no such powers exist in this case because (a) the husband has no substantive claim which entitles him to the delivery up of this material or to any other injunction prohibiting the wife from using the material as she intends; and (b) the wife’s intended use of the confidential material is not a misuse.
+
+Mr. Howard and Mr. White submit that, at the very least, there is a strong prospect of the husband establishing that the taking and subsequent use of the information amounted to a breach of confidence and/or a misuse of private information, and/or is otherwise a breach of his article 8 rights.  They also submit that the proposed use of the material for the purposes of these proceedings provides no defence to the application for delivery up and is a misuse or intended misuse, relying specifically on the husband’s rights under articles 6 and 8 and on the court’s powers to control its own process.
+
+Both parties are able to refer to authorities which appear to support their respective contentions:  White v Withers provides support for Mr. Turner’s submissions and, for example, Lord Ashburton v. Pape [1913] 2 Ch 469  and ITC v. Video, provide support for Mr. Howard’s and Mr. White’s submissions.
+
+In my view, to focus purely on the existence or absence of a civil claim or a breach of the criminal law is too narrow a perspective from which to address the issue referred to at paragraph 10(b) above, namely the court’s power to prohibit a party from making use of irregularly obtained information for the purposes of ancillary relief proceedings.  I consider that the court has such a power (and the power to make the other orders sought by the husband) which does not depend on the existence of a substantive claim, as submitted by Mr. Turner.  In my view, the court’s power to make these orders is derived from broader principles which, as referred to earlier in this judgment, can now be framed within the rights and obligations created by articles 6 and 8 of the European Convention, but which can also be seen from English authorities pre-dating the Human Rights Act.
+
+I am satisfied that, at the very least, the husband’s article 8 rights are engaged in that the material downloaded from his files was material protected by article 8 and that the taking of this material amounted to a substantial interference with his right to respect for his private life and correspondence.  If Mr. Turner’s submissions were correct Baroness Hale could not have said in McE v. Prison Service of Northern Ireland [2009] 1 AC 908, at [71]:
+
+“It does not follow that because an act of covert surveillance is lawful it can never result in a contravention of the Convention rights.”
+
+Put simply, in my view the court is entitled, and in appropriate circumstances will be required, to control the use of information irregularly obtained for the purposes of proceedings if it is necessary to effect a fair trial and/or to protect one party’s rights under article 8.
+
+I do not therefore consider it necessary for me to decide whether the husband has a specific legal or equitable claim, but if it is, as Tugendhat J. decided in L v. L, in my judgment the husband would have a strong prospect of establishing that the material was wrongly obtained and that he has a consequential claim for delivery up of the material and consequential orders.  He has, of course, already obtained from Eady J. an order against the defendants in the Queen's Bench Division, including the alleged instigator, for delivery up of the material and an order prohibiting further dissemination of the information.
+
+I also do not consider that the decision in White v. Withers, to the effect that the use of material in connection with court proceedings does not constitute a misuse for the purposes of a claim for breach of confidence and privacy, means that I have no power to make the orders sought by the husband.  The court’s power to control the use made of irregularly obtained material can be seen from ITC Ltd. v. Video Exchange Ltd., Ablitt v. Mills & Reeve, Jones v. University of Warwick, Lifely v. Lifely, L v L, and SOCA v. Olden.
+
+Retention and use of irregularly obtained information
+
+Turning to address the issue identified in paragraph 10(a) above, namely whether and, if so, in what circumstances, a party should be permitted to retain and/or make use of irregularly obtained information.  I do not accept Mr. Howard’s submission that there is a clear line such that, as a matter of principle, the wife is not entitled to circumvent the court’s process by being permitted to make any use of confidential information or documents which have been irregularly obtained.  In my view, the court has a discretion which must be exercised by balancing a number of principles or considerations with reference to the particular circumstances of the case, demonstrated in my view by the authorities referred to in the previous paragraph.    I return to this later, but the effect, in my view, is that in this case the husband’s application does not succeed as a matter of principle, and without any reference being made to the content of the irregularly obtained information, but would succeed, if at all, as a result of the outcome of balancing the factors I refer to later in this judgment.
+
+Another authority pre-dating the Human Rights Act, is the decision of the House of Lords in Harman v. The Home Office [1983] 1 AC 280.  This provides another example of the balance long recognised by the courts between “the public interest in securing that justice is done between the parties” and the “private and public interest in the maintenance of confidentiality”: the speech of Lord Keith at p.308C.  The latter can be overridden but only to the extent “strictly required for the purpose of securing that justice is done”.  The elements in this balance are not frozen.  They develop, for example by closer reliance on or reference to articles 6 and 8, but the broad nature of the balance remains recognisable.
+
+In Jones v. Warwick, whilst recognising that it was “not possible to reconcile in a totally satisfactory manner the conflicting public policies”, the Court of Appeal “squared the circle” created by the public interest in the achievement of justice in the particular case and the public interest in the promotion of the observance of the law by those engaged in or about to be engaged in legal proceedings, by permitting the evidence to be adduced.  The latter public interest must apply equally to the actions of third parties on behalf of those engaged in proceedings.  This is part of the public interest in the maintenance and promotion of a fair system of justice.  To adapt what Lord Woolf said in Jones v. Warwick, if the court too readily acquiesces in, let alone encourages, the use of the improper means to obtain evidence this, at best, will do nothing to promote observance of the court’s process and, at worst, would be detrimental to the fair administration of justice.
+
+There are, in my view, a number of principles or factors which have to be taken into account.  They include:
+
+(a)	the interests of the public that in litigation the truth should be revealed, coupled in this case with the statutory duty placed on the court to determine an application for ancillary relief by reference to all the circumstances of the case;
+
+(b)	the interests of the public that the courts should not acquiesce in, let alone encourage, a party (or anyone on their behalf) to use irregular means to obtain information;
+
+(c)	the effect on litigation generally of the conduct of the parties;
+
+(d)	the wife’s right to a fair trial, in particular to have her application determined by reference to the true position;
+
+(e)	the husband’s right to respect for his private life and correspondence and his right not to have them excessively and unfairly invaded through, for example, self-help;
+
+(f)	the husband’s right to a fair trial by ensuring, so far as practicable, that the parties are on an equal footing and that the wife does not gain an unfair advantage through the use of irregularly obtained information.
+
+The weight to be attached to these respective factors will depend upon the circumstances of each case balancing, in particular, each party’s right to a fair trial and the article 8 rights of the party from whom the information has been obtained.
+
+The product of balancing these factors will vary from case to case.  In L v. L the wife was ordered to deliver up the hard drive.  I am aware of many unreported cases in which a party has been permitted to rely on and adduce irregularly obtained information.  Each case will depend on its own facts and will often, if not usually, depend on balancing the public interest in the court having available to it all relevant evidence with the manner in which the information has been irregularly obtained.  The more extreme the nature of the irregularity the greater the likely interference with that party’s article 8 rights and the greater the need to justify such interference as being proportionate and, further, the greater the duty on the court to ensure that that party’s right to a fair trial is not thereby unduly prejudiced and that the proceedings as a whole are fair.  I will return to this latter point shortly.  Conversely, the lesser the nature of the irregularity the less likely the court will consider it necessary or appropriate to be engaged in any preliminary consideration of whether the information obtained in this manner should be used.  And, the greater the default demonstrated or suggested by the improperly obtained material the less likely the court will likewise consider it necessary or appropriate to conduct such a preliminary assessment.
+
+What then of the present case?  As in Jones v Warwick, there is no “perfect reconciliation” of the competing principles engaged in the present case.  Mr. Howard has based his case primarily on the point of principle which, as I have indicated, I reject.  I do not, therefore, have any knowledge of any of the information contained in the seven files beyond the fact that it is financial information.  It is also reasonably clear that much if not all of this material has been read by the wife’s solicitors and part has been read by at least one of her junior counsel.  In the circumstances of this case, and I would suggest usually, if information has been accessed by one of the parties or their legal advisers it is too late to seek to quarantine it.  In such circumstances a court is very unlikely to be able properly to undertake the exercise required by the husband’s application without being provided with details of the information and certainly without giving a party in the position of the wife the opportunity to demonstrate the relevance of the material for the specific purposes of her ancillary relief application.  As referred to earlier in this judgment, the wife would wish to refer to and rely on the nature of the information in opposition to the husband’s application and in support of her brother’s actions.
+
+I do not consider that the retention of the documents by the husband’s solicitors and the assertion that the husband will, through his solicitors, provide disclosure in due course meets this point.  Nor do I consider the behaviour of the wife’s brother, extreme though it was, outweighs this point especially when I take into account the assertions made in the evidence filed by the wife in answer to the application.
+
+I have to determine issues of proportionality when balancing the factors I have referred to and, especially as the information is available to both parties, this cannot, in my view, be undertaken by me in a vacuum – to accede to the husband’s application in this way would, in my judgment, be a disproportionate response.  As Lord Woolf said in Jones v. Warwick, the weight to be attached to the relevant public and private interests will vary according to the circumstances, which include certainly, in my view, when the information is known to both the parties the relevance and nature of that information.
+
+As a general point, this is subject always to compliance with Hildebrand which, in my view, is the means by which the court, as a matter of standard practice, ensures that the proceedings are not rendered unfair by one party seeking to make use of irregularly obtained evidence.  Although I have not heard significant argument on the point, my provisional view is that the Family Proceedings Rule 2.61B(6) is not intended to and does not apply to the disclosure of Hildebrand material.  I have little doubt that parties are under an obligation to disclose irregularly obtained information (including that held in electronic form) if and when requested to do so, even if this takes place during a period covered by that rule and also that such disclosure should not depend merely on one party’s legal advisers being astute enough to make such a request – in other words, it should happen as a matter of course.
+
+Further, parties should respect the fact that the proper route for obtaining another party’s confidential information is by the means permitted by the rules including by one of the orders available to the court and that, if they obtain information irregularly, the court may well impose sanctions on them to reflect and to discourage such conduct.
+
+As the Court of Appeal said in Jones v. Warwick, the court has other steps available, in addition to excluding the irregularly obtained information, to discourage evidence being irregularly obtained.  It is clear that, as a general matter of policy, such conduct must be discouraged.  The step used in Jones was to order the defendant to pay the costs of the litigation to resolve the issue of the admissibility of the evidence.  Such a step is open to me in these proceedings and, indeed, I can see great force in orders for costs being made, subject to the court at the final hearing retaining the specific ability to take such liability into account when determining its award and/or making any further order for costs, if it considers it appropriate to do so, as part of its assessment of the conduct of the parties in respect of the litigation.  At an interlocutory hearing the court is not in a position to undertake such an overarching exercise.
+
+Mr. Turner accepts that this sanction, and indeed other sanctions, are available to the court, but submits that, as a matter of policy, the court should be cautious about creating too many obstacles as this would or might, he submits, assist those who are seeking to avoid their disclosure obligations.  As with other aspects of this application, it is a question of arriving at the right balance in the circumstances of the individual case.
+
+Other remedies or sanctions may also be required to ensure that the trial process is fair to both parties – unlike general civil proceedings the court’s ability to strike out a defence or claim is extremely unlikely to arise.  For example, if one party seeks to make use of irregularly obtained confidential information then, as in other situations when the court monitors the use of evidence which might have an impact on the fairness of the process, the court might well make more extensive orders for inspection and disclosure against that party if considered appropriate in the interests of justice.  This provides a means of fulfilling the overriding objective, in particular by ensuring that the parties are on an equal footing.
+
+Further, in the present case, and notwithstanding the concerns expressed by Wilson LJ in White v Withers, Mr. Turner accepts that any party who commits a civil or criminal wrong when obtaining material irregularly is subject to whatever sanctions flow from such wrongs as a matter of civil or criminal law.  He submits that this is a part of the balancing structure.  A party therefore has to consider carefully what the consequences might be before embarking on the proposed steps and their legal advisers could not, in any event, advise a party to commit a civil or criminal wrong.
+
+In addition, the use of or the obtaining of irregularly obtained information may result in that party being prohibited from continuing to instruct the same lawyers as occurred in Ablitt v Mills & Reeve.
+
+In summary, and before dealing with the issue of privilege, I reject the husband’s case that there is a clear line of principle which justifies the orders he seeks.  There is no principle or formula which will answer every case.  In each case it is a question of balancing the principles and considerations to which I have referred.  I also reject his argument that I should, in my discretion, make the orders he seeks.  I do not consider it right to make such orders without permitting the wife to deploy the information she has available to her in order to seek to justify what has occurred and her proposed use of the information.  I also consider that sufficient time and costs have been expended on this application for me to determine it now, without providing for any further hearing to enable any such evaluative exercise to be undertaken.
+
+Privilege
+
+Turning now to the issue of privilege, I can deal with this shortly.  I am not persuaded by Mr. Turner that his client’s possession of the material in the seven files, having regard to the manner in which it was obtained, entitles the wife or her legal advisers to retain that part of it which is alleged to be privileged for the purposes of looking at and potentially using such material to challenge any such claim.  In this case, the husband is in a stronger position than that of the aggrieved parties in Guinness Peat v. Robinson and Derby v. Weldon (No. 8), when the Court of Appeal stated that the court “should ordinarily intervene” absent, as Butler-Sloss LJ (as she then was) said in the latter case, something exceptional having arisen.  In McE v. Prison Service of Northern Ireland Lord Phillips referred to the considerable degree of protection the law now gives against the “admissibility of evidence subject to legal professional privilege where it has been improperly obtained or even accidentally disclosed” under the CPR and s.78 PACE 1984.
+
+In my judgment, nothing has arisen in the present case which should deny to the husband the return of the documents which he alleges contain privileged material.  My order should seek to restore the position so that the procedural steps, if required, identified by Ramsey J in Atos v. Avis, can be followed.
+
+Accordingly, I propose to order that all copies of the seven files should be delivered up to the husband’s solicitors for them to identify and remove those pages which are said to contain privileged material.  This material must be preserved and held by them pending the determination of the wife’s ancillary relief application as offered by the husband.  Once the claimed privileged material has been removed, the files should be returned to the wife’s solicitors for the reasons    I have given earlier in this judgment.  As for the material alleged to be privileged, if necessary the provisions of r.31.19, paras. (3) to (7) of the Civil Procedure Rules, although not directly applicable to these proceedings, provide the appropriate procedure which should be adopted.  By this means the husband will identify with sufficient particularity those documents which it is alleged contain privileged material.  I also order, subject to any order which might be made during the course of the r.31 process or subsequently in these proceedings, that the wife and her legal advisers are not to make any use of the information contained within or derived from this material, including for the purposes of these proceedings.
+
+I now deal with the husband’s application for orders that the wife and her solicitors must provide details of the manner in which the seven files have been disseminated and/or read and/or used and for orders for the deletion of other documents containing information derived from the files, and for the other orders set out in paras.2 to 7 of the draft order.  In my view, the orders sought are excessive and unnecessary, especially as I have concluded that the wife in this case is entitled to retain that part of the seven files to which no claim of privilege is made, and when I have little knowledge about the information and, in particular, the nature and extent of the information which is alleged to be privileged.  It may be that the husband is entitled to further orders but any such application in my view requires to be determined, if pursued, when the court has a better understanding of the nature and extent of the material in respect of which privilege is claimed.  At present, as I have said, these orders do not seem to me to be justified.  Further,        I consider that the husband knows sufficiently how the documents arrived with Withers and, as a result of the affidavit filed by the wife, to whom the documents have been provided.
+
+Turning to the wife’s application, the wife seeks an order that the other material obtained by the wife’s brother should be retained and securely preserved by the husband’s solicitors pending the determination of the wife’s ancillary relief applications.  It is not easy to discern the grounds on which this application is said to be justified.  Mr. Turner submitted that there would be no prejudice to the husband in my making such an order because it was simply seeking the preservation of information so as to assist with any application the wife might make for the disclosure of this information.
+
+In my view, this submission is the wrong way round.  The wife must justify my making such an order for the proper purposes of her ancillary relief application.      I note in passing that the wife’s solicitors wrote on the 16th September 2009 to the effect that the wife was not in a position to provide evidence by reference either to the documents themselves or to the husband’s conduct that would justify preservation orders.
+
+I am not persuaded that I should make any such order.  I am not satisfied there is any ground for my requiring the husband to keep this material securely preserved, as sought by the wife.
+
+Turning to the question of the forms E, in my view the time has now come when the parties must exchange their respective forms E.  The First Appointment is fixed for the 26th February 2010.  I gave the husband notice in July that at this hearing he was likely to be ordered to exchange his form E expeditiously.  I propose to order that forms E be exchanged by 4 p.m. on Wednesday, the 22nd January 2010.
+
+I will consider what order to make in respect of costs and any other consequential matters after giving counsel the opportunity to make further submissions.

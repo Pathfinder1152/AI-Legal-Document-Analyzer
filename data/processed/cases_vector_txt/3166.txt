@@ -1,0 +1,1937 @@
+Neutral Citation Number: [2024] EWHC 3166 (Ch)  
+ 
+IN THE HIGH COURT OF JUSTICE                                        Petition No: CR -2023 -000385  
+BUSINESS AND PROPERTY COURTS OF ENGLAND & WALES  
+INSOLVENCY AND COMPANIES LIST  
+ 
+IN THE MATTER OF BOX PROCESSING LIMITED  
+AND IN THE MATTER OF THE COMPANIES ACT 2006  
+Royal Courts of Justice  
+Rolls Building, Fetter Lane, London  
+ 
+Date:  19/12/24                   
+ 
+Before :  I.C.C. JUDGE JONES (Sitting in Retirement)  
+ 
+Between :  
+ 
+VLADIMIR YANPOLSKY  
+                                                                                                               Petitioner  
+ -and-  
+(1) ROBERT MACMILLAN  
+(2) COLIN DOW  
+(3) BOX EBT LIMITED  
+(4) BOX PROCESSING LIMITED  
+(5) FETCHAM SERVICES LIMITED  
+                                                                                                                           Respondents  
+- - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - 
+ 
+Mr Andrew McGuinness (EA Law Solicitors ) for the  Petitioner  
+Mr Marc Beaumont (Beaumont Legal Services Limited ) for the Respondents  
+ 
+Hearing dates: 14-15 and 18 -20 November 2024       
+- - - - - - - - - - - - - - - - - - - - - 
+Approved Judgment  
+  
+This judgment was handed down remotely at 10.30am on 19 December 2024 by 
+circulation to the parties or their representatives by e -mail and by release to the 
+National Archives.  
+ 
+.............................  
+ 
+This judgment is handed down remotely by circulation to the parties' representatives by 
+email and release to The National Archives.    
+ 
+The date and time for hand -down is deemed to be 10:00am on Thursday 19 December 
+2023
+
+Approved Judgment  Double -click to enter the short title  
+ 
+2 
+ I.C.C. Judge Jones (Sitting in Retirement)  
+ 
+A) Introduction  
+1. The conviction of Mr Yanpolsky on 16 December  2019 and his resulting imprisonment 
+from 24 January 2020 altered the whole dynamic of his relationship with his f ellow  
+shareholders, the only active Respondents (“Mr Macmillan” and “Mr Dow” ), and with 
+Box Processing Limited (“the Company”).  He resigned as a director, had his 
+employment  contract terminated by letter dated 9 February 2020 with effect from the 
+date of his conviction and 8,611 of his ordinary shares (“the 8,61 1 Shares”) were 
+converted to deferred shares of nominal value  as recorded within filings at Companies 
+House on 20 March 2020 .  
+2. On 24 February 2022, a lmost a year a fter his release on 21 May 202 1, the Company’s 
+Articles of Association (“the Original Articles”) were amended (“the Amended 
+Articles”)  by the majority , Mr MacMillan and Mr Dow . Applying the amendments, his 
+remaining 1,389 ordinary shares  (“the 1,389 Shares”)  were similarly  converted and lost 
+all their value.  This led ultimately to the transfer of his shares and to Mr MacMillan and 
+Mr Dow being able to sell the business in December 2022 through a hive up process 
+for their sole benefit.   
+3.  Mr Yanpolsky’s  section 994 Companies Act 2006  (“section 994 ”) petition (“the 
+Petition”)  in essence asserts  that unfair prejudice was sustained by him as a shareholder 
+of the Company  because his shares were expropriated, and he received nothing from 
+the subsequent sale of the Company’s business which ultimately produced a 
+consideration of  around  £2.8 million for Mr MacMillan and Mr Dow. This , he contends , 
+was despite the value of the business being principally attributable to the product  (“the 
+Product”), a software platform for the banking industry, he designed  applying his 
+knowledge, expertise  and experience .  
+4. That is  a basic description of the cause of action  but it has not been easy to identify  the 
+precise grounds of unfair prejudice relied upon  despite a list of issues having been 
+produced as directed during case management  anticipating potential problems . The 
+need for precision  can be identified from the speech of Lord Hoffmann in O’Neil v 
+Phillips [1999] 1 W.L.R. 1092. He emphasised that whilst the Court’s s.994  jurisdiction 
+and section 996 Companies Act 2006’s (“section 996 ”) discretion to grant relief are 
+broad , legal certainty is important . The  discretion does not involve “palm tree”  justice, 
+“an indefinite notion of fairness” . It requires the application  of equitable principles. 
+That means a petition must plead a cause of action with grounds that fully and properly 
+set out the facts and matters relied upon to establish the principles relied upon. That is 
+only fair to respon dents.  
+5. Faced with a lack of clarity  and/or precision within the pleaded case, Mr Beaumont, 
+counsel for Mr MacMillan and Mr Dow, also drew attention to the principle addressed 
+in Jacobs v Chalcot Crescent  [2024] EWHC 259 (Ch) by Fancourt J with reference to 
+the judgment of Dyson LJ (as he then was) in Al-Medenni v Mars UK Limited  [2005] 
+EWCA Civ 1041 . Mr Justice Fancourt emphasised that adversarial litigation is fought 
+based on  the case as pleaded and he said this:
+
+Approved Judgment  Double -click to enter the short title  
+ 
+3 
+ “It is fundamental to our adversarial system of justice that the parties should 
+clearly identify the issues that arise in the litigation, so that each has the 
+opportunity of responding to the points made by the other. The function of the 
+judges [is] to adjudicate on those issues alone. The parties may have their own 
+reasons for limiting the issues or presenting them in a certain way. The judge 
+can invite, and even encourage, the parties to recast or modify the issues. But if 
+they refuse to do so, the judge m ust respect that decision ...   
+where an issue has clearly not been pleaded and was not relied on at the start 
+of the trial, I consider that the onus lies as much on counsel for the party seeking 
+to rely on it as on their opponent to raise the matter with the judge and seek 
+permission to amend ” (noting that t he learned judge also set out the principles 
+and guidelines which raise a high hurdle for such an application to succeed at 
+trial).  
+6. This led to debate throughout the first day of the trial concerning the ambit of the 
+Petition and to my requesting a written summary of the key matters relied upon by Mr 
+Yanpolsky, as pleaded, concerning the existence of an agreement, binding 
+representatio n or understanding (“the Hidden Shareholder Agreement”) he relied upon. 
+This was produced at the hearing for Mr Beaumont’s consideration overnight. At the 
+beginning of the second day, I was told that a document produced overnight by 
+McGuinness, counsel for  Mr Yanpolsky, was acceptable as a list of references by Mr 
+Beaumont so that there would be no further argument, and the evidence could be called. 
+At the same time, I also asked counsel to consider during the trial and in submissions 
+to address (to the ext ent there was disagreement or necessary comment required) a list 
+of key grounds I had produced that morning for discussion (unaware of Mr Beaumont’s 
+acceptance) to try to ensure everyone was “on the same page”. There were no such 
+submissions. Fortunately, therefore, consensus has been achieved based on the contents 
+of both documents.   
+7. As a result, s ubject  to drafting alterations appropriate for the judgment  (in particular 
+unbundling the original ground one to make two grounds  to reflect the issues more 
+accurately ), the following  are accepted by the parties as the key grounds relied upon by 
+Mr Yanpolsky in the context of the following background:  
+Back ground: The existence of an agreement , binding representation or 
+understanding (“the Hidden Shareholder Agreement”) at the time of his 
+imprisonment whereby his contractual employment would be terminated and the 
+8,611  Shares would be converted to non -voting, deferred shares (by agreement 
+not under the Articles) to hide from third parties his continuing involvement 
+with the Company. In return he would continue to work for the Company for no 
+consideration and the 8,611 Shares would  be converted back into ordinary 
+shares upon his release from prison.  
+Ground 1:  As a result  of the Hidden Shareholder Agreement,  “he retains and 
+retained full equity” in the 8,611 and the 1,389 Sh ares and the ir deferment and/or 
+expropriation was unfair and prejudicia l to his interests as a member and 
+shareholder .
+
+Approved Judgment  Double -click to enter the short title  
+ 
+4 
+ Ground 2: Adoption of the Amended Article s was unfair and prejudicial  to his 
+interests as a member and shareholder  and was a breach of the Hidden 
+Shareholder Agreement.  
+Ground 3 : The subsequent , purported passing on 7 March 2022 of a special 
+resolution to convert his 1,389 ordinary shares to deferred shares was invalid. 
+The required 75% majority was not achieved when Mr Yanpolsky retained his 
+equity in the 8,611 ordinary shares pursuant to the Hi dden Shareholder 
+Agreement together with his 1,389 ordinary shares. As a result,  but even if 
+legally valid,  the voting for and implementation of the resolution was unfair and 
+prejudicial  to his interests as a member and shareholder . 
+Ground 4: The transfer of the Company’s business ( assets and liabilities) to 
+“newco” and the later sale of “newco’s shares” owned solely by Mr Macmillan 
+and Mr Dow  was unfairly prejudicial to his interests as a member and 
+shareholder.  
+8. The outcome of those key grounds will be applied to decide :  first, whether Mr 
+Yanpolsky has satisfied the requirements of section 994 to establish the Court’s 
+discretionary remediable jurisdiction under section 996 of the Companies Act 2006 
+(section 996 ) If so, second, what, if any relief should be granted.    
+9. However, before turning to the Defence, bearing in mind the many issues that arose 
+between the parties as to whether Mr Yanpolsky’s case as presented at trial differed 
+from the case in the Petition, it is necessary to dwell further upon the ambit of the 
+Petition. The following paragraphs set out matters relating to Ground 1 that are derived 
+from the references within the document produced by Mr McGuinness during opening 
+which formed part of the above -mentioned consensus  avoiding further submissions.  
+ 
+B) Further Particulars  
+10. A starting point is that Mr Yanpolsky acknowledges his conviction “of one count of 
+Computer Misuse” concerning the data of Global Processing Services Limited (“GPS”), 
+for which  he served the required part of his three -year sentence between 24 January 
+2020 and 21 May 2021. At the beginning of his imprisonment, he received an email 
+sent 24 January 2020 and a letter dated 9 February 2020 from Mr MacMillan which he 
+(in summary) construed as a request for his continuing involvement with the Company 
+to be hidden from those who might deal with the Company. That would be achieved, 
+first, by him no longer being an employee and , second , by the conversion of some of 
+his shares to deferred status so that he would no longer have to be registered at 
+Companies House as a “person with significant control”.  
+11. By his Part 18 Response in respect of the Petition, under the paragraph 9 and 11 requests 
+concerning Ground 1, it is asserted (in particular) that: 
+a) “the case of the Petitioner could be argued with reference to promissory 
+estoppel, proprietary estoppel (which applies to all forms of assets), estoppel by 
+conduct and the detrimental reliance of the Petitioner undertaking substantial 
+work … at the explicit  request of the First Respondent without remuneration. ”
+
+Approved Judgment  Double -click to enter the short title  
+ 
+5 
+ b) “On the point of detrimental reliance the Petitioner avers that he continued to 
+be an employee of the Company by his performance of substantial work while 
+in prison. The Petitioner refers to Article 2(c) of the Articles of Association 
+dated 2 July 2019 whic h define an employee as ‘an individual who is employed 
+by or who provides consultancy services to, the Company or any member of the 
+group’. Although the directorship of the Petitioner was terminated, the 
+Petitioner continued to provide consultancy service s. It is therefore mistaken for 
+the Respondents to argue that the employment of the Petitioner was coterminous 
+with his directorship. ” 
+c) “As to an implicit term not to cause unfair prejudice to the Petitioner, this arises 
+by law namely section 994 of the Companies Act 2006. For the avoidance of 
+doubt, it was an explicit term of the spoken variation that the shares of the 
+Petitioner would be returned to him as ordinary shares or treated as ordinary 
+shares as between the Petitioner and First Respondent, upon the discharge of 
+his criminal sentence and release from prison. ” 
+ 
+12. The following can be found within the document produced by Mr McGuinness at the 
+end of the first day:  
+“HIDDEN SHAREHOLDERS AGREEMENT ... PLEADINGS ABOUT AND 
+REFERENCES TO THIS AGREEMENT  
+BUNDLE 82 -84: P Amended Petition dated 27 June 2023, paragraphs 5 to 11 
+inclusive [which includes: “Mr Yanpolsky relies upon the events and 
+communications of January 2020 and February 2020 as proof of an agreement 
+between himself and Mr Macmillan that (1) it was necessary or useful to 
+minimize the presence of Mr Yanpolsky on the public record of the Company; 
+(2) at the same time, Mr Yanpolsky and Mr Macmillan treated the exercise as 
+pure presentation and that, in reality, there was no change in the relative  
+positions of Mr Yanpolsky and Mr Macmillan … the basis of deferment was 
+agreement between the Petitioner and First Respondent and not pursuant to the 
+Articles of Association dated 2 July 2019. There is no reference to the Articles 
+in the communication of January 2020 and February 2020. The First 
+Respondent refers to the Articles for the first time in his email dated 9 July 2021 
+(see paragraph 12 below). The point of deferment was purely to remove the 
+voting rights of the Petitioner so that, as a matter of public record, he ceased to 
+be a Person with Significant Control of the Company … he retained and retains 
+full equity in 8,611 shares as ordinary shares. This is a point of economic value. 
+The Petitioner did not abandon his equity in the Company.”]  
+BUNDLE 126 -131: P CPR 18 Response paragraphs Requests and Responses 
+1-11 inclusive [which include (amongst other matters): “work was done without 
+remuneration and on the agreement and understanding (pleaded at paragraphs 
+8, 8.1 and 8.2 above) that the Peti tioner retained his full equity in the Company 
+… The [Hidden Shareholder Agreement] was in part written and in part spoken 
+(oral), being an informal (unwritten) variation of a written document namely 
+the Box Founders Agreement Notes dated 15 May 2019… As v aried, it was 
+explicitly agreed that the shares of the Petitioner would revert to ordinary
+
+Approved Judgment  Double -click to enter the short title  
+ 
+6 
+ shares, or be treated as ordinary shares whether or not on the record, as 
+between the Petitioner and First Respondent upon the discharge of the criminal 
+sentence of the Petitioner and his release from prison …”  
+BUNDLE 32 List of Issues at  paragraph 7: “Was the purported termination of 
+Mr Yanpolsky's employment with BPL [the Company] in February 2020 
+effective?”  
+BUNDLE 24 Agreed Statement of Facts at paragraph 10 [which includes the 
+following ]: “[Mr Yanpolsky was] working full -time from the day of conviction 
+(16 December 2019) until the day of sentencing (January 21, 2020) and then 
+from the prison. The Petitioner was for the period of imprisonment an 
+“Employee” as defined by the Articles dated 2 July 2019.”  
+ 
+C) The Defence  
+13. Mr Macmillan and Mr Dow do not dispute that Mr Yanpolsky received nothing for his 
+shares but they deny the expropriation was wrong and that any unfairness occurred.  
+14. The background pleaded i n the Amended Defence (not settled by Mr Beaumont)  asserts 
+that Mr Yanpolsky’s conviction was contrary to assertions of innocence made by him 
+to Mr Macmillan from March 2017 when he first disclosed that he was being accused 
+of having caused GPS a systems outage by hacking. Those assertions were maintained 
+when the Company’s shares were issued and allotted in the circumstance of innocence 
+or guilt being “an important issue for the First Respondent because the Company would 
+be supplyin g software solutions and services to regulated financial services businesses 
+and it would be a matter of concern to any potential customer of, or investor in, the 
+Company if a person who was a shareholder and director in the Company and 
+undertook software development and engineering was also a convicted hacker” . 
+15. It is also pleaded that Mr Yanpolsky maintained his innocence after his conviction and 
+resigned as a director , apparently , to concentrate upon his appeal. His employment was 
+terminated by a letter dated 9 February 2020 . This  activated Article 15 of the Original 
+Articles . It provide d for the automatic deferment of 8,661 of Mr Yanpolsky’s 10,000 
+ordinary shares in accordance with a prescribed formula. Article 7 of the Original 
+Articles provided for the compulsory transfer of deferred shares for nominal payment. 
+Mr Yanpolsky signed the stock transfer form effecting the c onversion and notice was 
+given to Companies House in March 2020.  
+16. It is pleaded that Mr Macmillan and Mr Dow accepted Mr Yanpolsky’s continued 
+assertions of innocence, lent him funds for advice on appeal, and “sought permission 
+from HM Prison Service to provide [him] with a limited consultancy role ” following 
+his release via a new company  formed for that purpose . That permission was refused.  
+17. The Hidden Shareholder Agreement is denied, as is any suggestion that there was any 
+change of position at a meeting following Mr Yanpolsky’s release  on 22 May 2021 or 
+in an email Mr Macmillan sent on 9 July 2021. As a fallback position, it is asserted that 
+the Hidden Shareholder Agreement would not have superseded Article 15 and, 
+therefore, would have been ineffective  in any event .
+
+Approved Judgment  Double -click to enter the short title  
+ 
+7 
+ 18. The Defence then plead s that t he Company’s business developed and led to discussions 
+from January 2021 with GPS to supply software solutions for their customers. GPS 
+made plain , however, that it rejected any suggestion of Mr Yanpolsky’s innocence and 
+by January 2022 stated that “it would not continue to work with the Company if the 
+Petitioner was involved with it in any way” . As a result, Mr Dow, “who was the only 
+investor in the Company at the time and whose continued involvement in the Company 
+was crucial  to its viability, was not prepared to continue making investments into the 
+Company if GPS was not going to work with it.”  This led him and Mr Macmillan to 
+make what they described as “fair and reasonable ” offers to buy out Mr Yanpolsky 
+based upon valuations by the Company’s auditors. They received no response . 
+19. This position caused them to vote for the Amended Articles and for a special resolution 
+on 7 March 2022 to convert the 1,389 ordinary shares to deferred shares  as the amended 
+Article 15 permitted . By resolution passed on 30 March 2022, Mr Macmillan was 
+authorised to execute a transfer form for the 1,389 shares. A stock transfer form 
+transferring them to Box EBT Limited (“Box EBT”) was completed and registered  for 
+1,389  shares . It is accepted, albeit because of error, that until 7 November 2022 Mr  
+Yanpolsky remained the holder of 8,611 deferred shares , although the Company’s share 
+register showed otherwise.  That day the 10,000 deferred shares were purchased by the  
+Company and cancelled.  
+20. Cutting through contradictions in the Amended Defence, in particular contrasting 
+paragraph s 17 and 50B.2, but still (as will appear below) not entirely accurately, it is 
+pleaded that on 7 November 2022 Mr Macmillan and Mr Dow transferred the 
+Company ’s issued share capital (being the ordinary shares ) to Bookham Services 
+Limited (“Bookham”) . They were the only Bookham shareholders (Mr Macmillan 
+10,000 and Mr Dow 4,001). On 14 November Bookham acquired the Company’s assets 
+and liabilities for no consideration as an intra -group transfer. Bookham’s shares were 
+transferred to Fetcham Services Limited (“Fetcham”).   
+21. The concluding defences are that there was no unfair prejudice in the following 
+circumstances : (i) Mr Yanpolsky had resigned as a director  and Mr Macmillan , now the 
+sole director, with the consent of Mr Dow decided to terminate his employment ; (ii) It 
+was not their actions but the automatic effect of Article 15 of the Original Articles that 
+resulted in the deferment of the 8,61 1 Shares ; (iii) The subsequent conversion of the 
+remaining 1,389 of the Petitioner’s ordinary shares resulted from the automatic eff ect 
+of the Amended Articles; (iv) The amendment was justified following the Petitioner’s 
+rejection of a fair offer of compensation, and in any event by the jeopardy under which 
+Mr Yanpolsky’s continued association with the Company placed the financially 
+troubled business, particularly in terms of its relationship with GPS ; (v) As an 
+alternative,  any unfair prejudice that arose caused no loss because Mr Yanpolsky’s 
+shares had no value.  
+ 
+D) The Reply  
+22. In the Reply, support of Grounds 2 -4, Mr Yanpolsky relies upon the following:  
+a) “Mr Macmillan referred to and relied upon new Articles of Association dated 
+24 February 2022 which contained the new concept of a 'Bad Leaver' (there
+
+Approved Judgment  Double -click to enter the short title  
+ 
+8 
+ being no such provision in the Articles of Association dated 2 July 2019) … the 
+new Articles dated 24 February 2022 are not valid because of the [Hidden 
+Shareholders Agreement] … the adoption of the new Articles dated 24 February 
+2022 was unfairly prejudic ial to the Petitioner. ” 
+b) “On 7 March 2022, by Special Resolution signed by Mr Macmillan and Mr Dow, 
+the remaining 1,389 ordinary shares of Mr Yanpolsky were converted into 1389 
+deferred shares. In the result, all of the 10,000 shares of Mr Yanpolsky had 
+become deferred shares. The Petitioner refers to section 283(2) of the 
+Companies Act 2006 which requires a Special Resolution to be supported by not 
+less than 75% of the votes. On the basis that the Petitioner retained his equity 
+in the 8,611 shares deferred by agreement and in his 1,389 ordinary shares, 
+there was no effective exercise of the legal majority of the First and Second 
+Respondents. ”  
+c) “Whether or not the Articles dated 24 February 2022 are effective, the decision 
+of the First and Second Respondents to defer the remaining 1,389 ordinary 
+shares of the Petitioner was explicitly unfair and prejudicial to the Petitioner. 
+The Petitioner should  be treated by the Court as retaining full legal and 
+equitable rights in the 1,389 shares as ordinary shares. ” 
+d) “In the premises, in relation to the Special Resolution of 7 March 2022 to defer 
+the remaining 1,389 ordinary shares of the Petitioner, the Petitioner advances 
+two distinct propositions: (1) the Petitioner retained full equity in his 10,000 
+shares which mea nt that there was no statutory majority able to support a 
+Special Resolution; (2) if legally valid, the Special Resolution was explicitly 
+unfair and prejudicial to the Petitioner .” 
+ 
+E) The “Skeleton Argument Application”  
+23. In addition to  the above -mentioned debate concerning the true nature and extent of the 
+allegations in the Petition , there  was also an informal application made by Mr 
+Beaumont for Mr Macmillan and Mr Dow to determine that the Petition made no 
+assertion of bad faith against them when addressing the ir adoption of the New Articles. 
+This arose because of the reference in Mr McGuinness’s skeleton argument to the case 
+of In Re Charterhouse Capital Ltd  [2015] EWCA Civ 536, [2015] B.C.C. 574  which 
+Mr Beaumont submitted raised the issue of bad faith for the first time  and far too late 
+for the purpose of any successful amendment application . In an o ral judgment given at 
+the time , I decided that it was not open to Mr Yanpolsk y to allege that the decision to 
+amend was made in bad faith, not being in the interests of the Company.  This is a matter 
+which will need to be considered further within the decision below  because, as referred 
+to by Mr Beaumont, when setting out relevant principles within his judgment, the then 
+Chancellor, Sir Terrence Etherton, stated that: “A power to amend [articles of 
+association] will be validly exercised if it is exercised in  good faith in the interests of 
+the company ”.
+
+Approved Judgment  Double -click to enter the short title  
+ 
+9 
+ F) The Witnesses – Assessment of Reliability  
+24. Mr Beaumont has asked me to bear in mind when considering the oral evidence the 
+authorities addressing the issue of reliability of memory in particular the concept of 
+“false memory”. I have done so  but should add in the light of the submissions that this 
+does not require a judge to make findings of fact/causation . Whilst the potential for 
+inaccurate memory (because of the manner in which memory works , although not 
+necessarily, as evidenced by photographic memor ies) is to be borne in mind , normally 
+it will be not only inappropriate to make such findings but impossible for a judge ab sent 
+expert evidence to ascribe the cause of any conclusion of unreliability in that way. The 
+potential for false memory is usually a factor to be taken into consideration rather than 
+a medical assessment requiring a finding of fact.  
+25. A starting point for the decision is my assessment of the witnesses and their recollection 
+based upon  the way they gave evidence. Whilst this assessment is important, it has its 
+limitations. There is the potential effect of  the context of a court room and cross -
+examination  of witnesses . Even the most genuine and honest person may have difficulty 
+recollecting events a few years ago . For all witnesses the court must be concerned by 
+the current understanding of false memory . There is also the feature, as a general 
+observation , that it may be easier for the rogue, the accomplished liar, to appear genuine 
+than for the innocent person under pressure.  Those caveats, and there are other well -
+known ones which need not be expressly set out, mean that the assessment must  be 
+subject to consideration of the documents and the oral evidence , as a whole . However, 
+assessment is still an important starting point .  
+26. Mr Yanpolsky  gave his evidence first. Hi s life has been turned upside down because  of 
+his conviction, imprisonment and loss of office, employment and shares in the 
+Company. Whether this flowed from the offence the jury was satisfied beyond 
+reasonable doubt he committed or whether, as he continues to assert, it flows from a 
+miscarriage o f justice, his evidence must be viewed from the perspective that his 
+criminal record means he is to be considered a person of “bad character”. That means 
+that his propensity for crimes of a similar nature, for miscon duct and for being 
+untruthful is to be borne in mind when assessing his credibility. It does not in itself 
+mean, however, that his evidence in this case or in any other circumstances will 
+necessarily have been unreliable.  
+27. Mr Yanpolsky gave his evidence with clarity and on occasions with fervour. I was 
+satisfied that he believes himself to have been unfairly dealt with by Mr Macmillan and 
+Mr Dow. From his perspective, they have walked away with the value of the Company 
+even though  he was the architect of the Product  upon which the business traded ; its 
+principal asset . Although this will need to be tested by reference to all the relevant 
+evidence, including  contemporaneous documentation, there is a danger that his 
+recollection  and/or understanding of events has been adversely affected by the mixture 
+of turmoil and belief described. In all the circumstances and in particular the matters 
+above (including bad character and false memory), h is oral evidence must be assessed 
+with great care  and approached with caution .   
+28. Mrs Yanpolsk y was not an easy witness to understand. English is not her first language, 
+and her answers tended to  become , as Mr Beaumont observed, lengthy soliloqu ies. Mr 
+Beaumont was extremely critical of the fact that her witness statement was typed by Mr 
+Yanpolsky  and suggested this should cause it to be rejected . Bearing in mind how little
+
+Approved Judgment  Double -click to enter the short title  
+ 
+10 
+ is said by her in that document, that may be thought a surprising critique. In any event 
+her evidence in cross -examination expanded her recollections and made clear that the 
+statement should not be critiqued as submitted. Indeed, I found her to be a witness who 
+genuinely wanted  to give her evidence to the best of her ability  and truthfully . 
+Nevertheless , and whilst recognising that she is a person of “good character”, h er 
+evidence must be treated with considerable care since she too has been caught up in and 
+adversely affected by the maelstrom of events that have resulted from the criminal 
+proce ss. Account must also be taken of the fact that her evidence of principal relevance 
+was limited in the earlier witness statement  (i.e. paragraphs 7 and 8) .  
+29. Mr Macmillan is a man of “good character” and for that reason I will spend longer 
+explaining the reasons for my assessment that his evidence must be considered with 
+caution. He did not come across well at the beginning of his examination. That 
+observation is subject to the recognition that this can be the result of pressure and 
+nervousness, and I have borne that in mind. As an example, his explanation for wording 
+used in a n email sent to Mrs Yanpolsky  on 27 January 2020 (to be mentioned later) was 
+not terri bly expansive or satisfactory . Later, I was also concerned by his approach to 
+the work Mr Yanpolsky  carried out for the Company whilst in prison . The Amended 
+Defence describes that work as “alleged” and certainly seeks to undermine the claim 
+that Mr Yanpolsky did anything substantial. Yet t his can be contrasted with his own 
+contemporaneous emails sent to Mr Yanpolsky at the priso n. Their content makes  the 
+failure of his  witness statement to acknowledge the work carried out concerning .  
+30. I also found Mr Ma cmillan’s cross -examination evidence concerning why Mr 
+Yanpolsky  was working for the Company when in prison and what he was doing for 
+the Company generally unsatisfactory. He came across as wanting to avoid any 
+evidence that might give credit to Mr Yanpolsky  for what he did for the Company 
+despite it being plain he had continued to provide work of value for the Company 
+having received specific requests for that work from Mr Macmillan. Whether that was 
+because he wanted to ensure his case w as preferred or to avoid criticism that Mr 
+Yanpolsky  contributed without any resulting commercial reward or for some other 
+reason, it is of concern when assessing the reliability of his evidence.  
+31. As another example, Mr Macmillan at first tried to contend that the sale of the 
+Company’s business was to save the Company even though  the plan implemented left 
+it as an empty shell  with himself and Mr Dow in effect receiving the value of its realised 
+assets . However, upon appreciating the optics of that contention, he was able to explain 
+that the case must be viewed from different time sequences. First, the financial needs 
+of the Company once Mr Yanpolsky ’s conviction and sentence ha d been delivered. At 
+that stage the Company had a developing product but needed customers. This required 
+the removal of Mr Yanpolsky  as a significant shareho lder because of the inherent 
+damage his conviction caused the Company  when trying to contract . That was around 
+February 2020 , and he explained that by January/February 2022, the Company only had 
+one customer .  
+32. That was the second stage, when the Company was haemorrhaging  funds and  needed 
+continuing lending from Mr Dow. He was unwilling to lend more. GPS was a potential, 
+significant customer/partner but would only enter into/continue in business /partnership  
+with the Company if Mr Yanpolsky  was removed  completely as a shareholder . That , he 
+said, caused himself and Mr Dow to offer to purchase Mr Yanpolsky ’s remaining shares 
+based upon expert valuation from the Company’s accountants. His failure to respond
+
+Approved Judgment  Double -click to enter the short title  
+ 
+11 
+ caused them to adopt the New Articles and achieve automatic conver sion of his shares 
+to deferred shares  of nominal value .  He stated that he and Mr Dow were not trying to 
+sell the Company at that stage, March 2022.  Sale was not a reason for the New Articles 
+and consequential deferment. It was not until the summer that discussions began with 
+Paymentology and its parent, SaltPay , which resulted in the sale of the Company’s 
+business to Bookham, and then to SaltPay.   
+33. This explanation of different, earlier and later circumstances and his attribution of the 
+Company’s financial position and the need for customers as the cause of the Amended 
+Articles with the resulting automatic deferment of the 1, 389 Sh ares sounded far more 
+reasonable. However, as will be seen, it will need to be tested against contemporaneous 
+documentation . For example, t he contents of emails between  himself and Mr Dow 
+might not marry with his oral evidence that the conviction was a serious impediment to 
+Mr Yanpolsky ’s continuing involvement with the Company . There is also 
+contemporaneous documentation between himself and Paymentology and the evidence 
+of Mr Brewer (see below) which may cast doubt over whether the sale of the 
+Company/its business was being considered at the time the Amended Articl es were 
+adopted.  In addition, there is potential cause for considering whether his statement that 
+he told Mr Yanpolsky  in September 2021 that he could not return to work until his 
+conviction was successfully appealed is contradicted by an email the next month.  
+34. For the avoidance of doubt, I make clear that I am not reaching any views on such 
+matters at this stage. They are matters to be addressed  further when reaching the factual 
+findings below . However, there is sufficient cause for me to approach his evidence with 
+caution and to ensure it is considered within the context of the evidence as a whole  even 
+though he is a person of “good character”.  I emphasise , however,  that this approach 
+concerns the issue of reliability and that I still approach his  evidence from the 
+perspective that he is a person of good character.   
+35. I found Mr Dow to be a straightforward  witness and saw no reason to doubt his oral 
+evidence, subject to , as with all witnesses, the  need to test it against all the relevant 
+evidence (in particular , against contemporaneous documentation) . 
+36. There are three witnesses who were not required to attend cross -examination with the 
+result that the ir evidence is unchallenged: Mr France; Mr Brewer; and Ms Wakefield.  
+37. Mr Isaacs , the sole appointed expert, attended court to answer questions of clarification. 
+Neither side objected to the questions asked by the other. Mr Isaacs  was a very 
+impressive expert witness of share valuation. It was plain  he had reminded himself of 
+his report, instructions and relevant background papers. His answers were precise and  
+clear . His knowledge and experience were very evident.  Realistically, neither counsel 
+could challenge his evidence in their closing submissions.  
+ 
+G) Closing Submissions  
+38. I will here only summarise the submissions to provide a flavour of what was argued. 
+To the extent necessary, I will deal more fully with the submissions in my decision 
+below. There are submissions that I need not address  within that decision, principally 
+(but not always) because the findings of fact mean they fall away . However, for those
+
+Approved Judgment  Double -click to enter the short title  
+ 
+12 
+ that did not, I emphasise t hat absence of specific mention does not mean I have not 
+considered them but that I have either rejected them , concluding they need not be 
+mentioned or decided they do not take the matters in issue further.  
+39. Mr McGuinness submitted that the applicable law was trite and did not address it further 
+than he had presented it in his skeleton argument. He submitted with detailed reference 
+to the evidence that the Hidden Shareholder Agreement was established (either as to 
+contractual agreement or to the existence of clear and unequivocal representations or 
+understanding relied upon by Mr Yanpolsky . This includ ed correspondence mentioning 
+words (in their context) such as “just so” , “only” and “time being” to be referred  to in 
+the decision) to his detriment including the continuation of his work for the Company 
+at Wandsworth and Ford priso ns. 
+40. Whilst dealing in depth with the evidence concerning that work, Mr McGuinness 
+submitted that Mr Yanpolsky’s employment (whether as employee or consultant) had 
+continued during his imprisonment. He also pointed out  that the later the date of 
+termination, the less the number of shares to be deferred under Article 15 of the Original 
+Articles. This he also relied upon for detriment  but accepted it was not pleaded . 
+41. Mr McGuinness submitted that the existence of the Hidden Shareholder Agreement 
+must necessarily  mean that the deferment of the 8,611 Shares was an unjust and 
+prejudicial action and result. It also meant, he submitted, that the resolution to adopt the 
+Amended Articles was passed in breach of the Hidden Shareholder Agreement and  
+despite Mr Yanpolsky being entitled to be tr eated in equity as a holder of 8,611 
+ordinary, voting shares. He submitted that articles should not be changed 
+retrospectively to defeat th e original constitutional documents, the Original Articles and 
+Shareholders’ Agreement , including clause 6.1 of the latter document . Mr Macmill an 
+and Mr Dow could not rely upon the offers to purchase, made without reference  to their 
+dealings with Paymentology /SaltPay  which would ultimately lead to the sale so 
+profitable for them, to relieve them of the consequence that their subsequent actions 
+were unjust and prejudicial.  
+42. Further or alternatively , he submitted, the deferment of the 1,389 Shares met the same 
+criteria because it arose from the decision of Mr Macmillan and Mr Dow, as majority 
+shareholders, to ultimately ensure that they were the only members of the Company and 
+the only people who would benefit from the sale of the Company’s business.  Both 
+deferments combined with the subsequent compulsory transfer s were acts of unfair 
+prejudice, the second deferment flowing from the wrongful resolution to adopt the 
+Amended Articles.  
+43. Mr Beaumont presented some 20 points to justify the conclusions that the evidence of 
+Mr Yanpolsky could not be relied upon and in any event did not establish the Hidden 
+Shareholder Agreement whether viewed in terms of a contractual agreement, 
+representations or understanding  (whatever they may be). The claim in respect of the 
+8,611 Shares must fail on the evidence. The deferment was a direct result of the criminal 
+conviction, imprisonment, resignation as a director, lawful termination of employment  
+and the automatic application of Article 15 of the Original Articles . He submitted that 
+the Petition’s allegations of unfair prejudice were c ontrived  claim s. Mr Yanpolsky had 
+accepted the Articles when becoming a shareholder  including the ability by special 
+resolution to amend them. T here was nothing in the Shareholders’ Agreement to
+
+Approved Judgment  Double -click to enter the short title  
+ 
+13 
+ supersede Article 15, whether in the Original or Amended Articles, and Mr Yanpolsky 
+was bound by the result  of the application of the Company’s rules .  
+44. During his submissions Mr Beaumont helpfully referred to several  authorities 
+concerning the standard of proof and reliability of evidence. They are well known and 
+need not be mentioned specifically here but have been taken into consideration and 
+applied . 
+45. Mr Beaumont submitted that t he case concerning the 1,389 Shares must fail because it 
+expressly or inherently relied upon bad faith  contrary to the interests of the Company . 
+That was excluded by the judgment on day one .  Mr Macmillan and Mr Dow are to be 
+treated as acting in good faith in the intere sts of the Company . That accords with their 
+evidence that they acted appreciating the need of the Company to end Mr Yanpolsky’s 
+involvement to enable it to trade, raise investment and/or be sold . To achieve this, 
+(having first offered to buy the shares at a fair value) they exercised their lawful powers 
+to vote for the adoption of the Amende d Articles. Their consequence was the automatic 
+deferment of the 1,389 Shares  and their subsequent transfer applying Articles 15 and 7 
+of the Amended Articles . There was no injustice or prejudice.  Mr Yanpolsky was the 
+author of his own misfortune.  
+46. Subject to those submissions, Mr Beaumont helpfully referred t o the following 
+(amongst other) principles of law he relied upon by reference to the notes in his skeleton 
+argument : 
+a) There can be no “unfair prejudice” where the Petitioner brings prejudice on 
+himself or where his involvement places the future well -being of the business in 
+jeopardy ( Re Edwardian  [2018] EWHC 1715 (Ch)  at [412] and [414]). 
+b) It will not ordinarily be “unfair” for the affairs of a company to be conducted in 
+accordance with the provisions of its Articles or any other relevant and legally 
+enforceable agreement, unless it would be inequitable for those agreements to 
+be enforced in  the particular circumstances under consideration: Starling v 
+Climbing Gym Ltd  [2020] EWHC 1833 (Ch) at [63].  
+c) ‘Bad leaver’ type provisions will not be supplanted in s.994 cases ( Durose v 
+Tagco  [2022] EWHC 3000 (Ch) at [151]).  
+d) s.21 of the CA 2006  provides for a broad power to amend Articles that can only 
+be constrained by the court if the Board has acted in bad faith (see generally the 
+narrative at Hollington, Shareholders’ Rights 10th ed. at pages 33 -39). Bad faith 
+is a very grave charge and a species of equitable fraud ( Armitage v Nurse  [1997] 
+Ch 241, 252 -253 per Millett LJ, as he then was).  
+e) Conduct may not be unfair or a court may refuse relief in respect of it if caused 
+by the petitioner's own conduct or warranted as a reaction to it ( Seneschall v 
+Trisant Foods  [2023] EWHC 1029 (Ch) at [145] (citing Re London School of 
+Electronics Ltd  [1986] Ch 211, 222B -C and Gray v Braid Group (Holdings) 
+Ltd [2015] CSOH 146, where it was held not unfair to have removed a CEO 
+dismissed for gross misconduct).
+
+Approved Judgment  Double -click to enter the short title  
+ 
+14 
+ f) Even if the conduct is both “prejudicial” and “unfair”, the Petitioner's conduct 
+may nevertheless affect the relief which the court thinks fit to grant under s.996  
+(Re London School of Electronics Ltd  above, 222B -C). 
+ 
+H) Evidence and Findings of Fact  
+47. There is no dispute that Mr Yanpolsky and Mr Macmillan, as “Founding Members” 
+would manage the Company , which had been incorporated on 2 5 May 2019,  and be 
+employed by it whilst holding an equal number of issued shares. Nor is it in dispute that 
+the aim was for the Company to develop the Product of which Mr Yanpolsky was the 
+architect.  It was his knowledge, expertise and experience which was relied upon and 
+used to identify the contents of the software programmes which would need to be coded 
+by platform deve lopers in the Ukraine. This was to be the principal asset of the 
+Company which would generate turnover and ultimately lead to a sale of the Company 
+when its “valuation reaches “£XXX millions” , as the document entitled “Founders  
+Agreement  Note s” of 15 May 2019 envisaged .  
+48. That document also refers to Mr Dow and there is no dispute that he became the 
+investment shareholder.  From at latest 11 July 2019, Mr Yanpo lkski and Mr Macmillan 
+with 10,000 ordinary shares each were persons with significant control individually 
+holding more than 25% but less than 50% of the issued share capital . Mr Dow held 
+1166 ordinary shares.  
+49. Although Mr Yanpolsky’s claim of unfair prejudice by the deferment of his 8.611 
+Shares in February 202 0 relies in part upon th is “Founders’ Note” document, it cannot 
+assist him other than perhaps by providing some background information. That is 
+because the question of “hiding ” Mr Yanpolsky as a shareholder of the Company 
+following his conviction (assuming for these purposes that the question  arose) cannot 
+possibly have arisen in May 2019 . Nor is there any evidence that anyone proposed that 
+any part of the content of th ose Note s would apply for the purpose of the Hidden 
+Shareholder Agreement (which definition (as above) , it is to be remembered, includes 
+a contractual agreement, any representation and/or understanding  that Mr Yanpolsky 
+relies upon ). It is unnecessary, therefore, to address the additional submission that the 
+“Founders’ Note”  was superseded by the Shareholders’ Agreement and the Original 
+Articles , although that was the case . 
+50. The terms of the Shareholders’ Agreement and the Original Articles need only be 
+referred to when relevant to the context but it is to be noted that it is not in dispute that 
+the former prevail s in the event of conflict. It is also to be noted that Mr Yanpolsky and 
+Mr Macmillan are identified as the Company’s “ Founders” in the Shareholders’ 
+Agreement . Mr Yanpolsky and Mr Macmillan were both appointed directors. The 
+Articles require there to be two directors, absent an ordinary resolution to permit one, 
+and f or board meetings to have a quorum of at least two. Each member with a 
+shareholding of at least 10% can appoint a director. The Articles set out several  
+“Reserved Matters” which would always require Mr Dow’s consent as the “Investor”.  
+Mr Yanpo lsky entered  an “executive service agreement ” dated 2 July 2019  for his 
+employment as the Company’s “Chief Technical Officer” .
+
+Approved Judgment  Double -click to enter the short title  
+ 
+15 
+ 51. Mr Yanpolsky had previously worked for GPS as their Chief Technology Officer 
+between July 2014 and December 2016. He had disclosed to Mr Macmillan in or about 
+March 2017 that he was under investigation for alleged ly hacking the ir computers . 
+Those allegations led to police investigation and he was charged on 7 September 2017 
+with one count under  the Computer Misuse Act 1990 . There is no dispute that these 
+events were disclosed  in the context of him expressing his innocence .  
+52. There are allegations from Mr Macmillan that there was by no means “ full disclosure ” 
+and that Mr Yanpolsky lied by professing his innocence (as he still does) . The evidence 
+is insufficient to enable any finding to me made regarding  disclosure. As to the l ie, 
+whilst it is correct that he was found guilty on the balance of probability by a jury , I 
+cannot on the evidence before me conclude whether Mr Yanpolsky held a genuine 
+belief of his innocence.  Neither allegation takes this matter further in  any event . 
+53. Mr Yanpolsky  was convicted on 16 December 2019 and sentenced on 22 January 2020 
+for a period of imprisonment of three and half  years. Plainly this caused a hiatus for the 
+Company, as well as Mr Yanpolsky. He resigned as a director as required by article 25 
+of the Original Articles but stating he did so to be able to concentrate upon his appeal. 
+The issue of whether he pursued his appeal has been raised but I do not consider it takes 
+this matter further.  
+54. Turning to the documents  to which it is necessary to refer  to consider whether there was 
+a Hidden Shareholder Agreement or representation/understanding as alleged : 
+a) By email sent to Mrs Yanpolsky on 24 January 2020, Mr Macmillan (in 
+summary) addressed the importance at that stage of not mentioning Mr 
+Yanpolsky’s imprisonment to third parties but of merely stating that he had left 
+the Company for personal reasons.  He was thinking about appointing a 
+replacement CTO quickly to distract people from asking about Mr Yanpolsky, 
+whom he describ ed as “irre placeable” . In the meantime it was a relief that 
+“Janine … sounds like she will be able to carry on doing some work”  for the 
+Company . He was anticipating needing to change the Company’s website and 
+to alter Mr Yanpolsky’s “LinkedIn profile” .  
+b) On the same day, he sent an email to Mr Yanpolsky via the prison service. 
+Having explained that he would meet Janine to discuss her working for the 
+Company, he added: “Of course, we also need you , as I want to kick off with 
+the other USA card processor … [but] I do need to remove you r name (and 
+probably mine) from the [Company’s] website … Can you give me some 
+guidance … it would be good to change your Linkedin page …”  (which steps 
+appear to have been carried out without objection by 25 January  with Mr 
+Macm illan removing his name  as well). 
+c) In an email to Mrs Yanpolsky  sent 27 January 2020, who would be seeing her 
+husband the next day, Mr Macmillan included notes for Mr Yanpolsky.  Support 
+was expressed generally, and Mr Macmillan thought a new CTO would not be 
+required immediately “because we can cope with Janine, Iryna, Bohdan and 
+Kostya  But there will be an expectation from prospects and investors that there 
+is a technical lead they can meet … a replacement [will mean people] focus less 
+on the departure  … [but] it could be someone providing 2 days per week …
+
+Approved Judgment  Double -click to enter the short title  
+ 
+16 
+ What is Vlad’s view?” . He also asked for Mr Yanpolsky’s “plan for production 
+server to connect to Tribe”  and how he could set it up.  
+d) Mr Macmillan also sent further updates for Mr Yanpolsky by email sent 30 
+January.  Mrs Yanpolsky reported back from her visit by email sent 30 January 
+including  the fact that her husband could now make regular phone calls to 
+answer all questions arising concerning the ongoing business. She added that 
+“designs, diagrams for [the Company]” could now be sent by post.  In a response 
+Mr Macmillan mentioned that he spoke to Mr Yanpolsky by telephone the same 
+day.  
+e) A minute of a meeting of one director, Mr Macmillan, attended by Mr Dow, 
+held on 9 February 2020 records that Mr Macmillan complied with the 
+requirements of section 177 of the Companies Act 2006 and the Original 
+Articles concerning his interests and that it was resolved that 8,611 of Mr 
+Yanpolsky’s shares should become deferred shares pursuant to their automatic 
+conversion under Article 15  by reason of his decision to terminate Mr 
+Yanpolsky’s employment.    
+f) Article 15 provides:  
+“Departing Founders”  
+Unless the Board (acting with Investor Consent) determine that this Article 15.1 
+shall not apply, if at any time during the Relevant Period a Founder ceases to 
+be an Employee, the Leaver's percentage of the Founder Shares relating to such 
+Founder shall automatically convert into Deferred Shares  (on the basis of one 
+Deferred Share for each Ordinary Share held) on the Effective Termination 
+Date (rounded down to the nearest whole shar e). ” 
+g) Article 7 of the Original Articles conferred power upon the Company at any 
+time at its option to purchase or redeem a whole class of deferred shares for 
+£1.00 and without the prior agreement of the holder.  
+h) By letter dated 9 February 2020 the Company notified Mr Yanpolsky that his 
+service agreement dated 2 July 2019 was terminated and the termination was 
+effective from the date of his conviction. It also informed him of the automatic 
+deferment of his shares under Article 15. A stock transfer form was enclosed 
+for the deferred shares together with a power of attorney to enable Mr 
+Macmillan and Mr Dow to deal wi th his shares “in any transaction in the future”. 
+He was asked to sign and return them.   
+i) By email sent 10 February 2020, Mr Macmillan forewarned Mrs Yanpolsky that 
+he had posted the 9 February termination letter. This was relied upon in opening 
+and during cross -examination as evidence that the termination and deferment 
+occurred in the context of the Hidden Shareholder Agreement . Reference was 
+made in particular to  the following passages  with the words particularly 
+emphasised by or on behalf of Mr Yanpolsky underlined : 
+j) “I have sent:
+
+Approved Judgment  Double -click to enter the short title  
+ 
+17 
+ A letter confirming that Vlad's employment ceased as of the date of conviction. 
+This is just so we can explain , if asked, by any investor or customer that Vlad 
+no longer works for BOX.  
+The letter also explains that some of the shares held by Vlad will be converted 
+into deferred shares. This means he will come off Companies House Person with 
+Significant Control (PSC) list and also shows we have taken action to any 
+investor .  
+There is also a Power of Attorney deed and Stock Transfer Form relating to the 
+shares. This is just so, if needed,  we can change ownership of shares.  
+From what Vlad said, we wouldn't be able to get these last two signed until he 
+has his new solicitor.”  
+k) The change of class from ordinary to deferred status was registered at 
+Companies House on 20 March 2020, attributing the date of “assignment” as 17 
+December 2019.  
+55. It is apparent from those facts that the deferment of the  8,611 Shares was not caused by 
+Mr Yanpolsky’s conviction and imprisonment. At least , it was not the direct cause. The 
+Shareholders’ Agreement and the Original Articles contained no provision for a 
+deferment for that reason.  What happened was that Mr Yanpolsky’s resignation as a 
+director left Mr Macmillan as the sole director of the Company. Whilst the Original 
+Articles required two directors and provided that no meetings could be held without a 
+quorum of two, he resolved at a board meeting on that Mr Yanpolsky’s employment 
+should terminate pursuant to Article 15. The validity of the resolution has not been 
+challenged a nd rightly so  since Mr Yanpolsky accepted the termination  by letter at the 
+time. It was t he termination of his employment that invoked the “automatic” deferment 
+of his 8.611 Shares by the application of Article  15. There was no decision by Mr 
+Macmillan with the consent of Mr Dow that the Article did not apply. Indeed, t he 
+contrary was  decided.   
+56. Mr Yanpolsky has suggested that he remained an employee but he received the notice 
+of termination sent pursuant to a board resolution to that effect. Insofar as he relies upon 
+the Company employing him or retaining him as a consultant, he must establish an 
+agreement to that effect which was made or took effect after the termination of his 
+service contract.  
+57. It was put to Mr Yanpolsky that his case of a Hidden Shareholder Agreement requires 
+him to alleg e a sham and amounts to him saying  that he and Mr Macmillan  falsely 
+represented the deferment of the 8,611 Shares  when filing notice of that change at 
+Company’s House. That, however, cannot be his case. The facts are that his 
+employment was terminated  and his 8,611 Shares became deferred shares. The 
+Companies House filing was required. Mr Yanpolsky ’ case is (or must be ) that there 
+was a separate , private agreement with Mr Macmillan  (he has excluded Mr Dow) 
+concerning his deferred shares or that he can rely upon representations made by him to 
+Mr Macmillan to assert an estoppel or binding understanding.  
+58. However, t here is nothing in the documentation (including the correspondence above -
+mentioned) that c an possibly lead to the conclusion that there was a Hidden Shareholder
+
+Approved Judgment  Double -click to enter the short title  
+ 
+18 
+ Agreement that (somehow ) might mean that he was entitled to recover the deferred 
+shares in due course (whatever that may mean) . The documentation including 
+correspondence does not identify an offer, acceptance, intention to enter legal relations, 
+a representation to be relied upon  or reliance. It follows that the terms of any agreement 
+or representation/understanding cannot be factually identified without oral evidence , 
+whether that also relies on the documentation to add credence to the evidence of 
+recolle ction or not . 
+59. In reaching that finding of fact, I have considered (amongst the other contemporaneous 
+documents) the email sent by Mr Dow to Mr Macmillan on 31 January 2020 . The words 
+“dismiss him as an employee for now”  are ambiguous as to whether and, if so, when 
+he might be offered new employ ment. The reference to him potentially gettin g his 
+shares back because they will “mainly go to an employee benefit trust”  does not express 
+the intention that he will be restored as an employee.   
+60. Equivalent points can be made in respect of the email to Mrs Yanpolsky from Mr 
+Macmillan sent 10 February 2020. The statement that the employment ceased “just so 
+we can explain, if asked, by any investor or customer that [he] no longer wor ks for the 
+[Company]” does not alter the fact of termination. It may suggest that there is some 
+other agreement concerning his return to employment but that cannot be concluded 
+from those words alone. Oral evidence is required. In addition, the reference to the 
+Power of At torney and the Stock Transfer Form to be signed by Mr Yanpolsky being 
+required “just so, if needed, we can change ownership of [the deferred] shares”  does 
+not evidence any agreement, representation or understanding that the shares will be 
+restored to ordinary share class or not  be transferred.    
+61. In all those circumstances it was incumbent upon Mr Yanpolsky (insofar as he c an) to 
+set out such oral evidence. He accepted in cross -examination, and it is plainly the case, 
+that the only passage within his witness statement relied upon to do this is the following:  
+“While in my first days in a custody, with no access to any advice, support or 
+help, Mr Macmillan asked to give him a power of attorney and permission to 
+defer my shares to make my ‘person with significant control’ status not visible 
+at Companies House web -site. This request was argued that my name among 
+the people with significant interest can damage BOX marketing. In separate 
+conversations to my wife he asked for the same as he worried that “GPS can 
+make claims against BOX”. Mr Macmillan assured my wife a nd me that this is 
+required for time being and my share  in the company and my BOX employment 
+are safe.”  
+62. There are problems with this passage insofar as “permission to defer ” was not required 
+but in any event it does not provide the evidence required to establish the Hidden 
+Shareholder Agreement. I t raises , however,  the possibility that the evidence of the 
+relevant conversations can be found within Mrs Yanpolsk y’s statement. Yet t he only 
+possible paragraphs to refer to, however, are these:  
+“On the following day I met Mr Macmillan at Garson’s Farm, Esher coffee shop 
+where we discussed the impact of my husband’s sentencing to BOX business. I 
+knew that the development of BOX depended on my husband’s innovative ideas 
+and that the company may fail  as at that time the development of the platform 
+was not fully completed.
+
+Approved Judgment  Double -click to enter the short title  
+ 
+19 
+ On 30 January 2020 I had another meeting with Mr Macmillan which followed 
+by a series of email where Mr Macmillan asked my assistance to remove my 
+husband’s links to BOX as he worried that GPS could make claims against the 
+company. He assured that my husba nds BOX shares will not be affected.”  
+63. Plainly, that evidence does not identify or establish on the balance of probability  the 
+Hidden Shareholder Agreement. The last sentence is obviously incorrect  when, as a 
+fact, the 8,611 Shares were deferred , as Mr Yanpolsky was informed. However, as far 
+as the sentence  is relied upon as evidence of a Hidden Shar eholder Agreement , it too 
+fails in the manner explained in respect of Mr Yanpolsky’s evidence  to establish any 
+form of agreement or representation/understanding to be relied upon . Their respective 
+evidence under cross -examination did not alter that position.  
+64. It is not enough just to say it was agreed or represented that the shares would be “safe” 
+or that the deferment was “for [the] time being” . That simply leaves open the following 
+questions: what was the gist of the words used, when , where and in what circumstances? 
+What obligation did “keep safe”  create when the Articles deferred shares which 
+remained legally and beneficially owned by Mr Yanpolsky? If it was meant to create 
+an obligation to restore the shares to ordinary shares (although this is not stated) when 
+and in what circumstances would this obligation need to be fulfilled? As one simple 
+example to spell this out, there is no statement in the following or similar terms: that as 
+a result of a n appropriately  particularised discussion it was agreed with Mr Macmillan 
+or he represented or it was understood that Mr Yanpolsky would continue to work in 
+prison for the Company without payment but on terms that his 86 11 Shares would be 
+returned to ordinary share class on his release.  
+65. The conclusion has to be that a s a matter of fact , there is no evidence of offer, 
+acceptance, legal relations, a representation or understanding ( clear , unequi vocal or 
+otherwise) that can be relied to support the case of the Petitio n concerning the existence 
+of the Hidden Shareholder Agreement whether the case is that the deferment was 
+unfairly prejudicial or the breach of an agreement with Mr Macmillan. Indeed, the 
+nature of that agreement or representation lacks clarity even within the pleaded case.  
+66. As a sidenote , I mention that had the evidence assert ed a private, personal contract  or 
+representation /understanding , there would be a serious issue whether section 994’s 
+jurisdiction was invoked. However, this has not been raised and cannot be addressed 
+simply because the agreement/representation/understanding cannot be identified as 
+fact. 
+67. Although there was no Hidden Shareholder A greement in place, the documentary 
+evidence sustains (without evidencing the Hidden Shareholder Agreement) Mr 
+Yanpolsky’s case that he carried on work for the Company both whilst in Wandsworth  
+and Ford prisons. Even as of 31 March 2020 Mr Macmillan emailed to inform Mr Dow:  
+“We have now set up a process where we can conference call him in with the 
+developers. We’ve had two calls already and will probably move to a daily call, 
+not as good as we were with Vlad doing code reviews, but still very useful”.  
+68. As of 25 May 2020 Mr Dow stated in his email to Mr Macmillan  (but with none of the 
+content evidencing the Hidden Shareholder Agreement”)  that “obviously [Mr 
+Yanpolsky’s] input is useful ” and the two of them were discussing whether he could be
+
+Approved Judgment  Double -click to enter the short title  
+ 
+20 
+ a consultant on the basis that he should not be an employee “just yet”  due to the 
+potential adverse effects of his conviction. This arose in response to an email from Mr 
+Macmillan concerning Mr Yanpolsky working for the Company whilst in Ford prison. 
+He wrote this:  
+“There is only one very small risk, that it becomes know[n] we are employing a 
+convicted hacker. Overall, I think this [knowledge] is a small risk and the benefit 
+of having Vlad working on updates to the platform outweighs it.”  
+69. There are many other significant documents, as identified by Mr McGuinness  during 
+his submissions , to evidence the fact that substantial and significant work was requested 
+and provided. It is not possible to value that work or to identify precisely what was done 
+but it is sufficiently clear from emails received from Mr Macmillan through the prison 
+service , from the other documentation also relied upon by Mr McGuinness,  and from 
+Mr Yanpolsky ’s oral evidence (which I accept in this context on the balance of 
+probability notw ithstanding all the reasons for caution previously given  and prefer over 
+Mr Macmillan’s oral evidence ) that it involved the  continuing design of the Product  
+and consequential dealings with the coders to ensure that they provided an operating 
+software system in accordance with the requirements of the Company based upon Mr 
+Yanpolsky's designs. I am, satisfied from the oral evidence and evidence as a whole 
+that there were numerous telephone calls between him and Mr Macmillan and with 
+those involved in the desi gn/coding of the platform for the Company during his time in 
+prison.  
+70. In the light of the evidence as a whole, and even allowing for the fact that the work 
+required would have reduced to the extent that it was undertaken by a new Chief 
+Technical Officer appointed in December 2020, I am satisfied on the balance of 
+probability , and conclude , that Mr Macmillan’s evidence seeking to undermine Mr 
+Yanpolsky as someone who carried out substantial work for the Company did him no 
+credit and is to be rejected . Although my findings cannot be precise concerning the 
+work done, on the bala nce of probability I prefer (albeit in less absolute and, therefore, 
+in more general terms) the following description appearing in Mr Yanpolsky’s witness 
+statement:  
+“For the whole duration of my imprisonment I ultimately and directly managed 
+the company’s employees, guided them on design and product functionality 
+tasks, closely monitored their performance and assisted Mr Macmillan with 
+variety of business development and company management decisions. ” 
+71. This leads to the contention by or on behalf of Mr Yanpolsky that he continued to be 
+an employee or worked as a consultant  for the Company . However, his employment 
+had been terminated, there is no evidence of any agreement of a new employment 
+contract and no evidence of a cons ultancy agreement. He was not paid, and no such 
+contract(s) can be implied.  I am satisfied Mr Yanpolsky provided expert advice but he 
+did not do so professionally in the sense that he was being retained as a consultant to 
+do so.  
+72. Mr Macmillan attributed his work to Mr Yanpolsky volunteering to assist potentially 
+in the conte xt of guilt for having let the Company down and potentially to keep himself 
+busy. He also surmised that Mr Yanpolsky may have considered it worthwhile because 
+he remained a shareholder. In my judgment Mr Yanpolsky saw himself as someone
+
+Approved Judgment  Double -click to enter the short title  
+ 
+21 
+ who remained invaluable to and needed by the Company. Although there was no 
+Hidden Shareholder Agreement, h e probably envisaged his release would result in him 
+returning to the Company and, therefore, to the Product he continued to work on. The 
+fact that Mr Macmillan was willing to offer him a position if he had been allowed out 
+under licence on early release (to be referred to further below) may have added fuel to 
+that belief but there has been n o suggestion that any agreement or 
+representation/understandi ng arose from this. That is, of course, not surprising since the 
+prison authorities refused such a release.  
+73. Subject to events in September 2020, to be considered below, I accept, therefore, that 
+it probably would have been natural for Mr Yanpolsky during his imprisonment to 
+anticipate, whether realistically or not, that he would return to the Company on his 
+release on 21 May 2021. The Product was his design, he had continued to work for the 
+Company whilst in prison, there had been an attempt to obtain his release on licence for 
+that purpose, he had served his time and was still maintaining his innocence. He may 
+well have envisaged returning as a shareholder with significant control.  
+74. In fact, however, he had no right to ask, and the Company had no obligation to accept, 
+that this should be the scenario. His evidence does not identify any such binding 
+arrangement to take effect upon his release. His resignation, the termination of his 
+employment and the deferment of the 8,611 Shares had occurred. For the whole period 
+of his imprisonment, there is no evidence of an offer, terms, and acceptance or of the 
+representation  being made, relied and acted upon. Nor of words spoken or written upon 
+which the understanding was based.   
+75. Mr Macmillan’s evidence during cross -examination was that he had had a discussion 
+with Mr Yanpolsky in September 2020 when he was asked what role Mr Yanpolsky 
+would have when released. Mr Macmillan’s recollection was that he said that he must 
+succeed in his appeal to be able to return to his employment. Mr Yanpols ky does not 
+accept this.  Mr Macmillan’s recollection is to be contrasted with the position he set out 
+within his email letter to the prison authorities sent 29 October 2020 in which he asked 
+for Mr  Yanpolsky’s early release on licence to the one presented to Mr Yanpolsky on 
+his release. In the letter Mr Macmillan wrote  (my underlining for emphasis  but noting 
+there is no equivalent representation to Mr Yanpolsky in evidence ): 
+“I am keen to help Mr. Yanpolsky with preparing for life after prison by offering 
+him either part time or full time employment under ROTL. It would also greatly 
+help the business I am running now as well as preparing for Mr. Yanpolsky to 
+be part of the business when he is released next year  ..... If Mr. Yanpolsky was 
+allowed to work under ROTL with my company we would ensure compliance 
+with Covid restrictions and monitoring of computer activity.”  
+76. Mr Macmillan in cross -examination sought to explain this letter as one written to 
+encourage release. If that suggests misstatement  to the prison authorities , as it appeared 
+to do, it is certainly not to his credit. I do not, however, conclude this was his intention. 
+It is true that this letter was written in a different context to the discussion the month 
+before but it would be very surprising if Mr Macmillan was willing to make 
+representations to assist to obtain Mr Yanpolsky’s release without stating that  the 
+Company would not employ him unless and until an appeal was successful if that had 
+been what he previously told Mr Yanpols ky. Of course, he might have changed his 
+mind, although that was not his evidence. In those circumstances I reject his recollection
+
+Approved Judgment  Double -click to enter the short title  
+ 
+22 
+ of the discussion in September 2020.  That does not, however, leave any positive 
+evidence from which to find support for Mr Yanpolsky’s alleged Hidden Shareholder 
+Agreement.  
+77. Mr Yanpolsky remained in prison  until 21 May 202 1. At the meeting between Mr 
+Yanpolsky and Mr Macmillan on 22 May 202 1, Mr Yanpolsky appears to have 
+forgotten about the deferment of his 8 ,611 Shares and h is evidence (which appears 
+credible concerning his state of mind at the time) was that h e now found himself in a 
+scenario wholly different to the one he probably anticipated. Whatever his state of mind, 
+however, it is a fact that Mr Macmillan would not give an offer of employment and 
+would not agree to his 8,611 S hares being converted  back in to ordinary shares . Nor was 
+there any legal obligation to do so. Accordingly, Mr Yanpolsky was “shut out” as a 
+person whose only connection was a minority shareholder.    
+78. At this time , although obviously produced later, the Company’s balance sheet within 
+its “Statement of Financial Position” as at 31 May 2021 records a deficit of shareholder 
+funds of £85,793 (noting as a detail that creditors of £115,138 included “amounts owed 
+to participating interests”  of £94,980, and also that the accounts are prepared on a going 
+concern basis because “the director will continue to support the Company”). Absent a 
+dramatic upturn in income to increase current assets, further financing woul d be 
+required. Whilst there was a share premium account of £240,045, it would not be an 
+available source of capital since its cancellation would not be possible whilst creditors 
+were unpaid. However, the picture is nowhere near as bleak as this suggests be cause 
+the Product, the platform on which everyone had been working, was not yet ascribed a 
+current value (being valued at cost subject to depreciation, there having been no 
+revaluation). If the tangible assets were worth significantly more than the balance  sheet 
+value of £1,735, there would be the potential for investment, borrowing or a sale of 
+assets to the benefit of the shareholders.  
+79. As a result of what Mr Yanpolsky considered a “volte face” by Mr Macmillan, he wrote 
+a detailed email of complaint sent on 7 June 2021. It refers to assurances when he was 
+asked to hand over his work to the new CTO that his shares would be “safe ” and t hat 
+his “employment will be available”  on his release . Als o, to phone calls when he was 
+repeatedly assured that “all previous agreements are [in] place” .  However, none of 
+this is expressly addressed in his statement and none of the particulars required to 
+present a claim of contractual agreement or binding representation/understanding are 
+evidenced.  
+80. Mr Macmillan’s contrasting approach is probably best set out in the following parts of 
+his response by email sent 9 July 2021 to what has been described as Mr Yanpolsk’s 
+letter before claim sent in email f orm on 22 June 2021:  
+“Regarding the content of your email, I can say the reputation of BOX 
+Processing is important to the Directors, employees and investors of BOX 
+Processing and we will not tolerate any form of criminal activity. If you believe 
+you have evidence of this I wou ld encourage you to contact the relevant 
+authorities. We would be happy to respond to any requests for information from 
+them.  
+In terms of your involvement with BOX Processing, our Articles and 
+Shareholders Agreement, which you signed, make it clear that conviction of a
+
+Approved Judgment  Double -click to enter the short title  
+ 
+23 
+ criminal offence will require immediate resignation/dismissal. This also means 
+that any shares not yet vested will not be attributable to the individual involved. 
+This is common practice for protecting investors.  
+I would like point out that whilst your conviction and sentence has a drastic 
+impact on your life and family, it has also impacted BOX Processing as a 
+company. The association with yourself is having a negative impact on the 
+company’s ability to engage cus tomers, work with partners and secure 
+investment. Updating your LinkedIn profile so you are listed as current BOX 
+Processing employee creates problems for the company and is inaccurate.”  
+81. Whilst th at is not an entirely accurate analysis of what ha d occurred, it not only sets out 
+“the other side of the coin” to Mr Yanpolsky’s view of events  but also accurately 
+evidences the fact that Mr Yanpolsky was now adrift.  
+82. In his witness statement Mr Macmillan refers to the Company discovering hacking by 
+Mr Yanpolsky at the end of June 2021. This was not pursued, at my suggestion because 
+of timing issues for the trial and because it was not relied upon for the purposes of th e 
+subsequent actions involving Mr Yanpolsky’s remaining ordinary shares.    
+83. The facts can move on to the beginning of 2022. Mr Macmillan in his evidence 
+describes the Company’s financial position as “precarious”  with losses of around 
+£30,000 a month. There was, as yet, only one client  and Mr Dow is described as  being 
+“increasingly  concerned”  that he may lose his investment and not be repaid his loans.  
+Mr Macmillan  says he was told by GPS “that they could not continue to work with the 
+Company on partnership opportunities whilst the Petitioner was a shareholder  ... Mr 
+Dow ... would n ot continue to provide such loans to the Company if the Company could 
+not work with GPSL ”. This is supported by the unchallenged witness statement of Mr 
+France.  
+84. An email from Mr Macmillan  to Mr Yanpolsky  sent on 24 January 2022, which he says 
+was sent “to address the problem with [GPS]” , includes the following  offer : 
+“You may not appreciate it, but we are finding it very difficult to attract 
+customers, partners and investors while you are still a shareholder and the 
+association this creates with your conviction. I suggest therefore that we buy out 
+your shareholding. That enables you to recognise some cash for your input and 
+for the company to move on.  
+I propose that we pay you £10K for your shareholding and in a year’s time a 
+further £5K provided you have ceased to claim you are associated with BOX 
+(e.g. Linked In profile, etc).  
+Obviously this is not the outcome we had all hoped for when we set up BOX but 
+unfortunately your conviction has had a very detrimental effect on our ability to 
+attract investment, partners and clients.”  
+85. Mr Yanpolsky was under no legal obligation to accept the offer or, indeed, to respond. 
+He did not and Mr Macmillan and Mr Dow sought a “fair value” of his shares from the 
+Company’s accountants . They also decided  “to amend the Articles to enable the
+
+Approved Judgment  Double -click to enter the short title  
+ 
+24 
+ Petitioner to be classified as a Bad Leaver and to allow the remaining ordinary shares 
+to be converted into deferred shares” . 
+86. The Amended Articles were drafted and sent to Mr Yanpolsky for him to vote by email 
+on 7 February 2022. Seven days later, Mr Macmillan emailed Mr Rowan Brewer (“Mr 
+Brewer”) of Paymentology  Limited  (“Paymentology”) whom he had known for many 
+years  and for which company he had worked between June 2018 and the spring of 2019 , 
+and referring to a conversation “just now” wrote:  
+“As mentioned, we appreciate there are concerns regarding the ex -employee of 
+BOX, Vlad Yanpolsky. I hope we will be in a position soon to work together, 
+without the concern over reputations caused by Vlad’s past.”  
+The response was: “Yes, it would be tough for us to proceed on a project or 
+discussion with that issue hanging over us” . 
+87. This opening of a dialogue with Paymentology Limited (although as can be seen from 
+Mr Brewer’s evidence, the date it opened appears to have been earlier as  referred to 
+below) is not mention ed in the subsequent email to Mr Yanpolsky sent on 24 February 
+2022 . It starts:  
+“... the position of BOX is precarious. We are finding it very difficult to attract 
+customers, partners and investors while you are still a shareholder and the 
+association this creates with your conviction. To resolve the situation, I am still 
+keen that we buy out your shareholding. That enables you to recognise some 
+cash for your input and for the company to move on  ... 
+As I am sure you are aware the company has updated its Articles of Association 
+to allow for an alternate way forward. The new Articles allow either of us to 
+force a sale at fair value or for shares held by a Bad Leaver to be converted to 
+Deferred Shares, which can then be transferred to  another party. If this latter 
+action was taken with your shares, you would not receive any value from the 
+transfer”.  
+88. This email contained a further offer to buy his remaining ordinary shares in the 
+Company for £11,000, or £7.91 per share  based upon but exceeding the accountant's  
+valuation . An additional £5,000 was offered if Mr Yanpolsky agreed to cease 
+representing himself as an employee of the Company. There was no response to the 
+offer . Again, there was no requirement to accept or to respond to it. It was a commercial 
+offer, albeit that Mr Yanpolsky was warned of the adverse consequences r esulting from 
+amended articles . In fact, it appears from a further email sent to him on 28 February 
+2022 that the resolution to adopt the articles had not been validly passed. He was asked 
+again to vote and did not do so. It is not in issue, however, that t he Amended  Articles 
+were adopted by Mr Macmillan and Mr Dow .   
+89. The Amended Articles include the following changes  (my underlining for emphasis) : 
+2. Definitions “Bad Leaver” means an Employee who ceases to be an Employee 
+on account of fraud, gross misconduct or upon a criminal conviction resulting 
+in imprisonment.
+
+Approved Judgment  Double -click to enter the short title  
+ 
+25 
+ 7. Deferred Shares  
+7.1 Subject to the Act, any Deferred Shares may be purchased or redeemed by 
+the Company at any time at its option for £1 for all the Deferred Shares 
+registered in the name of any holders(s) without obtaining the sanction of the 
+holder(s) 7.2(a) [right to e xecute transfer] 1363 . . .  
+15. Departing Founders 15.1 Unless the Board (acting with Investor Consent) 
+determine that this Article 15.1 shall not apply, if at any time during the Relevant 
+Period a Founder ceases to be an Employee, the Leaver's Percentage of the 
+Founder Shares relati ng to such Founder shall automatically convert into 
+Deferred Shares (on the basis of one Deferred Share for each Ordinary Share 
+held) on the Effective Termination Date or on such other date as the Board may 
+determine in their absolute discretion (rounded d own to the nearest whole 
+share).  
+90. During cross -examination Mr Macmillan accepted (although this is obvious) that the 
+amendment was intended to apply to Mr Yanpolsky  and his remaining 1,389 Shares . 
+Whilst it would continue to have effect in the future for all shareholders (subject to re -
+amendment) , in practice it was only conmsidered relevant to Mr Yanpolsky  and its 
+purpose was to remove him as a shareholder for the benefit of the Company . Mr 
+Macmillan accepted this in cross -examination,  and I find it to be a fact. Mr Macmillan’s 
+explanation  for this was that the removal was necessary to enable the Company to 
+achieve necessary future financing and turnover and, in particular, to have the 
+opportunity to enter  partnership or another contractual arrangement with GPS.  
+91. On 7 March 2022 Mr Macmillan and Mr Dow passed a resolution (signed as directors) 
+“in accordance with article 15 ... [as] adopted on 24 February 2022”  to convert Mr 
+Yanpolsky’s 1,389 ordinary shares to deferred shares of nominal value. Mr Yanpolsky 
+was informed of this by an email sent the same day which also repeated that the shares 
+would be transferred to an employee benefit trust for the benefit of employees “in due 
+course” . The explanations given for the resolution were the failure to accept the “fair”  
+offer and the assertion that “if [he] remained as a shareholder it would risk the solvency 
+of the Company for the shareh olders as a whole” .  
+92. On 24 March 2022 , Mr Macmillan and Mr Dow incorporated Box EBT and became its 
+officers and equal shareholders  according to Companies House filings . However, it 
+appears the shares were held on trust for the Company because their above -mentioned 
+written resolution records the incorporation of Box EBT as a wholly owned subsidiary 
+of the Company to act as trustee of the Company’s employee benefit trusts   
+93. It was also resolved  that the Company , applying Article 7 of the Amended Articles,  
+approved the transfer of the 1,389 deferred shares from Mr Yanpolsky (applying the 
+stock transfer form to be executed by Mr Macmillan) to Box EBT to be held under that 
+trust.  Mr Macmillan and Mr Dow as directors of Box EBT on 29 March acknowledged 
+the transfer and the trust.  
+94. On 29 March 2022 Mr Macmillan sent an email to Mr Dow  recording that Mr Brewer 
+would talk about investment once Mr Yanpolsky  had been removed as a shareholder.
+
+Approved Judgment  Double -click to enter the short title  
+ 
+26 
+ 95. A “kudocs share transfer summary”  records that the remaining 10,000 deferred shares 
+were transferred by the Company, acting by Mr Macmillan, to Box EBT on 30 March 
+2022. The transfer details were filed at Companies House the same day.  
+96. By 29 April 202 2 Mr Ma cmillan was able to inform Mr Dow that Mr Brewer was 
+discussing the following:  
+“Paymentology [to] invest in BOX the £1.5m at £6m pre -money valuation - BOX 
+[to] use investment money to grow business ... Paymentology get the rights to 
+buy remaining 80% of BOX for £6m with SaltPay shares SaltPay shares only 
+realised on SaltPay IPO ...”.  
+97. Unsurprisingly, Mr Macmillan  expressed his enthusiasm for th at concept in the email. 
+He sets out a variety of thoughts which need not be repeated  except to note that he 
+thinks the proposal is serious, and concludes with the following “other thoughts”  
+without suggesting that this valuation takes him by surprise:  
+“This is a bit like a phased acquisition, try before you buy where the price is 
+£6m today - - - I’m wondering if there is a better deal for us, a more straight 
+forward acquisition ? Paymentology need to find £1.5m to invest in BOX, so I 
+guess they wouldn’t want to find a lot of cash for acquisition But they could offer 
+say £6m with £2m in cash and £4m in Saltpay or Paymentology shares, the 
+shares might vest depending on targets.”  
+98. In the light of the earlier offers for Mr Yanpolsky ’s shares , which bear no relation to 
+the concept of a “£6m pre -money valuation” , one might have expected Mr Macmillan 
+to detail within his evidence both when and how that valuation first arose. His witness 
+statement makes no express reference to it. He says that a discussion with Mr Brewer 
+took place in February 2022 “regarding Paymentology being a potential investor ... 
+and, eventually, to Paymentology acquiring the Company”  which occurred after the 
+end of March 2022 . He says nothing more until stating that “acquisition discussions 
+continued with Paymentology and its parent company, SaltPay Ltd through to August 
+2022  ... [when,] on 5 August 2022, [he] rece ived an indicative offer for acquisition” . 
+He also makes no reference to the earlier discussions that started in 2021 as recollected 
+by Mr Brewer in his witness statement as follows (my underlining for emphasis):  
+“I am able to recall that in discussions with Robert Macmillan in 2021  and 
+2022, I mentioned the possibility that Paymentology or Teya, would be 
+interested in looking at potential partnerships or acquisitions”.  
+99. The omission s are surprising. Mr Macmillan during cross -examination  maintained that  
+GPS was the main driver for him and the Company when addressing what to do with 
+Mr Yanpolsky as a shareholder because they were more engaged  than Paymentology. 
+In the light of the positive content of the 29 April email  and the value of the 
+investment/acquisition being discussed , it may be that trading arrangements with GPS 
+were more advanced, but it is diffic ult to accept his evidence that he was not influenced 
+by the Paymentology possibilities which appear to have arisen at least towards t he end 
+of 2021  and (even on the limited evidence provided) included potential acquisition .  
+100. There is a lack of evidence addressing these facts but t wo points are, in any event , plain . 
+The first is that th e Paymentology valuation concerning investment and possible
+
+Approved Judgment  Double -click to enter the short title  
+ 
+27 
+ purchase must take into consideration the market not the balance sheet valuation of the 
+Company’s fixed asset, the Product . Second, on the balance of probability, it can’t be 
+realistic t o think that Mr Macmillan would not have appreciated that th e the Product 
+had significant value until Paymentology discussed their investment in Box leading to 
+the 29 April 2022 email.   
+101. This second point of “appreciation” is borne out by notes at the end of the 28 May 2022 
+email referred to below which record that it was Mr Macmillan (not Mr Brewer ) who 
+on 1 April 2022 proposed funding of “£1.5m at £6m pre -money" , The note also suggests 
+that this led to the proposal recorded in the 29 April 2022 email having been put to Mr 
+Macmillan that day.  That conclusion is endorsed by an email from Mr Dow in response 
+to the 29 April email in which his view of the proposal to invest  £1.5 million at £6 
+million pre -money valuation was that it “Seems reasonable” . He was not taken by 
+surprise and did not express any form of astonishment that might have been expected 
+had he been contrasting it with the valuation relied upon for the offers to purchase Mr 
+Yanpolsky’s remaining shares.  Mr Dow was also concerned to raise the issue of the 
+repayment of his loans.  
+102. The following from Mr Brewer’s witness statement is also to be noted  concerning the 
+attitude adopted towards Mr Yanpolsky : 
+“Mr Macmillan told me that GPS would not work with Box, because Box had a 
+connection with Mr Yanpolsky. I too knew about Mr Yanpolsky’s criminal 
+conviction for hacking into GPS’s systems. So I explained that we would not 
+work with Box either if Mr Yanpolsk y was one of Box’s shareholders or involved 
+in any way with Box. 9. In addition, Mr Yanpolsky had previously made a civil 
+claim against Paymentology in the Kingston County Court under case number 
+F4QZ1A7G. 10. Therefore, Teya and Paymentology would not wor k with Box if 
+it was connected in any way with Mr Yanpolsky. Teya [formerly callled SaltPay] 
+and Paymentology would be interested in acquiring the assets of Box, or the 
+shares in a new legal entity to include the Box assets, but not if it was in any 
+way as sociated with Mr Yanpolsky.”  
+103. In an email from Mr Macmillan sent to Mr Dow on 27 May 2022, setting out details of 
+a more advanced proposal being negotiated with Mr Brewer , he wrote that: “On the 
+downside, SaltPay consider valuations have crashed and £6m pre -money is not realistic 
+(especially given limited revenue)” . A further email the next day records that £3 million 
+pre-money was the new figure  and that Mr Macmillan thought a counteroffer should be 
+put to Saltpay.  That included : 
+“Investment: £1.4m Pre -money Valuation: £4m SaltPay  post-money 
+shareholding: 26% Cap Table after investment: Rob: 49.38% Colin: 19.76% 
+SaltPay: 25.93% Share Options: 4.94%   ... 
+Optional purchase of oustanding BOX shares - SaltPay have the option to 
+purchase remaining BOX shares in 12 months for min price of £4m ... 25% in 
+cash and 75% in Saltpay shares ...”.  
+104. Negotiations continued and by 26 June 2022 the transaction became the purchase of 
+assets either directly by Paymentology or by a new compan y to wh ich the assets had
+
+Approved Judgment  Double -click to enter the short title  
+ 
+28 
+ been assigned. The final offer received on or about 6 August was described by Mr 
+Macmillan to Mr Dow as not “great, but ... it could be worse” .  
+105. By September 2022 Ms Wakefield of Edmund Carr, Accountants, became involved and 
+gave tax advice. S he describes the position as follows in her statement:  
+“I was advised at that time by Mr Macmillan that an offer had been made to 
+acquire the business of Box Processing Limited, but that the buyer did not want 
+to acquire the shares of Box Processing Limited because of the company’s 
+association with the Claiman t, Mr Vladimir Yanpolsky, who was a previous 
+director of the company.  
+I was advised by Mr Macmillan that the Claimant was serving a prison sentence 
+for computer hacking and that the buyer was not prepared to buy a company 
+that had connections with a convicted criminal as this would not be good for 
+their business. Because of this, the sale of the business had to be structured in a 
+way which allowed the assets of Box Processing to be sold to the third party 
+rather than shares.”  
+106. The outcome (as simplified) was that a new company, Bookham Services Limited 
+(“Bookham”) was formed on 25 October 2022 and through share exchanges became 
+the Company’s parent. This occurred after the Company had purchased and cancelled 
+Mr Yanpolsky’s 10,000 ( 7 November 2022) and 1,389 deferred shares. On 14 
+November 2022, t he Company’s assets and liabilities were transferred and assigned to 
+it for no consideration.  The Company was a dormant subsidiary until 16 November 
+2022 when its shares were transferred to Fetc ham, which had been formed on 7 
+November 2022 for the purpose of enabling Bookham to become a company no longer 
+connected to the Company. Bookham ’s shares could then be sold at a consideration 
+representing the value of what had been the Company’s business (including its 
+liabilities ).  
+107. The purchase agreement for the sale of Bookham’s shares between Mr Macmillan  
+(10,000 shares) , Mr Dow (4,001 shares) and Salt Pay is dated 7 December 2022. The 
+consideration received by Mr Macmillan and Mr Dow can be summarised as follows:  
+£250,000 cash; £550,000 to repay outstanding loans from shareholders; and £2,000,000 
+in SaltPay s hares (in total £2,800,000 , the transfer of those shares being deemed 
+reduction in that sum of the purchase price for the Bookham shares ). The shares and 
+cash were to be apport ioned: Mr Macmillan 832 shares and £177,500; and Mr Dow 340 
+shares and £72,500 cash.  Apparently, there are restrictions upon the sale of the shares 
+which are currently described by or on behalf of Mr Macmillan and Mr Dow as illiquid 
+assets. In addition, Mr Macmillan was offered and accepted a service contract with 
+Bookham.  
+108. The intention of Mr Macmillan and Mr Dow was that the Company would be struck 
+off. This was prevented by this litigation and that has led to issues,  but they need not be 
+addressed.  They take this matter no further.
+
+Approved Judgment  Double -click to enter the short title  
+ 
+29 
+ I) Decision – First Issue - s.994  
+Ground 1:  As a result of the Hidden Shareholder Agreement, “he retains and 
+retained full equity” in the 8,611 and the 1,389 Shares and their deferment and/or 
+expropriation was unfair and prejudicial to his interests as a member and 
+shareholder.  
+109. The findings of fact, which need not be repeated,  mean this ground fails. There was no 
+Hidden Shareholder Agreement  (as defined to include representation and/or 
+understanding) . The termination of Mr Yanpolsky’s employment and the automatic 
+deferment of his 8,611 Shares pursuant to Article 15 of the Original Articles occurred. 
+That is a fact. It was not an exercise of “pure presentation”. To advance the case of a 
+Hidden Shareholder Agreement, Mr Yanpolsky  had to present written and/or oral 
+evidence establishing on the balance of probability that such an agreement was 
+concluded or representation made and relied upon or understanding reached. The 
+evidence does not do this. The evidence does not establish on the balance of probability 
+that the work he carried out in prison , which the findings accept, was carried out 
+pursuant to an agreement, representation or understanding that he “retained his full 
+equity in the Company”  and/or that his deferred shares would revert to ordinary shares 
+upon the discharge of his sentence and/or release from prison.  
+110. It cannot  be successfully argued that he continued to be an employee of the Company 
+by reason of the substantial work carried out for the Company whilst in prison whether 
+by reference to Article 2(c) of the Original Articles or otherwise. His employment was 
+terminated . The decision to terminate has not been challenged and no -one suggests that 
+the letter of termination he received was other than precisely that. T here is no evidence 
+to establish on the balance of probability a new agreement to employ him or t o retain 
+him as a consultant. The evidence fails to establish on the balance of probability  that he 
+carried out his work pursuant to a representation or understanding of similar affect.  
+111. The deferment of the 8,611 S hares  complied with the binding terms of the Articles. 
+There is no evidence to establish on the balance of probability an “explicit term of the 
+spoken variation that the shares of the Petitioner would be returned to him as ordinary 
+shares or treated as ordinary shares as between the Petitioner and First Respondent, 
+upon the discharge of his criminal sentence and release from prison” . 
+ 
+Ground 2:  Adoption of the Amended Articles was unfair and prejudicial to his 
+interests as a member and shareholder and was  a breach of the Hidden 
+Shareholder Agreement.  
+112. This ground must fail insofar as it alleges breach of the Hidden Shareholder Agreement 
+but the remaining allegation raises the issue of the inter -relationship between the 
+following two principle s: 
+a) That the majority shall not exercise their powers under a company’s articl es of 
+association to oppress or otherwise to be unjust to the minority ; and  
+b) The principle that the majority are and should be able to act in their own interests 
+when exercising their powers in accordance with a company’s constitution.
+
+Approved Judgment  Double -click to enter the short title  
+ 
+30 
+ 113. The f irst principle is an inherent restraint that can be analysed either as an implied 
+contractual term or as an equity of the minority shareholders. The second principle 
+reflects the fact that the articles of association  are the constitution, the rules, of the 
+company which  represent the contract between the shareholders . If the rules permit the 
+majority vote, the minority should accept it.   
+114. Those two principles were addressed by the then Chancellor in Re Charterhouse 
+Capital Ltd  (above)  at [90] as follows:  
+“(1) The limitations on the exercise of the power to amend a company’s articles 
+arise because, as in the case of all powers, the manner of their exercise is 
+constrained by the purpose of the power and because the framers of the power 
+of a majority to bind a minority will not, in the absence of clear words, have 
+intended the power to be completely without limitation. These principles may be 
+characterised as principles of law and equity or as implied terms: Allen (above) 
+at 671; Assenagon (above) at 278 –280.  
+(2) A power to amend will be validly exercised if it is exercised in good faith in 
+the interests of the company: Sidebottom (above) at 163 (3) It is for the 
+shareholders, and not the court, to say whether an alteration of the articles is 
+for the benefit of the company but it will not be for the benefit of the company if 
+no reasonable person would consider it to be such: Shuttle worth (above) at 18 –
+19, 23 –24, 26 –27; Peters’ American Delicacy Co (above) at 488”.  
+115. The issue of inter -relationship arises for the Petition in the context of a fundamental 
+distinction between the first and second deferments of Mr Yanpolsky’s Shares. In the 
+case of the 8,611 shares, deferment occurred pursuant to the Original Articles which he 
+had accepted as binding when he became a member of the Company. The 1,389 shares, 
+however, were deferred pursuant to the Amended Articles . As is apparent from the 
+findings of fact and will be expanded upon  below , this occurred when the amendment 
+was a dverse to his interests but of benefit to the majority who voted.  However, the 
+shareholders had power given to them by the Original Articles to amend by special 
+resolution, and therefore by majority . Absent the case of unfair prejudice, there is no 
+challenge to the validity of the resolution once it is established that there was no Hidden 
+Shareholder Agreement.   
+116. The law concerning the inter-relationship  needs to be explored in more detail. However, 
+in a nutshell, it depends upon whether the resolution passed is a resolution in which the 
+Company has an interest. If it is, the majority can exercise their power  even if it is 
+beneficial to them and oppressive or even unjust to the minority provided,  they do so 
+in good faith and the decision is for the benefit of the company concerned. If it is not in 
+the interests of the company concerned, however, they must not exercise a power to 
+oppress or otherwise to be unjust to the  minority. The issue of good faith and benefit to 
+the company concerned do not arise because it is only the shareholders who hold an 
+interest in the outcome. That principle can be found in the decision of the Court of 
+Appeal in  Re Charterhouse Capital Ltd  (above)  which now requires analysis to address 
+its application to the Petition .   
+117. The headnote explains  the case as follows :
+
+Approved Judgment  Double -click to enter the short title  
+ 
+31 
+ “This was an appeal from an order of Asplin J ([2014] EWHC 1410 (Ch)) 
+dismissing a petition pursuant to s.994 of the Companies Act 2006  claiming that 
+the affairs of a company had been conducted in a manner unfairly prejudicial 
+to the petitioner as a member of the company where, following an alteration of 
+the company’s articles of association, the issues included the propriety of the 
+compulsory acquisition of the petitioner’s shares in the company at what he 
+claimed was a gross undervalue.”  
+118. At first glance this may appear to reflect the facts of this case but it is convenient here 
+(albeit that it does not affect the legal principles being considered) to note the potential 
+distinctions which can be drawn from the third holding:  
+“The amendments to the articles were valid. The judge found that there was no 
+evidence of bad faith or improper motive and there could be no possible 
+challenge to that finding. The amendments to the articles were in substance, as 
+the judge had found, a “ti dying up exercise”, extending the protective condition 
+in the articles and the exit provision in the shareholders’ agreement that the 
+non-purchaser shareholders holding a majority of the remaining shares must 
+agree to the proposed sale. The amended drag pr ovision also provided a 
+mechanism by which, if any shareholder failed to transfer their shares to the 
+buyer pursuant to a relevant sale, the buyer could request the directors to 
+authorise some person to execute and deliver on behalf of the shareholder any 
+necessary transfer in favour of the buyer. The changes made the articles clearer 
+and more consistent, facilitated the transfer and registration of shares 
+compulsorily acquired and were for the benefit of the company even if they also 
+benefited the sharehol ders as such.”  
+119. As a matter of fact, the resolution to adopt the Amended Articles cannot be described 
+as a “ tidying up ” exercise. It produced an extension of the contract between the 
+shareholders which applied retrospectively to conduct which the members had 
+previously not agreed to include as a sanction resulting in share deferment. It also 
+extended the sanction to all of the ordinary shares not just to a proportion calculated in 
+accordance with the Original Articles.  
+120. However, returning to law, t he key point is that the Chancellor distinguished between 
+decisions solely for the benefit of shareholders in which the company concerned had 
+no interest from decisions which were or were also in the interests of the company.  As 
+to the former, a decision made in good faith in the interests of the company will not be 
+invalidated  despite it adversely affecting the minority of shareholders. This is explained 
+by the Chancellor  as follows : 
+“(5) The mere fact that the amendment adversely affects, and  even if it is 
+intended adversely to affect, one or more minority shareholders and benefit 
+others does not, of itself, invalidate the amendment  if the amendment is made in 
+good faith in the interests of the company: Sidebottom at 161, 163 –167, 170 -
+173; Shuttleworth; Citco (above) at 210, 213; Peters’ American Delicacy Co at 
+480, 486.”.  
+121. The Chancellor also explained the test as to whether the alteration of the articles was in 
+the interests of the company  as being whether the shareholders acting in good faith were 
+of the view that it was for the benefit of the company provided this was not a resolution
+
+Approved Judgment  Double -click to enter the short title  
+ 
+32 
+ to amend which no reasonable person could consider was for the benefit of the 
+company . The Petition does not make such an allegation.   
+122. The Chancellor then addressed the position if the company concerned has no interest . 
+The principle that the majority shall not exercise their powers under a company’s 
+articles of association to oppress the minority will apply irrespective of issues of good 
+faith and improper motive addressing the interests of the company. The Chancellor 
+explained it as follows within paragraph [90] of the judgment agreed to by the other 
+two Court of Appeal judges (underlining for emphasis):  
+“(6) A power to amend will also be validly exercised, even though the 
+amendment is not for the benefit of the company because it relates to a matter 
+in which the company as an entity has no interest but rather is only for the 
+benefit of shareholders as such or some of them, provided that the amendment 
+does not amount to oppression of the minority or is otherwise unjust or is outside 
+the scope of the power : Peters’ American Delicacy Co at 481, 504, 513, 515; 
+Assenagon.” . 
+123. That sixth principle is addressed further by the Chancellor at paragraphs [92-96] during 
+which he emphasise d: 
+“In the case of an amendment in which the company as an entity has no interest 
+(which, as it happens, is not the present case) I would prefer to express the test 
+as one which depends on the type of vitiating factors [oppression, appropriation 
+of an unjust or reprehensible nature, and a purpose outside the scope of the 
+power] described by Latham CJ and Dixon J in Peters’ American Delicacy Co 
+[(1939) 61 C.L.R. 457]  rather than in terms of the benefit to the “corporators 
+as a general body” or a “hypothetical m ember” as in Evershed MR’s judgment 
+in Greenhalgh  [Greenhalgh v Arderne Cinemas Ltd [1951] Ch. 286] . That is 
+the reason why I have expressed [90(6)] as I have.”  
+124. The Court of Appeal therefore drew the clear distinction  between cases where the 
+decision of the majority concerns matter(s) in the interests of the company and ones 
+where it does not. Applying the facts in  Re Charterhouse Capital Ltd  (above) , the 
+Court of Appeal was satisfied that the “tidying up  exercise ”, as described, was in the 
+interests of the company.  The purpose was legitimate, in that it prevented a minority 
+blocking a sale of the whole company. That was a  scenario anticipated by the original 
+articles which must have been intended to apply to such a  situation . The amendment 
+applied to all shareholders, the minority were protected sufficiently for the minority to 
+have confidence that any resulting purchase of their shares would be on terms and at a 
+price which were fair and proper. The amendments by making the articles “clearer  and 
+more consistent and facilitating the transfer and registration of shares compulsorily 
+acquired ––were for the benefit of the company even if they also benefited the 
+shareholders as such ”.  
+125. Therefore,  on the facts of that case, the  amendment was in the interests of the company  
+and, as a result the principle that an amendment adversely affecting the minority will 
+still be valid if made in the good faith in the interests of the company applied.  The 
+arguments to the contrary were largely rejected as being challenges to facts the trial 
+judge was entitled to reach. However, they included a submission that in any event there 
+was unfair prejudice ( even when applying the sixth principle  above ) because  the
+
+Approved Judgment  Double -click to enter the short title  
+ 
+33 
+ enforced sale would be at a price significantly below real value  for reasons expanded 
+upon in the judgment of the Chancellor . Many of the arguments to support the 
+submission failed as attempts to re-try the case on appeal. However,  the Chancellor also 
+said this:  
+“121. Aside from the issue of the remuneration model, I do not propose to 
+address each of Mr Chivers’ submissions on the valuation issue because the 
+general answer to all of them is that each of the founders agreed in cl.7.2 of the 
+shareholders’ agreement t hat, if the founder majority agreed to pursue an exit, 
+he would be bound to sell his shares “provided that the terms on which he is 
+required to sell his shares are no less favourable to him than those being offered 
+to any other shareholder”. In other words , Mr Arbuthnott, as one of the 
+founders, agreed that he would be bound by the price with which the founder 
+majority was content  ….. 
+126. The factual setting for the shareholders agreement was that the founders 
+were, as the judge found, a group of sophisticated financial professionals with 
+an intimate knowledge of the private -equity business. They had sufficient trust 
+in each other to g o into business together. It is perfectly natural that, in such 
+circumstances, they would be willing to rely on the honest judgment of the 
+founder majority as to what were fair and reasonable terms for a sale in the 
+context of cl.7.2. In the light of the f actual background to the shareholders’ 
+agreement, I consider that cl.7.2 contained an implied term that the founder 
+majority would not agree to pursue an exit except on terms which they honestly 
+considered to be fair and reasonable. ” 
+126.  It was unnecessary in context for the Chancellor to have to spell out the relevance of a 
+fair and reasonable price when there was such a provision,  and the resolution “only” 
+required “good faith” because it was a decision in which the company had an interest. 
+However, the importance of such a requirement is readily apparent and, indeed, it was 
+of similar importance to Evershed MR in Greenhalgh v Arderne Cinemas Ltd (above) 
+as referred to by the Chancellor , paragraph [93] of Re Charterhouse Capital Ltd  
+(above). 
+127. Applying t he principles of law established by the Court of Appeal to this case , the 
+following conclusions are to be drawn : 
+a) The Petition does not allege th at Mr Macmillan and Mr Dow when passing the 
+resolution to adopt the Amended Articles acted in bad faith . Nor can it now be 
+alleged as decided within the judgment delivered orlly on the first day of trial in 
+respect of Mr Beaumont’s informal application arising out of Mr 
+MacGuinness’s reliance upon Re Charterhouse Capital Ltd  in his skeleton 
+argument.  
+b) This second ground can only succeed if the vitiating factor (s) relied upon, 
+oppression of the minority  and/or unjustness , applies to a resolution in which 
+the Company did not have an interest.  
+c) The submissions of law of Mr Beaumont (above) require expansion to add  the 
+sixth principle of the Chancellor (above ), which in this context means that if the 
+resolution was not in the interests of the Company  and only in the interests of
+
+Approved Judgment  Double -click to enter the short title  
+ 
+34 
+ the shareholders , the power to amend will not have been properly exercised if 
+the amendment amounts to oppression of the minority or is otherwise unjust .   
+128. The Petition accepts that the amendment applied to the 1, 389 Shares . There is a 
+potential argument of construction that the amended Article 15 only applies from the 
+date of its commencement (i.e. that it is prospective only) with the result that Mr 
+Yanpolsk y could not cease to be an “Employee” because he was not one  at or after th at 
+date. This argument has not been advanced,  but it draws attention to the point that this 
+amendment is relied upon to effect past actions which were not at the time the subject 
+of the sanction now introduced. It was not a sanction that Mr Yanpolsky had “signed 
+up to” when becoming a member.  
+129. For the purpose of oppression, Mr Yanpolsky relies upon the fact that Mr Macmillan 
+and Mr Dow intended the amendment to apply to him and to have the immediate effect 
+of automatic ally deferring his remaining 1,389 S hares. The resolution was to his 
+detriment and to the benefit of the majority who passed it. His detriment being that his 
+shares became effectively worthless,  and their transfer could be compelled. The benefit 
+for the majority was that Mr Macmillan and Mr Dow became the sole members with 
+voting rights and at their choosing could become the sole members should the deferred 
+shares be bought for £1.00. This was a valuable outcome to them even based upon the 
+share valuation they had already placed on Mr Yanpolsky’s shares in their two offers 
+to purchase. It was of real value based upon a valuation of the Company’s fixed asset 
+which led to the price they received for their Bookham sh ares in due course.  
+130. One counter to this, although understandably it did not appear to be maintained  in 
+submissions , was that offers to purchase had previously been made at a fair price and 
+refused. Th is faces two fundamental problems. First, these were commercial offers to 
+achieve a contractual result and there was no obligation upon Mr Yanpolsky to accept 
+them or even to respond.  
+131. It is, of course, correct that in  O’Neil v Phillips (above) Lord Hoffmann explained that 
+an offer to purchase at a fair value was only relevant to costs (see 1106 B -H) but went 
+on to opine (see 1106-7 H-E) that exclusion by a majority shareholder wishing to end 
+the association may not be unfair if it is combined with a  reasonable offer  to purchase 
+the shares  normally without a minority discount . However, that does not mean that if a 
+reasonable offer is made and rejected, the majority can then exclude unfairly and 
+prejudicially without a reasonable offer being made  at the time of exclusion .    
+132. Second, the offer was far from fair. First, it  did not meet the requirements set out by 
+Lord Hoffmann (see 1107  D-H). Second, I accept the evidence of Mr Isaacs with 
+reference to his report to that effect. His opinion was unequivocal during cross -
+examination. That is not surprising. The valuation failed to address the true commercial 
+value of the Company’s fixed asset.  
+133. The real counter was that the resolution to adopt was in the interests of the Company  in 
+the context of the effect of Mr Yanpolsky’s criminal conviction upon the Company . 
+That being so, the resolution to adopt can only be challenged if bad faith is alleged , and 
+it is not. If it had been, they would have relied upon the evidence concerning the facts 
+that the Company was in financial difficulty and could not progress through trade or 
+investment or even sale without Mr Yanpolsky’s removal as a shareholder beca use his 
+criminal conviction tainted the Company’s goodwill.
+
+Approved Judgment  Double -click to enter the short title  
+ 
+35 
+ 134. I accept that an amendment extending the automatic deferment provisions to criminal 
+convictions might be in the interests of a company  depending on the facts and all the 
+circumstances . If so, that would leave the test of good faith. That does not, however, 
+give carte blanche to the majority  to pass a resolution in a form which include s terms 
+that result in oppression of the minority or is otherwise unjust  if those terms are only 
+relevant to the interests of the shareholders not the company .  
+135. Article 15 and the associated articles of the Original Articles could have been amended 
+in the interests of the Company to provide, as they did, for deferment by reason of 
+conviction. This amendment also provided , however, that the deferment would result 
+in the shares having a nominal value and being the subject of compulsory transfer  for 
+nominal value . That part of the amendment was not a matter of interest to the Company. 
+The price to be paid to Mr Yanpolsky and the financial gain for Mr M acmillan and Mr 
+Dow were matters only of interest to the shareholders.  
+136. In those circumstances the issue is whether those provisions as to value and transfer 
+were oppressive and/or unjust to the minority. The retrospective nature and the obvious 
+benefit gained by Mr Macmillan and Mr Dow as the majority shareholders shine out as 
+a para digm example of a resolution that by its inclusion of th e provisions as to value 
+and transfer in the interests of the majority shareholders alone breached the inherent 
+restraint of the principle that the majority shall not exercise their powers under the 
+articles of a company to oppress the minority.  
+137. It is clear that the amendment could and should have provided that the  deferred shares 
+would have and could be transferred at a fair and reasonable price. If support for this is 
+needed, reference back can be made to the emphasis of th e Chancellor and of Evershed 
+MR (see above) upon the importance of ensuring that the majority  “would not agree to 
+pursue an exit except on terms which they honestly considered to be fair and 
+reasonable.”  That quotation from the Chancellor’s judgment in Re Charterhouse 
+Capital L td (above) is apposite. It reflects the fundamental principle that the majority 
+should not exercise their powers conferred by the articles of association to oppress or 
+otherwise to be unjust to the minority.   
+138. I conclude, therefore, that the resolution to adopt the amendment for Article 15 of the 
+Original Articles to the extent that it applied retrospectively to Mr Yanpolsky and would 
+enable Mr Macmillan and Mr Dow to expropriate  his 1, 389 Shares for £1.00 was not in 
+the interests of the Company and was an unfair and prejudicial act.  
+139. When reaching that conclusion,  I have considered whether this has been properly 
+pleaded. Although there should have been express wording to the effect that the above -
+mentioned implied term or equity have been breached and impinged, the Amended 
+Petition makes plain that the case is founde d on unfairly prejudicial conduct caused by 
+the amendment of the articles to the obvious detriment of Mr Yanpolsky. The Amended 
+Defence shows this was appreciated and there is nothing unfair in the context of the 
+litigation to prevent that conclusion being reached.  
+140. That means it is unnecessary and, indeed, it is irrelevant to address the concerns raised 
+within the findings of fact concerning Mr Macmillan’s and Mr Dow’s knowledge of the 
+real value of the Company whether because of their knowledge of the Product alone or 
+as a result of acquisition discussions with Mr Brewer of Paymentology which he had 
+“with Robert Macmillan in 2021 and 2022 ... [when he ] mentioned the possibility that
+
+Approved Judgment  Double -click to enter the short title  
+ 
+36 
+ Paymentology or Teya, would be interested in looking at potential partnerships or 
+acquisitions” .  Also it is unnecessary to dwell on the fact that neither offer to purchase 
+Mr Yanpolsky’s 1,3 89 Shares referred to those discussions nor to the need for any 
+valuation to consider them  or for Mr Yanpolsky to be aware of them give him a fair 
+opportunity to assess the value of the offers.  
+141. I accept Ground 2 has been proved on the balance of probability.  
+ 
+Ground 3:  The subsequent, purported passing on 7 March 2022 of a special 
+resolution to convert his 1,389 ordinary shares to deferred shares was invalid. The 
+required 75% majority was not achieved when Mr Yanpolsky retained his equity 
+in the 8,611 ordinary shares pu rsuant to the Hidden Shareholder Agreement 
+together with his 1,389 ordinary shares. As a result, but even if legally valid,  the 
+voting for and implementation of the resolution was unfair and prejudicial to his 
+interests as a shareholder.  
+142. This ground insofar as it relies upon invalidity fails because of the decision that there 
+was no Hidden Shareholder Agreement. The ground that the resolution was not in his 
+interests as a shareholder repeats the issue of oppression addressed in “Ground 2”. To 
+address it further would effectively be tautologous. The ou tcome is the same.  
+ 
+Ground 4:  The transfer of the Company’s business (assets and liabilities) to 
+“newco” and the later sale of “newco’s shares” owned solely by Mr Macmillan and 
+Mr Dow was unfairly prejudicial to his interests as a member and shareholder.  
+143. The transfer of the Company’s business stems from the Amended Articles deferring his 
+1,389 Shares. It is a matter to consider when applying the remedy of s.996 of the 
+Companies Act 2006 . 
+ 
+ 
+J) Decision – Second Issue - Remedy , s.996  
+144. Addressing Mr Beaumont’s submissions of law, the starting point is to consider whether 
+Mr Yanpolsky’s conduct concerning his criminal conviction and the alleged placing of 
+the business in jeopardy should lead to the conclusions that the adoption of the 
+Amended Articles was not unfair or that he has brought the prejudice upon himself or 
+that the court should decide not to grant relief.  
+145. In my judgment it would be wrong for me to reach that conclusion when the true 
+mischief was not the adoption of an article extending Article 15 to criminal convictions 
+but the adoption of such an article without ensuring that any subsequent compulsory 
+transfer would be at a fair and reasonable price. That should have been the approach 
+taken by Mr Macmillan and by Mr Dow and the court should not in effect reach a 
+different conclusion in practice by leaving Mr Yampolsky  without a fair and reasonable 
+price. Wh ilst it is obviously true that none of this would have occurred but for Mr
+
+Approved Judgment  Double -click to enter the short title  
+ 
+37 
+ Yanpolsky’s conviction, the shareholders had signed up to the Original Articles which 
+left him with the 1,386 Shares . It was only the decision to amend Article 15 in the form 
+adopted which resulted in his 1,386 Shares becoming deferred and subject to 
+compulsory transfer for £1.00.        
+146. In those circumstances the remedy should restore him to the position he would have 
+been in had the Amended Articles provided within article 15 for his shares to be 
+transferred if compulsorily transferred for a fair and reasonable price. I do not consider 
+it appropriate to decide that Mr Yanpolsky’s conduct should otherwise affect th at relief  
+because it achieves restoration to what should have been the position .  
+147. The parties agreed a single joint expert and neither side applied (as permitted by 
+directions) for a split trial. Mr Isaacs  was instructed to provide opinion as to the market 
+value of the 1,389 Shares (assuming total issued share capital of 15,390 ordinary shares) 
+in February 2022, March 2022, December 2022 and as at the date of his report on the 
+alternative bas es that a minority discount does and does not apply. His conclusions were 
+based upon accounts for the Company for the three years ended 31 May 2022 and the 
+forecasts provided. His calculations on the basis of the Company’s discounted cash 
+flows are: 
+        Discount rate     Valuation  
+   Paragraph        50%           70%       (midpoint)  
+   reference      £’000          £’000         £’000  
+February 2020   5.9.1   4,148         2,433         3,291  
+February 2022   6.6.1   3,803  1,413         2,608  
+March 2022   7.3   4,025   1,573          2,799  
+148. He took into consideration his opinion that:  
+“The valuations in the table above are broadly consistent with:  
+i) the implied valuation of £1.4million when Mr Dow originally acquired his 
+shares in the Company in 2019, at which time I would expect its value to have 
+been less than the figures in the table above because of the Company’s infancy; 
+and  
+ii) the figure of roughly £3million which SaltPay paid to acquire the business 
+and assets, albeit that a significant element of that value was in illiquid non -
+voting shares.”  
+149. He also opined:  
+“the values set out in the table … above could only have been achieved if a 
+significant element of the consideration was deferred over an extended period 
+of time and was contingent on future performance. I consider it highly unlikely 
+that these values coul d have been realised from a cash purchaser, not least
+
+Approved Judgment  Double -click to enter the short title  
+ 
+38 
+ because at each of the valuation dates the Company had generated little revenue 
+and its product was relatively untested in the market.  
+In other words, the extent to which the value of the shares could have been 
+realised would have been significantly lower if a purchaser was required to pay 
+an upfront sum in cash. ” (“the Deferred Consideration Issue”)  
+150. The Petitioner sought to argue for a valuation higher than £2.8 million based on the 
+anticipation that this would be established by cross -examination of Mr Isaacs . There is 
+no suggestion in closing that this anticipation was realised , it was not pursued and that 
+is a realistic  approach . As a result it is unnecessary to address the arguments raised in 
+cross -examination which were rejected by Mr Isaacs .  
+151. Mr Beaumont in his skeleton argument objected to the use of forecasts on the basis that 
+they are “highly speculative” . He also described the premise of growth of revenue as 
+“imaginative” . These are arguments without the support of expert opinion. They are 
+also made in the face of my assessment of Mr Isaacs and the failure to make inroads 
+when seeking to challenge his opinion during cross -examination . In addition, they are 
+at odds with the feature s of consistency in particular with the sale to SaltPay.  Based  on 
+closing submissions, I do not understand this conclusion to be in issue and, therefore, 
+need not develop it further.  
+152. This brings into play the further argument on behalf of Mr Macmillan and Mr Dow that 
+the SaltPay transaction was only available because Mr Yanpolsky ceased to be a 
+shareholder. One of the ways Mr Beaumont  puts it is: “It must not be forgotten that a 
+hypothetical sale of the Company in such a scenario would have been with P, a criminal 
+hacker, still in situ. If so, the company would not have been capable of being sold to 
+Salt Pay at all, as the evidence shows.”  In addition, Mr Beaumont in his skeleton 
+argume nt submitted that “the forecasts were predicated on all of the founders and 
+directors being and remaining men of good character. They did not reflect the criminal 
+conviction of one of them for computer hacking, nor the reaction to that event of a very 
+limited, niche marketp lace for gaining new custom” . 
+153. I do not accept that approach. It is a fact that Article s 7 and 15 of the Amended Articles 
+were activated not only by deferment but by the compulsory transfer of Mr Yanpolsky’s 
+shares. He only received (in principle perhaps) £1.00 for that transfer when he should 
+have received a fair and reasonable price. A fair and reasonable value will be based 
+upon the value of the shares in the context of the value of the Company assuming a 
+hypothetical willing seller and buyer. In this case the buyer, who would be Mr 
+Macmillan and Mr Dow, would be negotiating their purchase price on the bas es of the 
+value of the  Product , the current and future income to be received , and the current and 
+future net profit (i.e. including consideration of debt) as those future factors affect the 
+value of the shares being sold.  They would be adding to their shares in the circumstance 
+of Mr Yanpolsky no longer being a shareholder in the future. Those negotiations are 
+clearly hypothetical but that is why the opinion of the expert is to be relied upon  to 
+provide a valuation at the relevant date .  
+154. That valuation is based on the Company going forward without Mr Yanpolsky as a 
+shareholder . Therefore, in the context of the hypothetical purchasers adding to their 
+shareholdings in circumstances of the Company’s goodwill not being affected by the 
+continu ing membership of Mr Yanpolsky.  There is no expert opinion to the effect that
+
+Approved Judgment  Double -click to enter the short title  
+ 
+39 
+ Mr Yanpolsky’s past membership would continue to taint the value. That is 
+unsurprising and accords with the evidence that the reason for his removal was to 
+achieve a growth in the customer basis and/or investment and/or sale. There is no 
+suggestion that the “clean break” intended would not be effective and, indeed, it was.  
+155. Mr Beaumont’s skeleton argument contends instead that t he rationale of Mr Isaacs ’s 
+report is (wrongly) that Mr Yanpolsky should not have been dismissed and the dismissal 
+was prejudicial. It is not. The rationale is that Mr Yanpolsky should have been entitled 
+under the Amended Articles  to receive a fair and reasonable price following the 
+compulsory transfer of the 1,389 Shares. It is not the case, as the skeleton argument 
+propose s, that correction of the prejudicial outcome requires Mr Yanpolsky to be treated 
+as a continuing shareholder. Whilst t here is still a discretion for the court to reduce the 
+valuation taking into consideration conduct , for the reasons set out above I do not 
+consider that appropriate.  
+156. That rationale leads to the conclusion that the date of valuation should be as near as 
+practical to the date Mr Yanpolsky’s 1,389 Shares were transferred. Mr Isaacs ’s nearest 
+valuation is for March 2022  which ties in with their classification as deferred shares on 
+7 March 2022  and the resolution to transfer them to Box EBT on 24 March 2022.  
+157. There is fall back argument that Mr Yanpolsky had in any event to transfer his shares 
+upon cessation of his employment pursuant to clause 20 of his service contract. For that 
+to have effect, there was first to be a board resolution that terminated the contract under 
+clause 17. In this case (in summary) on the ground that his conduct resulting in and 
+including his conviction has in the opinion of the board brought into serious disrepute 
+or has prejudiced or may prejudice the business or affairs of the Compan y. Further or 
+alternatively that he has been convicted of a criminal offence that in the reasonable 
+opinion of the board materially affected his ability to perform his duties. It is then 
+provided in clause 20  that “any qualifying or nominee shares [he held] in connection 
+with [this e mployment ]” are to be transferred “to the Company or such other person as 
+the Company may direct” .  
+158. The term “qualifying or nominee shares”  has not been defined and there is no reference 
+in the contract to Mr Yanpolsky being entitled at any time to receive shares as an 
+employee. This is a provision that has not been argued further but  the 1,389 Shares were 
+not provided in connection with his employment but as “Founder ” shares. This would 
+explain why the Original Articles had to be amended, why the Company relied upon 
+Article 15 of the Amended Articles of Association , why clause 20 does not apply  and 
+why it is not relied upon for the purpose of submitting that the Petition should be 
+dismissed (as summarised in paragraph 3 of the skeleton argument , although noting 
+paragraph 28 ).  
+159. Mr Isaacs ’ pro rat a midpoint valuation of a 9.03% shareholding without a minority 
+discount as of March 2022 is £253,000 . I accept this evidence subject to th ree matters.  
+160. The first is Mr Isaacs ’s response number 15 to the questions asked of him on behalf of 
+Mr Macmillan and Mr Dow:  
+"15. The “target return rate” is intended to reflect risk. Professor Damodaran’s 
+2009 report, refers to a target risk rate of 50% -70% across start -ups. In 1998, 
+the data group that FinTech would have fallen into, has the highest failure rate.
+
+Approved Judgment  Double -click to enter the short title  
+ 
+40 
+ This reflects more recent estimates of failure rates for Fintech. In addition to 
+the failure rate above, the business:  
+• had a founder in prison and key potential clients that would not work with us 
+because  
+of that;  
+• missed all revenue and growth targets by substantial margins;  
+• was being kept alive by drip -fed monthly cash;  
+• the existing investor’s last investment in Feb 2021 took the “capitalised value” 
+of the company from £1.4M to £923K.  
+Given the high failure rates for SAAS and Fintech businesses, surely the “Target 
+rate” for this SAAS/Fintech would be the upper 70 per cent, rather than a very 
+generic “catch -all” midpoint?”  
+ 
+Reply:  
+ 
+I agree, albeit that my valuation specifically excludes consideration of the first 
+of these bullet points."  
+ 
+161. That question and response do not address the question of valuation in the context of 
+the relationship and discussions between Mr Macmillan and Paymentology which 
+started, as stated by Mr Brewer, in 2021 or the fact that these discussions were not 
+disclose d to Mr Yanpolsky  when offering to purchase his shares. There may be an issue 
+not only as to the application or to the extent of the application of this part of his opinion 
+(in particular) in the light of Mr Macmillan and Mr Dow being the purchasers and 
+having an open channel with a potential investor/purchaser and/or customer as set out 
+in the findings of fact. Neither matter has been considered in submissions but the 
+findings of fact concerning the dealings between Mr Macmillan and Paymentology 
+(“the Paym entology Issue”) may have potential relevance to this target rate reduction.   
+162. The second matter is whether there should be a minority discount (“the Minority 
+Discount Issue”). Mr Isaacs , applying guidance of the Association of Chartered 
+Certified Accountants, opined that, if so, the discount should be 67.5% reducing the 
+£253,000 valuation (assuming this should be used) to £82,000.  
+163. No submissions were made  on the law or its application to the circumstances of this 
+case. Helped enormously by “Hollington Shareholders’ Rights” and with specific 
+reference to the judgment of the court by Birss LJ in Re International Automotive 
+Engineering Projects Ltd, Dodson v Shields  [2023] EWC A Civ 1391  it is clear that I 
+should approach the issue on the following bases:  
+a) The discretion is a wide one with the purpose being to value the successful 
+Petitioner’s shares “to put right and cure  for the future the unfair prejudice … 
+suffered ” by providing a fair and equitable remedy (see the words of Oliver LJ 
+in O’Neill v Phillips [1988] B.C.C. 405 as endorsed by Bir ss LJ at [115 and 
+119]). 
+b) Each case will depend upon its own circumstances not whether it is or is not a 
+quasi -partnership case, although the existence of a quasi -partnership is likely to 
+be a relevant circumstance . “In many cases no discount will be an appropriate 
+remedy for unfairness irrespective of whether or not the relationship was a
+
+Approved Judgment  Double -click to enter the short title  
+ 
+41 
+ quasi -partnership, but in other cases may be appropriate.”  (see Bir ss LJ at 
+[116]).  
+c) Reasons why it may be fair not to apply a minority discount may include a 
+decision that the majority shareholders should not be unjustly enriched as a 
+result  (see Birss LJ at [116]).  
+164. However, returning to the theme of litigation being an adversarial process, I must pause 
+here. It is not right for a Judge to identify the relevant law and circumstances to be 
+considered, identify and debate with himself the respective merits of each side’ s case 
+within the framework of that law and those circumstances, and then to reach a decision 
+from that process without the input of the parties through their counsels’ submissions. 
+For example, it is not unreasonable to anticipate that submissions will be ar in mind the 
+approach reached by Fancourt J., obviously on different facts , in Re Edwardian (above 
+at 637 -651). To take any other course would be to open the way for an appeal.  
+165. The third matter is the Deferred Consideration Issue. This too was not addressed in 
+submissions. Its outcome is dependent upon knowing the value which would otherwise 
+be paid.  
+166. I also note that the Paymentology Issue may be entwined with the Minority Discount 
+Issue and/or the Deferred Consideration Issue whether for its own or their purposes. 
+The parties should have the opportunity for submissions to be made.  I stress, however, 
+that th e Paymentology Issue is raised on entirely neutral terms for the parties to consider 
+and, for example, should they so choose, accept or submit that the Paymentology Issue 
+is irrelevant.  
+167. In reaching that decision, I understand that the parties will not want to incur further 
+costs but the answer to that is to settle now they have the decision subject to a final 
+valuation addressing the three issues. My decision, therefore, and absent settle ment, is 
+to adjourn the issue of relief to a further hearing with directions to be agreed between 
+counsel to enable submissions on the Paymentology Issue, the Minority Discount Issue 
+and the Deferred Consideration Issue.   
+  
+K) Conclusion  
+168. In summary I have found the requirements of s.994 have been met but only in respect 
+of the 1,389 Shares. The resulting remedy cannot be resolved without submissions upon 
+the Paymentology Issue (potentially), the Minority Discount Issue and the Deferred 
+Consideration Issue. A further hearing is required fo r that purpose but can be avoided 
+by settlement, which is very much encouraged.   
+169. If not, for the purpose of the order to be made upon handing down, to be drafted by 
+counsel on the basis of the paragraph above, I suggest the Petition is adjourned on terms 
+that the time for appeal/permission to appeal  concerning the decisions reached is 
+extende d in the usual terms until further order at or following the further hearing. If 
+required there should be provision for lodging dates to avoid with time estimates for 
+the adjourned hearing.                 Order Accordingly

@@ -1,0 +1,1346 @@
+Neutral Citation Number: [2018] EWHC 2230 (Comm)  
+Case No: CL -2017 -000652  
+ 
+IN THE HIGH COURT OF JUSTICE  
+BUSINESS AND PROPERTY COURTS OF ENGLAND AND WALES  
+QUEEN’S BENCH DIVISION  
+COMMERCIAL COURT  
+ 
+Royal Courts of Justice, Rolls Building  
+Fetter Lane, London, EC4A 1NL  
+ 
+Date: 26th July 2018  
+ 
+Before  : 
+ 
+HHJ Waksman QC (sitting as a Judge of the High Court)  
+- - - - - - - - - - - - - - - - - - - - 
+Between :  
+ 
+ CMOC Sales & Marketing Limited  Claimant  
+  
+- and – 
+  
+ Person Unknown and 30 others  Defendants  
+ 
+- - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - 
+ 
+Paul Lowenstein QC, Philip Hinks, Matthew McGhee (instructed by  Cooke, Young & 
+Keidan LLP )  
+ 
+ 
+Hearing dates: 10th - 11th July 2018  
+- - - - - - - - - - - - - - - - - - - - - 
+JUDGMENT  APPROVED
+
+INTRODUCTION  
+1. This is the trial of an action where none of the present defendants have engaged in the 
+litigation process at all , bar a few sporadic communications from some of them or their 
+lawyers, which came to nothing.  
+2. The first defendant is a ge neric group of defendants whose identities are unknown. The 
+second to 31st defendants are named individuals or companies. The claims made 
+against the 29th to 30th defendants, who did engage, have now been settled.  
+3. The bare bones of the claim can be stated very swiftly. CMOC is an English company. 
+It is managed by its sister company, CMOC Mining USA, operating from Phoenix, 
+Arizona. Its business is the sale and purchase of Niobium, which is a soft metal 
+predominantly found in Brazil and used in alloys such a s special steel and gas pipelines.  
+4. In October 2017 CMOC discovered it was the victim of a business email compromise 
+fraud whereby the perpetrators of the fraud had hacked into its email system and caused 
+its bank, Bank of China in London, to pay US$6.91 m illion and €1.27 million out of its 
+bank account by means of twenty separate transfers.  
+5. Mr Chen, who was one of the directors and authorised signatories, in particular had his 
+email account hacked into and as a result of that, the perpetrators were able to  send 
+emails purporting to come from him enclosing purported payment instructions to the 
+relevant people at the Bank of China in London to make the payments and they were to 
+debit CMOC’s bank account in London to the extent that I have indicated.  
+6. CMOC disc overed the fraud between 12 and 13 October and then took the action to 
+which I shall refer later on, which led to these substantive proceedings and ultimately 
+this trial.
+
+7. The 23 October 2017 was the first of some 14 pre -trial hearings in this case, 11 of 
+which have been before me. There was a large number of paper applications as well, 
+most of which equally were dealt with by me.  
+8. While the fact of the fraud is obvious from what I  have already said, the identity of the 
+perpetrators and the actual recipients  of the funds was not. However, I was invited at 
+the first hearing to grant -- and I did grant -- a world -wide freezing order against 
+“persons unknown”, which have now become known as the collective first defendant.  
+9. As amended, those “persons unknown” are defined by reference to the following 
+classes, that is to say those perpetrators of the Fraud (as particularised in the Particulars 
+of Claim) whose identities are currently unknown, including: (1) any person or entity 
+who carried out and/or assisted and/or  participated in the Fraud; and (2) any person or 
+entity who received any of the monies misappropriated from the Claimant (including 
+the traceable proceeds thereof) other than in the course of a genuine business 
+transaction with either another Defendant or  a third party; in either case, other than (i) 
+by way of the provision of banking facilities, and/or (ii) the Non Cause of Action 
+Defendants named in Schedule 2 to the Claim Form.  
+10. The process of identifying particular named defendants was undertaken essent ially by 
+obtaining information and disclosure orders against the banks into which the funds 
+were originally paid from the CMOC accounts, the CMOC accounts, as I say, being 
+with Bank of China in London.  
+11. The number of such banks and their location around th e world has steadily increased so 
+that to date there are 5 0 such banks in 19 different jurisdictions. They have been known 
+from the outset as “ no cause  of action defendants” because, of course, no substantive
+
+relief is claimed against them; they were joine d simply as respondents to the numerous 
+third party information and disclosure orders which I made.  
+PRELIMINARY OBSERVATIONS  
+12. I make a number of preliminary observations. First of all, none of the present 
+defendants have engaged so as to file a defence, or even an acknowledgement of 
+service, or to put in evidence. As CMOC recognises, I still have to be satisfied on the 
+balance of probabilities that the claim is made out, and as the underlying allegation is 
+one of fraud, as always, cogent evidence is required  in order to satisfy that burden of 
+proof. Indeed, in that regard I have been referred to the well known observations of 
+Lord Hoffmann in Re B (Children)  [2009] 1 A.C. 11 at [14] to [15] :  
+  “The court will have in mind as a factor, to whatever extent is a ppropriate in the particular 
+  case, that the more serious the allegation the less likely it is that the event occurred and, 
+  hence, the stronger should be the evidence before the court concludes that the allegation is 
+  established on the balance of prob ability.”  
+13. It follows, particularly in this case but often in cases of fraud, that much of CMOC’s 
+case depends on the drawing of inferences, and it’s important to note, as I have  been 
+reminded by CMOC, that an inference of fraud or dishonesty should only be  drawn 
+where it’s the only reasonable inference to be drawn; see the observations of Mr Justice 
+Teare at paragraph 8 of his judgment in JSC BTA Bank v Mukhtar Ablyazov  [2012] 
+EWHC 237 (Comm) . 
+14. Where the trial is not attended by one of the parties, there is still an obligation of fair 
+presentation which is less extensive than the duty of full and frank disclosure on a 
+without notice application. Mr Justice Cresswell in Braspetro Oil Services v FPSO 
+Construction Inc  [2007] EWHC 1359 (Comm)  said as follows, tha t he required the 
+claimant to draw to the attention of the court: “ points, factual or legal, that might be to
+
+the benefit of [ the defendant]. ” He noted that claims which were considered not to be 
+sustainable were not in fact pursued. He said that the claim ant brought to the attention 
+of the court points which the defendant had taken before it decided to play no further 
+part. He said that the claimant brought to his attention points which had never been 
+taken by the defendant but which might have been had it  decided to defend the 
+proceedings, and it had taken all steps to bring to the attention of the defendant what 
+has been happening here. The court had, in that case, through the eight -day hearing, 
+carefully examined and tested the claimant’s case. I adopt t hose observations and I 
+consider that the injunctions of Mr Justice Cresswell have been fully followed here. I 
+also did not regard this trial as merely an exercise of rubber -stamping but tested and 
+considered all aspects of the case.  
+15. Another feature of thi s case which follows on is that, in my judgment, this litigation 
+brought by CMOC has been marked by (a) scrupulous attention to detail and to the 
+requirements of the very many applicable procedural rules, and (b) rigorous observance 
+of the obligations of m aterial disclosure on the many without notice applications on the 
+part of solicitors and counsel involved  for the claimant , and the obligations of fair 
+presentation otherwise, to which I have referred. There have been no short cuts taken 
+and no glossing ov er of any problematic points. This is also the case for the trial itself.  
+16. Thirdly, there have been a number of innovative features of this case which I’m going 
+to refer to at the end of the judgment in some supplemental observations, but I should 
+say that so far as service is concerned, these include alternative service by way of 
+Facebook Messenger and WhatsApp. There have been numerous applications before 
+me to ensure that the method of service that is proposed is authorised by the court, and I 
+have receiv ed throughout these proceedings updates on how the service has in fact been 
+effected.
+
+SERVICE  
+17. It is not necessary or proportionate for me to go through the service history of each 
+particular defendant, but I have read carefully paragraph 27 of the skeleto n argument 
+which sets out in summary form when each defendant was served and how they were 
+served and the underlying witness statement or affidavit which actually sets out the 
+evidence for that.  
+18. In addition to that, I have a defendant summary for each of t he defendants, each of 
+which has a section concerned with service, and that again sets out by reference to the 
+underlying evidence precisely how and on what occasions the defendant has been 
+served and the reaction of those defendants, if any.  
+19. The same is t rue for notification of this trial. Indeed, CMOC has gone to the trouble of 
+producing a table dealing with that matter by reference to each of the defendants, 
+stating the method of service, address or Facebook  account details, what the outcome 
+was, when th e step was taken, when it is deemed to be serv ed, and where I might find 
+the evidence on it, and in some cases that is done by hard copy.  
+20. So for example, in relation to the second defendant, Mr Juan Carlos Carrasco Garcia, 
+there was personal service which  was accepted by Mr Garcia  in relation to Spanish 
+translations but not in relation to the English underlying documents. Then there are 
+Facebook Messenger, email and courier modes of service as well, running through from 
+February until early July in relatio n to the date of the trial. The date when most 
+defendants were first notified of trial is 21 February.  
+21. It follows that the decision of the defendants not to participate in these proceedings has 
+been both voluntary and informed.
+
+22. As with all other hearings i n this case, I have been provided with a very detailed and 
+meticulously prepared skeleton argument which summarises all of the relevant 
+evidence as well as making the legal submissions. Given that summary and the absence 
+of any arguments on evidence to the  contrary, I make no apologies for making 
+extensive reference, where appropriate, to that skeleton.  
+THE EVIDENCE  
+23. As the case has progressed, so has the volume of evidence. Prior to trial, and for the 
+purpose of the various interlocutory stages, there were numerous affidavits which I read 
+at the time. They included 12 affidavits from Mr Stewart, 14 from Mr Young and 16 
+from Mr Burton -Wills of the claimant’s solicitors’ firm, which is CYK, as I shall call 
+them.  
+24. For the purpose specifically of the trial there  was one affidavit and five witness 
+statements of Mr Christopher Flood. He was a financial analyst at CMOC at all material 
+times until February 2018 when he became a management accountant, and I have heard 
+from him.  
+25. There is also an affidavit of Andrea Cam pbell. She was the interim head of finance at 
+CMOC until December 2017. Her evidence was read pursuant to a Civil Evidence Act 
+hearsay notice. It largely confirmed the evidence of Mr Flood and there is no reason not 
+to accept it in full.  
+26. I also heard from Mr Ching -Yung Chen, a director of CMOC and the person whose 
+email account was hacked into by the fraudsters. He was also a senior vice president of 
+CMOC Mining USA Limited, which is the sister company to CMOC based in Arizona, 
+to which I shall refer to as “CMOC USA”.  
+MONEY FLOWS - GENERAL
+
+27. Before dealing with the particular legal claims made against the defendant, it is worth 
+setting out in some more detail the facts of the payments, receipts and identities of 
+those involved. I have been supplied with a very  helpful two -page flow chart of the 
+stolen funds. This forms Appendix 1 to this judgment.  
+28. Those who were the account holders of the bank accounts into which the CMOC 
+monies, as I shall call them, were paid from the CMOC Bank of China accounts are 
+called “ Level 1 payees”. The next onward payees, that is the recipients of payments 
+from the Level 1 payees, are called “Level 2 payees” and they are then followed by the 
+Level 3 payees.  
+29. The figures from the flow chart are taken from the figures originally set ou t in appendix 
+2 to the particulars of claim. There were some amendments made to correct some errors 
+which were made known to me in the course of the hearing, and also to take account of 
+some recent information. Appendix 2 itself has now been amended. I am going to 
+append to my judgment the flow chart and I am going to ask that it be corrected so that 
+it is entirely up to date.  
+30. I will say more about individual payments later, but I now turn to the fraud in more 
+detail.  
+THE FRAUD  
+31. CMOC USA manages CMOC. Both are subsidiaries of a Hong Kong company, CMOC 
+Limited, itself a subsidiary of China Molybdenum Company Limited . 
+32. There were only two authorised signatories on the CMOC Bank of China accounts in 
+London. One was Mr Chen and the other was Mr Kalidas Madhavpedd i. Both are based 
+in Arizona.
+
+33. CMOC’s principal business as I have indicated is the purchase and sale of Niobium. 
+CMOC purchased its supplies of Niobium for onward sale mainly to third parties from 
+a company called NioBras based in Brazil, where the Niobiu m comes from. NioBras 
+itself is another member of the CMOC group.  
+34. Up to about US$10 million to US$15 million would be spent by CMOC each month on 
+its purchases from NioBras. Because the two companies are associated, NioBras in 
+addition kept consolidated ac counts which included those of CMOC. This meant that 
+NioBras would, from time to time, check CMOC’s balance sheet position, among other 
+things.  
+35. The process of paying for purchases was essentially as follows: Mr Flood would check 
+an incoming invoice and co nfirm or not that it was due for payment. He would then 
+pass it to Ms Campbell. If she approved the payment, the invoice would be emailed to 
+Mr Chen along with a payment instruction.  
+36. As Mr Chen explained, CMOC would always have a supply of headed company paper, 
+which was otherwise blank save for the signature of Mr Chen and Mr Madhavpeddi. 
+They would sign 20 or 30 blank sheets at a time. A Ms Gavin  would then create the 
+payment instruction for a particular invoice and payee and put it on the headed and 
+signed sheets. It would then be sent across to Mr Chen by email, having been scanned 
+in first. Assuming that Mr Chen approved the payment, he would personally send the 
+email to Bank of China in London requesting the payment, which would then be carried 
+out. A n example of a genuine payment instruction is at C1, tab 1, page 24.  
+37. Once the perpetrators of the fraud had hacked into Mr Chen’s email account, they used 
+it to send what were in fact fake payment instructions to Bank of China but which were 
+processed as g enuine requests for the funds to be paid out.
+
+38. The genuine payment instruction headed, “Payment request”, at page 24, is addressed 
+to the Bank of China. It says:  
+ “Dear sirs, please debit our USD account [account details] to make the payment 
+ as per the bel ow instruction ” 
+It indicates the name of the beneficiary, the bank that they banked at, the account, the 
+SWIFT code, the routing number, and then it contained the signatures of Mr 
+Madhavpeddi and Mr Chen.  
+39. Of course, what the bank would see would not be an  original, because this was by then 
+a scanned copy rather than a document containing an original signature. The fake 
+payment request looked very similar and was obviously taken from a genuine payment 
+request that the fraudsters had intercepted. It said mor e or less the same thing and of 
+course contained the signatures at the bottom. One can understand why the bank would 
+have regarded it as a genuine request.  
+40. So far as the bank is concerned, because in the case of both genuine and fake payment 
+requests they would have been scanned in, the signature on the fake would have looked 
+genuine. In one sense, of course, it was a genuine signature because it would have been 
+lifted from a genuine payment request. The point is, however, it was not authorised, nor 
+at the time was it even known about by Mr Chen. There was no reason for him to 
+suspect anything was amiss in it, unless someone else told him of a problem. He could 
+still use his email account as normal and was unaware of its concurrent fraudulent 
+misuse.  
+41. At one  point, he did see that some emails intended for him from Ms Charlton (another 
+Director of CMOC USA)  had gone straight into his recycle bin, but this single incident 
+was put down to a glitch. His Outlook account was recreated, and the matter was left
+
+there . The later investigation following the fraud showed that someone, obviously the 
+perpetrators, had created a ‘rule’ in Outlook to divert Ms Charlton’s  emails probably so 
+it would take much longer before he was alerted to any problems.  
+42. When, as they did, Mr  Flood and Ms Campbell queried what turned out to be the fake 
+payment instructions on the basis they could not recall having approved the underlying 
+invoices and did not know the intended payee, they emailed Mr Chen. However, those 
+emails were intercepted,  so he never saw them, and instead the fake Mr Chen replied 
+giving a reason for these substantial payments. This was to the effect that Mr Chen was 
+involved in some sort of acquisition for CMOC USA which was using CMOC as a 
+conduit for payment, and very sh ortly, it was said, CMOC USA would reimburse 
+CMOC.  
+43. On that footing they did not take the matter any further. In CMOC’s books, the 
+payments out ostensibly for the benefit of CMOC USA then gave rise to an equal and 
+opposite receivable from CMOC USA which wo uld be shown as an asset on CMOC’s 
+balance sheet.  
+44. The emails purporting to come from Mr Chen were all the more believable since they 
+appeared to be copied to other officers of CMOC, including Ms Charlton . In fact, they 
+were not. The fraudsters had created dummy email addresses similar to the officers’ 
+actual email addresses, in fact slightly misspelt, but in a way which would not come to 
+the notice of an observer unless they were looking for discrepancies, and the domain 
+name was spelt differently so that i t was cmocintermatlonal.com, not 
+cmocinternational.com.
+
+45. It was also noticed after the event that the perpetrators signed emails ostensibly from 
+Mr Chen by typing the word “Ching.”, whereas in fact the genuine emails that came 
+from him had no full stop.  
+46. In early October NioBras started to query why CMOC’s own ledger showed payments 
+out of what was then US$5.2 million, with a reimbursement receivable from an 
+associated company in the same amount, which was not reflected in any particular 
+inter-company tradin g figures. This was important, because the only items purchased 
+with such large payments were Niobium from NioBras, otherwise payments were very 
+much smaller: for example, up to US$60,000 in respect of freight or warehousing costs. 
+These enquiries led to t he discovery of the fraud because Mr Chen was contacted and 
+for the first time he became aware of the fake payment instructions. This led to a 
+cessation of the payments, including a large one for US$3.2 million, which was stopped 
+just in time.  
+47. All of this then led, predictably, to the preparation of urgent applications for freezing 
+relief which, as I indicated, came before the court first on 23 October 2017. That is all 
+that needs to be said about the facts of the fraud.  
+48. It incontestably occurred, as expla ined in considerable detail in the witness statements 
+and affidavits of Mr Flood, in particular, and by Mr Chen in both his oral and written 
+evidence, and in the oral evidence of Mr Flood. The total sums extracted from CMOC 
+from its Bank of China accounts were, as indicated, US $6,913,503.90 and 
+€1,270,679.30 and I refer to these collectively as “the CMOC monies”.  
+THE FLOW OF THE CMOC MONIES  - DETAILED EXAMPLES  
+49. The evidence as to the destination of the CMOC monies has been set out in the flow 
+chart to which I have already referred . There is no question that this is a clear and
+
+accurate document which draws on CMOC’s own bank records and the detailed 
+evidence procured from the no cause  of action defendants and acquired by CMOC in 
+the nine months or so since the first hearing. There is absolutely no reason to doubt its 
+accuracy since it is based principally on banking documents. No useful purpose would 
+be served by my attempting to reinvent the wheel, and therefore the flow chart will 
+form part of this judgment, as I have already indi cated.  
+50. CMOC’s evidence provides the documentary back up for each of the payments and 
+their various destinations. Every single payment has been documented carefully. The 
+core bundles 3 to 6 contain the summaries for each of the defendants showing the 
+paymen t flows to and from them, and behind the summaries are the underlying bank 
+statements and other relevant documents, for example the fake payment instructions.  
+51. The summaries for each of the defendants also set out all the details that have been 
+obtained for  them, including the date and place of their birth, passport number and 
+associated addresses, telephone, email addresses, and Facebook or WhatsApp accounts, 
+if these were known. The email, telephone and WhatsApp details are particularly 
+important, because as already indicated in a number of cases I permitted service to take 
+place by these alternative means.  
+52. CMOC proposed, and I agreed, that a convenient way to deal with all of this evidence 
+at trial was for me to audit it, as it were, by being addressed on some examples. Where, 
+in particular, an action of this kind is not defended, that seems to me to be a reasonable 
+and proportionate approach, and so I look now at some examples.  
+Example 1: the 12th defendant  
+53. The first one is the 12th defendant, which is Fo xiconn Glencore Unipessoal LDA, 
+“Foxiconn”. This is a Portuguese company. Its sole director and shareholder is
+
+Francisco Manuel Corral Carrillo, the 13th defendant. Mr Carrillo is also sole director 
+and shareholder of Alfa Altantis SL , which is the 17th de fendant. In addition, Mr 
+Carrillo is a director of FJF Finansal Danismanlik SAN, the 23rd defendant, a Turkish 
+company, along with Mr Garcia, the second defendant.  
+54. In early June 2018, Mr Garcia was arrested in Spain on money -laundering charges and 
+pursuant  to an EU arrest warrant. He has since been extradited to Germany, where he is 
+presently awaiting trial in prison in Würzburg.  
+55. Foxiconn received a total of £1.561 million from CMOC, most of which went into its 
+account with Caixa Geral de Depositos (“ Caixa  Bank ”) and the rest into its account 
+with Banco BPI.  
+56. Immediately prior to the payment from CMOC there was €408 in the Caixa Bank 
+account. After payments on  the 15 and 18 and 27 September there was €1.13 million in 
+that account. Between 15 September and 1 7 November, €1.41 million was paid out to 
+12 different bank accounts in different countries, including bank accounts belonging to 
+five other defendants, being the 17th to 19th defendants and the 23rd and 24th 
+defendants.  
+57. As for the Banco BPI account, it re ceived a total of €448,458 from CMOC on 26 
+September and 5 October, and an inter -bank transfer of €60,000 from Caixa Bank. 
+Before then it had €124 in the account.  
+58. From that account, €428,649 were paid out to 19 different accounts in various 
+countries, of which four belonged to defendants, namely the 18th and 23rd to 25th 
+defendants.  
+59. Foxiconn is a good example of the speed and international character of the monies 
+flowing following the initial receipt of the CMOC monies.
+
+Example 2: the 6th defendant  
+60. I now turn to the sixth defendant. This is International Range Trading UG , a German 
+company whose director and shareholder again was Mr Garcia. Mr Garcia was also a 
+direct recipient of CMOC monies. He incorporated International Range at a notary 
+office in German y on the same day as Mr Carrillo incorporated another company, 
+Luxury Range Avant UG. Mr Garcia is also connected to Vicente Garcia Romero, the 
+fourth defendant. According to Mr Romero’s lawyer in Spain it was Mr Garcia who 
+persuaded Mr Romero to take in a nd then pay out of his bank account some of the 
+CMOC monies, about €107,000.  
+61. One of the International Range bank accounts was with Deutsche Bank  Privat und -
+Geschäftskunden AG (the “DB Account”) . The account opening f orm gave, as the 
+email address, juancarl osdautova13@gmail.com. This is an address known to be used 
+by Mr Garcia, but there is a Nadezda Dautova who lives in Spain and is herself the fifth 
+defendant. The overwhelming probability is this is the same Ms Dautova whose name 
+appears as part of Mr Garc ia’s email address. She herself receive d over € 300,000  of the 
+CMOC monies. Indeed, Ms Dautova signed for a letter sent by CYK to Mr Garcia at 
+the address that was held for him. It is also likely that these two individuals are or were 
+partners; see the information at CB3/2A/3.  
+62. On 9 October 2017,  €494,063 came into International Range’s DB A ccount from 
+CMOC. A further €247,000 was paid into its Deutsche Postbank AG account on 12 
+September 2017. €197,000 of this money came from CMOC whilst €50,000 came from 
+Lucy May Zorilla Romero, the third defend ant. She lives in Spain. She had received 
+over €400 ,000 from CMOC on 11 and 12 September. The Deutsche Postbank account 
+previously had a credit of only €1,416. After receiving the CMOC monies, the account 
+was effectively cleared out by payments to the 2nd, 5th, 10th and 22nd defendants. The
+
+account was closed on 19 January 2018. As for the other bank account, the monies paid 
+into it from CMOC effectively stayed there because they were caught by this order.  
+Example 3: the 11th defendant  
+63. I now turn to Winning  Creation Company Limited, the 11th defendant. This is a 
+Samoan company incorporated in February 2016. Its bank account was in China. This 
+was one of the countries  where the banks holding relevant accounts of payees have not 
+responded to the orders to disc lose documents and provide information. Indeed, one of  
+the banks there appear to have been actively trying to block communications from 
+CYK. Accordingly, in these instances, the information has come from the bank 
+accounts of the paying entities, being in t his particular case Universal Youth Trading 
+Company Limited and Gee Boo Trading Company Limited, the 7th and 8th defendants, 
+who are both Level 1 payees, and the relevant sums were €465,531 and US$118,500 
+and then US$347,180 respectively . 
+64. They were paid out to Winning Creation from Universal Youth Trading on 11 and 12 
+October. Winning Creation also received US$347,180 from Gee Boo Trading Company 
+Limited.  
+65. There was some limited corr espondence from a firm of lawyers in the BVI called 
+Forbes Hare. Initially, they wrote to CYK denying that Winning Creation was involved 
+in the fraud and explaining Winning Creation’s business. When asked by CYK for 
+details about all of this, and from whom  they were taking instructions, they replied that 
+they were not taking instructions from Winning Creation, but rather a Chinese lawyer. 
+After that, communication stopped.  
+Example 4: the 10th defendant
+
+66. Heram Capital SRO is the tenth defendant. This is a Cze ch company and again Mr 
+Garcia is the sole director and shareholder. It had accounts with three different Czech 
+banks: Moneta  Money Bank AS , Ceskoslovenská obchodní Banka AS and Komercní  
+Banka AS . Only the la st, however, provided information, so any inform ation about the 
+other payments comes from the paying bank.  
+67. On 14 and 11 September, it received a total of €68,861 from Ms Romero into the 
+Komercní account. Previously on that account the balance was €89. There were 
+subsequent debits of € 58,726  in total to Ms Mary Jackson -Braten, the 16th defendant, 
+who lives in Sc otland, and two other payees located in different countries.  
+Conclusions upon these examples  
+68. Having been taken to the underlying documents in these cases it is clear that the flow 
+chart is an accurate summary of the payment flows, as are the individual sum maries for 
+the defendants involved in relation to these matters. There is therefore no reason not to 
+take the whole of the flow chart at face value. Of course, this only explains what 
+monies were transferred and where, not the responsibility or otherwise o f the recipients. 
+But a further feature which emerges from the flow chart and the examples is that it 
+appears that the relevant bank accounts which received the CMOC monies were: (a) 
+located in various different countries, as were the account holders; and (b) typically 
+these accounts had little in them prior to the receipt of the CMOC monies; and (c) once 
+the CMOC monies came in, they were rapidly transferred out again, but to a larger 
+number of payees, again who were located in many different places; and ( d) the monies 
+moved on very quickly. In addition, the examples show certain individuals, in particular 
+Mr Garcia, who are clearly involved in directing where the monies are to come in and 
+go out.
+
+LEGAL ANALYSIS   
+  Introduction   
+69. CMOC has made a variety of d ifferent claims against the defendants. Those claims are: 
+(1) proprietary claims involving the use of tracing; (2) a claim for compensation for 
+dishonest assistance; (3) a claim in damages for unlawful means conspiracy, “UMC”; 
+(4) a claim in knowing receip t; and (5) a claim in unjust enrichment.  
+70. Table A sets out by cause of action the defendants against whom the relevant claim is 
+made. Table B then sets out by defendant what claims are made by them.  I append 
+Tables A and B to this judgment as Appendices 2 a nd 3 respectively.  
+71. A “receiving defendant” is defined as a defendant who has received CMOC monies, 
+either directly or indirectly, that is to say all Level 1, 2 and 3 payees. That encompasses 
+all the defendants, apart from the first defendant; the 13th defe ndant, Mr Carrillo; the 
+28th defendant, which is the company Woochinhin HK Trading Company Limited; and 
+the 31st defendant being, Mr Luis Yanguela Concepción.  
+72. The “participation defendants” are the second to 13th defendants, the 17th defendant, 
+the 22nd de fendant, and the 25th to the 31st defendants. It will be seen that there is a 
+substantial but not complete overlap between these two classes of defendant.  
+73. If a receiving defendant is a Level 1 payee, it is assumed that they knowingly 
+participated in the fr aud. This is on the not surprising inference that if they have been 
+paid directly from CMOC, they must have been a knowing player in the fraud. The 
+defendants who are participation defendants but not receiving defendants as well are 
+the 13th defendant, Mr Carrillo, who is, however, the sole director of and shareholder 
+in Foxiconn, the 12th defendant, and Alfa Altantis, the 1 7th defendant. Because he
+
+owns  and operates  these companies it is assumed that he must have participated in the 
+fraud, although he did not receive any of the funds himself.  
+74. The same is true for the 31st defendant, Mr Yanguela, who is the sole director of and 
+shareholder in the 20th defendant, Doral Investments GmbH, also a receiving 
+defendant.  
+75. The 28th defendant, Woochinhin, is also a p articipation defendant. It would have been 
+a Level 1 recipient but for the fact that the US$3.2 million which was intended to be 
+paid into its account was stopped just in time.  
+The proprietary claim  
+76. I turn first to the proprietary claim. This is made again st all receiving defendants at 
+whatever level. The starting point is the treatment of all monies procured from CMOC, 
+ie. stolen from it, as trust monies. The basis for this is that the thief is treated as a 
+fiduciary for these purposes so as to impress a p roprietary character on these monies by 
+way of a constructive trust; see in particular the dicta of Lord Browne -Wilkinson in 
+Westdeutsche Landesbank v Islington LBC  [1996] A.C. 669 at 716C -D, and also Lord 
+Justice Potter in Twinsectra v Yardley  [1999] Lloy d’s Rep. Bank 438 at paragraph 99.  
+77. That principle is also stated to be the law in Lewin on Trusts at 7 -029 and in McGrath 
+on Commercial Fraud in Civil Practice at 6.249 -6.255. McGrath makes the point that 
+while the dicta of Lord Browne -Wilkinson has in th e past attracted criticism, few 
+appear willing to depart from his view. I agree, and I take the view that this principle is 
+now well entrenched in English law. Accordingly, I am in no doubt that the CMOC 
+monies were impressed with a trust which allows them  to be traced.  
+78. The flow chart shows how far down the line, as far as the defendants are concerned, the 
+CMOC monies can be traced. All of these monies went into mixed bank accounts. That
+
+being so, the traceable proceeds are limited to what is known as the l owest intermediate 
+balance in the relevant accounts following payment into them. Three examples of how 
+the process of reaching the lowest intermediate balance has been arrived at will suffice.  
+79. First, in the case of the third defendant, which is Ms Romero, she received a total of 
+€483,000 -odd into her bank current account with Evo Banco and then there were 
+transfers from the current account into other accounts by her of €341,000 -odd to a 
+savings account, €11,000 to another account, and €70,000 to a yet furth er account.  
+80. So far as the E vo current account was concerned, the  first receipt of CMOC monies in 
+the sum of  €397,000 -odd came in  on 11 September 2017  and there was a low balance 
+beforehand of €2,277. A further payment of €85,000 of CMOC’s funds was paid i n on 
+19 December. The account was frozen on 20 December when the credit balance was 
+€3,000. In between final receipt of CMOC monies and the freezing account, the lowest 
+intermediate balance therefore was €3,000 and that is the amount which can be traced 
+into as forming part of the still traceable proceeds of the trust monies.  
+81. As far as the E vo savings account is concerned, €259,000 -odd was paid in  from the Evo 
+current account  on 12 September when the account previously had €9,000 -odd in it. A 
+further €82,0 00 was received from the EVO current account  on 20 September 2017 , 
+and previously that account had €860.64. The account was frozen on 20 September and 
+at that time the credit balance was €22,900; accordingly that is the lowest intermediate 
+balance there.  
+82. I then refer to International Range, the sixth defendant. The total amount received here 
+into the, Deutsche Postbank  account  and DB account was €741,064. CMOC funds of 
+€50,000 went into the Postbank account  from the third defendant Ms. Romero . Before 
+that t here was a credit of €1,416.46 and then a further payment of €197,000.55 of
+
+CMOC monies was paid in. The credit balance before the first payment of CMOC’s 
+monies was €2,210. The account was closed and the credit balance was nil. It followed 
+that the lowest  intermediate balance there was nil as well.  
+83. On the DB account, €97,000 -odd came in, and then a further payment of €397,000 -odd 
+was paid in. Immediately prior to that receipt, the account was in credit of €101,000. 
+The account was frozen on 20 October and at that date the credit balance was 
+€498,944.86. The lowest intermediate balance on that account was €498,944.86, but the 
+traceable proceeds is €494,063.98. That  is because it has to be in relation to the CMOC 
+monies, and that’s done by adding the first CM OC monies and the second CMOC 
+monies together.  
+84. Then in the case of Foxiconn, in the Caixa Bank account, €25,157 came in on 15 
+September. Before that the account had a balance of €408.37. A further payment of 
+€480,423.76 came in on 18 September, and a final  payment of €607,658.77 on 28 
+September. The account was frozen on 7 November and the balance of the account then 
+was €326,163. The balance did drop lower than that to €118,295.49 between receipt 
+and freezing of the accounts, but that is because three paym ents had gone out . 
+However , those payments were returned and therefore CMOC says, and I agree, that 
+the returned payments can be viewed as merely redepositing the CMOC monies which 
+were already there. So the lowest intermediate balance is €326,163.05.  
+85. As t o Foxiconn’s Banco BPI account, CMOC funds amounting to €60,000 were 
+received in September from the Foxiconn Caixa Bank account. A further payment came 
+in on 26 September being €270,658.94 directly from CMOC. The prior balance was 
+€5,766.54 to give  a final  payment of €177 ,800.57 of the CMOC funds  on 5 October 
+2017 . The account was frozen and at that time the balance was €82,759 and that again 
+was the lowest intermediate balance.
+
+86. All of those facts which I have recited can be taken from the summaries applica ble to 
+those defendants which themselves are taken from the underlying documentary 
+evidence. There is no reason to doubt the accuracy of CMOC’s figures on the lowest 
+intermediate balances for all the relevant defendants. In some cases the balance can not 
+be ascertained at all, which give s rise to a rather different form of declaratory relief. But 
+where the traceable amounts are known, it must follow that CMOC is entitled to a 
+declaration that the relevant defendant holds that sum on trust for CMOC along with  an 
+order for payment out. The relevant declaration where the sum is unknown is to declare 
+that the relevant defendant holds the traceable proceeds of the CMOC monies on trust 
+for CMOC.  
+87. The position for all of the relevant defendants in terms of the  tracea ble amounts is set 
+out in the following table : 
+Receiving Defendant  Lowest Intermediate Balance  Traceable proceeds  
+D2 – Juan Carlos 
+Carrasco Garcia  
+ Unknown  Unknown  
+D3 – Lucy Mary 
+Zorrilla Romero  Evo Current: EUR 3,000  
+Evo Savings: EUR 22,900.73  
+ Evo Cu rrent: EUR 
+3,000  
+Evo Savings: EUR 
+22,900.73  
+D4 – Vicente Garcia 
+Romero  Evo Current: EUR 0  
+Evo Savings: EUR 203.08  
+ Evo Current: EUR 0  
+Evo Savings: EUR 
+203.08  
+D5 – Nadezda 
+Dautova  Unknown  
+ Unknown  
+D6 – International 
+range Trading 
+UG DB Account: EUR 4 98,944.86  
+Postbank Account: EUR 0  
+ DB Account: EUR 
+494,063.98  
+Postbank Account: 
+EUR 0  
+D7 - Universal Youth 
+Trading Co 
+Limited  EUR 19.86 and USD 659.46  
+ EUR 19.86 and USD 
+659.46  
+D8 – Gee Boo 
+Trading Co 
+Limited  USD 322.77  USD 322.77  
+ 
+D9 – Nuanyan 
+Trading Co USD 250.36  USD 250.36
+
+Receiving Defendant  Lowest Intermediate Balance  Traceable proceeds  
+Limited  
+ 
+D10 – Heram Capital 
+SRO  
+ EUR 8,884.09  EUR 8,884.09  
+D11 - Winning 
+Creation Co 
+Limited  
+ Unknown  Unknown  
+D12 – Foxiconn 
+Unipessoal LDA  CGD Account: EUR 326,163.05  
+BPI Account: EUR 82,759.57  CGD Account: EUR 
+326,163.05  
+BPI Account: EUR 
+82,759.57  
+ 
+D13 – Francisco 
+Manuel Corral 
+Carrillo  
+ Unknown  Unknown  
+D14 – Xindayang 
+Limited  
+ USD 3.63  USD 3.63  
+D15 – Leo 
+International 
+Group Company 
+Limited  
+ Unknown  Unknown  
+D16 – Mary Jackson -
+Braten  
+ GBP 4,699.18  GBP 4,699. 18  
+D17 - Alfa Altantis 
+SL 
+ Unknown  Unknown  
+D18 – Favoured 
+Lucky 
+Enterprises Co 
+Limited  
+ USD 14  
+ USD 14  
+ 
+D19 – Hong Kong 
+Zhenlong Trade 
+Co Limited  
+ EUR 0  EUR 0  
+D20 – Doral 
+Investment 
+GmbH  
+ Unknown  Unknown  
+D21 – Protech 
+Components 
+Hong Kong EUR 0  EUR 0
+
+Receiving Defendant  Lowest Intermediate Balance  Traceable proceeds  
+Limited  
+ 
+D22 – Nuance 
+Limited  
+ Unknown  Unknown  
+D23 - FJF Finansal 
+Danismanlik 
+SAN  
+ Unknown  Unknown  
+D24 – FJF S.A.R.L.  
+ Unknown  Unknown  
+D25 – HK Villa 
+Group Limited  
+ Unknown  Unknown  
+D26 – Lorey A 
+Costantino  
+ Unknown  Unknown  
+D27 – Salsabilla 
+Water Desali 
+Equip  
+ EUR 0  EUR 0  
+D28 – Woochinhin 
+(HK) Trading 
+Limited  
+ N/A N/A 
+D31 – Luis Miguel 
+Yanguela 
+Concepcion  
+ Unknown  Unknown  
+ 
+Dishonest assistance and UMC  
+88. I now turn to dishonest assistance and UMC. It’s convenient to deal with both of them 
+together. These claims are alleged against the perpetrators, ie. the first defendant, and 
+the participation defendants. I deal first with the law.  
+(1) Dishonest assistance  - the law  
+89. The first two requirements of the claim in dishonest assistance, that there i s a trust and  
+that monies are transferred in breach of trust, are clearly established by virtue of the 
+character given to the stolen monies in my analysis above.
+
+90. Then, the defendants must have assisted in that breach of trust, ie. in procuring the 
+CMOC mo nies, and they must have done so dishonestly.  
+91. The assistance required has got to be something which is more than minimal and which 
+enables the breach of trust to be committed. A few points should be noted here:  
+(1) It does not have to be shown as a separate r equirement that the assistance actually 
+caused or was the main cause of the breach of trust, ie here the removal of 
+particular monies.  
+(2) For that reason, if liability is made out, that is a personal liability on the part of 
+the person who is being liable for  dishonest assistance which is coextensive with 
+the trustee, which would be the obligation to restore all of the stolen money. For 
+this reason, those who have assisted can be taken to have materially assisted the 
+fraud because they played their part in the  receipt and disposal onwards of the 
+various funds.  
+(3) Finally, there is no separate dishonest state of mind which is required over and 
+above the general dishonesty requirement here.  
+(2) Unlawful means conspiracy  - the law  
+92. So far as unlawful means conspiracy is concerned, I take this from a paragraph 148 of 
+the skeleton argument. There must be: (a) a combination or understanding between two 
+or more people, (b) an intention to injure another individual or separate legal entity, (c) 
+concerted action consequent u pon the combination or understanding, and (d) use of 
+unlawful means as part of the concerted action.  
+93. As to (a), there must be some form of agreement or common design between the 
+defendants, but that does not mean that it has to be express. As Mr Justice Br iggs, as he
+
+then was, put it in Bank of Tokyo -Mitsubishi UFJ Ltd v Baskan Gida Sanayi  [2009] 
+EWHC 1276 (Ch) at [847], there must be : 
+ “a painstaking analysis of the extent to which the particular defendant shared a common objective 
+ with the primary frauds ter and the extent to which the  achievement of that objective was to the 
+ particular defendant’s knowledge to be achieved by unlawful means intended to injure the 
+ claimant. ” 
+94. In addition, parties to a conspiracy can join it after its original inception.  
+95. The intent to injure in requirement (b) need not be a dominant intention; it can be 
+inferred if the defendant has acted deliberately and with knowledge of the 
+consequences, ie. that it would cause or could cause damage to the  claimant . 
+96. Requirement (c), “co ncerted action”, requires some active participation, and on (d), 
+there has to be some unlawful means. Here the CMOC monies were obtained by deceit, 
+they involved breaches of fiduciary duty, and on any view constituted criminal 
+offences. All or any of these  would be sufficient to amount to unlawful means.  
+  The Facts  
+97. On analysis of the facts here, some general points. First, of course, no evidence or 
+submissions against this claim have been served by any defendant. Secondly, the 
+starting point has to be that  this was a fraud. The question is: who dishonestly assisted 
+it, and/or who were parties to it so as to be liable in dishonest assistance or UMC? 
+Thirdly, CMOC has broken down the liable defendants here into three categories: (1) 
+the perpetrators; (2) the participation defendants who had knowledge that the CMOC 
+monies were the proceeds of the fraud against CMOC; and (3) participation defendants 
+who had knowledge that the CMOC monies were the proceeds of a fraud.  
+98. Dealing with each of these in term.
+
+Perpetra tors 
+99. This concerns the first defendant as a general class of as yet unknown defendants. It is 
+possible that some of the named defendants are also perpetrators themselves, but this 
+degree of involvement cannot be established on the evidence at present.  
+100. By “perpetrator”, one is referring to those who devised the original plan to hack into Mr 
+Chen’s email account and then operated the email account so as to send the fake emails 
+and payment requests with the purpose of procuring CMOC to pay out the CMOC 
+monies .  
+101. As far as dishonest assistance is concerned, by definition the perpetrators would have 
+dishonestly assisted the breach of trust because they instigated the breach in the first 
+place by setting up the fraud and then giving effect to it by ensuring the re moval of the 
+trust monies from CMOC and their onward transmission. This was dishonest because 
+they knew there was no basis for removing the money; they in any event did so and 
+they made knowingly untrue statements to CMOC about why the payment instructions  
+were valid.  
+102. By the same token, the perpetrators would have conspired to use unlawful means, 
+including deceit, breach of trust, theft, or obtaining pecuniary advantage by deception, 
+or indeed fraud under section 2 of the Fraud Act 2000, and indeed by virtu e of the 
+hacking offences under sections 1 and 2 of the Computer Misuse Act 1990.  
+Participation defendants with knowledge of the fraud  
+103. I then turn to participation defendants with knowledge of the fraud. The core facts 
+which apply to all of these defendant s are set out at the base of table B, which explains 
+which defendant is said to be liable for which claim.
+
+104. The core facts are these: they received stolen money; there is no evidence of any 
+consideration being given for the receipt; they have not repaid an y of it despite being 
+put on notice of the claim and despite demands; they have been served with injunctions 
+but not given disclosure; and they have been served with process but have neither 
+acknowledged service or filed a defence.  
+105. The first class of parti cipation defendants under this head are all the Level 1 payees. 
+They received money directly from CMOC, and indeed CMOC as the payer is often 
+identified in the receiving bank’s statements. There is no suggestion for them that they 
+received it for an innoce nt purpose, nor can any innocent purpose be imagined. It is 
+therefore inconceivable that they did not know that they were assisting in a fraud and 
+were part of a fraudulent conspiracy.  
+106. These defendants are the 2nd to 9th defendants, the 12th defendant, an d the 26th to 28th 
+defendants.  
+107. In addition, there are those participation defendants who did not receive CMOC monies 
+directly, ie. they were not Level 1 payees, but their ownership and/or association with 
+those that did mean that they must have the requisi te knowledge and involvement as 
+well. Those additional defendants are 10th, 13th, 17th and 23rd . In the last case, 
+defendant 23, Danismanlik, that is a company, but its directors include Mr Garcia and 
+Mr Carrillo, so their knowledge is imputed to the compa ny. As indeed for defendant 17 , 
+Alfa, whose sole shareholder and director is defendant 13 , Mr Carrillo. The others are 
+Heram, defendant 10 , whose sole shareholder and director is the second defendant  Mr 
+Garcia , and Mr Carrillo, the 13 th defendant . All of t hese defendants were dishonest 
+because they knew of the fraud, made no attempt to repay on demand, and undoubtedly 
+assisted in the speedy onward transmission of the monies.
+
+108. In respect of dishonest assistance, therefore, the necessary element s of assistance  and 
+dishonesty are clearly made out.  
+109. In respect of UMC, it can properly be inferred in the absence of any contrary evidence 
+that all of them acted together to give effect to the fraud of which they knew. They 
+obviously knew that even if the predominant a im was to enrich themselves, in doing so 
+they would inevitably be causing injury to CMOC by depriving it of money. 
+Accordingly, there was the necessary intention to injure. Their participation in the fraud 
+by receiving the CMOC monies and passing them on i s more than sufficient activity in 
+pursuit of the conspiracy.  
+110. Moreover, the examples given above in respect of the flow of monies show how the 
+defendants are connected to each other in many cases through a few human beings, in 
+particular Mr Garcia and Mr Carillo . In addition, the presence of companies around the 
+world with bank accounts that had usually little or no money in them, both before and 
+after the transfers in and out of CMOC monies, and the lack of any evidence of any 
+corporate activity goes to th e fact of knowingly committing the fraud.  
+111. If one takes the example of the third defendant , Ms Romero, she received €483,000 and 
+then between 12 and 29 September she spent €4,000 in various shops and took €34,000 
+in cash  and made numerous distributions to other entities.  
+112. So that deals with the category which is participation defendants with knowledge of the 
+fraud, and I am satisfied that that is made out.  
+Participation defendants with knowledge of a fraud  
+113. I then turn to participation defendants with knowle dge of a fraud. There are only three 
+defendants here. They neither received any CMOC monies directly, nor were they 
+owned or controlled by others, but it is said that there are particular features to show
+
+that they at least had knowledge of the payment of monies from a fraud. The first is the 
+11th defendant who is a Level 2 payee, Winning Creation. It is a Samoan company, as 
+already noted, with Samoa being an offshore jurisdiction where there is little corporate 
+information available. Winning Creation was i ncorporated by Mossfon Subscribers, 
+which is associated with Mossac k Fonseca which came to prominence in the Panama 
+Papers and who acted as a company agent , largely in offshore jurisdictions. Winning 
+Creation was also a company where lawyers initially came  on the scene and then 
+disappeared.  
+114. Winning Creation also received payments from another entity, the 21st defendant, 
+Protech Components HongKong Limited, which cannot be shown to have received 
+CMOC monies  directly , but it is noteworthy that it has a financ ial connection with one 
+of the other defendants. The Protech payments were of US$56,870 and US$7,800 going 
+to Winning Creation on the 12th and 26th of September 2017 . 
+115. There is then the 20th defendant, Doral Investments GmbH. This is a Swiss company 
+incorpo rated shortly before it received €40,000 from Foxiconn. Its sole shareholder and 
+president of management is Mr Yanguela, the 31st defendant. Both Doral and Mr 
+Yanguela were represented by the same German attorney, Mr Thomas Beute, who had 
+some limited corr espondence with CYK in the early stages. As with the other 
+defendants Doral has not engaged with these proceedings.  
+116. The 31st defendant, Mr Yanguela, was arrested on 27 September 2017, pursuant to an 
+Interpol RED Notice for charges relating to “fraud, forge ry, and association with 
+criminals”, when trying to board a flight from the Dominican Republic to Switzerland, 
+which is the location of Doral. This information came from an article published by the 
+Dominican National Police on 11 January 2018. The UK polic e subsequently informed 
+CYK that the RED Notice was issued at the behest of the Dominican police.
+
+Knowledge  
+117. On the basis of all the above evidence, I am satisfied that there is a sufficient inferential 
+basis to say that on the balance of probabilities th ese defendants knew of, in fact, the 
+actual fraud and took part in it. But if I was wrong about that, it is plain that they must 
+have known that they were receiving illicit monies even if they did not know the 
+identity of the actual victim.  
+118. More specifica lly, so far as dishonest assistance is concerned, I note the dicta of Lord 
+Millett in Twinsectra Ltd v Yardley [2002] 2 A.C. 164 at [135] to [137] where he said 
+that:  
+ “It is obviously not necessary that he should know the details of the trust or the iden tity of the 
+ beneficiary. It is sufficient that he knows that the money is not at the free disposal of the principal. 
+ In some circumstances it may not even be  necessary that his knowledge should extend that far. It 
+ may be sufficient that he knows that he  is assisting in a dishonest scheme.”  
+119. As far as UMC is concerned, this submission is developed from paragraph 172 of the 
+skeleton argument. It says that a defendant’s lack of knowledge as to the precise 
+identity of the victim does not mean the defendant di d not intend to injure the victim by 
+his conduct. It is sufficient if the defendant knows that there is a victim targeted by the 
+conspiracy.  
+120. CMOC refers to a number of points to make that good. First of all, in The Dolphina  
+[2012] 1 Lloyd’s Rep 304 , Lord N icholls’ approach in OBG Ltd v Allan [2008] 1 A.C. 
+1 was cited with approval and the High Court of Singapore added:  
+ “A conspirator need not know all the details of the plot as long as he is aware of the common 
+ objective and what his role in bringing it about involves.”  
+121. Secondly, in Kuwait Oil Tanker Co SAK v Al -Bader (No 3)  [2000] 2 All E.R. (Comm) 
+271 at [120] to [121] , Lord Justice Nourse said:
+
+“In the case of a conspiracy to defraud by wholesale misappropriation it would  be absurd to 
+ argue that the  conspirators did not intend just that.”  
+122. Third, in OBG Ltd v Allan [2008] 1 A.C. 1, Lord Nicholls stated at [167] that if   
+   “a defendant seeks to advance his own business by pursuing a course of conduct   
+   which he knows will, in the very nature of thi ngs, necessarily be injurious to the claimant”  
+  then that would be sufficient.  
+ 
+123. Similar points were made by Mr Justice Briggs in Bank of Tokyo -Mitsubishi UFJ Ltd v 
+Baskan Gida Sanayi  [2009] EWHC 1276 (Ch) at [832] to [833] . 
+124.  Fourth, in Lord Bridge’s jud gment in Lonrho plc v Fayed  [1992] 1 A.C. 448 at 467 it 
+is said: “ It is sufficient if the conspiracy is aimed or directed at the plaintiff, and it can 
+be reasonably foreseen it may injure him. ” The submission made by CMOC is that 
+although the language ther e is consistent with the requirement that a defendant should 
+know the identity of the claimant himself, the better interpretation is  that it is sufficient 
+that the defendant  should  appreciate the conspiracy is aimed at a target without 
+necessarily knowing that target’s identity.  I agree.  
+125. In this case, it is said that with those defendants who participated with knowledge that 
+the monies were the proceeds of a fraud, but where the evidence does not establish that 
+they knew of the fraud, it is in the very nat ure of things that they knew of the existence 
+of a victim of fraud and that their gain from the fraud would be the injury of the victim. 
+It is said that there is no principled reason why the precise identity of the victim should 
+be part of the legal test, particularly in the age of cyber -fraud where conspirators can 
+readily conspire together to conceal and then move the money of the victim on without 
+any of the traditional engagements seen in more traditional forms of fraud.
+
+126. I agree. Suppose that the residu al three defendants in this last class knew that they were 
+handling and assisting in the moving of illicit proceeds in a scheme to defraud a 
+company by using false orders enabled by the hacking of its email accounts. Suppose 
+they further agreed to do all o f this knowing that their gain is the company’s loss. I do 
+not believe that they could avoid liability by saying they did not know the actual 
+identity of the company defrauded or the precise methodology of the conspiracy. It is 
+surely sufficient that they knew that there was a victim and that monies would be 
+procured illicitly from that victim and that they had agreed to play their part.  
+127. I therefore conclude that all of the participation defendants are liable to CMOC in 
+damages, both on the basis of dishone st assistance and UMC, as pleaded. The damages, 
+for reasons given above, will constitute the full amount of CMOC’s loss from the fraud, 
+because this is a case of accessory liability. These are then the principal sums of 
+US$6,913,053 and €1,270,679.  
+Knowing  receipt  
+128. I now turn to knowing receipt. This claim is made against all of the defendants except 
+the 1st, 13th, 28th and 31st. In the case of those defendants it cannot be shown that any 
+of them received any CMOC monies, which is why they are excluded.  
+129. The principal difference between the defendants here and the defendants to the 
+dishonest assistance and UMC claim s is that the defendants here include payees at all 
+levels, ie Level 1, Level 2 and Level 3. That said, the core facts referred to above and 
+set out at the base of Table B apply to all the defendants here.  
+130. The requirements for establishing liability in knowing receipt are: there should be 
+assets held under a trust or fiduciary duty; there has been disposal of those assets in 
+breach of trust or fiduc iary duty; there has been a beneficial receipt of those assets by
+
+the defendant; and the defendant had sufficient knowledge to render it unconscionable 
+for him to retain the assets.  
+131. The first two requirements are already made out for reasons given in conne ction with 
+the proprietary claim.  
+132. As to the third requirement, there is no evidence to displace the assumption that each of 
+the relevant defendants received the CMOC monies beneficially. It has not been 
+asserted, for example, that any defendant was in trut h receiving the monies only as an 
+agent or nominee or something of that kind.  
+133. As for knowledge sufficient to render it unconscionable for the defendant to have 
+received the CMOC monies, in the case of the participation defendants who are also 
+receiving def endants, that has in effect been established; see the evidence above 
+concerning the participation defendants and the claims against them in dishonest 
+assistance and UMC, which I have upheld.  
+134. The non -participation receiving defendants have still the core fa cts applicable to them  
+(other than the 16th defendant, who was not made the respondent to an injunction) . In 
+the absence of any evidence or explanation from such defendants, the core facts 
+themselves are sufficient, in my view, to establish unconscionable receipt. The 
+irresistible inference from the core facts is that they knew perfectly well that these were 
+trust monies in the sense that they had been fraudulently obtained by deceit and illegal 
+hacking. Again, whether they knew the actual identity of the v ictim, ie. the true 
+underlying beneficiary of the trust monies, is in this context immaterial.  
+135. But in addition, the summaries and supporting documents for all of these defendants 
+reveal additional features that support the required level of knowledge. I do  not refer to
+
+each summary, which are themselves then summarised at paragraph 184 of the skeleton 
+argument, but instead I set out the sort of additional features found:  
+(1) Monies paid in and then swiftly paid out;  
+(2) No evidence of any real trading or business  carried on by the companies 
+concerned;  
+(3) Modest amounts of share capital for the companies concerned;  
+(4) Payment to or from other defendants;  
+(5) In some cases, Hong Kong companies whose directors live in China; and  
+(6) In some cases, directors who are common direct ors with other defendant 
+companies.  
+136. When further information (ie. other than simply the banking or corporate documents) 
+has been obtained, it has been revealing.  
+137. For example, in the case of the 16th defendant, Mary Jackson -Braten, who received 
+£6,860 from  Heram, the 10th defendant, she told CYK this was consideration for a gold 
+ring that she had sold and that she had supporting documents. But when CYK asked to 
+see them, that was the end of the contact. CYK then received an email dated 29 May 
+2018 from a Mr  Omokaro, a Dutch national, who had received indirectly some CMOC 
+monies. He said that the monies were for the purchase and shipment of a truck to a 
+company based in Ijebu, Nigeria called Lincbrol Interbiz Concept. He also said that Ms 
+Jackson -Braten’s hus band’s address was at Lincbrol, though he also said that he (Mr 
+Jackson -Braten) lived in Spain. Mr Omokaro said that some years ago Ms Jackson -
+Braten had come to his office to arrange to ship two cars to Nigeria. He also said that 
+her husband had transferr ed monies to his account. When Mr Omokaro queried whether 
+the monies had been fraudulently obtained, Mr Jackson -Braten said that this was not
+
+the case and Mr Omokaro later received a letter from a ‘Francisco ’ - possibly the 13th 
+defendant, Mr Carrillo - to say that it was for a commercial purpose. None of this 
+makes much sense, but it certainly seems on any view to be inconsistent with normal 
+trading activities. Further, Lincbrol also received some monies from Heram, and Ms 
+Jackson -Braten had also received a payment from Foxiconn. Both of these, of course, 
+are, or are controlled by,  Level 1 payees.  
+138. In the case of the 18th defendant, Favoured Lucky Enterprises Co Ltd, according to Mr 
+Flood’s witness statement of 6 July  2018 , it received €13,424 from Mr Garcia , the 
+second defendant, on 23 September 2017. That is in addition to the monies it received 
+from Foxiconn.  
+139. Overall, I consider that the pleaded claims in knowing receipt against all the relevant 
+defendants have been clearly made out. Each is therefore liab le to restore the payment 
+which it received.  
+Unjust enrichment  
+140. The final substantive claim is made in unjust enrichment against all of the receiving 
+defendants save, again, the 1st, 13th, 28th and 31st defendants. It is therefore a further 
+claim to the on es made against the receiving defendants in knowing receipt, which have 
+been successful. It will also be for the same sums.  
+141. Given my findings on the knowing receipt claims, and indeed on the dishonest 
+assistance and UMC claims, it is strictly unnecessary to consider this further claim. 
+However, I will say something about it since it was argued before me.  
+  The Law  
+142. The relevant requirements for a claim in unjust enrichment have been summarised at 
+paragraph 187 of the skeleton argument taken from the judgmen t of Lord Reed in
+
+Investment Trust Companies v Revenue and Customs Commissioners  [2018] A.C. 275 , 
+namely that the defendant was enriched, the defendant’s enrichment was at the expense 
+of the claimant, the enrichment was unjust, and there are no defences av ailable to the 
+claim.  
+143. As pleaded, and as put in argument, it seemed to me there was one fundamental 
+difficulty with this, which is that CMOC sought judgment against the Level 1 payees in 
+unjust enrichment for the CMOC monies received by those payees, as we ll as against 
+Level 2 payees for the CMOC monies received by them, even though those payments 
+came from the Level 1 payees. This does not cause a problem in the knowing receipt 
+claim because it is founded upon the unconscionable receipt of trust monies whe re there 
+could be more than one receiver of such monies, and the only issue would arise on 
+enforcement to avoid double recovery.  
+144. The context for the question here, however, is the need to fulfil the second requirement, 
+which is that the relevant defendant was enriched “ at the expense of ” the claimant. But 
+in unjust enrichment, the question arises where the recipient of the benefit - here the 
+monies - did not receive it directly from the claimant. To that end I refer to the dicta of 
+Lord Reed in the Investme nt Trust case where he said this at paragraphs 47 to 50:  
+ “47 There are, however, situations in which the parties have not dealt directly with one another, 
+ or with one another's property, but in which the defendant has nevertheless received a benefit 
+ from the claimant, and the claimant has incurred a loss through the provision of that benefit. 
+ These are generally situations in which the difference from the direct provision of a benefit by the 
+ claimant to the defendant is more apparent than real.  
+ 48 One such situation is where the agent of one of the parties is interposed between them. In 
+ that situation, the agent is the proxy of his principal, by virtue  of the law of agency. The series of 
+ transactions between the claimant and the  agent, and between the agent and the defendant, is 
+ Another situation is where, as in the  Relfo case [2015] 1 BCLC 14, an intervening transaction is
+
+between the claimant and the defendant, it is disregarded when deciding whether the latter  was 
+ enriched at the former's exp ense. … There have also been cases, discussed below, in which a set 
+ of co -ordinated transactions has been treated as forming a single scheme or  transaction for the 
+ separately would be unrealistic. …  
+… 
+ 50 It has often been suggested that there is a gener al rule, possibly subject to  exceptions, that 
+ the claimant must have directly provided a benefit to the defendant. The situations discussed in 
+ the two preceding paragraphs can be  reconciled with such a rule, if it is understood as 
+ encompassing a number of  situations which, for the purposes of the rule, the law treats as 
+ equivalent to a  direct transfer, in the sense that there is no substantive or real difference. So 
+ understood, the suggested rule is helpful. It may nevertheless require refinement to a ccommodate 
+ other apparent exceptions, and it would be unwise at this stage of the law's development to 
+ exclude the possibility of genuine exceptions, or to rule out other possible approaches.”  
+145. The logic of those dicta is th is: the apparent direct recipie nt is to be disregarded in 
+favour of another indirect recipient because the latter is the “true” or the “real” 
+recipient. The claim thus passes through the apparent direct recipient, as it were. That 
+can be because the apparent recipient, by dint of the la w of agency, is no more than a 
+proxy channel to the principal, the indirect recipient, or because in cases of sham the 
+law simply disregards the direct recipient as no more than an artificial construct.  
+146. The tracing example has instead a proprietary connota tion but it obeys the same 
+rationale. The benefit which is claimed back in order to reverse the unjust enrichment 
+can be shown to have ended up somewhere other than in the hands of the direct 
+recipient. In all of those cases it follows that there is only o ne true recipient against 
+whom the claim can be made. The notion that there could be claims against both the 
+direct and the indirect recipients for receipt of the same benefit cannot work because 
+one is then not disregarding one in favour of the other.
+
+147. As for sets of co -ordinated transactions, to which Lord Reed also refers, this was 
+developed further by him in paragraphs 61 to 66. He begins in paragraph 61 by 
+summarising those transactions as being:  
+“These are cases in which, for the purpose of answering the “at the expense of” question, the court 
+has treated a set of related transactions, operating in a co -ordinated way, as forming a single 
+scheme or transaction, on the basis that to answer the question by considering each of the 
+individual transactions s eparately would be unrealistic.”  
+148. In each of the cases he refers to, namely the Banque Financière  case ([1999] 1 AC 221) 
+and the Menelaou  case ([2016] AC 176), what happened was the court disregarded the 
+apparent first or direct recipient in favour of the d efendant who was the indirect 
+recipient because the several transactions which led to a conferring of a benefit on the 
+latter had to be viewed realistically together, one after the other. In both cases only that 
+analysis would reflect the objective intenti on of the parties to the transactions.  
+149. In Relfo at first instance, Mr Justice Sales as he then was, found that the director of a 
+claimant company who had acted in breach of duty by transferring sums out to a 
+company called Intertrade had the objective of c onferring a benefit in fact upon the 
+defendant by effecting an onward payment from Intertrade to him. On the basis of that 
+finding, the defendant conceded that for the purpose of an unjust enrichment claim 
+there was sufficient directness or proximity betwe en the claimant and the defendant and 
+therefore the payment had been made to the defendant at the expense of the claimant.  
+150. It should also be noted that the claim in unjust enrichment was strictly unnecessary 
+since the judge had already upheld the claim ag ainst the defendant on the basis of 
+knowing receipt. On appeal, the defendant’s then counsel’s concession was withdrawn. 
+The point was taken that the unjust enrichment claim could not succeed because there 
+was no direct payment from the claimant to the def endant. However, the Court of
+
+Appeal agreed that the unjust enrichment claim did succeed, as found by Mr Justice 
+Sales. On the particular facts it was enough that Mr Gorecia’s objective had been to 
+confer a benefit with the claimant’s money upon the defend ant “ by a circuitous route ”. 
+As Lady Justice Arden put it: “ As a matter of substance and economic reality the 
+defendant was a direct recipient. ” Or as Lord Justice Floyd put it: “ The payment 
+concerned was the equivalent of a direct payment. ” 
+151. Beyond that, a s Lord Justice Floyd and Lady Justice Gloster made clear, it was not 
+necessary to go. That case was not the occasion on which to decide how far the so -
+called direct payment rule should be liberalised, or how much more than a simple “but 
+for” relation betwe en the claimant and the defendant was required in order to show that 
+the claimed enrichment of the defendant was at the expense of the claimant. Lady 
+Justice Arden was more disposed towards recognising a broader principle based on 
+“sufficient link”, but in  fact upheld the judge’s findings on the same factual basis as 
+Lord Justice Floyd and Lady Justice Gloster.  
+152. Accordingly, it is not possible to derive some wide principle from the Court of 
+Appeal’s decision in Relfo , and in any event, no such principle was laid down by the 
+Supreme Court in the later case of Investment Trust . 
+  Analysis  
+153. In the light of all that , I turn to applying the law as summarised above to the claims 
+here. CMOC makes a personal claim at each Level 1 recipient for the entirety of the 
+sums  which were mistakenly transferred to them by it. Those claims seem to me to be 
+well-founded. Each of those defendants were enriched at the expense of CMOC and 
+they were the direct payee. The enrichment was unjust because the payments were 
+made by mistake and by reason of fraudulent misrepresentation made by the
+
+perpetrators to the effect that the payments were valid and proper ones to make. Since 
+no defendant has engaged with this litigation, none of the applicable defences to a claim 
+in unjust enrichment arise.  
+154. But, as noted above, CMOC also claims in unjust enrichment against the other 
+defendants who received CMOC monies indirectly in the sense that they were Level 2 
+or Level 3 payees and those monies had come through the Level 1 payees, and it is said 
+that they can be supposed to have received those monies from the Level 1 payees, 
+though not in the strict tracing sense. That they were recipients in a broad sense of the 
+CMOC monies is said to be clear from the fact that the payments to them came shortly 
+after the receipt of the CMOC monies by the Level 1 payees and in smaller amounts.  
+155. But the fundamental problem with this is that it goes against the principle which I 
+identified above. This can be seen as follows:  
+(1) If it is said that the claim against the Lev el 2 recipient, for example, is because the 
+Level 1 recipient acts as agents only, it is hard to see why there should be any 
+claim against a Level 1 recipient as well;  
+(2) Equally, if the interposition of the Level 1 recipient is said to be a sham or other 
+device which should then be ignored in favour of the real recipient, again, there 
+can be no claim against the Level 1 recipient;  
+(3) Further, this case is not, in my view, within the co -ordinated transactions category 
+enunciated by Lord Reed and is not analogous to the two decided cases he refers 
+to.  
+156. This difficulty is reflected in the fact that there is in truth no positive case that any 
+particular Level 1 recipient is actually no more than agent for any of the Level 2 
+recipients of the relevant money. I am not able to say that any of them were. Equally,
+
+the mere fact that an offshore company is used does not necessarily mean that its 
+interposition is a sham.  
+157. I see how arguments of these kind could be made as set out in paragraphs 198 to 203 of 
+the skeleton argum ent, but it is inconsistent for CMOC to claim against the Level 1 
+recipients and Level 2 recipients and indeed Level 3 recipients all at the same time. I 
+understand why CMOC would like to have, as it were, its unjust enrichment cake and 
+eat it in an abstra ct sense. That is because it may be unclear against which of these 
+numerous defendants any judgment can be meaningfully enforced and for how much, 
+but that is not a valid reason for giving judgment against both Level 1 and Level 2 
+recipients which, in my j udgment, is inconsistent and, in any event, they have achieved 
+that by dint of my decision so far as knowing receipt is concerned.  
+158. CMOC has chosen not to elect between Level 1 and other level payees, or even sought 
+a judgment against a Level 2 payee, for e xample, for the whole of its receipt from the 
+Level 1 payee and then a judgment against the Level 1 payee for what it received from 
+CMOC net of its onward payment to Level 2. Even if this was workable as a matter of 
+legal analysis, I cannot see how I can f ind this element of the unjust enrichment claim is 
+established against any defendant. Had there been any election, I would accept that it 
+would then be possible to see how the requirement of enrichment at the expense of the 
+claimant could be made out, but as it is this claim must then fail.  
+Postscript on unjust enrichment  
+159. Having made the reference to the fact that there had been no election as between Level 
+1 and other payees, following the delivery of this judgment, but before anything else 
+was done, Mr Lo wenstein QC asked whether it would be permissible for him now to 
+elect and to confine the claim in unjust enrichment to the Level 1 payees.
+
+160. Had the claim been so confined at the outset, I would have had no hesitation in granting 
+it. The fact that he asks f or it now should not make a difference, in my view.  In 
+particular, this is because none of the defendants have engaged with this process at all. 
+None of the defendants have chosen to listen to the judgment and I do not consider in 
+the circumstances that t here can be any prejudice to any of the Level 1 defendants by 
+me permitting Mr Lowenstein to make an election now.  
+161. Arguably, I could have concluded that section of the judgment by saying that no 
+election had been made but it was now time for an election to  be made. For those brief 
+reasons, therefore, I have allowed Mr Lowenstein to make the election, that election 
+having been made against the most obvious candidates, namely the Level 1 payees.  
+There can be no defence to them in the unjust enrichment claim,  because they are all 
+direct recipients and the monies which they have received for their benefit were clearly 
+at the expense of the direct payor, the claimant.  
+Conclusions on liability  
+162. Accordingly, save for unjust enrichment, all of the claims against all  of the relevant 
+defendants succeed as pleaded.  The unjust enrichment claims succeed only against the 
+Level 1 payees, namely the 2nd to  9th, 12th, 26th and 27 th defendants.  
+RELIEF  
+163. I first of all turn to interest. Mr Lowenstein has properly advised me that there has been 
+a recent Supreme Court decision concerning compound interest in relation to unjust 
+enrichment claims: Prudential Assurance Company Ltd v Commissioners for Her 
+Majesty's Revenue and Customs  [2018] UKSC 39. In light of that clarification of th e 
+law, CMOC only seeks simple interest in respect of its unjust enrichment claim.  
+164. Otherwise, as to interest, CMOC claims interest as follows:
+
+(1) In respect of the proprietary claims and claims for knowing receipt in dishonest 
+assistance, compound interest at 2.5% per annum before compounding  on 6 -
+monthly rests ; 
+(2) In respect of the claim for UMC, simple interest pursuant to section 35(a) of the 
+Senior Courts Act 1981 at 2.5% per annum.  
+165. An award of compound interest is well established for proprietary claims and k nowing 
+receipt. It is not in the case of dishonest assistance. However, in principle, it seems to 
+me that it should be available since, although the requirements are different from 
+knowing receipt claims, it is an accessory liability to the liability of th e relevant trustee, 
+which is why the defendant in a dishonest assistance claim is liable for the entirety of 
+the loss caused by the breach of trust along with the trustee. It is consistent with that 
+principle that compound interest should be likewise avail able. Recent writings and dicta 
+support this.  
+166. To that end, at paragraph 220 of the skeleton argument, the statement in McGrath is 
+relied upon that: “ the remedies against any assistant are identical to those against the 
+trustee. ” In Lewin on Trusts, it is said that: “ A third party held liable for dishonest 
+assistance can expect to be in no better position as regards the measure of liability than 
+the trustee. ” And in Underhill & Hayton: “ A person who dishonestly assists in a breach 
+of trust of other fiduciar y duty is personally liable to compensate to the same extent as 
+the trustee. ” And that is also reflected in Re Bell’s Indenture [1980] 1 WLR 1217 (Ch) , 
+where Mr Justice Vinelott said that a third party liable for assistance  “can be in no 
+better position. ” Those are the general principles.  
+167. Then Lewin says that: “the court may award compound interest against the defendant 
+but not the trustee.” And in Underhill & Hayton that: “compound interest will be
+
+payable on top of the capital sum found to be due” in the context of dishonest 
+assistance. Impliedly, in the New South Wales Supreme Court decision of Re Orix 
+Australia Corp v Moody Kiddell & Partners Pty Ltd [2005] NSWSC 1209  where it was 
+said that equitable compensation would be due but “ Orix may be entitled to  interest at a 
+different rate on a compounding basis under the latter cause of action. ” And that cause 
+of action was knowing assistance.  
+168. Accordingly, I will award compound interest as claimed.  
+169. As for the rate of 2.5% per annum, which is the same rate as th at claimed in respect of 
+the simple interest claimed under the Act, I consider that that is appropriate. It is, in my 
+experience, a rate often applied in cases in this court.  And finally as for the 
+compounding period, I consider that compounding every six months is appropriate 
+here, as sought.  
+COSTS  
+170. Subject to any argument from any defendant following hand down of this judgment - 
+and there does not appear to be any - it is irresistible that CMOC should have its costs 
+of the action incurred in this jurisdi ction. It is also irresistible that they must be on an 
+indemnity basis due to the conduct of the defendants.  
+171. This case is well out of the norm, in my view, and because of the failure of the 
+defendants to engage at all . CMOC is entitled to be compensated f ully for all of the 
+costs incurred in making good their claims,  pursuing them and proving them.  
+MITIGATION DAMAGES  
+172. So far as costs outside England, but for the purpose of seeking further security for 
+CMOC’s claims here, including the costs of obtaining ord ers from local courts, they
+
+can be claimed here as damages. It is common ground that they cannot be claimed here 
+as costs.  
+173. I agree with CMOC that they can be considered as part of CMOC’s attempts to mitigate 
+its losses since their ultimate purpose is to e nable CMOC to recover what monies it can 
+which have been paid away and therefore diminish its losses.  
+174. On that footing, such costs should be treated as coming within the second rule of 
+mitigation of loss as enunciated by Mr Justice Leggatt, as he then was,  in Thai Airways 
+International Public Company Ltd v KI Holdings Co Ltd  [2015] EWHC 1250 (Comm), 
+[2016] 1 All E.R. (Comm) 675 , where he said that:  
+“where the claimant does take reasonable steps to mitigate the loss to him consequent upon the 
+defendant's wro ng, he can recover for loss incurred in so doing; this is so even though the 
+resulting damage is in the event greater than it would have been had the mitigating steps not been 
+taken. Put shortly, the claimant can recover for loss incurred in reasonable att empts to avoid loss.”  
+175. Such costs are analogous to those awarded by Mr Justice Cooke, though this was in 
+respect of the arrest of a vessel as security  in CHS Inc Iberica SL, CHS Europe SA v 
+Far East Marine SA  [2012] EWHC 3747 (Comm) , and that is when he fou nd at 
+paragraph 94(iv) of his judgment. That case distinguished The Ocean Dynamic  [1982] 2 
+Lloyd's Rep 88 , which was distinguishable because that was the cost of parallel 
+substantive proceedings to the underlying substantive mitigation here, but brought in  
+the US, which in fact were discontinued.  
+176. There is a question as to whether any assessment of the reasonableness of those foreign 
+costs is required. Mitigation costs generally are subject to that criterion. I will hear 
+counsel on this matter together with all consequential matters at the end of this 
+judgment.
+
+177. That concludes my judgment on liability and quantum, as it were, but let me make the 
+further supplementary remarks, which are contained in a document which I will supply 
+for inclusion in the judgment l ater on.  
+SUPPLEMENTARY REMARKS  
+World -wide freezing order against persons unknown  
+178. At the very first hearing on 23 October 2017 I was asked to, and did, grant a world -
+wide freezing order, WFO, against persons unknown, ie there is no named defendant. 
+So far  as I am aware, this was the first occasion on which such an order was made. I 
+have already referred above to how this class of defendant has been defined.  
+179. I explained why I consider that the court had jurisdiction to make such an order at the 
+time. That t he court has jurisdiction in general against persons unknown had been 
+confirmed for the purpose of the CPR regime by Sir Andrew Morritt VC in the case of 
+Bloomsbury Publishing Group Limited and JK Rowling v News Group Newspapers Ltd 
+and Others  [2003] 1 W.L .R. 1633 . At paragraph 21 he says that :  
+“the description used must be sufficiently certain as to identify both those who are included and 
+those who are not. If that test is satisfied then it does not seem to me to matter that the description 
+may apply to no one or to more than one person or that there is no further element of subsequent 
+identification whether by way of service or otherwise.”  
+180. That case concerned an application for an interlocutory injunction against those who 
+had been responsible for removi ng copies of an unpublished Harry Potter  book without 
+authority and then offering them for sale to the press. Thus it is authority that an 
+interlocutory injunction can be granted against persons unknown.  
+181. The thinking behind that was repeated by the Vice Ch ancellor in a later injunction case, 
+Hampshire Waste Service v Persons Unknown  [2003] EWHC 1738 (Ch) , where the
+
+court made an order enjoining unknown trespassers from entering incinerator sites 
+belonging to the claimant.  
+182. The novel aspect here is that the injunction concerned is a freezing injunction. At this 
+stage I can see no reason in principle in saying that this jurisdiction should not extend 
+to a freezing injunction. If there are potential problems down the line concerning 
+contempt or there is a need to ensure there has been proper notification to any relevant 
+defendant of the injunction, that potential difficulty applies as much to cases where 
+other forms of injunction against unidentified third parties have already been granted. 
+That, therefore , is not a good reason not to extend the principle.  
+183. Conversely, there is a strong reason for extending the principle in this context, which is 
+that the freezing injunction can often be a springboard for the grant of ancillary relief in 
+respect of third parties w hich arguably could not get off the ground unless there had 
+been a primary freezing injunction. That is very much the case in international fraud 
+litigation and is very much the case here where the first object is, of course, to notify 
+the banks of the fre ezing injunction so they can freeze the relevant bank accounts. That 
+can be done, and is done, irrespective of whether and when it comes to the attention of 
+the defendants.  
+184. Secondly, vital information is likely to be obtained from banks in particular as to  the 
+identity of the account holders pursuant to the principles in Norwich Pharmacal Co v 
+Customs and Excise Commissioners  [1974] A.C. 133  and/or Bankers Trust v Shapira  
+[1980] 1 W.L.R. 1274 . This may result in the claimant then being able to name and 
+investigate particular defendants, which is what happened here.  I note that the latest 
+edition of Gee on Commercial Injunctions (6th Edition) takes the same view; see in 
+particular paragraph 17 -019 at page 601 at the top of the page.
+
+185. Finally, I note that in th e Media and Communications list of the Queen’s Bench 
+Division, it’s not uncommon to have injunctions granted against persons unknown who 
+have been involved in gaining unauthorised access to claimants’ IT systems and thus 
+their data. They then obtain a subs tantial amount of information which they threaten to 
+publicise unless they were paid a ransom; see, for example, the decision of Mr Justice 
+Nicklin in PML v Person(s) Unknown (responsible for demanding money from the 
+Claimant on 27 February 2018)  [2018] EW HC 838 (QB)  and that of Mr Justice Warby 
+in Clarkson Plc v Person or Persons Unknown (who has or have appropriated, 
+obtained and/or may publish information unlawfully obtained from the Claimant's IT 
+systems) [2018] EWHC 417 (QB) .  
+186. Indeed, in that list the court often grants self -identification orders requiring the 
+unidentified defendant to identify themselves and provide an address for service. That 
+would not have assisted here since I have no doubt that the defendants would not 
+comply with that part of the  injunction any more than other aspects of the injunction, 
+but it does illustrate how developed the persons unknown jurisdiction has become.  
+187. On 23 October  2017 , I concluded that there was at least a good arguable case that the 
+court had jurisdiction to gra nt a WFO against persons unknown, but as it seems to me 
+now, I can go further and say this jurisdiction is clearly established by reference to the 
+principles underlying existing cases and the recognition in cases such as PML  and 
+Clarkson  that injunctive re lief against persons unknown will be particularly apposite 
+where the reason they are unknown is because of their activities as hackers, just as the 
+perpetrators in this case were hackers.  
+188. It reflects the need for the procedural armoury of the court to be sufficient to meet the 
+challenges posed by the modern electronic methods of communication and of doing 
+business.
+
+189. The conclusion that as a matter of principle the court has jurisdiction to grant a WFO or 
+any freezing order for that matter against persons un known constitutes, in my view, an 
+extension of the present law. Therefore, although this has arisen in hearings attended by 
+one party only, it can be cited in future cases; see paragraph 6.1 and 6.2 of Practice 
+Direction (Citation of Authorities)  [2001] 1 W.L.R. 1001  per Lord Wo olf CJ.  
+Service by Facebook Messenger and WhatsApp Messenger platforms  
+190. These days it is not uncommon where alternative modes of service are justified to find 
+examples of service by posting the relevant materials on a public Facebook platform. 
+But here what was used was the Facebook Messenger service, which is a private service 
+channel. In addition, on 11 May 2018, Mr Justice Knowles permitted service by 
+WhatsApp messenger. This has had the particular virtue that the service will show the 
+sender of the message when the message has been sent by the addressee and when it 
+has been read by the addressee. As the judge noted on that occasion, he was not setting 
+any precedent, but the short point, in my view, is that the court will consider 
+proactively different forms of alternative service where they can be justified in the 
+particular case.  
+Service by access to data room  
+191. As the amount of material in this case expanded, but given that alternative service by 
+email had often been granted, the que stion then arose as to the most convenient way of 
+serving banks, and later named defendants as they were joined, with all the background 
+evidence that had been deployed in obtaining the various interlocutory orders. CMOC 
+proposed a system  for the defendant s, which I approved , which involved sending the 
+relevant party by a previously approved Court method (e.g. email or hard copy) a link 
+to a data room, and by a separate email, an access code to the data room.  If the code
+
+was used, it would enable the user t o view all of the evidence thus far adduced together 
+with all applications and orders made. Processes were adopted which required CMOC 
+first to serve each defendant by another Court approved method before it could serve by 
+data room. For the banks, CMOC wa s not required first to serve them by another Court 
+approved method before it could serve by data room. One cannot tell the extent of the 
+access since the named defendants have not engaged substantively with the litigation, 
+but certainly, as reported to me  and as set out in the evidence, banks around the world 
+which have been joined as no  cause of action defendants, for the purpose of supplying 
+information, have found this a most useful facility and have not required service of all 
+of the underlying documen ts by hard copy or email only.  
+192. That is certainly an innovative feature of this litigation. As with other forms of 
+alternative service, it can clearly be justified and appropriate in such cases.  
+193. That concludes my judgment. I am indebted to Mr Lowenstein and  other counsel in this 
+case for the clear way in which the case has been presented at all stages.

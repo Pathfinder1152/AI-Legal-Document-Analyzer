@@ -1,0 +1,393 @@
+[
+  {
+    "sentence": "Claimant blamed the First Defendant for the cyber-attack and he was arrested on 8 March 2017 and subsequently charged with an offence under the Computer Misuse Act  1990.",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse Act  1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "She  asked  what  actions  the  Metropolitan  Police  had taken  to comply  with  their obligations under the Data Protection Act 2018 and how the Metropolitan Police hadMR JUSTICE LAVENDERApproved JudgmentGPS v Yanpolsky notified the Information Commissioner\u2019s Office (\u201cthe ICO\u201d) and relevant cardholders and financial institutions.",
+    "legal_references": [
+      {
+        "text": "the Data Protection Act 2018",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "JudgmentGPS v Yanpolsky",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "The email of 10 June 2021 is not referred to in the Amended Particulars of Claim, because it was not produced by the Defendants until after the hearing, but it is the fourth email about which the Claimant complains, because the attached letter contained what the Claimant contends is confidential information, namely a certain IP address and the names and details of the Claimant\u2019s clients, Mastercard and Visa, although the First Defendant contends that they were named in open court at his trial.",
+    "legal_references": [
+      {
+        "text": "the Amended Particulars of Claim",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The subject of the email was said to be \u201cLetter before action\u201d and in the email the First Defendant said as follows: \u201cThis email is to let you know that due to Metropolitan Police and CPS failure to inform the members of the public affected by the data breaches (Police ref PC4361/20, CPS ref 431-2020-2021) and enforce Data Protection Act and The Payment Services Regulations 2017 s73, s99, starting November 6, 2021 weMR JUSTICE LAVENDERApproved JudgmentGPS v Yanpolsky will",
+    "legal_references": [
+      {
+        "text": "Data Protection Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "The Payment Services Regulations 2017",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "DI Grimmer sent an email to the Defendants in which she drew their attention to section 170 of the Data Protection Act 2018 and advised them not to make unlawful disclosures and to seek legal advice on their proposed action.",
+    "legal_references": [
+      {
+        "text": "section 170",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Data Protection Act 2018",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "section 170 of the Data Protection Act 2018",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "(2)(c)(vii) 29 October 2021: email to the Metropolitan Police and the CPS 37.On  29  October  2021  the  Defendants  sent  an  email  to  DI  Grimmer,  to  various individuals in the CPS and to trial counsel, in which they asserted that their proposed action was lawful by virtue of section 170(2) of the Data Protection Act 2018 and made clear that they intended to continue with their proposed action.",
+    "legal_references": [
+      {
+        "text": "section 170(2)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Data Protection Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "section 170(2) of the Data Protection Act 2018",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "39.On 2 November 2021 the Claimant\u2019s solicitors wrote to the Defendants to say that any disclosure of the Disclosed Data would be a criminal offence, contrary to section 170 of the Data Protection Act 2018.",
+    "legal_references": [
+      {
+        "text": "section 170",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Data Protection Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "section 170 of the Data Protection Act 2018",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "Then on 5 November 2021 the Claimant\u2019s solicitors wrote to the Defendants to say that the disclosure of the Exhibit fell within section 17 of the Criminal Procedure and Investigations Act 1996 (\u201cthe 1996 Act\u201d) and that any disclosure of the Disclosed Data would be a criminal offence, contrary to section 18 of the 1996 Act.  (It is now common ground that the Exhibit was not subject to section 17 of the 1996 Act.)",
+    "legal_references": [
+      {
+        "text": "section 17",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Criminal Procedure and Investigations Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": ", having read the Particulars of Claim, I sought clarification whether the Claimant was alleging breach of statutory duty, but Mr Vassall-Adams confirmed that the only cause of action relied on by the Claimant was in breach of confidence.",
+    "legal_references": [
+      {
+        "text": "the Particulars of Claim",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Defendants\u2019 pleaded response to this allegation is ambiguous: a)The Claimant\u2019s allegation is made in paragraph 14 of the Particulars of Claim.",
+    "legal_references": [
+      {
+        "text": "the Particulars of Claim",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That paragraph is denied in paragraph 11 of the Defence, but the  reasons  given  for  the  denial  are  solely  concerned  with  the Defendants\u2019  denial  of  the  Claimant\u2019s  allegation  (also  made  in paragraph 11 of the Particulars of Claim) that the credit card numbers in the Disclosed Data had the necessary quality of confidence.",
+    "legal_references": [
+      {
+        "text": "the Particulars of Claim",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "alleges in paragraph 16 of the Particulars of Claim that the Defendants were and are under an obligation of confidence to the Claimant in relation to the Disclosed Data",
+    "legal_references": [
+      {
+        "text": "the Particulars of Claim",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That allegation is admitted by  the  Defendants  in  paragraphs  13  of  the  Defence,  \u201csubject  to paragraphs 18-21 pleaded in relation to Defences below.\u201d",
+    "legal_references": [
+      {
+        "text": "Defence",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "49.Pursuant to CPR 24.2, the issue on this application is whether or not the defendants have a real prospect of successfully defending the claim.",
+    "legal_references": [
+      {
+        "text": "CPR 24.2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(4)(a) Unused Material: the Statutory Prohibition 52.Subsections 17(1) to (4) of the 1996 Act apply to unused material and provide as follows: \u201c(1)  If the accused is given or allowed to inspect a document or other object under\u2014 (a)  section 3, 4, 7A, 14 or 15, or (b)  an order under section 8, then, subject to subsections (2) to (4), he must not use or disclose it or any information recorded in it.",
+    "legal_references": [
+      {
+        "text": "the Statutory Prohibition 52.Subsections 17(1) to",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "MR JUSTICE LAVENDERApproved JudgmentGPS v Yanpolsky (4)(b) Used Material: The Authorities 54.Mahon v Rahn [1998]",
+    "legal_references": [
+      {
+        "text": "JudgmentGPS v Yanpolsky",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Q.B. 427, CA was a case in which the plaintiffs alleged that the defendants had made defamatory statements in a letter which the defendants had sent, or caused to be sent, to the Serious Fraud Office (\u201cthe SFO\u201d), which the prosecution subsequently disclosed to the plaintiffs as used material in advance of their trial in the Crown Court and which was read out in open court during the trial.",
+    "legal_references": [
+      {
+        "text": "Q.B. 427, CA",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "55.The letter was disclosed before section 17 of the 1996 Act came into force.",
+    "legal_references": [
+      {
+        "text": "section 17",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "with  the reasoning of Brooke J. on this point  in Mahon v. Rahn  and I think that Sir Michael Davies was right to strike out the action for the reasons which he gave.  I do not propose to express a view on the further points which arose in Mahon v. Rahn [1998] Q.B. 424, namely whether the undertaking applies also to used materials and whether it survives the publication of the statement in open court.",
+    "legal_references": [
+      {
+        "text": "Q.B. 424",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "do not do so because these questions may well have been overtaken by the  express  provisions  of  the  Criminal  Procedures  and  Investigations  Act 1996.",
+    "legal_references": [
+      {
+        "text": "the  Criminal  Procedures  and  Investigations  Act 1996",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "But I would draw attention to the comments of Brooke J. in Mahon v. Rahn on the question of whether the provisions of Ord. 24, r. 14A (which was introduced in response to a decision of the European Court of Human Rights holding that the previous law unduly limited freedom of expression) and, by parity of reasoning, section 17(3)(6) of the Act of 1996, are not too widely drawn.",
+    "legal_references": [
+      {
+        "text": "Ord. 24, r. 14A",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Act of 1996",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "was also referred to paragraph 100 of Toulson LJ\u2019s judgment in R (Guardian News Media Ltd) v City of Westminster Magistrates\u2019 Court  [2013] QB 618, which is in theMR JUSTICE LAVENDERApproved JudgmentGPS v Yanpolsky following terms: \u201cWhether the defence has an unfettered right to release documents served on it by the prosecution during the proceedings and vice versa is a more difficult topic.",
+    "legal_references": [
+      {
+        "text": "R (Guardian News Media Ltd",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Criminal Procedure and Investigations Act 1996 in sections 17 and 18 makes special provision for the confidentiality of unused material served on the defendant by the prosecution.",
+    "legal_references": [
+      {
+        "text": "The Criminal Procedure and Investigations Act 1996",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 17(3) allows the defence to use or disclose unused material only to the extent that it has been displayed to the public in court or to the extent that it has been communicated to the public in court.",
+    "legal_references": [
+      {
+        "text": "Section 17(3)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As far as material relied upon by the prosecution as part of its case and not  covered  by  the  Sexual  Offences  (Protected  Material)  Act  1997  is concerned, the defence do not in practice give any undertaking about its use and  nor  do  the  prosecution  give  any  undertaking  in  relation  to  material received from the defence.",
+    "legal_references": [
+      {
+        "text": "the  Sexual  Offences  (Protected  Material)  Act  1997",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As to whether there are any implied restrictions on the use of such material, see  Mahon v Rahn [1998] QB 424 and  Taylor v Director of the Serious Fraud Office  [1999] 2 AC 177 both in the Court of Appeal and in the House of Lords, where Lord Hoffmann (with whose speech the other members of the Appellate Committee agreed) said, at p 212: \u201cI do not propose to express a view on the further points which arose in Mahon  v  Rahn [1998]  QB  424,  namely  whether  the  [implied] undertaking applies also to used materials and whether it survives the publication of the statement in open court.\u201d\u201d",
+    "legal_references": [
+      {
+        "text": "QB",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Vassall-Adams relied on the 2023 edition of  Archbold on Criminal Pleading Evidence & Practice, which sets out section 17 of the 1996 Act in paragraph 12-88 and then states, inter alia, as follows in paragraph 12-89: \u201cDisclosure not falling within s.17(1) (such as that made before \u201cthe relevant time\u201d, \u00a7 12-49) is subject to an implied undertaking not to use the material for any purposes other than the proper conduct of the particular case:  Taylor v Director of the Serious Fraud Office  [1999] 2 A.C. 177, HL.\u201d",
+    "legal_references": [
+      {
+        "text": "Criminal Pleading Evidence & Practice",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 17 of the 1996",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "\u00a7 12-49",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "provisions of the 1996 Act apply only to unused material; that is to say, there is no protection for material which has been read out or exhibited in open court.",
+    "legal_references": [
+      {
+        "text": "the 1996 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": ", this is unhelpful, since the first sentence of paragraph 11-94 equates used material with material which has been read out in open court, which is not what is meant by used material.",
+    "legal_references": [
+      {
+        "text": "paragraph 11",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In Canada it has been held that no undertaking  exists  in  relation  to  documents  provided  by  the  Crown: Consolidated NBS Inc v Price Waterhouse  (1992) 94 D.L.R. (4th) 176 Ont. Ct.; though see also P (D) v Wagg (2004) 239 D.L.R. (4th) 501 Ont. CA.",
+    "legal_references": [
+      {
+        "text": "P (D)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "73.As stated by Megarry J in Coco v A.N. Clark (Engineers) Ltd  [1969] RPC 41, at 47:MR JUSTICE LAVENDERApproved JudgmentGPS v Yanpolsky \u201c\u2026 , three elements are normally required if, apart from contract, a case of breach of confidence is to succeed.",
+    "legal_references": [
+      {
+        "text": "RPC 41",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(5)(c)(i) The Public Interest Exception 80.Insofar as the Defendants contended that they were acting in the public interest, either by seeking to have the First Defendant\u2019s conviction quashed or by reporting what they mistakenly believed to be a data breach",
+    "legal_references": [
+      {
+        "text": "The Public Interest Exception 80.Insofar as",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(5)(c)(ii) The Purpose Exception 82.As I have said, it is common ground that the First Defendant was entitled to use the Disclosed  Data  for  the  purposes  of  the  criminal  proceedings,  including  any application for permission to appeal and/or any appeal.",
+    "legal_references": [
+      {
+        "text": "The Purpose Exception 82.As",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I say this because of the terms of subsection 17(2) (b) of the 1996 Act.",
+    "legal_references": [
+      {
+        "text": "subsection 17(2) (b)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Subsection 17(2) provides as follows: \u201cThe accused may use or disclose the object or information\u2014 (a)  in connection with the proceedings for whose purposes he was given the object or allowed to inspect it, (b)  with a view to the taking of further criminal proceedings (for instance, by  way  of  appeal)  with  regard  to  the  matter  giving  rise  to  the proceedings mentioned in paragraph (a), or (c)  in connection with the proceedings first mentioned in paragraph (b).\u201d",
+    "legal_references": [
+      {
+        "text": "Subsection 17(2)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

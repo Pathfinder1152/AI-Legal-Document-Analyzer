@@ -1,0 +1,87 @@
+[
+  {
+    "sentence": "CO/1004/2006  Neutral Citation Number: [2006] EWHC 1201 (Admin) IN THE HIGH COURT OF JUSTICE  QUEEN'S BENCH DIVISION   DIVISIONAL COURT  Royal Courts of Justice  Strand London WC2   Thursday, 11th May 2006   B E F O R E:  LORD JUSTICE KEENE  MR JUSTICE JACK   \u2011 \u2011 \u2011 \u2011 \u2011 \u2011 \u2011 DIRECTOR OF PUBLIC PROSECUTIONS Appellant  \u2011v\u2011   DAVID LENNON Respondent   - - - - - - - Computer\u2011Aided Transcript of the Palantype Notes of  Smith Bernal Wordwave Limited 190 Fleet Street  London EC4A 2AG Tel No: 020 7404 1400 Fax No: 020 7831 8838 (Official Shorthand Writers to the Court)  - - - - - - - MR RICHARD BROWN (instructed by Crown Prosecution Service, Organised Crime Division, 50 Ludgate Hill, London EC4M 7EX) appeared on behalf of the Appellant MR TOM ALLEN (instructed by Messrs Tuckers Solicitors, Manchester M2 3HZ) appeared on behalf of the Respondent  - - - - - - - J U D G M E N T   LORD JUSTICE KEENE:  I shall ask Mr Justice Jack to give the first judgment.",
+    "legal_references": [
+      "EWHC"
+    ]
+  },
+  {
+    "sentence": "1.\tMR JUSTICE JACK:  On 2nd November 2005 District Judge Kenneth Grant, sitting as a Youth Court in Wimbledon, ruled that there was no case to answer by the defendant, David Lennon, and dismissed the charge brought against him under section 3(1) of the Computer Misuse Act 1990.",
+    "legal_references": [
+      "Computer Misuse Act 1990",
+      "section 3(1)",
+      "Misuse Act 1990"
+    ]
+  },
+  {
+    "sentence": "3.\tThe relevant parts of section 3 provide: \"(1) A person is guilty of an offence if\u2014  (a) he does any act which causes an unauthorised modification of the contents of any computer; and (b) at the time when he does the act he has the requisite intent and the requisite knowledge.",
+    "legal_references": [
+      "the act",
+      "section 3",
+      "any act"
+    ]
+  },
+  {
+    "sentence": "4.\tIt is also necessary to refer to the interpretation provisions of section 17.",
+    "legal_references": [
+      "section 17"
+    ]
+  },
+  {
+    "sentence": "They provide: \"(7) A modification of the contents of any computer takes place if, by the operation of any function of the computer concerned or any other computer\u2014  (a) any program or data held in the computer concerned is altered or erased; or  (b) any program or data is added to its contents; and any act which contributes towards causing such a modification shall be regarded as causing it.",
+    "legal_references": [
+      "any act"
+    ]
+  },
+  {
+    "sentence": "(8) Such a modification is unauthorised if\u2014  (a) the person whose act causes it is not himself entitled to determine whether the modification should be made; and  (b) he does not have consent to the modification from any person who is so entitled.\"",
+    "legal_references": [
+      "whose act"
+    ]
+  },
+  {
+    "sentence": "Section 17(8) is the relevant provision.",
+    "legal_references": [
+      "Section 17(8)"
+    ]
+  },
+  {
+    "sentence": "So section 17(8)(a) is satisfied.",
+    "legal_references": [
+      "section 17(8)(a)"
+    ]
+  },
+  {
+    "sentence": "Mr Allen submitted that if there was some point at which the sending of emails became unauthorised by reason of their number, then there could be no certainty in the law because that point could not be sufficiently identified.  So, he said, the offence offended against Article 7 of the European Convention on Human Rights (no punishment without law).",
+    "legal_references": [
+      "Article 7",
+      "the European Convention on Human Rights"
+    ]
+  },
+  {
+    "sentence": "Mr Brown relied on Zezev and Yarimaka v Governor of HM Prison Brixton and another [2002] 2 Cr App R 33.",
+    "legal_references": [
+      "another [2002]"
+    ]
+  },
+  {
+    "sentence": ", then such an addition to such data is plainly unauthorised, as defined in section 17(8); intent to modify the contents of the computer as defined in section 3(2) is self\u2011evident and, by so doing, the reliability of the data in the computer is impaired within the meaning of section 3(2)(c).\"",
+    "legal_references": [
+      "section 3(2)",
+      "section 17(8)"
+    ]
+  },
+  {
+    "sentence": "Section 3(4) requires that it be established not only that the modifications caused to D&G's computers should be unauthorised, but that Mr Lennon had knowledge that they were unauthorised.",
+    "legal_references": [
+      "Section 3(4)"
+    ]
+  },
+  {
+    "sentence": "The critical issue is that of \"consent\" as that word is used in section 17(8) of the Act.",
+    "legal_references": [
+      "the Act",
+      "section 17(8)"
+    ]
+  }
+]

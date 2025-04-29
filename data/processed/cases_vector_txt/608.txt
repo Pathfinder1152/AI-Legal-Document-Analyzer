@@ -1,0 +1,781 @@
+Case No: HC08C03346
+
+Neutral Citation Number: [2010] EWHC 608 (Ch)
+
+IN THE HIGH COURT OF JUSTICE
+
+CHANCERY DIVISION
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Date: 29 March 2010
+
+Before :
+
+THE HONOURABLE MR. JUSTICE KITCHIN
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Between :
+
+|(1) TWENTIETH CENTURY FOX FILM CORPORATION
+
+(2) UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP
+
+(3) WARNER BROS. ENTERTAINMENT INC.
+
+(4) PARAMOUNT PICTURES CORPORATION
+
+(5) DISNEY ENTERPRISES, INC.
+
+(6) COLUMBIA PICTURES INDUSTRIES, INC.|
+
+Claimants|
+
+|- and -||
+
+|NEWZBIN LIMITED|Defendant|
+
+- - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Mr Adrian Speck (instructed by Wiggin LLP) for the Claimants
+
+Mr David Harris and Ms Jane Lambert (instructed by Kirwans Solicitors) for the Defendant
+
+Hearing dates: 1-3, 8, 10 February, 2, 3 March 2010
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Judgment
+
+Mr. Justice Kitchin :
+
+Introduction
+
+This is an action for infringement of copyright arising from the operation of a website called Newzbin on a world wide internet discussion system called Usenet.  The claimants are all well known makers and distributors of films.  They say Newzbin is focused on piracy in that it locates and categorises unlawful copies of films and displays the titles of these copies in its indices; provides a facility for its users to search for particular unlawful copies and displays the results; and provides a simple one-click mechanism whereby users can acquire unlawful copies of their choice.
+
+The defendant is the company that owns and operates Newzbin.  It says that its website is simply a search engine like Google but directed to Usenet rather than the world wide web.  It also says it is “content agnostic” and designed to index the entire content of Usenet.  Where possible, it provides hyperlinks with the result that any supply of unlawful material is an act occurring exclusively between the hyperlink user and the relevant Usenet server operators and that the defendant plays no part in any such activity.
+
+The trial has followed a rather unusual course. Mr Speck, instructed by Wiggin LLP, has appeared throughout on behalf of the claimants. Mr Harris, instructed on a direct access basis, originally appeared on behalf of the defendant. On 10 February 2010, after the close of evidence, the defendant sought an adjournment in order to instruct solicitors and new counsel because it had become apparent that Mr Harris had acquired shares in the defendant and because he did not feel able to represent the defendant in the light of the way the case had developed and the evidence which had emerged. For the reasons which I gave in a short judgment on that day, I allowed that application. Kirwans Solicitors and Ms Lambert were instructed shortly thereafter and the trial resumed on 2 March 2010.
+
+Before addressing the various detailed allegations made by the claimants and the defendant’s answers to them, I must explain the nature of the Usenet system and the structure of Newzbin. I must also address whether and to what extent Newzbin is designed to, and does in fact, make infringing copies available. The nature of Usenet and the basic structure of Newzbin were not in dispute.  Not surprisingly, the other matters were more contentious, some highly so, and involved fundamental disputes between the parties, the resolution of which depends, on occasion, upon my assessment of the credibility of the defendant’s witnesses.
+
+The Usenet system
+
+The claimants called as an expert witness Mr Andrew Clark who is employed as Head of Forensics by Detica Limited which specialises in the design, implementation and analysis of computer systems and software.  No criticism was made of Mr Clark, and rightly so. He was well qualified to assist me in relation to those matters upon which he gave evidence and I found him a careful and objective witness. In his report, Mr Clark provided an overview of Usenet. None of it was challenged.
+
+Usenet allows its users to upload and view messages on an electronic equivalent of public bulletin boards.  It was developed in the early 1980s and predates the world wide web by some 10 years.  It was originally designed to support text content only but subsequently evolved so as to support non-text (generally referred to as “binary”) content.
+
+Individuals who upload or “post” messages (sometimes referred to as “posts” or “articles”) to the system or who download messages from the system are referred to as Usenet users.  The infrastructure for the system is provided by Usenet servers which are interconnected to allow messages to be shared between them.  The servers store the content uploaded to them in a hierarchy of newsgroups that are named to reflect their content.  Currently there are in excess of 100,000 newsgroups generally available on Usenet.
+
+Usenet servers are operated by businesses known as Internet Service Providers (“ISPs”) or Usenet Service Providers (“USPs”) for the benefit of their subscribers.  Different providers provide different levels of service, for example as to the number of newsgroups they make available and the period for which the messages in those newsgroups are retained.  Typically ISPs carry only a limited number of the most popular newsgroups while USPs provide access to the full set of newsgroups for a relatively long time.  Top providers include Giganews, Astraweb and Binverse.  For the purposes of conducting his investigations, Mr Clark used Giganews.
+
+As I have indicated, Usenet servers are connected to a common communications network.  Each runs a protocol which allows it to synchronise its content with every other server.  The same protocol allows users who connect to that server to post or retrieve messages.  The process of synchronisation occurs regularly throughout every day.
+
+The content posted by users to a newsgroup  is generally categorised as text or binary.  Text materials essentially comprise alphanumeric characters and are designed to be read by other users without further processing.  Binary materials, including films, tend to be substantially larger in size than text materials and require processing in two ways which reflect the fact that Usenet was only designed to deal with text messages of relatively small size.  First, they need to be encoded in a text form and second, they need to be split into multiple parts so that they can be posted as a set of individual but related messages.  This has important consequences to users, as I shall explain.
+
+Generally, a user needs a system called a news client to post messages to, or download messages from, newsgroups on a server hosted by a service provider with which he has a subscription.  Commonly used news clients include Outlook Express, Thunderbird and GrabIt.  A user interacts with his news client in the following way.  First, he enters details of his chosen server. He then selects the newsgroups to which he would like ready access and to which he will post or from which he will download messages.  Once he has selected one or more newsgroups, he is then in a position to download some or all of the headings of the messages in that newsgroup and, subsequently, to download the body of any particular message. This is generally done by clicking on its heading.
+
+Posting messages is also relatively straightforward.  The user may choose either to create a new discussion or to reply to messages in an existing discussion.  Once he has posted a message to a newsgroup, the server to which he is connected ensures that it is synchronised with all other servers and so made available to all users of that newsgroup, irrespective of the servers to which those users may be connected.
+
+I must now explain a little more about the splitting up of binary files.  This is frequently carried out by a mechanism known as RAR encoding.  In summary, a large file of, for example, a film is first split into a series of smaller parts called RAR archive files (typically up to a hundred), each of which is in turn split into fifty or more messages.  Each of these messages is posted to the newsgroup separately.  As a result, the film is distributed across a significant number, perhaps hundreds or thousands, of messages.  If a user wishes to download a copy of a film he must identify every one of those messages from a list of messages available on the Usenet server to which he has access.  The server normally lists these messages in the order in which it has received them with the result that the messages comprising a film posted by one user get mixed up with other messages added to the newsgroup during the time required to complete the original film posting.  Each message file must be downloaded into appropriate RAR archive files and then these must be assembled together to form the whole copy.
+
+The Newzbin site - general
+
+Newzbin is run by Mr Chris Elsworth (known as “Caesium”), Mr Thomas Hurst (known as “Freaky”) and Mr Lee Skillen (known as “Kalante”) who were, until recently, the shareholders in and directors of the defendant. I mention their pseudonyms because they often appear in the various materials relating to Newzbin which were referred to during the course of the trial. Mr Elsworth and Mr Hurst gave evidence and, particularly in the case of Mr Elsworth, were subjected to an extensive and searching cross examination in the light of which substantial attacks were mounted on their credibility. I shall address these attacks in the context of the disputes to which their evidence gives rise.
+
+Access to Newzbin is restricted to members, and the defendant accepts applications for membership only from users who have an invitation from a current member.  The defendant offers two levels of membership:  basic membership for which there is no fee, and premium membership for those users who agree to pay a fee of £0.30 per week, subject to discount at different times of the year.  Only premium members are given the ability to download the contents of files sourced using Newzbin.  Basic members are merely provided with what was described in evidence as a “sample” or “taster” of what is available to premium members. There is no doubt that the defendant has developed a very substantial business. It has a sophisticated and substantial infrastructure and in the region of 700,000 members, though not all premium. Its accounts reveal that for the year ended 31 December 2009, it had a turnover in excess of £1million, a profit in excess of £360,000 and paid dividends on ordinary shares of £415,000.
+
+Upon logging on, premium members may set their preference settings so as to limit their view to binary content only (referred to as “Binaries”), text discussions (referred to as “Digests”) only, or both.  The default setting is for binary content. As will become clear, the functionality of this site in relation to binary content is significantly more developed than it is in relation to text content. Copies of a series of pages from Newzbin were introduced into evidence. Some were made in the summer of 2008, others in the autumn and winter of 2009 and yet others in January 2010.
+
+Upon logging on, a member is currently greeted by a welcome page and message. The first part of the message states:
+
+“Welcome to Newzbin.com, the most comprehensive Usenet search that exists on the Internet today.
+
+Our service comprises of listing what is currently available on Usenet, in two forms – the Reports view, which has been condensed to show you precisely what is available; and the Files view, which shows you everything that has been posted, on all the newsgroups*, for the last 240 days.”
+
+As will be seen, the 240 day service applies only to binary content.
+
+At the bottom of the page, this statement appears:
+
+“Newzbin indexes the contents of Usenet, however, it neither provides nor uploads any of the files that may be contained within it. Any descriptions are a result of the indexing and therefore do not relate to downloadable files.”
+
+The text provides a link to “documentation”. Clicking this link opens a new page and allows the user to access a user guide and related documents which can be edited online by using what is known as a “wiki” system. The “Beginner’s Basics” section includes this passage:
+
+“Newzbin is a service that is dedicated to indexing the ever-changing contents of Usenet, also known as Newsgroups. The reason we do this is to remove the hassle of crawling through the thousands of newsgroups and millions of headers to find what you’re looking for, whether that be obscure music, tv shows, games or movies. Think of us as a TV guide, but we’re a guide that applies to Usenet. Newzbin also offers many additional features and tools that can save you time, bandwidth and effort.”
+
+It is to be noted that all these materials are binary. A little later, under the heading “What Newzbin is”, the page continues:
+
+“As mentioned in the brief description, Newzbin indexes the binary side of Usenet. We are a search engine – just like Google! ….”
+
+Once again, this description is clearly focused on binary content.
+
+The Newzbin site - binary content
+
+(i) Newzbin indices
+
+Newzbin retrieves title information about messages posted in a range of Usenet newsgroups.  This title information, referred to as a “header”, identifies the email address of the user who posted the message, the date and time the message was posted, the newsgroup or set of newsgroups to which the message was posted, the subject or topic of the message, a code for identifying the message and finally, the path of servers that any particular copy of the message has followed.  Newzbin processes and stores this header information in three main indices: the “RAW” index, the “Condensed” index and the “Newzbin” index.
+
+The RAW index automatically lists individual files for a particular film, television programme or other binary content located by Newzbin.  Each file is, in effect, the equivalent of a RAR file and so comprises a collation of a number of individual messages, each of which is a fragment of a single work posted to Usenet.  But it also follows that any particular work (such as a film) identified in the RAW index may comprise several, perhaps as many as a hundred, such files.
+
+It is apparent both from the content of the RAW index and from the software that the defendant has disclosed that the part of the system dealing with binary content searches only binary newsgroups and filters out any messages posted to those newsgroups which may nevertheless be text.  The RAW index also categorises the content which has been located.  So, for example, content may be categorised as “Movies” or “TV”.
+
+The Condensed index has fewer entries than the RAW index and its contents are again produced automatically by identifying all the files (and so also all the messages) making up a copy of a particular film, television programme or other work and drawing that information together under a single entry.  Once again, the content is categorised.
+
+The Newzbin index is the highest level index and shows entries which have also been assigned what Newzbin calls “reports”.  These are created by a team of about 250 “editors” who check that the subject matter of the report relates to a complete set of Usenet messages.  The Newzbin index lists the reports by the name of the film or other work in question.  The editors act, in effect, as a system of quality control and ensure that all of the individual messages that comprise a copy of a film or other binary work have been identified. They also add further descriptive information such as the title and overall file size and details of other attributes such as the source, genre and language of the work.  In the case of entries relating to films, the reports typically provide the user with a link to an internet address (“URL”) with other available information on that work. Such URLs may link to the websites of Amazon or the comprehensive motion picture database known as IMDb. The reports often include an information or “NFO” file in which it is common for releasers of infringing copies of films or television programmes to identify themselves so as to take the credit for creating the copy in question.
+
+Newzbin reports for binary content appear to be retained for 240 days, as stated on the Newzbin welcome screen.
+
+(ii) NZB files
+
+I come now to a crucial element of Newzbin.  The defendant has developed a facility for premium members to create what the site identifies as “NZB” files.  In the case of binary content, each NZB file contains all the information a news client requires to fetch all the Usenet messages and reassemble the original binary work from its component parts.  Mr Clark described how it works in practice.  Using the Newzbin index view, an NZB file can be retrieved using one of two techniques; first, by clicking the check box in the relevant entry and then clicking the “Create NZB” button at the top of the page; second, by simply clicking the “Download Report NZB” icon in the relevant entry.  In either case the NZB file is created and delivered to the user’s computer. Mr Clark demonstrated this by reference to a Harry Potter film.  He selected the entry for “Harry Potter and the Prisoner of Azkaban (2004)” by clicking the checkbox in respect of that entry and he then clicked the “Create NZB” button.  A dialog box popped up on his screen giving him the choice between saving the NZB file and opening it with a third party application.  He chose to open the file using GrabIt.  He then selected a further option on the dialog box which indicated that when an NZB file was accessed in the future, GrabIt would be launched automatically. He duly did access an NZB file for the same Harry Potter film and the GrabIt application started running immediately.  The final output was a set of files suitable for burning to a DVD and which could be played in a typical DVD player.
+
+As Mr Clark further explained, if a user wished to retrieve such a large group of files directly from Usenet, he would have to identify all the messages they incorporate, download them one at a time and then use a separate software application to assemble them together. This would clearly be an onerous and inconvenient task and take days to accomplish. It could also be extremely frustrating, as Mr Elsworth himself elaborated. A user might spend a great deal of time and effort downloading the majority of the messages only to discover that one message, the final piece in the jigsaw, was missing. In that event he would be prevented from reconstituting the work and his days of effort would have been wasted.
+
+It is possible to obtain Usenet content from the RAW and Condensed indices using the same NZB facility, although in the case of the RAW index the member would need to identify for himself all the files comprising any particular work before clicking the “Create NZB” button and, in the case of the Condensed index, he would not have the benefit of the associated Newzbin report or the security of knowing an editor had checked that all the necessary messages had indeed been identified.
+
+(iii) Categories of content
+
+Newzbin permits a premium member to search its indices by reference to various categories into which the Usenet messages which it has retrieved are grouped.  So far as binary content is concerned, there are categories for “Anime” (animated films produced in Japan), “Apps” (application software), “Books” (both audio books and formats for displaying electronic book readers), “Consoles” (video games for dedicated games consoles), “Emulation” (video games playable on a PC using a program which allows the PC to emulate a games console), “Games” (video games playable on a PC), “Misc”, “Movies”, “Music”, “PDA” (software or content files playable on a personal digital assistant or handheld computing device, such as a Blackberry or an iPhone), “Resources” (creative resource material such as fonts and clip art) and “TV”.
+
+When searching the Newzbin index for binary content, a member can break down a number of these categories into various sub-categories.  Particular attention was focused during the trial on the “Movies” category.  This is sub-categorised by “Source” (for example “CAM”, “Screener”, “Telesync”, “R5 Retail”, “Blu-Ray”, “DVD” and “HD-DVD”), “Video Fmt” (for example, “DivX”, “XviD”, “Blu-Ray” and “HD-DVD”), “Region”, “Video Genre”, “Audio Fmt”, “Language” and “Subtitles”.  Miss Sidhu, a witness for the claimants and an internal investigator employed by the Federation Against Copyright Theft Limited (“FACT”), said in unchallenged evidence that several of these source sub-categories are a strong indication of piracy.  For example, CAM typically refers to the use of a handheld cam or video recorder in a cinema to record a film shown there; Screener refers to a copy of a film supplied on a restricted basis to persons within the industry, such as critics, before the film has been released commercially;  Telesync refers to a copy of a film made in a cinema using professional camera equipment and a direct connection to the sound source, and sometimes with the frame capture rate of the camera synchronised with that of  the film being shown; and R5 Retail refers to DVDs released in Russia before commercial release elsewhere.  Ms Sidhu also explained that where the source of the indexed content is a commercially available optical disc, such as a DVD, although the source will often be legitimate, the uploading of a copy of that film from the disc to Usenet and the copying of it online will not be lawful.  Further, the video formats DivX and XviD, at least, are commonly used formats associated with the piracy of audio-visual content.
+
+(iv) Editors
+
+As I have mentioned, the work of creating reports of binary content is carried out by a team of editors. They are encouraged to make as many reports as possible and Newzbin contains a league table of their performance. Those interested in becoming an editor must complete an application form available on Newzbin.  These applications are reviewed by a team of about six senior editors, also known as “editor administrators” or “Ed Admins”. Editor administrators generally manage and provide help to editors and have permission to edit their reports. Editor administrators are paid, though at the defendant’s discretion and not on a regular basis.
+
+In a section headed “Editor: Basics” a general description is given of what being an editor involves. It includes (in a page taken from Newzbin in January 2010):
+
+“What do Editors do?
+
+They group and name posts on Usenet
+
+Basically, Newzbin fetches headers for every binary newsgroup (well, almost we add new ones all the time, as we find them) on Usenet.  These headers are often cryptic, or at least, not very readable.
+
+It is an Editor’s task to ‘decode’ these headers into something a little more readable for you the Newzbin member, so that you can search and browse for what is on Usenet, quickly and easily.
+
+…
+
+Position Details
+
+Once you’re appointed as an Editor, you’ll see a few new features and pages on the site.  The most important is the Usenet Files view; this is very similar to what you see in a newsreader after loading headers.  We pull in headers from just about every binary group on Usenet – so there’s no need for you to do the same.
+
+Armed with this information, you can condense the information into Newzbin Reports.  Most people don’t want to sit and sift through so much information, so it’s your job to make it nicer to read.  Once you’ve made a Newzbin Report, your information will appear on the public side of the site available to all and sundry to read; thus you directly help control what we show.”
+
+The site also contains a series of documents which together comprise a guide for editors on how to create reports which, in the case of films, should include source, video format and a URL link to a film database such as IMDb or Amazon. The guidance includes this passage, again taken from Newzbin in January 2010:
+
+“We have a rather large team of editors at Newzbin.com (roughly 250 editors).
+
+We report releases because we like to help other people.
+
+New editors get premium features, plus permission to make regular reports. The more posts you make, the more permissions you will get as an editor.  Senior editors have permission to edit other editors’ reports, delete entire reports etc.  The full list of all available permissions can be found here.
+
+……
+
+Often, finding a web page related to a post helps to determine the proper title, show missing songs for albums, and generally improve the accuracy of a report.  To that end we are implementing a new rule for editors:
+
+Reports by new editors MUST have a relevant URL on them.
+
+While adding URLs is optional for non-new editors it’s still good to include them and ‘strongly encourage’ for movies.  There is a list of helpful links elsewhere.”
+
+Editors are also told:
+
+“People look at our site for movies, games and apps, pretty much in that order.  Why even have those other sections?  Because if they were removed people would ask “Why don’t you have eBooks?”  If you care enough about eBooks to report them, then you won’t mind doing so for minimal credit.  You report those sections because you want to.
+
+On the other hand if you report movies, then you get rewarded for it because we want you to report them more then eBooks.  Ebooks are usually a case of one file = one post.  Its pointless copying the filename from the subject and putting it in the post title and making a report of it.  If people want to search for eBooks, they can switch to files mode and search there.  You’re benefiting the entire community a LOT more by making movie posts and decoding the cryptic filenames people come up with.”
+
+This instruction reveals an awareness by the defendant that users are primarily interested in films and constitutes a positive encouragement and inducement to its editors to focus on films in making their reports. Miss Sidhu also drew attention to the following guidance as to how editors should fill in a dialog box when creating a report:
+
+“Consistent and well formatted titles are very important to the quality of the site. … Below are some rules which apply to all reports unless specified in another title formatting guide.
+
+When appending completeness or information tags to report titles use:
+
+CD for Compact Disc
+
+DVD for Digital Versatile Disc
+
+BD for Blu-Ray Disc
+
+HD for High Definition Digital Versatile Disc (HDVD)
+
+[] – Use square brackets to add information about the status/completeness of a report. …
+
+() – Use parentheses to add information about the content contained in the report. …
+
+YYYY-MM-DD – standard date format inside () or not
+
+[] comes after ()
+
+If you are unsure how to create a proper title, either ask in #edcentral or search for a similar reports and follow suit.
+
+…
+
+For movie titles, use the main imdb title including year, but move ‘The’ or ‘Le’ to the front.  Do not include /I or the quotes that mean made for tv movie.  Do not add aka titles
+
+For movie titles with additional info the format should be; Title (YEAR) (Additional Info)”
+
+Here again, editors are provided with specific guidance how to report films, including instructions as to the appropriate tags to use.  To encourage and assist them, editors are provided with useful links, including links to “IMDb – Used to look up movies and IMDb numbers” and “VCDQuality – Info on movie releases, mostly screeners …”
+
+Newzbin also contains a long section containing lists of films under the heading “The Superset: Shows You Are Likely To See Posted” – and these are clearly commercial releases which are very likely to be protected by copyright.
+
+In sharp contrast to the above, it is one of the Newzbin terms and conditions that:
+
+“… When acting as editor you may not do any act which would assist enable incite or encourage any unlawful acts by any other person.  Specific but not exhaustive examples of such acts would be the creation of or editing of NZB or NFO files or hyper-links relating to ‘warez’, unlicensed movies or music, child pornography or other unlawful obscenity, terrorist or unlawful drugs materials.  These are not definitive examples and any unlawful act is prohibited.  You should be aware that we may be required by law to assist copyright owners or the authorities in tracing Editors who undertake such acts.”
+
+In my judgment this warning is entirely cosmetic and is neither intended to be nor is in fact acted upon by editors.  I reach that conclusion for all of the following reasons.  First, the warning is inconsistent with the sub-categories within the Movies category of the Newzbin index, many of which are a strong indication of piracy, as I have explained.  Second, there is no dispute that the newsgroups which Newzbin searches include a number of what are known as “warez” newsgroups such as “alt.binaries.warez”, “alt.binaries.warez.uk.movies” and “alt.binaries.warez.quebec-hackers”.  I am satisfied that in each of these cases “warez” signifies that the content is generally protected by copyright and comprises illegitimate and unauthorised copies.  Newzbin is therefore designed to and does in fact search newsgroups which contain infringing materials. Under cross examination Mr Elsworth had no satisfactory explanation for this, save that on occasion these newsgroups contain non infringing material too.  Third, editors are, as I have indicated, specifically encouraged to report films and include appropriate URLs. Fourth, and for reasons I elaborate later, I have no doubt that the defendant is well aware of the substantial body of infringing copies which Newzbin makes available to users and yet has taken no action against the editors who have produced the reports relating to these copies.
+
+(v) Item removal and restriction on use
+
+Newzbin contains a “Delisting” facility. In order to get an item delisted, members are directed to a link which takes them to a web page which instructs them that details of the item sought to be removed must be sent by registered post to a specified address. The page informs members that the defendant aims to process all such requests within 48 hours of their receipt.  For like reasons, I am again satisfied that this cumbersome procedure is entirely cosmetic and designed to render it impractical for rights holders to secure the removal of entries relating to infringing material from the Newzbin indices. This was graphically illustrated by Mr Elsworth’s explanation in cross examination as to the lengths the claimants would have to go to in order to get all of the (perhaps many hundred) copies of a particular Harry Potter film removed. He said the claimants would have to download each such copy and prove it was infringing and send an appropriate notice in accordance with the delisting instruction.
+
+I should also draw attention to the user terms and conditions which include the following restriction which mirrors that which applies to editors:
+
+“You may only use the Site for lawful purposes. In particular you may not use the Site to transmit defamatory, offensive or abusive material or material of an obscene or menacing character, or which promotes hatred, violence or illegal conduct, or in breach of copyright or any other intellectual property rights, or in breach of the Computer Misuse Act 1990 or other relevant legislation or the rights of another User.”
+
+I have no doubt that this is another superficial attempt to conceal the purpose and intention of the defendant to make available binary content of interest to its users, including infringing copies of films. As will be seen, the defendant has done nothing to enforce this restriction. To the contrary, it has encouraged its editors to report and has assisted its users to gain access to such infringing copies.
+
+(vi) Newzbin binary content analysis
+
+It was the defendant’s case, maintained by Mr Elsworth in his evidence, that only an insignificant fraction of the defendant’s database relates to infringing content. I am satisfied this is quite wrong and I reject both the defendant’s case and Mr Elsworth’s evidence. On 16 December 2009, Mr Clark, assisted by trainee solicitors in the firm of solicitors acting for the claimants, carried out an analysis of a sample of the reports entered in the Newzbin index under the Movies category.  About 50,000 reports were analysed.  97.5% had a valid link to the IMDb site, 0.7% had a valid link to Amazon and a further 1.5% were shown to be commercially available upon further investigation. Only 0.3% were not shown to be commercially available.  In my judgment this analysis is extremely powerful.  It shows that, in practice, the overwhelming majority of the reports in the Movies category of the Newzbin index relate to content which is commercial and very likely to be protected by copyright.
+
+A second exercise was carried out on the Condensed and RAW indices by three of those trainee solicitors, Mr Morgan, Ms Mason and Ms Martin. Mr Morgan sampled 200 entries from the Movies category of the Condensed index which were identified in the index as having been assigned a report. All of these entries were found to be commercially available. Ms Mason first sampled 50 “orphan” entries from the Movies category in the Condensed index, these being entries for which no report had been assigned. 27 were found to be commercially available. She then sampled 50 entries in the RAW index from the Movies category for which a report had been assigned. All were found to be commercially available. Finally, Ms Martin sampled 50 orphan entries from the Movies category in the RAW index. 29 were found to be commercially available. These results were not challenged and demonstrate that the sampled binary messages for which reports had been assigned and which had been categorised as Movies were, without exception, commercially available and very likely to be protected by copyright.
+
+The Newzbin site - non-binary (or text) content
+
+In order to access any information relating to text content, premium members must first change their preferences to “Digests” and they are then in a position to browse the “Discussions” category of the Newzbin index.  Essentially, the system automatically downloads text message headers and places them into a “Discussion Digest” for that day for the newsgroup from which they were obtained. Each has a report which is again produced automatically. Although these reports are presented in the same format as the reports for binary content, that format is inappropriate in that a number of the icons which are displayed in the reports do not work.
+
+The system does not index or return any valid search results against words used in the headers, nor does it permit the content of text messages to be searched.  All it does is permit a member to search for a newsgroup by reference to its name and so identify the appropriate Discussion Digest. By clicking on the relevant entry, the member can then see the headers of the messages recently posted to that newsgroup. But he cannot look at the content of the messages without either going to the relevant newsgroup in his news reader or by acquiring the messages by use of the NZB facility. Moreover, no reference to text messages appears in the RAW or Condensed indices.
+
+Newzbin therefore has very little utility in relation to text messages. In this respect it is a very rudimentary and crude system. Specifically, it does not permit members to search the content of Usenet text postings for key words or phrases as Google does. Indeed, it seems to me to provide little or nothing that cannot be obtained by accessing the relevant newsgroup directly.
+
+Mr Clark also considered the operation of Newzbin with the benefit of software provided by the defendant.  He concluded, in my judgment entirely fairly, that binary content and text content are dealt with by Newzbin in different ways and by separate parts of the code.  As I elaborate in the next section of this judgment, the part of the code dealing with binary content takes care to search only binary newsgroups.   It is designed to filter out any articles posted to those binary newsgroups which might nonetheless be text.  By contrast, the part of the code dealing with text content searches all active newsgroups and then filters out any articles that appear not to be text.  As a result, large numbers of Discussion Digests and reports are produced. Interestingly, no Discussion Digests are listed on the site prior to 3 January 2010. There is nothing remotely near 240 days old.
+
+The defendant’s stated objectives in developing the Newzbin site
+
+Mr Elsworth stated in his witness statements that his objectives in developing Newzbin were to create a comprehensive index database of the contents of Usenet and then to assist members to obtain content by creating the Usenet equivalent of  a world wide web hyperlink, which he decided to call NZB.
+
+As for the objective of creating a comprehensive index database, he developed this theme by pointing out that Usenet suffers from a serious problem in that finding a file or a particular conversation topic can be a mammoth undertaking because it did not, prior to Newzbin, have a workable search engine capability. Creating the index database began once Newzbin acquired access to a good Usenet server and began a methodical and thorough harvest of every message in every publicly accessible newsgroup.  Accordingly, he continued, Newzbin employs a piece of software called a “crawler bot” which automatically connects to a USP and indiscriminately retrieves all message headers for each and every message found in all Usenet groups in all available Usenet hierarchies. Further, he said, no search criteria exist within the crawler bot to locate specific headers or specific types of content. If the message is over 100Kbytes in size, it is not downloaded and examined but merely assumed to be a binary file, and in this situation only the headers are downloaded. If the message is under 100Kbytes in size it is assumed to be text, and it is downloaded and the words or phrases extracted and indexed.
+
+The clear impression conveyed by this evidence was that Newzbin treats all content in the same way and so is, in the words of the re-amended defence, content agnostic; that Newzbin retrieves information using the crawler bot; and that the crawler bot looks at all available newsgroups. However, as I have explained, the truth is very different. Mr Clark has established that in fact Newzbin treats binary and text content in quite different ways and does so by using separate parts of the code. As for binary content, the code responsible for collecting new information from Usenet servers and processing it into a form suitable for displaying it to members looks only at binary newsgroups and conducts a series of tests designed to filter out text messages. By contrast, the part of the code dealing with text content searches all active newsgroups and then filters out any messages that appear not to be text.
+
+The dataflow for the two kinds of information is also quite different. In the case of binary messages, message headers downloaded from Usenet are first stored on the file system; they are then loaded and inserted into a table called “Message ID”; from here they are summarised into the “News” table which forms the basis of the RAW index, and then again into the “Condensed” table which forms the basis of the Condensed index. Hence several entries in the Message ID table may correspond to one entry in the News table and several entries in the News table may correspond to a single entry in the Condensed table. The editors are then able to compile these entries into reports for the Newzbin index. A further and important aspect of the system is that entries are allocated to an appropriate category, such as Movies or TV. All these features permit members easily to download copies of films and other TV programmes of their choice.
+
+In the case of text content, the headers of new messages in each newsgroup are retrieved. They are then subjected to a test which removes the header of any message over 20Kbytes in size. Those that remain are stored in a file together with their dates and the newsgroups from which they were retrieved.  There is no download of any content which could be indexed and made searchable. Discussion digest reports are then automatically generated, inevitably in very large numbers. But they have very little utility save to members who are interested in a list of new messages posted to a particular newsgroup. Importantly, and contrary to the evidence of Mr Elsworth, the system does not extract or index words or phrases used in the header or body of any text message; nor does it return any valid search results against any such words or phrases.
+
+Mr Hurst also gave evidence that Newzbin is content agnostic and mainly used to locate text discussions and that he has spent a considerable period of time developing Newzbin’s indexing software in relation to discussion groups. However, in cross examination it emerged that by content agnostic Mr Hurst meant no more than that Newzbin looks at all content and not that it treats all content in the same way. He explained that he wrote a script in January 2010, similar to earlier scripts, which enabled him to download automatically the messages in a digest for a newsgroup he had already identified. Curiously the script was written on the same day as his witness statement, strongly suggesting it was motivated by a desire to illustrate that the text functionality of Newzbin has some utility, although he maintained it was coincidental. The value of his evidence was in any event undermined by his acceptance in cross examination that he had done it “for fun”.  I am satisfied that Mr Hurst’s evidence provides no support whatsoever for any suggestion that the text functionality of Newzbin is of any interest or utility to members. Further and in any event, Mr Hurst’s evidence was entirely peripheral to the claims in this action. It had nothing to do with the binary functionality of Newzbin.
+
+Newzbin activity
+
+The defendant also maintained the information made available to members through Newzbin is largely concerned with text content and, consistent with this, Mr Elsworth said in evidence that the lion’s share of the activity on Newzbin relates to text content. Indeed, the defendant amended its defence in September 2009 to assert that Newzbin was primarily used for its text content.
+
+Mr Elsworth supported this position in his first witness statement where he said that only a tiny fraction of the reports generated have anything to do with binary files. He said that by running a management reporting tool on Newzbin’s webserver logs in January 2010, he was in a position to say that Newzbin generated about 7,100 reports per day and that of these 5,700 were text reports that had no binary content at all. He continued that Newzbin summarised 120,000 text only messages per day. In other words, he continued, over 80% of the reports created had nothing to do with binary content. In relation to actual usage, he said that the webserver logs regarding the views of reports could be processed to determine whether they related to text or binary content. Taking a sample from webserver logs in the first week in January, he continued, views of binary reports totalled approximately 200,000 per day. But views of text digest reports numbered approximately 700,000 per day. All of this data was allegedly shown in a management report generated by the management reporting tool.
+
+In my judgment Mr Elsworth’s evidence that the lion’s share of the activity on the Newzbin website relates to text content was highly misleading. It is wholly inconsistent with the Newzbin user interface, which is primarily directed to binary content. It is also inconsistent with Newzbin’s much more sophisticated binary functionality. Indeed, under cross examination, Mr Elsworth accepted that in 2008 Newzbin had no text functionality at all; it was solely concerned with binary content.  He also accepted that in 2009 he introduced the “Discussions” category in the index and it was only at this time that the system began to operate sufficiently for people at least to test it. Moreover, when pressed as to why the system default setting is for binary content, he said:
+
+“The digest system is still under quite heavy development so we don’t want to show potentially broken or incomplete results to a user base that are accustomed to a complete and accurate index.”
+
+The clear implication of this evidence is that Newzbin is directed primarily at binary content and that its functionality in relation to text content is still at an early stage of development.
+
+Further, in cross examination Mr Elsworth said that the first time the defendant ran any test to see if members were using the text functions in volume was in January 2010, and that before this test he had no idea one way or the other. It follows that in September 2009 the defendant had no proper basis for advancing its amended defence.
+
+The defendant was asked to produce the webserver logs to which Mr Elsworth had referred in his witness statement but said this was not possible because they had been deleted. When asked for the management reporting tool, the defendant responded that the software for the site had already been disclosed but declined to assist Mr Clark to identify the relevant code. In the event Mr Clark was unable to find it. As for the management report itself, Mr Elsworth said in cross examination that the management reporting tool was only ever used on this one occasion. Yet the report purports to show data for seven days from 13 to 19 December 2009, not for a period in January as Mr Elsworth said in his statement. Moreover, the data are simply not credible. Mr Elsworth said the system rounded weekly figures to the nearest 1,000 and that he calculated the daily figures. The document records production of 40,000 text digests (5,700/day) comprising 840,000 messages (120,000/day, 21/report); and 9,000 binary reports (1,300/day) comprising 1,225,000 messages (175,000/day, 136/report). It also records 4,900,000 text digest views (700,000/day, 125/report) and 1,400,000 binary report views (200,000/day, 150/report). In my judgment Mr Elsworth had no satisfactory explanation for the remarkable coincidence of these numbers if, as he said, they were generated by the management reporting tool and simply rounded to the nearest 1,000. A cursory examination reveals that many of them must have been rounded in a quite different way.
+
+In all these circumstances I conclude that the management report must have been produced in a manner other than that related by Mr Elsworth. Overall, I found the report wholly unconvincing and feel unable to attach any weight to it or to Mr Elsworth’s explanation of how it was generated or his evidence as to what it purports to show. Further, I do not accept Mr Elsworth’s evidence as to the usage of Newzbin’s text content, based as it was upon that management report.
+
+Knowledge of infringement
+
+I must now consider the defendant’s state of mind. The defendant asserted it had no knowledge of infringing material being made available through the Newzbin website, that it would remove information relating to infringing material if it knew about it, and that it would remove any editor responsible for posting data relating to infringing material and any member using Newzbin for the purpose of accessing such material. All of these matters were again confirmed by Mr Elsworth in his evidence.
+
+A very different picture emerged in the course of cross examination. Mr Elsworth was taken to a series of posts on what are described as “sharing forums” over which the defendant has had no control since March 2006, but of which it is evidently aware and to which Mr Elsworth has contributed. I am entirely satisfied that time and time again these show that premium members have been using Newzbin to access infringing material. The following are merely illustrations. I will deal with them in chronological order.
+
+In a series of posts in February 2006, members address a concern as to whether Newzbin records the NZBs that members have downloaded and whether the Motion Picture Association of America or its European equivalent, the Motion Picture Association (often referred to as the MPAA and MPA respectively), could use such data to track members down. Mr Elsworth was constrained to accept that these concerns “could be” related to copyright infringement.
+
+In August 2006, an editor wrote “When we get the chance, if its not too much trouble could you add possible two more attributes for video format: Blu Ray and HD DVD? Since they’ve already started releasing movies on these new formats”. In cross examination, this was Mr Elsworth’s explanation (on Day 2 at 126 to 127):
+
+“Q.  What do you imagine is intended to go in those categories?
+
+A.  I would fully imagine that it's video data that's come from a Blu Ray disc or an HD DVD media.
+
+Q.  Namely the movies that they've already started releasing that are mentioned there, yes?
+
+A.  That does appear to be what he means, yes.
+
+Q.  So what this person has in mind for "we", because he's editor, what he has in mind is having categories for doing something which would be copyright infringement, doesn't he?
+
+A.  From that specific post, it looks like he may have that in mind.  I would add any attribute upon asked to from any editor.
+
+Q.  Well, in fact you have added these categories, haven't you?
+
+A.  Yes, I think I did.
+
+Q.  And in fact you know that's what's intended to go in there are movies that are released on those formats, don't you?
+
+A.  After reading this post, I do see that he looks like he is intending to put commercial movies in those formats.
+
+Q.  You've always intended that, haven't you?
+
+A.  No, I generate the attributes on -- whenever the editors ask for them.  I don't know what they're going to put in them.
+
+Q.  Is that your evidence?  So when you add Blu Ray and HD DVD, you've got no idea -- you had no idea that movies were being released on them and that that was what the categories were intended for, is that your evidence?
+
+A.  It's not a given that a Blu Ray media disc will contain a copyright movie.  There are plenty, I'm sure, of copyright-free Blu Rays that people would want to put in there.
+
+I am satisfied that Mr Elsworth well knew that these categories were primarily intended for new commercial films. The position was confirmed a little later when Mr Elsworth was asked about a post in January 2007 in these  terms: “looks like were going to need Blu-Ray attributes as Blu-Ray has been cracked officially”. Mr Elsworth accepted that he suspected that it meant that a way to make a copy of a Blu-Ray had been developed and then the following interchange took place (on Day 2 at 134):
+
+“Q.  Yes.  And you need a category for Blu Ray, or we need a category for Blu Ray, because Blu Ray has been cracked so now people will be copying movies off of Blu Ray so you need to deal with those.  That's what this post means, doesn't it?
+
+A.  That does look like what that post means, yes.
+
+Q.  So that person has copyright infringement in mind?
+
+A.  No, I would not say that person had copyright infringement in mind.  I would say that person looks like he just wants to report Blu Rays.  He cites a reason for adding the Blu Ray category as they are being cracked but he does not cite a specific intention to report copyrighted Blu Rays.
+
+Q.  Well, what else would it be?
+
+A.  I don't know.
+
+Q.  Why would it be Blu Rays that would need cracking?
+
+A.  I don't know.
+
+Q.  You can't come up with any explanation other than a copyright-protected commercial movie, can you?
+
+A.  No.”
+
+In short, Mr Elsworth was unable to provide any explanation other than copyright infringement.
+
+In March 2007, a member wrote with a query in relation to what he described as “a bunch of saved searches (mainly TV shows)” and continued “these are great as it means every week instead of typing what I want and searching I just click the relevant show”. Mr Elsworth responded with specific advice and assistance. This was plainly copyright material. When asked about it in cross examination Mr Elsworth was reluctant to accept the inevitable inference that the member was saving the shows because he wanted to watch them, as the following passage from Day 2 at 139 to 141 shows:
+
+“Q.  He wants to be able to find them to download them?
+
+A.  He doesn't cite that as a reason.
+
+MR JUSTICE KITCHIN:  Can I understand, in his first sentence he says: "I have a bunch of saved searches (mainly TVshows)." What does that mean?
+
+A. A saved search is a Newzbin feature where, once you search for something once, you can then save it so that it appears in a list and then you can re-execute the same search without having to type in the name again and all the parameters, so it simplifies searches that you may do very often.
+
+MR JUSTICE KITCHIN:  So if he has saved searches for mainly TV shows, what would he be doing with them?
+
+A.  I don't know.  This suggests that he's searching for the TV shows quite often, but it doesn't suggest what he does with them.
+
+MR JUSTICE KITCHIN:  It wouldn't suggest to you that he wants to watch them?
+
+A.  It may suggest that but it doesn't actually say that he's going to do that.
+
+MR JUSTICE KITCHIN:  What would you understand it to mean?
+
+A.  If I were to read this, I would understand it to mean that he wants to know what's on Usenet regarding TV shows, probably on a regular basis.
+
+MR JUSTICE KITCHIN:  Why?
+
+A.  (Pause).  May I read the second page of this post?
+
+MR JUSTICE KITCHIN:  Of course, yes.
+
+MR SPECK:  You see it's you responding and helping him.
+
+A.  This user does seem to be setting up a saved search so that he can find an NZB for whatever he's saved the search for on a weekly basis and then probably retrieve the NZB for the things which are popping up in his search on possibly a weekly or monthly basis.
+
+Q.  So if he, for instance, is a Dr Who fan –
+
+A.  Are we on the next page?
+
+Q.  I'm just giving you an example.  If he is a Dr Who fan, and he wants to search for that every week so he can get it when it's appeared on the television and somebody has copied it and put it on Usenet, he can do the same search every Sunday morning, or whatever it might be that's what this is about, that kind of thing?
+
+A.  This doesn't specifically say it's about Dr Who, but as an example that is possible.  He could do that, yes.
+
+Q.  Of course, it doesn't say "Dr Who" but whatever may be his favourite shows, that's what he's up to, yes?
+
+A.  Yes.
+
+Q.  And you're helping him, yes, in your replies?
+
+A.  We provide the features to make a search as simple as possible.
+
+Q.  Indeed, you're giving him assistance knowing that what he's going to do is what we've just discussed?
+
+A.  No, I don't know he's going to download these copyrighted TV shows.
+
+Q.  You've just agreed that it looks like that's what he's up to reading his post
+
+A.  Reading his post, yes.
+
+Q.  You read his post and you replied over the page, giving him some help.
+
+A.  Yes, I enhance the search service so that you can select a saved search quickly, more quickly than you could do before.
+
+That same month, Mr Elsworth was asked if there was a way to search inside NFO files because “on a lot of movies the NFO file contains who stars in the movie or a full description of it”.  Mr Elsworth responded that there was no such facility at the moment, but there “could be if there was enough demand for it”. The explanation he provided under cross examination for this interchange was, in my judgment, simply not credible (Day 2 at 145):
+
+“Q.  So what this person is envisaging is searching under a movie star?
+
+A.  He's envisioning searching on anybody who may be in a video file, yes.
+
+Q.  Well, a movie star; who stars in it, "who stars in the movie".
+
+A.  That's the wording he uses, yes.
+
+Q.  He's talking about searching for a movie star?
+
+A.  That's not necessarily true.
+
+Q.  What else does it mean?
+
+A.  You can star in a home video.
+
+Q.  An NFO file contains who stars in the movie.  Are you suggesting that what he might have in mind is some unknown ten year old, say, starring in the movie which has been filmed on a camcorder by their parents?
+
+A.  I'm suggesting that "movie" is a very broad definition of a video, and "starring" and you can star in any sort of video, not just a commercially released video.
+
+Q.  Of course, what we're envisaging here is people who are third parties to the video or the movie searching for it.  So the unknown person who is starring in a movie, they are not going to be known, so you won't know the      name to search for, will you?
+
+A.  It depends if you are a friend or family of the star of the home video.
+
+Q.  They'll give it to you then; you won't be searching on Newzbin for it, will you?
+
+A.  Perhaps.
+
+Q.  It's quite plain that what this person has in mind is a facility which will enable him, because he has favourite movie stars, to acquire movies in that way, using your site, is it not?
+
+A.  I don't agree with that, no.”
+
+Not all members were satisfied with the content of the service, however, as a post from June 2007 showed: “I joined a while ago and it seemed like it was really working well back then, get movies good quality very early and pre-release even ….nowadays seems like not working well. Seems like the good movies never make it to newzbin site or giganews servers nowdays, OR you have to wait a very long time … and sometimes a very long time for a really terrible copy ….”. In this connection too, Mr Elsworth attempted to explain the reference to pre-release movies as being to home videos, a suggestion I reject as wholly implausible.
+
+In the same month a member posted a reference to a piece of software that would make downloading “your favourite episodes from Newzbin easier”. When asked as to what the episodes could be, if not copyright material, Mr Elsworth was unable to provide an answer (Day 2 at 151 to 152):
+
+“Q.  This is somebody making something for downloading your favourite episodes from Newzbin easier?
+
+A.  Right.
+
+Q.  Do you see that?
+
+A.  Yes.
+
+Q.  First of all, this person considers that what they're doing is downloading from Newzbin, yes?
+
+A.  He does appear to be under that misconception, yes.
+
+Q.  I understand that technically we can get into the nitty gritty of where it's stored and how it occurs, but so far as the user is concerned he's going to Newzbin and downloading his favourite TV episodes from Newzbin, yes?
+
+A.  He does seem to think that, yes.
+
+Q.  And there's no doubt that what's envisaged here is unlawful.
+
+A.  There's no evidence to suggest what he's downloading apart from episodes.  There's no evidence to suggest what those might be.
+
+Q.  Which episodes are unlikely to be copyright protection?
+
+A.  I don't know.  I couldn't think of any off hand.”
+
+In May 2008, Mr Elsworth posted the following message to reassure users that the details of the binary content they had downloaded were not recorded:
+
+“I’ve said multiple times that we would require a court order to hand over any information we hold.
+
+As to what we record:
+
+Your username & your email address, obviously.
+
+One month of logs which comprises:
+
+- IP you used the site from (so we can ban people who are hammering the site, DoSing etc)
+
+- When you logged in and logged out (for tracking abusive site users, this includes login errors)
+
+- Card payments [how much you bought, when, and the transaction status, failures etc – NOT the card number, that’d be illegal as we’re not qualified to store this information]
+
+- When you change a preference, so when a user says “I can’t see anything!” we can go find out what he changed which broke it, and change it back for him.
+
+- When you download an NZB, we increment a counter which is displayed in some of your stats.  The identification of the NZB is not recorded.
+
+We are considering lowering the log storage time to 7 days.
+
+We may also move the logs off the Newzbin servers, onto completely unrelated servers in another completely unrelated part of the Internet, and then log via SSL to them.  (thus, no logs can be taken without our consent – but I judge the odds of server seizure to be negligible, as it’d be jumped on by our lawyer with complete glee).”
+
+In June 2008, a member asked whether those members engaged in file-sharing could be open to criminal proceedings.  Mr Elsworth responded that if he was this paranoid, maybe he shouldn’t be file-sharing at all. Mr Elsworth was asked about this in the course of his in cross examination and his explanation, which I do not accept, was that he was probably concerned about being arrested for sharing “perfectly innocent” files.
+
+The defendant has also been given notice by the claimants that Newzbin has been and is being used by members to infringe the claimants’ copyrights in their films, yet copies of those films remain available on Newzbin and no action has been taken against the editors responsible for making the reports relating to them or against the members who have downloaded the infringing copies. In a letter before action dated 21 May 2008, the defendant was notified that Newzbin was being used to infringe the copyrights of members of the MPA. The letter enclosed a list of the claimants’ films. Thereafter these proceedings were issued and the particulars of claim dated 25 November 2008 identified the six particular films referred to in paragraph [80] of this judgment and which FACT had downloaded using Newzbin. Mr Jenkins explained in a witness statement dated 17 August 2009 that he was responsible for downloading those copies in July and August 2008 and that he was at that time an investigator employed by FACT. This statement was served on the defendant on 8 September 2009. Ms Sidhu, to whom I have referred earlier in this judgment, related in her first witness statement dated 3 September 2009, which statement was also served on the defendant on 8 September 2009, how she downloaded further copies of each of those six films in May 2009. In a second witness statement dated 8 January 2010 and served on the defendant on 8 January 2010, Ms Sidhu explained that copies of five of those six films were still available on Newzbin in December 2009. At trial both Ms Sidhu and Mr Jenkins confirmed in the course of their evidence that the contents of their statements were true and that evidence was not challenged.
+
+In light of all the foregoing, the structure of Newzbin, the categorisation of  content and the encouragement given to editors to report films, I have no doubt that the defendant is and has been aware for very many years that the vast majority of films in the Movies category of Newzbin are commercial and so very likely to be protected by copyright, and that members of Newzbin who use its NZB facility to download those materials, including the claimants’ films, are infringing that copyright.
+
+Feasibility of filtering Newzbin content
+
+Mr Clark gave unchallenged evidence that it would be straightforward for the defendant to restrict access to the Movie and TV categories of binary content. He also explained that another option for the defendant would be to search against a film database provided by the claimants. The programmers of Newzbin are experienced and proficient in code development and he believes, and I accept, they could utilise their skills, experience and library of existing code to implement an effective content filtering system.
+
+Subsistence of and title to copyright
+
+The defendant admitted that the claimants are the owners or joint owners of the copyright subsisting in the following films:
+
+first claimant:  “27 Dresses”;
+
+second claimant:  “Atonement”;
+
+third claimant:  “300”;
+
+fourth claimant:  “Cloverfield”;
+
+fifth claimant:  “National Treasure: Book of Secrets”;
+
+sixth claimant:  “Spiderman 3”.
+
+As I have related, FACT was able to download unlicensed copies of each of these films using the Newzbin site and its NZB facility.
+
+The claimants also served witness statements from various employees who explained the claimants are responsible for the production and distribution of a repertoire of films, that the reproduction or distribution of these films is prohibited in the absence of a specific licence and that no such licence has been granted to Newzbin. Their evidence was in all cases accepted.
+
+The claims
+
+Against this background, the claimants contend the defendant has infringed their copyrights, directly or through its editors, by:
+
+authorising acts of infringement by its members;
+
+procuring, encouraging and entering into a common design with its members to infringe;
+
+communicating the claimants’ copyright works to the public, namely the defendant’s members.
+
+Alternatively, the claimants say the defendant is a service provider with actual knowledge of other persons using its service to infringe copyright and consequently the claimants seek an injunction under section 97A of the Copyright, Designs and Patents Act 1988 (“the Act”).
+
+Authorisation
+
+Section 16 of the Act confers upon the owner of the copyright in a film the exclusive right to do various acts including, so far as relevant to this action, copy the film.  It further provides that copyright in a film is infringed by a person who, without the licence of the copyright owner, does, or authorises another to do, any act restricted by that copyright.
+
+The meaning of authorisation in the context of copyright infringement was considered by the House of Lords in C.B.S. Songs Ltd and ors v Amstrad Consumer Electronics Plc [1988] 1 A.C. 1013.   The claimants, suing on behalf of themselves and other copyright owners in the music trade, complained of the manufacture and sale by the defendants of equipment which made it possible for sound recordings to be copied onto tape.  The particular model of equipment in issue incorporated a twin cassette deck which permitted high speed copying of a recording from one tape to another.  The defendants advertised that the model:
+
+“Now features “high-speed dubbing” enabling you to make duplicate recordings from one cassette to another, record direct from any source and then make a copy and you can even make a copy of your favourite cassette.”
+
+An asterisk drew attention to the following footnote:
+
+“The recording and playback of certain material may only be possible by permission. Please refer to the Copyright Act 1956, the Performers Protection Acts 1958-1972.”
+
+It was submitted that by selling a model which incorporated a high speed twin tape recorder, and by advertising the model in the manner I have described, the defendants authorised purchasers of the model to copy recordings in which copyrights subsisted.  The House of Lords rejected these submissions.  Blank tapes were capable of being employed for recording or copying but such copying might or might not be unlawful.  The decision to copy unlawfully was made by the purchaser or operator.  Accordingly, by selling the equipment, the defendants might facilitate copying but did not authorise it.  As for the advertisement, this did not authorise unlawful copying; to the contrary, the footnote warned that some copying required permission and made it clear that the defendants had no authority to grant that permission.  No purchaser could reasonably deduce from the equipment or from the advertisement that the defendants possessed or purported to possess the authority to grant any required permission for a record to be copied.
+
+Lord Templeman (with whom Lord Keith of Kinkel, Lord Griffiths, Lord Oliver of Aylmerton, and Lord Tullichettle agreed) explained the relevant principles in his speech from page 1053 at F to 1055 at D:
+
+“In Monckton v. Pathe Freres Pathephone Ltd. [1914] 1 K.B. 395, Buckley L.J. said, at p. 403: "The seller of a record authorises, I conceive, the use of the record, and such use will be a performance of the musical work." In that case a performance of the musical work by the use of the record was bound to be an infringing use and the record was sold for that purpose. In Evans v. Hulton (1924) 131 L.T. 534, 535, Tomlin J. said that:
+
+“where a man sold the rights in relation to a manuscript to another with a view to its production, and it was in fact produced, both the English language and common sense required him to hold that this man had 'authorised' the printing and publication.”
+
+The object of the sale, namely publication, was bound to infringe. In Falcon v. Famous Players Film Co. [1926] 2 K.B. 474, the defendants hired to a cinema a film based on the plaintiff's play. It was held that the defendants infringed the plaintiff's exclusive right conferred by the Copyright Act 1911 to authorise a performance of the play. Here again, the hirer sold the use which was only capable of being an infringing use. Bankes L.J., at p. 491, following Monckton v. Pathe Freres Pathephone Ltd. and Evans v. Hulton, accepted that for the purpose of the Act of 1911 the expression “authorise” meant “sanction, approve, and countenance.” Atkin L.J. said, at p. 499:
+
+“to 'authorise' means to grant or purport to grant to a third person the right to do the act complained of, whether the intention is that the grantee shall do the act on his own account, or only on account of the grantor; . . .”
+
+In the present case, Amstrad did not sanction, approve or countenance an infringing use of their model and I respectfully agree with Atkin L.J. and with Lawton L.J. in the present case [1986] F.5.R. 159, 207 that in the context of the Copyright Act 1956 an authorisation means a grant or purported grant, which may be express or implied, of the right to do the act complained of. Amstrad conferred on the purchaser the power to copy but did not grant or purport to grant the right to copy.
+
+In Moorhouse v. University of New South Wales [1976] R.P.C. 151 in the High Court of Australia where the facilities of a library included a photocopying machine, Gibbs J. said, at p. 159:
+
+“a person who has under his control the means by which an infringement of copyright may be committed - such as a photocopying machine - and who makes it available to other persons, knowing, or having reason to suspect, that it is likely to be used for the purpose of committing an infringement, and omitting to take reasonable steps to limit its use to legitimate purposes, would authorise any infringement that resulted from its use.”
+
+Whatever may be said about this proposition, Amstrad have no control over the use of their models once they are sold. In this country the duties of some libraries are defined by the Copyright (Libraries) Regulations 1957 (S.I. 1957 No. 868) made under section 15 of the Act of 1956.
+
+In C.B.S. Inc. v. Ames Records & Tapes Ltd. [1982] Ch. 91, Whitford J. held that a record library which lent out records and simultaneously offered blank tapes for sale at a discount did not authorise the infringement of copyright in the records. He said, at p. 106 :
+
+“Any ordinary person would, I think, assume that an authorisation can only come from somebody having or purporting to have authority and that an act is not authorised by somebody who merely enables or possibly assists or even encourages another to do that act, but does not purport to have any authority which he can grant to justify the doing of the act.”
+
+This precisely describes Amstrad.
+
+In RCA Corporation v. John Fairfax & Sons Ltd. [1982] R.P.C. 91 in the High Court of Australia, Kearney J., at p. 100, approved a passage in Laddie, Prescott & Vitoria, The Modern Law of Copyright (1980), para. 12.9, p. 403, in these terms:
+
+“a person may be said to authorise another to commit an infringement if the one has some form of control over the other at the time of infringement or, if he has no such control, is responsible for placing in the other's hands materials which by their nature are almost inevitably to be used for the purpose of infringement.”
+
+This proposition seems to me to be stated much too widely.
+
+As Whitford J. pointed out in the Ames case, at p. 107:
+
+“you can home tape from bought records, borrowed records, borrowed from friends or public libraries, from the playing of records over the radio, and indeed, at no expense, from records which can be obtained for trial periods on introductory offers from many record clubs who advertise in the papers, who are prepared to let you have up to three or four records for a limited period of trial, free of any charge whatsoever.”
+
+These borrowed records together with all recording machines and blank tapes could be said to be “materials which by their nature are almost inevitably to be used for the purpose of an infringement.” But lenders and sellers do not authorise infringing use.
+
+For these reasons, which are to be found also in the judgments of the Court of Appeal, at pp. 207, 210 and 217, I am satisfied that Amstrad did not authorise infringement.”
+
+In my judgment it is clear from this passage that “authorise” means the grant or purported grant of the right to do the act complained of. It does not extend to mere enablement, assistance or even encouragement. The grant or purported grant to do the relevant act may be express or implied from all the relevant circumstances. In a case which involves an allegation of authorisation by supply, these circumstances may include the nature of the relationship between the alleged authoriser and the primary infringer, whether the equipment or other material supplied constitutes the means used to infringe, whether it is inevitable it will be used to infringe, the degree of control which the supplier retains and whether he has taken any steps to prevent infringement. These are matters to be taken into account and may or may not be determinative depending upon all the other circumstances.
+
+I was also referred by the parties to a number of decisions of courts in other jurisdictions. Two have a particular relevance to the issues I have to decide. They are both decisions under the Australian Copyright Act of 1968. Section 101 of the Australian Act makes the authorisation of an act comprised in the copyright an infringement. But, unlike our Act, it provides in section 101(1) various matters that must be taken into account in determining whether an authorisation has taken place:
+
+“…. the matters that must be taken into account include the following:
+
+(a)  	the extent (if any) of the person's power to prevent the doing of the act concerned;
+
+(b)  	the nature of any relationship existing between the person and the person who did the act concerned;
+
+(c)  	whether the person took any other reasonable steps to prevent or avoid the doing of the act, including whether the person complied with any relevant industry codes of practice.”
+
+The application of this section has been considered by the Federal Court of Australia on appeal (French, Branson and Kenny JJ) in Cooper v Universal Music Australia Pty Ltd [2006] FCAFC 187 and more recently by Cowdroy J in Roadshow Films Pty Ltd v iiNet Ltd (No3) [2010] FCA 24.
+
+Cooper concerned a website run by Mr Cooper which did not itself contain any music files but was structured to allow internet users ready access to unauthorised music files of numerous popular sound recordings via hyperlinks. The trial judge found Mr Cooper had infringed the claimants’ copyrights by authorising the making of copies of their sound recordings. That finding was upheld on appeal.  The court considered it material that the principal content of the website comprised links to other websites and files contained on other servers and that the overwhelming majority of the files listed on the website were protected by copyright. Further, the website was structured so that when a user clicked on a link to a specific music file, a copy of that file was transmitted directly to the user’s computer. The website was user friendly, highly structured and organised and allowed users readily to select from a variety of popular sound recordings, and Mr Cooper had a commercial interest in attracting such users. Mr Cooper did not take reasonable steps to prevent or avoid the use of his website for copying copyright sound recordings, indeed he deliberately designed his website to facilitate such use, and the inclusion of various disclaimers was merely cosmetic.
+
+Roadshow was primarily concerned with the question of whether iiNet, one of the largest ISPs in Australia, authorised infringing acts of its subscribers if those subscribers, without the licence of the copyright owners, downloaded films protected by copyright. The claimants represented the major film studios in the US and Australia and brought these proceedings with the aim of  preventing copyright infringement by means of a peer-to-peer system known as BitTorrent which was being used by some of iiNet’s subscribers. The BitTorrent system is an extremely powerful tool for the making of illicit copies because it allows a user to assemble a copy of a film by acquiring all its constituent parts from other users of the system. The judge recognised that infringement of the claimants’ works was occurring on a wide scale but dismissed the claim for three reasons: first, because the copyright infringements occurred directly as a result of the use of the BitTorrent system and iiNet did not control and was not responsible for the operation of that system; second, because iiNet did not have a relevant power to prevent those infringements occurring; and third, because iiNet did not sanction, approve or countenance copyright infringement; it had done no more than supply an internet service to its users.
+
+In my judgment these decisions are entirely consistent with the principles which I have summarised and which I believe I must apply. Their application produced a different result in Cooper from that in Roadshow only because the facts of the cases were so very different.
+
+In the context of the present case the defendant submitted and the claimants agreed, at least for the purposes of these proceedings, that I must first consider whether the claimants have established that their copyrights have been infringed by the defendant’s premium members.
+
+I am prepared to proceed on that basis because I am satisfied that the claimants’ copyrights have indeed been infringed by the defendant’s premium members.  The number of active premium members is very substantial, as evidenced by the defendant’s turnover, and those members are primarily interested in films, as the Newzbin website makes clear. In the light of these matters, the nature of Newzbin as I have described it and the interaction between the defendant and its members as shown by the sharing forums, I consider it overwhelmingly likely that the defendant’s premium members have made use of the facilities to which they have subscribed and that in doing so a number of them have downloaded copies of the claimants’ copyright films, including those specifically identified in these proceedings, all of which are popular titles. The claimants are unable to identify which particular films individual premium members have copied only because the defendant has chosen not to record details of the NZB files they have downloaded, as Mr Elsworth’s posts so graphically demonstrate.
+
+Turning to the question of authorisation, I consider the following points are material. I begin with the nature of the relationship between the defendant and its members. Premium members enter into an agreement with the defendant which permits them to access Newzbin in consideration of a weekly payment. Thereafter these members are introduced to Newzbin as being a system which provides a searching and indexing facility and a guide to the materials available on Usenet.  They are invited to explore the various indices at the level of reports in the Newzbin index or at the files level in the RAW and Condensed indices. In each case they have the option of browsing the databases directly or by using the various Newzbin subject matter categories. Focusing on the Movies category, premium members see that this category is broken down into levels of sub-category which permit them to search and browse not only by reference to the names of particular films but also, for example, by reference to genre. This is clearly a sophisticated facility.
+
+This brings me to a number of aspects of Newzbin which I consider to be of particular importance. In relation to binary content, Newzbin provides premium members with a facility which extends considerably beyond indexing and categorisation. It identifies all (or in the case of the RAW index, many) of the, perhaps several thousand, messages which make up a particular binary work and, in so doing, saves those members the very substantial task of manually locating and identifying each of them separately. Moreover, the reports in the Newzbin index provide a considerable body of very useful information in relation to each title. They include descriptive information, the URL and an NFO file which identifies the individual user who posted the content to Usenet, the email address of that user, information from which the date on which the content was posted to Usenet can be deduced and the number of files making up the particular work.
+
+The next aspect of great importance is the NZB facility. Upon the press of a button, the system creates an NZB file which is delivered to the member’s computer where it may be stored. When run by the member it causes the news client to fetch all of the Usenet messages and reassemble the original binary work from its component parts and so, in the case of a copyright work, inevitably make an infringing copy. Once a work is entered onto the defendant’s Newzbin index, use of the NZB facility is bound to result in that work being copied. In the context of the other features of Newzbin, the NZB facility provides the means for infringement, was created by the defendant and is entirely within the defendant’s control.
+
+I also consider it significant that a very large proportion of the content of the Movies category is commercial and so very likely to be protected by copyright. This has not led the defendant to install some kind of filtering system which, on the evidence, it could easily have done. To the contrary, it has actively encouraged its editors to make reports on films, has rewarded them for so doing and has instructed and guided them to include URLs in their reports and well knows of the common practice of using NFOs too. For the reasons I have given, I regard the contractual restrictions upon editors and members in relation to infringing activity to be window dressing. In short, they are inconsistent with the structure and operation of the Newzbin system and the advice given to editors both generally and specifically. Moreover, the defendant has taken no steps to remove editors who, to the defendant’s knowledge, have posted reports on infringing materials. So far as premium members are concerned they are given ready access to all the films and programmes in the Movies and TV categories, detailed information about the films and programmes available and the facility to download them.
+
+For all these reasons I am entirely satisfied that a reasonable member would deduce from the defendant’s activities that it purports to possess the authority to grant any required permission to copy any film that a member may choose from the Movies category on Newzbin and that the defendant has sanctioned, approved and countenanced the copying of the claimants’ films, including each of the films specifically relied upon in these proceedings.
+
+Procurement and participation in a common design
+
+It is well established that a person who procures an infringement of copyright is liable joint and severally with the infringer.   Similarly, two or more persons may participate in a common design to infringe rendering them jointly liable.  There is a considerable overlap between the two in that many circumstances will qualify under both heads.  In Amstrad, Lord Templeman addressed an allegation of common design at page 1057 from A to C:
+
+“My Lords, joint infringers are two or more persons who act in concert with one another pursuant to a common design in the infringement. In the present case there was no common design, Amstrad sold a machine and the purchaser or the operator of the machine decided the purpose for which the machine should from time to time be used. The machine was capable of being used for lawful or unlawful purposes. All recording machines and many other machines are capable of being used for unlawful purposes but manufacturers and retailers are not joint infringers if purchasers choose to break the law. Since Amstrad did not make or authorise other persons to make a record embodying a recording in which copyright subsisted, Amstrad did not entrench upon the exclusive rights granted by the Act of 1956 to copyright owners and Amstrad were not in breach of the duties imposed by the Act.”
+
+Lord Templeman also addressed an allegation of procurement a little later at page 1058 D to H:
+
+“My Lords, I accept that a defendant who procures a breach of copyright is liable jointly and severally with the infringer for the damages suffered by the plaintiff as a result of the infringement. The defendant is a joint infringer; he intends and procures and shares a common design that infringement shall take place. A defendant may procure an infringement by inducement, incitement or persuasion. But in the present case Amstrad do not procure infringement by offering for sale a machine which may be used for lawful or unlawful copying and they do not procure infringement by advertising the attractions of their machine to any purchaser who may decide to copy unlawfully. Amstrad are not concerned to procure and cannot procure unlawful copying. The purchaser will not make unlawful copies because he has been induced or incited or persuaded to do so by Amstrad. The purchaser will make unlawful copies for his own use because he chooses to do so. Amstrad's advertisements may persuade the purchaser to buy an Amstrad machine but will not influence the purchaser's later decision to infringe copyright. Buckley L.J. observed in Belegging-en Exploitatiemaatschappij Lavender B.V. v. Witten Industrial Diamonds Ltd., at p.65, that "facilitating the doing of an act is obviously different from procuring the doing of an act." Sales and advertisements to the public generally of a machine which may be used for lawful or unlawful purposes, including infringement of copyright, cannot be said to "procure" all breaches of copyright thereafter by members of the public who use the machine. Generally speaking, inducement, incitement or persuasion to infringe must be by a defendant to an individual infringer and must indentifiably procure a particular infringement in order to make the defendant liable as a joint infringer.”
+
+The Court of Appeal has provided guidance as to the elements necessary to establish common design in a number of later cases. In Unilever plc v Gillette (UK) Ltd [1989] RPC 583, Mustill LJ (with whom the other members of the court agreed) said at page 608:
+
+“I use the words ‘common design’ because they are readily to hand, but there are other expressions in the cases, such as ‘concerted action’ or ‘agreed on common action’ which will serve just as well. The words are not to be construed as if they formed part of a statute. They all convey the same idea. This idea does not, as it seems to me, call for any finding that the secondary party has explicitly mapped out a plan with the primary offender. Their tacit agreement will be sufficient. Nor, as it seems to me, is there any need for a common design to infringe. It is enough if the parties combine to secure the doing of acts which in the event prove to be infringements.”
+
+In Credit Lyonnais Bank Nederland NV v Export Credits Guarantee Dept [1998] 1 Lloyd’s Rep 19, Hobhouse LJ explained at page 46:
+
+“Mere assistance, even knowing assistance, does not suffice to make the ‘secondary’ party liable as a joint tortfeasor with the primary party. What he does must go further. He must have conspired with the primary party or procured or induced his commission of the tort …; or he must have joined in the common design pursuant to which the tort was committed …”
+
+In Sabaf SpA v MFI Furniture Centres Ltd [2002] EWCA Civ 976, [2003] RPC 264, the court held at [59]:
+
+“The underlying concept for joint tortfeasance must be that the joint tortfeasor has been so involved in the commission of the tort as to make himself liable for the tort. Unless he has made the infringing act his own, he has not himself committed the tort. That notion seems to us what underlies all the decisions to which we were referred. If there is a common design or concerted action or otherwise a combination to secure the doing of the infringing acts, then each of the combiners has made the act his own and will be liable. Like the judge, we do not think that what was done by Meneghetti was sufficient. It was merely acting as a supplier of goods to a purchaser which was free to do what it wanted with the goods. Meneghetti did not thereby make MFI's infringing acts its own.”
+
+I derive from these passages that mere (or even knowing) assistance or facilitation of the primary infringement is not enough. The joint tortfeasor must have so involved himself in the tort as to make it his own. This will be the case if he has induced, incited or persuaded the primary infringer to engage in the infringing act or if there is a common design or concerted action or agreement on a common action to secure the doing of the infringing act.
+
+All of these cases were referred to in the recent decision of Arnold J in L’Oréal v eBay [2009] EWHC 1094, [2009] RPC 21. In this action L’Oréal advanced a number of claims arising from the sale through the eBay online marketplace of goods bearing L’Oréal’s trade marks. One of the issues which arose was whether eBay was liable for trade mark infringement as a joint tortfeasor with the sellers of such goods. Arnold J rejected this claim on the facts, essentially because eBay was under no legal duty to prevent infringement and facilitation of infringement with knowledge and an intention to profit was not enough to render it liable.
+
+I must now apply these principles to the facts of this case. In doing so I recognise at the outset that the claimants are not able to point to specific acts of infringement by particular infringers which the defendant may be said to have procured. However, I do not understand Lord Templeman’s speech in Amstrad to preclude a finding of liability in such a case. Clearly it is one of the matters to be taken into account and absent the identification of such specific acts a finding of procurement would not in general be appropriate. Nevertheless, the question to be answered remains the same, namely whether the defendant has engaged in a common design by so involving himself in the infringement as to make it his own; or whether the defendant has procured an infringement by inducement, incitement or persuasion.
+
+In answering that question, I consider that all of the facts and matters to which I have referred in considering the issue of authorisation are highly relevant.  In addition, I have found that the defendant well knows that it is making available to its premium members infringing copies of films, including the films of the claimants. In summary, the defendant operates a site which is designed and intended to make infringing copies of films readily available to its premium members; the site is structured in such a way as to promote such infringement by guiding the premium members to infringing copies of their choice and then providing them with the means to download those infringing copies by using the NZB facility; the activation of the NZB facility in relation to one of the claimants’ copyright films will inevitably result in the production of an infringing copy; the defendant has encouraged and induced its editors to make reports of films protected by copyright, including those of the claimants; the defendant has further assisted its premium members to engage in infringement by giving advice through the sharing forums; the defendant has profited from the infringement; and finally, the claimants are not able to identify particular infringements by particular members only because the defendant keeps no records of the NZB files they have downloaded.
+
+In all these circumstances, I believe the question I have identified admits of only answer. The defendant has indeed procured and engaged in a common design with its premium members to infringe the claimants’ copyrights.
+
+Infringement by communication to the public
+
+Section 20 of the Act reads:
+
+“20.	Infringement by communication to the public
+
+“(1)	The communication to the public of the work is an act restricted by the copyright in-
+
+(a)	a literary, dramatic, musical or artistic work,
+
+(b)	a sound recording or film, and
+
+(c)	a broadcast.
+
+(2)	References in this Part to communication to the public are to communication to the public by electronic transmission, and in relation to a work include
+
+(a)	the broadcasting of the work;
+
+(b)	the making available to the public of the work by electronic transmission in such a way that members of the public may access it from a place and at a time individually chosen by them.”
+
+This section implements Article 3 of the Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001.  This reads, so far as relevant:
+
+“1. Member States shall provide authors with the exclusive right to authorise or prohibit any communication to the public of their works, by wire or wireless means, including the making available to the public of their works in such a way that members of the public may access them from a place and at a time individually chosen by them.
+
+2. Member States shall provide for the exclusive right to authorise or prohibit the making available to the public, by wire or wireless means, in such a way that members of the public may access them from a place and at a time individually chosen by them:
+
+(a) 	for performers, of fixations of their performances;
+
+(b) 	for phonogram producers, of their phonograms;
+
+(c)	for the producers of the first fixations of films, of the original and copies of their films;
+
+(d) 	for broadcasting organisations, of fixations of their broadcasts, whether these broadcasts are transmitted by wire or over the air, including by cable or satellite.
+
+3. The rights referred to in paragraphs 1 and 2 shall not be exhausted by any act of communication to the public or making available to the public as set out in this Article.”
+
+The broad purpose of this and other rights contemplated by the Directive is apparent from recitals (9) and (10):
+
+“(9)	Any harmonisation of copyright and related rights must take as a basis a high level of protection, since such rights are crucial to intellectual creation. Their protection helps to ensure the maintenance and development of creativity in the interests of authors, performers, producers, consumers, culture, industry and the public at large. Intellectual property has therefore been recognised as an integral part of property.
+
+(10)	If authors or performers are to continue their creative and artistic work, they have to receive an appropriate reward for the use of their work, as must producers in order to be able to finance this work. The investment required to produce products such as phonograms, films or multimedia products, and services such as ‘on-demand’ services, is considerable. Adequate legal protection of intellectual property rights is necessary in order to guarantee the availability of such a reward and provide the opportunity for satisfactory returns on this investment.”
+
+Further, it was intended that the right of communication to the public should be understood in a broad sense, as is apparent from recitals (23) and (24):
+
+“(23)	This Directive should harmonise further the author’s right of communication to the public.  This right should be understood in a broad sense covering all communication to the public not present at the place where the communication originates.  This right should cover any such transmission or retransmission of a work to the public by wire or wireless means, including broadcasting.  This right should not cover any other acts.
+
+(24)	The right to make available to the public subject-matter referred to in Article 3(2) should be understood as covering all acts of making available such subject-matter to members of the public not present at the place where the act of making available originates, and as not covering any other acts.”
+
+The claimants put their case under section 20(2)(b) of the Act. They contend that the defendant has made their films available to the public by electronic transmission in such a way that members of the public may access them from a place and at a time individually chosen by them.
+
+The defendant disputes that it is making the claimants’ films available. It says that its service is a passive one and that it is merely acting as an intermediary in providing a link to sites from which the claimants’ films may be downloaded.
+
+The scope of Article 3 of the Directive 2001/29/EC was considered by the European Court of Justice (the “ECJ”) in Case C-306/05 Sociedad General de Autores v Editores de España (SGAE) v Rafael Hoteles SA [2006] ECR I-11519.  SGAE, the body responsible for the management of intellectual property rights in Spain, complained that the installation and use of television sets in the Rafael hotel involved the communication to the public of works falling within the repertoire which it managed. On appeal, the Audienca Provincial (Provincial Court) of Barcelona referred to the ECJ a series of questions, one of which asked, essentially, whether the transmission of a broadcast signal through television sets to customers in hotel rooms constitutes communication to the public within the meaning of Article 3(1); another asked, essentially, whether the mere installation of television sets in hotel rooms constituted such an act. In considering these questions, the ECJ reiterated at [36] that communication to the public must be interpreted broadly:
+
+“36.	It follows from the 23rd recital in the preamble to Directive 2001/29 that “communication to the public” must be interpreted broadly. Such an interpretation is moreover essential to achieve the principal objective of that Directive, which, as can be seen from its ninth and tenth recitals, is to establish a high level of protection of, inter alios, authors, allowing them to obtain an appropriate reward for the use of their works, in particular on the occasion of communication to the public.”
+
+The ECJ then explained at [40] that the transmission of the signal to the occupants of the rooms was a transmission to a new public:
+
+“40 	It should also be pointed out that a communication made in circumstances such as those in the main proceedings constitutes, according to Art.11bis(1)(ii) of the Berne Convention, a communication made by a broadcasting organisation other than the original one. Thus, such a transmission is made to a public different from the public at which the original act of communication of the work is directed, that is, to a new public.”
+
+So also, the transmission of the signal to the occupants of the rooms constituted a new communication, as the ECJ held at [42] to [44]:
+
+“42.	The clientele of a hotel forms such a new public. The transmission of the broadcast work to that clientele using television sets is not just a technical means to ensure or improve reception of the original broadcast in the catchment area. On the contrary, the hotel is the organisation which intervenes, in full knowledge of the consequences of its action, to give access to the protected work to its customers. In the absence of that intervention, its customers, although physically within that area, would not, in principle, be able to enjoy the broadcast work.
+
+43.	 It follows from Art.3(1) of Directive 2001/29 and Art.8 of the WIPO Copyright Treaty that for there to be communication to the public it is sufficient that the work is made available to the public in such a way that the persons forming that public may access it. Therefore, it is not decisive, contrary to the submissions of Rafael and Ireland, that customers who have not switched on the television have not actually had access to the works.
+
+44.	 Moreover, it is apparent from the documents submitted to the court that the action by the hotel by which it gives access to the broadcast work to its customers must be considered an additional service performed with the aim of obtaining some benefit. It cannot be seriously disputed that the provision of that service has an influence on the hotel's standing and, therefore, on the price of rooms. Therefore, even taking the view, as does the Commission of the European Communities, that the pursuit of profit is not a necessary condition for the existence of a communication to the public, it is in any event established that the communication is of a profit-making nature in circumstances such as those in the main proceedings.”
+
+Importantly, the Rafael hotel had intervened to provide its customers with access to the protected works; in the absence of that intervention the customers would not have been able to enjoy those works; and the hotel had derived a benefit from providing this service.
+
+On the other hand, the installation of the television sets was not itself sufficient, as the ECJ held at [46]:
+
+“46 	While the mere provision of physical facilities, usually involving, besides the hotel, companies specialising in the sale or hire of television sets, does not constitute, as such, a communication within the meaning of Directive 2001/29, the installation of such facilities may nevertheless make public access to broadcast works technically possible. Therefore, if, by means of television sets thus installed, the hotel distributes the signal to customers staying in its rooms, then communication to the public takes place, irrespective of the technique used to transmit the signal.”
+
+I have found that the defendant’s premium members have indeed downloaded the claimants’ films and they have clearly done so from a place and at a time individually chosen by them. The more difficult question is whether these films have been made available to them by the defendant.
+
+In the light of Directive 2001/29/EC and the guidance provided by the ECJ in Rafael Hoteles, I believe the following matters are material to this question. The defendant has provided a service which, upon payment of a weekly subscription, enables its premium members to identify films of their choice using the Newzbin cataloguing and indexing system and then to download those films using the NZB facility, all in the way I have described in detail earlier in this judgment. This service is not remotely passive. Nor does it simply provide a link to a film of interest which is made available by a third party. To the contrary, the defendant has intervened in a highly material way to make the claimants’ films available to a new audience, that is to say its premium members. Furthermore it has done so by providing a sophisticated technical and editorial system which allows its premium members to download all the component messages of the film of their choice upon pressing a button, and so avoid days of (potentially futile) effort in seeking to gather those messages together for themselves. As a result, I have no doubt that the defendant’s premium members consider that Newzbin is making available to them the films in the Newzbin index. Moreover, the defendant has provided its service in full knowledge of the consequences of its actions. In my judgment it follows from the foregoing that the defendant has indeed made the claimants’ copyright films available to its premium members and has in that way communicated them to the public.
+
+Conclusion on liability
+
+The defendant is liable to the claimants for infringement of their copyrights because it has authorised the copying of the claimants’ films; has procured and engaged with its premium members in a common design to copy the claimants’ films; and has communicated the claimants’ films to the public.
+
+Flagrancy
+
+The claimants contend that they are entitled to additional damages under section 97 of the Act. This section provides that the court may, having regard to all the circumstances, and in particular to the flagrancy of the infringement and any benefit accruing to the defendant by reason of the infringement, award such additional damages as the justice of the case may require.
+
+I have found that the defendant has engaged in a deliberate course of conduct well knowing that the vast majority of the materials in the Movies category of Newzbin are commercial and so likely to be protected by copyright and that the users of Newzbin who download those materials are infringing that copyright. The court hearing an enquiry as to damages should have regard to these findings in considering whether the justice of the case requires an award of additional damages.
+
+Scope of the injunction in respect of infringement
+
+It is the defendant’s intention to make available through Newzbin all films posted on Usenet, so inevitably including the copyright films in the claimants’ repertoire both now and in the future. This plainly constitutes a general threat to infringe the claimants’ present and future copyrights. I also have in mind Mr Clark’s unchallenged evidence that it would be a straightforward exercise for the defendant to filter the content of Newzbin by reference to a database provided by the claimants. In these circumstances I have come to the conclusion that it would be appropriate to grant an injunction by reference to the claimants’ repertoire, and that such an injunction is necessary to provide the claimants with effective relief. I will consider the precise terms of the injunction including any suitable and necessary safeguards in the light of further argument.
+
+Injunctions against service providers
+
+In the light of my findings I can deal with this claim quite shortly. Section 97A of the Act gives the court power to grant an injunction against a service provider who has actual knowledge of another person using the service to infringe copyright.  It reads:
+
+“97A Injunctions against service providers
+
+(1)	The High Court (in Scotland, the Court of Session) shall have power to grant an injunction against a service provider, where that service provider has actual knowledge of another person using their service to infringe copyright.
+
+(2)	In determining whether a service provider has actual knowledge for the purpose of this section, a court shall take into account all matters which appear to it in the particular circumstances to be relevant and, amongst other things, shall have regard to –
+
+(a)	whether a service provider has received a notice through a means of contact made available in accordance with regulation 6(1)(c) of the Electronic Commerce (EC Directive) Regulations 2002 (SI 2001/2013); and
+
+(b)	the extent to which any notice includes-
+
+(i)	the full name and address of the sender of the notice;
+
+(ii)	details of the infringement in question.
+
+(3)	In this section “service provider” has the meaning given to it by regulation 2 of the Electronic Commerce (EC Directive) Regulations 2002.”
+
+This implements Article 8(3) of Directive 2001/29/EC:
+
+“Member States shall ensure that rightholders are in a position to apply for an injunction against intermediaries whose services are used by a third party to infringe a copyright or related right.”
+
+The adoption of this provision reflects a recognition that the services of intermediaries are increasingly being used by third parties for infringing activities and that, in many cases, the intermediaries are in the best position to bring such infringing activities to an end, as explained in Recital (59):
+
+“In the digital environment, in particular, the services of intermediaries may increasingly be used by third parties for infringing activities.  In many cases such intermediaries are best placed to bring such infringing activities to an end.  Therefore, without prejudice to any other sanctions and remedies available, rightholders should have the possibility of applying for an injunction against an intermediary who carries a third party’s infringement of a protected work or other subject-matter in a network.  This possibility should be available even where the acts carried out by the intermediary are exempted under Article 5.  The conditions and modalities relating to such injunctions should be left to the national law of the Member States.”
+
+The claimants contend that the defendant is a relevant service provider and that it has actual knowledge that its premium members are infringing the claimants’ copyrights and, indeed, the copyrights of other rights holders in the content made available on Newzbin. Accordingly they invite me to grant an injunction to restrain the defendant from including in its indices or databases entries identifying any material posted to or distributed through any Usenet group in infringement of copyright.
+
+The defendant accepts that it is a relevant service provider but disputes that it has actual knowledge of any person using its service to infringe because it has never been served with a notice of the kind referred to in section 97A(2).
+
+I do not accept that service of such a notice is a precondition of a finding that a service provider has actual knowledge of another person using its service to infringe copyright. Such is evident from the section which says that this is simply one of the matters to which the court must have regard. Nevertheless, I do not believe it would be appropriate to grant an injunction of the breadth sought by the claimants for a number of reasons. First, it is apparent from the terms of Directive 2001/29/EC that it is contemplating the grant of an injunction upon the application of rights holders, yet the claimants are seeking an injunction to restrain activities in relation to all binary and all text materials in respect of which they own no rights and about which I have heard little or no evidence.  Second, I do not accept that the defendant has actual knowledge of other persons using its service to infringe all such rights. Therefore I am not persuaded I have the jurisdiction to grant such an injunction in any event. Third, the rights of all other rights holders are wholly undefined and consequently the scope of the injunction would be very uncertain. In my judgment the scope of any injunction under section 97A(2) should extend no further than that to which I have already concluded the claimants are entitled, namely an injunction to restrain the defendant from infringing the claimants’ copyrights in relation to their repertoire of films.

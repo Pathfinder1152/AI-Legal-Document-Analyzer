@@ -1,0 +1,63 @@
+Case No: HQ12X00979
+
+Neutral Citation Number: [2012] EWHC 572 (QB)
+
+IN THE HIGH COURT OF JUSTICE
+
+QUEEN'S BENCH DIVISION
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Date: 12/03/2012
+
+Before :
+
+The Honourable Mrs Justice Sharp
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Between :
+
+|British Pregnancy Advisory Service|Claimant|
+
+|- and -||
+
+|The Person using the Alias “Pablo Escobar”
+
+|Defendant|
+
+- - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Manuel Barca QC (instructed by Olswang LLP) for the Claimant
+
+The Defendant was not present or represented
+
+Hearing date: 8 March 2012
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Judgment
+
+The Honourable Mrs Justice Sharp :
+
+The Claimant is a charity specialising in the provision of information relating to contraception and associated matters.
+
+On the evening of Thursday 8th March 2012 I heard an application by the Claimant before the issue of proceedings to protect their private and confidential information following a cyber attack made on their website, as a result of which I made an Interim Non-Disclosure Order. The application was heard in private, and judgment was given in private. A private hearing was strictly necessary because of the need for investigations and steps to be taken in the light of those investigations.
+
+The reasons in summary for making the order were as follows:
+
+The Claimant’s computer systems had come under a concerted attack during the previous night with over 26,000 attempts made to break into its website;
+
+It appeared that a person using the alias Pablo Escobar (PE) was or might be responsible, that PE had obtained details of those who had contacted the Claimant through its website and intended to disclose those details (“the information”);
+
+The police had been informed and the Claimant was in the process of notifying the Information Commissioner. The police were taking active steps to try and trace the identity of PE.
+
+I considered the Claimant was likely to establish at trial that the information was private and confidential, that it had been unlawfully obtained and that publication of it should not be allowed. I also considered there were compelling reasons for not contacting or endeavouring to contact PE in advance of the hearing in the light of the way the information had been obtained, and the evidence of what PE intended to do; and the requirements of section 12 (2) of the Human Rights Act 1998 were therefore satisfied.
+
+An order for a short period was asked for and granted to prevent the use of that information by PE, to enable the police to conduct their investigations and so the Claimant could contact those who might be affected by PE’s activities.
+
+As was widely reported over the weekend, a person was arrested on Friday 9th March in connection with these matters, and has now pleaded guilty to two offences under the Computer Misuse Act 1990. This short summary of my reasons for granting the injunction can therefore now be made public.

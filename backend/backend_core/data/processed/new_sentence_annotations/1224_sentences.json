@@ -1,0 +1,268 @@
+[
+  {
+    "sentence": "Given that the application for delivery up and/or destruction of documents in relation to categories outside the Privileged Documents is no longer pursued and since the defendants now accept that the Privileged Documents qualified as privileged, the only substantive issue remaining is whether there was a waiver of privilege (by virtue of the fact that the claimant emailed those documents to Ms Liebling) that defeats the claimant\u2019s entitlement to their delivery up.",
+    "legal_references": [
+      {
+        "text": "the Privileged Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "So far as the remaining documents are concerned (in respect of which the application is no longer pursued) although there might arguably be a basis for a modest deduction in respect of costs incurred in relation to those documents, given the discreditable conduct of the defendants, the fact that the claimant made clear that the Privileged Documents were his main concern, and that little additional costs have in fact been incurred in relation to the other documents, the claimant maintains that he is entitled to his costs of the action and of the application without deduction; and to the additional orders sought.",
+    "legal_references": [
+      {
+        "text": "the Privileged Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "So far as the Privileged Documents are concerned they contend that the only arguable ground advanced by the claimant in relation to the Privileged Documents concerns the question whether they remain privileged; all other grounds previously advanced as a basis for delivery up and/or destruction have no merit whatever.",
+    "legal_references": [
+      {
+        "text": "the Privileged Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "So far as document B was concerned, they stated that it must have obtained by accessing a password protected personal email account without authorisation, and suggested this meant it could only have been obtained by unlawful means in breach of the Computer Misuse Act 1990 and that any access to, copying, moving or use of this document by the defendants without the claimant\u2019s authorisation would also fall within section 1(1) of the 1990 Act and be unlawful.  Points were also made in relation to the Data Protection Act 1998 given that personal data appeared to have been processed by the defendants as a consequence of obtaining these documents; and to the judgment of the Court of Appeal in Imerman v Tchenguiz and others [2010] EWCA Civ 908 at [76] and [79].  Fox Williams were asked to provide details as to how and from where each and every document listed at A (i) (ii) and (iv) and C were obtained and details of how document B was obtained by M. Collyer Bristow required FJI to deliver up the documents at A to C in their possession or control together with any hard copies of other documents relating to the claimant\u2019s divorce; and to undertake to delete all electronic copies of the documents referred to and to confirm in writing to Collyer Bristow that they had done so.  Collyer Bristow made clear that their client would have no alternative but to take such legal steps as were appropriate to protect his rights in the event of failure to comply with these requirements.",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Data Protection Act 1998",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EWCA Civ 908",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "This was, they said, the proper forum to resolve admissibility issues and they expressed confidence that the importance of ensuring the proper administration of justice and their client\u2019s article 6 rights would outweigh any article 8 privacy rights of Ms Liebling or the claimant.",
+    "legal_references": [
+      {
+        "text": "article 6",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In a further letter dated 29 November, Fox Williams sensibly proposed to focus on how the dispute could be resolved in a reasonable and proportionate manner, suggesting that Ms Liebling should make an application to the tribunal to rule on the admissibility of the Disputed Documents (which would be opposed on its merits by the defendants).  Though they recognised that the tribunal had no power to make an order for delivery up of the documents, Fox Williams proposed that FJI would \u201creconsider its position in relation to delivery up and undertakings in light of the employment tribunal\u2019s decision on admissibility\u201d.",
+    "legal_references": [
+      {
+        "text": "the Disputed Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Collyer Bristow duly applied by letter dated 10 December 2013 on behalf of the claimant and Ms Liebling, under rule 35 of the Employment Tribunal Procedure Rules for an order that the tribunal rule on the admissibility of the Disputed Documents in the tribunal proceedings, and explaining that they sought recovery of these documents which they said had been unlawfully obtained by FJI and opposing their admission in evidence.",
+    "legal_references": [
+      {
+        "text": "the Employment Tribunal Procedure Rules",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Disputed Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Consequently, by letter dated 3 January 2014 Ms Liebling set out the chronology of her relationship with the claimant (without prejudice to her case that it was a private matter, and not relevant to FJI), and having done so, sought confirmation that the Disputed Documents would be delivered up and/ or destroyed since they were no longer necessary.",
+    "legal_references": [
+      {
+        "text": "the Disputed Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Although opaque, this paragraph suggests that the parties were still proceeding as though the basic premise was agreed \u2013 the admissibility hearing was to have been the vehicle for a reconsideration of delivery up of the Disputed Documents; the Disputed Documents were no longer to be relied on, so that their admissibility no longer required determination; the admissibility hearing could therefore be vacated and delivery up could be given.",
+    "legal_references": [
+      {
+        "text": "the Disputed Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "She indicated that Fox Williams would not be in a position to discuss this proposal until the following week, suggesting that it would be premature to make any application to the High Court given that FJI had confirmed that it would not be leading on the documents in the proceedings, and repeated the previous position that Fox Williams had referred to the Disputed Documents in legal advice and were therefore required to keep these for their records and were not willing to delete such documents.",
+    "legal_references": [
+      {
+        "text": "the Disputed Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The claim was accordingly issued by the claimant on 11 February 2014 under CPR Pt 8.",
+    "legal_references": [
+      {
+        "text": "CPR Pt 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He sought an order for delivery up and/or destruction of all the Disputed Documents against the defendants, together with, as far as possible, deletion of all electronic copies of those documents and an affidavit confirming compliance with those two orders on grounds that they are privileged, confidential, obtained unlawfully, in breach of confidence, in breach of the claimant\u2019s rights under article 8.1 of the European Convention on Human Rights, in breach of the Data Protection Act 1998 or in breach of an agreement in writing dated 10 January 2014 to deliver up those documents to the claimant.",
+    "legal_references": [
+      {
+        "text": "article 8.1 of the European Convention on Human Rights",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Data Protection Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "The defendants acknowledged service of the claim and contended (without prejudice to their objection to the Part 8 procedure being used) that all allegations raised by the claimant were disputed in their entirety.",
+    "legal_references": [
+      {
+        "text": "Part 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "They relied on a witness statement of Thomas Custance dated 27 February 2014 in support of that denial and opposing the use of Part 8.",
+    "legal_references": [
+      {
+        "text": "Part 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "A further application dated 4 March 2014, supported by the claimant\u2019s second witness statement, was issued under CPR part 24, on the basis that the evidence advanced by the defendants showed no real prospect of defending his claim and there was no other reason why disposal of his claim should await trial.",
+    "legal_references": [
+      {
+        "text": "CPR part 24",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, he disputes that \u201crelevance\u201d is a consideration in relation to privilege, but even if it is, the defendants had repeatedly confirmed that they would not be relying on the Privileged Documents in the employment tribunal proceedings; and Collyer Bristow/Counsel had undertaken to retain them in any event.",
+    "legal_references": [
+      {
+        "text": "the Privileged Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "By letter dated 10 March 2014, under a heading \u201cnarrowing the issues in dispute\u201d, Fox Williams (expressly making no concession as to relevance/admissibility of the Disputed Documents) indicated that since not all the documents would be necessary in any event because they go largely to the same issue, their client was prepared to deliver up and destroy the Privileged Documents (to the extent practicable) together with Fox Williams\u2019 copies of those documents.",
+    "legal_references": [
+      {
+        "text": "the Privileged Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is a fundamental condition on which the administration of justice as a whole rests\u201d: see R v Derby Magistrates [1996] AC 487 (Lord Taylor of Gosforth CJ).",
+    "legal_references": [
+      {
+        "text": "R v Derby Magistrates",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Whether a document is communicated in confidence depends on it having the \u201cnecessary quality of confidence\u201d and being \u201cimparted in circumstances importing an obligation of confidence\u201d: see Coco v AN Clark (Engineers) Ltd [1969] RPC 41 at 47 (Megarry J).",
+    "legal_references": [
+      {
+        "text": "RPC 41",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Communications concerned with an individual\u2019s private life, including his personal finances and personal business dealings are plainly the stuff of personal confidentiality (and specifically covered by article 8): see Imerman v Tchenguiz and others [2010] EWCA Civ 908 at [76].",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 908",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "If sent to her work email address, their case is the claimant would or should have known that employers such as FJI have policies in place (here, the \u201cElectronic Information Policy\u201d) which mean that their employees have no expectation of privacy in relation to documents or communications sent to their employer\u2019s computer systems; accordingly, he would have known that the Privileged Documents would be available for inspection by FJI and that Ms Liebling would have no right of privacy as against her employer.",
+    "legal_references": [
+      {
+        "text": "the \u201cElectronic Information Policy",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Privileged Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is equivalent to an argument that if Ms Liebling accidentally left copies of the Privileged Documents on her office desk, and another employee or partner of FJI looked through papers on her desk and found them there, the claimant would be treated as having consented to this and to have waived his privilege in the documents.",
+    "legal_references": [
+      {
+        "text": "the Privileged Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The fact that Ms Liebling personally might not be able to assert rights of privacy against FJI does not mean that the claimant cannot assert rights to confidentiality and privilege in respect of the Privileged Documents against FJI.",
+    "legal_references": [
+      {
+        "text": "the Privileged Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Given the highly confidential nature of the Privileged Documents, the limited purpose for which the documents were sent to her and the circumstances in which they were communicated by the claimant to Ms Liebling, which carried with it implied obligations of confidentiality, together with the other circumstances referred to above, there is no arguable basis for contending that there was a waiver by the claimant of his privilege in this material, notwithstanding that such material was found on the FJI computer system.",
+    "legal_references": [
+      {
+        "text": "the Privileged Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Accordingly, both the action and the application so far as the Privileged Documents are concerned",
+    "legal_references": [
+      {
+        "text": "the Privileged Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Secondly, the claimant made clear at a relatively early stage that his main concern related to the Privileged Documents and the costs consequences of this action flow from the failure to deliver up/destroy those documents.",
+    "legal_references": [
+      {
+        "text": "the Privileged Documents",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

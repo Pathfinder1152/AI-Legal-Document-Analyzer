@@ -6,8 +6,8 @@ from docx import Document
 import chardet
 from striprtf.striprtf import rtf_to_text
 
-# --- Helper function to extract text from supported file types ---
-def extract_text_from_file(file_path: Path) -> str:
+# --- Helper functions to extract text from supported file types ---
+def extract_raw_text(file_path: Path) -> str:
     ext = file_path.suffix.lower()
 
     if ext == ".pdf":
@@ -43,27 +43,76 @@ def extract_text_from_file(file_path: Path) -> str:
     else:
         return ""
 
+def extract_semantic_text(file_path: Path) -> str:
+    """Extracts text keeping better paragraph structure for semantic search."""
+    ext = file_path.suffix.lower()
+
+    if ext == ".pdf":
+        with open(file_path, "rb") as f:
+            reader = PdfReader(f)
+            paragraphs = []
+            for page in reader.pages:
+                page_text = page.extract_text()
+                if page_text:
+                    cleaned = page_text.strip()
+                    paragraphs.append(cleaned)
+            return "\n\n".join(paragraphs)  # Paragraphs separated clearly
+
+    elif ext == ".docx":
+        doc = Document(file_path)
+        return "\n\n".join([p.text.strip() for p in doc.paragraphs if p.text.strip()])
+
+    elif ext == ".rtf":
+        with open(file_path, "rb") as f:
+            raw_data = f.read()
+        detected = chardet.detect(raw_data)
+        encoding = detected["encoding"] or "utf-8"
+        try:
+            decoded_text = raw_data.decode(encoding)
+            text = rtf_to_text(decoded_text)
+            paragraphs = [p.strip() for p in text.split("\n") if p.strip()]
+            return "\n\n".join(paragraphs)
+        except UnicodeDecodeError:
+            print(f"❌ Unicode decode error for {file_path.name}")
+            return ""
+
+    else:
+        return ""
+
 # --- Paths ---
 documents_dir = Path("data/raw/Documents")
 json_output_dir = Path("backend/data/annotated")
 text_output_dir = Path("data/processed/cases_txt")
+semantic_text_output_dir = Path("data/processed/cases_vector_txt")
+
 text_output_dir.mkdir(parents=True, exist_ok=True)
+semantic_text_output_dir.mkdir(parents=True, exist_ok=True)
 
 # --- Main Loop ---
 for file in documents_dir.iterdir():
     if file.suffix.lower() in [".pdf", ".docx", ".rtf"]:
         case_id = file.stem
 
-        # Extract and clean text
-        extracted_text = extract_text_from_file(file)
-        if not extracted_text.strip():
-            print(f"⚠️ No text extracted from: {file.name}")
+        # Extract texts
+        raw_text = extract_raw_text(file)
+        semantic_text = extract_semantic_text(file)
+
+        if not raw_text.strip():
+            print(f"⚠️ No RAW text extracted from: {file.name}")
+            continue
+        if not semantic_text.strip():
+            print(f"⚠️ No SEMANTIC text extracted from: {file.name}")
             continue
 
-        # Save cleaned text
-        txt_file_path = text_output_dir / f"{case_id}.txt"
-        with open(txt_file_path, "w", encoding="utf-8") as out_f:
-            out_f.write(extracted_text)
+        # Save raw text
+        raw_txt_path = text_output_dir / f"{case_id}.txt"
+        with open(raw_txt_path, "w", encoding="utf-8") as out_f:
+            out_f.write(raw_text)
+
+        # Save semantic text
+        semantic_txt_path = semantic_text_output_dir / f"{case_id}.txt"
+        with open(semantic_txt_path, "w", encoding="utf-8") as out_f:
+            out_f.write(semantic_text)
 
         # Update JSON
         json_file_path = json_output_dir / f"{case_id}.json"
@@ -71,10 +120,14 @@ for file in documents_dir.iterdir():
             with open(json_file_path, "r", encoding="utf-8") as jf:
                 data = json.load(jf)
 
-            data["text_path"] = str(txt_file_path)
-            data.pop("full_text", None)
+            # Make sure we keep the original `text_path`
+            if "text_path" not in data:
+                data["text_path"] = str(raw_txt_path)
+
+            # Add new semantic text path
+            data["semantic_text_path"] = str(semantic_txt_path)
 
             with open(json_file_path, "w", encoding="utf-8") as jf:
                 json.dump(data, jf, indent=2)
 
-print("✅ All supported files processed and JSONs updated.")
+print("✅ All supported files processed. Raw and semantic text paths updated in JSONs.")

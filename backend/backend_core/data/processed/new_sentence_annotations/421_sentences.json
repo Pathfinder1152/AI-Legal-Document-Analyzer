@@ -1,0 +1,1526 @@
+[
+  {
+    "sentence": "placed by Orange Liberia before the court under CPR 3 5.11, but Professor Banks did not",
+    "legal_references": [
+      {
+        "text": "CPR 3 5.11",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In 2005, Cellcom Liberia entered the market, and from that  point , the telecommunications  market in Liberia has effectively been a two -player market.  In Marc h 2014, an Information  Memorandum produced by Standard Bank in relation to the potential sale of Cellcom BVI  estimated that the combined share of the Liberian telecommunications market of Lonestar  and Cellcom Liberia  was 96%.",
+    "legal_references": [
+      {
+        "text": "an Information  Memorandum",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Under the final version of the S PA:  i) Orange CDI paid an \u201cInitial Price\u201d of $105m  (clause 2.5), subject to certain  contractually agreed adjustment s to take account of debt, working capital and capital  expenditure before the sale.",
+    "legal_references": [
+      {
+        "text": "the S PA",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "iii) Clause 2.8 provided for the payment of an \u201cearn -out\u201d payment calculated by reference  to the \u201cNormalized EBITDA\u201d figure derived from Cellcom BVI\u2019s audited accounts  for the 12-month period ending on 30 June 2016.",
+    "legal_references": [
+      {
+        "text": "Clause 2.8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "On 5 April 2016, Cellcom BVI, Cellcom Liberia and another Orange entity ( Orange BVI )  entered into a Transitional Services Agreement ( the TSA ) by which C ellcom BVI agreed  to provide certain services to Orange Liberia during a period after the completion of the  sale, in return for the payment of fees.",
+    "legal_references": [
+      {
+        "text": "a Transitional Services Agreement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The adjustment has now  been lifted and MOU is now on the in crease\u201d  \u2013 throttling being a limit on voice calling",
+    "legal_references": [
+      {
+        "text": "MOU",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Revised  Dece mber Recovery Plan (prepared under Mr Toriola\u2019s direction) is to similar effect,  identifying DDOS and 4G/LTE as the reason for lost data revenue, and the  DYO  offer as  the reason for lost voice revenue, both on an \u201call customer\u201d basis, and for HVCs when  considered separately.",
+    "legal_references": [
+      {
+        "text": "The Revised  Dece",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I accept that the setting of the filters on the Arbor systems  did cause issues affecting some websites during this period, and that this is fairly  characterised as a consequence of the DDOS Attacks generally.  It is not suggested that the  DDOS Attacks had any effects after 8 February .",
+    "legal_references": [
+      {
+        "text": "the DDOS Attacks",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the  DDOS",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In August 2017, Mr Kaye was extradited back to the United Kingdom where he was charged  with offenc es under the Computer Misuse Act 1990, including in relation to the DDOS  Attacks.",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Kaye initially pleaded not guilty, but he changed his plea and entered guilty  pleas to two offences under the Computer Misuse Act 1990 and one offence under the  Proceeds o f Crime Act 2002, in relation to the DDOS Attac ks.",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the  Proceeds o f Crime Act 2002",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the DDOS Attac ks",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "E LIBERIAN LAW   E1 Introduction   113.",
+    "legal_references": [
+      {
+        "text": "E LIBERIAN LAW   E1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "114. Section 40 of the Liberian \u201cGeneral Construction Law\u201d provides:   \u201cExcept as modified by laws now in force and those which may hereafter be enacted  by the Liberian common law, the following shall be, when applicable, considered  Liberian law:   (a) the rules adopted for chancery proceedings in England, and   (b) the common law and usages of the courts of England and of the United States  of America, as set forth in case law and in Blackstone\u2019s and Kent\u2019s  Commentaries and  in other authoritative treatises and digests\u201d.   115.",
+    "legal_references": [
+      {
+        "text": "Section 40 of the Liberian \u201cGeneral Construction Law",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This statute was referred to by the parties as the Reception Statute , although in contrast to  some reception statutes (e.g. s.3 of the (Singapore) Application of English Law Act 1993),  it was common ground th at it does not provide for the incorporation of a body of law at a  particular date , but \u201cthe common law  ... as it stands at the time when those laws are adopted  and applied in a particular case, and thus not necessarily the law as it stood at the time when   the Reception Statute was enacted\u201d.",
+    "legal_references": [
+      {
+        "text": "the Reception Statute",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.3 of the (Singapore) Application of English Law Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It was also common ground that the Reception Statute  did not \u201crequire the Liberian Supreme Court to prefer United States common law principles  to English common law principles, or vice -versa\u201d, but that in practice \u201cthe Liberian  Supreme Court looks more often and primarily to United States treatises, digests and case THE HONOURABLE MR JUSTICE FOXTON   Approved Judgment  Lonestar Communications Corporation LLC   v Orange Liberia, Inc     32   law rath er than to English law treatises, digests and case law\u201d.  The frequency of recourse  to the Reception Statute  was in issue.   116.",
+    "legal_references": [
+      {
+        "text": "the Reception Statute",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "There were a number of disa greements between the Liberian law experts as to how the  Reception Statute  operated , which it is convenient to address  at this stage of the judgment.",
+    "legal_references": [
+      {
+        "text": "the  Reception Statute",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In particular, Counsellor  Padmore and Professor Banks argued that the Reception Statute  did not \u201caccord au tomatic status\u201d to the common law of England and the United States,  even if there was no Liberian statute or common law in force .",
+    "legal_references": [
+      {
+        "text": "the Reception Statute",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Counsellor Musu -Scott\u2019s evidence was that the  Reception  Statute \u201cconfirms and maintains the common law of England and of the United  States as part of the law of Liberia\u201d on any issue not covered by Liberian statute or the case  law of the Supreme Court of Liberia.   117.",
+    "legal_references": [
+      {
+        "text": "the  Reception  Statute",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I am satisfied that, as the Reception Statute now falls to be applied, the normative force of  the common law as it has developed in England and Wales in Liberia n court decisions is  much attenuated.",
+    "legal_references": [
+      {
+        "text": "the Reception Statute",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I cannot accept that it is binding in the sense that a first instance judge  would be obliged to follow English law on an issue which Liberian statutes or case law had  yet to address,  not least because of the possibilit y for conflict between the various legal  sources identified in s.40.",
+    "legal_references": [
+      {
+        "text": "s.40.",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the constraint  which s.40 of the Reception Statute places on the law -making power of the judge is, in my  view, very limited  indeed .",
+    "legal_references": [
+      {
+        "text": "s.40 of the Reception Statute",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I am satisfied that English case law, for example, would have  less normative force before  a Liberian court than decisions of the European Court of Human  Rights would have before an English court by virtue of s.2 of the Human Rights Act 1998.",
+    "legal_references": [
+      {
+        "text": "s.2 of the Human Rights Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Human Rights Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "s.2 of the Human Rights Act 1998",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "The language of Liberian case law reflects that , for example Quelo v Providence  Concrete Works [1981] LRSC 29, 301, in which the Liberian Supreme Court held that when  determining whether or not to apply some principle of foreign law under the Reception  Statute, \u201cwe should weigh all the benefits and choose the blessings\u201d.",
+    "legal_references": [
+      {
+        "text": "LRSC 29, 301",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Reception  Statute",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I am also satisfied that, to the extent that the Reception Statute influenced  the decision of  the Libe rian judge, it is to U .S. rather than English sources that the judge would principally  look.",
+    "legal_references": [
+      {
+        "text": "the Reception Statute",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That is not because the Reception Statute creates any formal hierarchy as between the  two \u2013 it clearly does not \u2013 but because of the very close links between Liber ia and the  U.S.A. since Liberia\u2019s  foundation, the heavy influence which U.S. statutes have had for  Liberia\u2019s lawmakers, and the extent to which Liberian legal education ha s exposed its  lawyers to U.S. rather than English influences .",
+    "legal_references": [
+      {
+        "text": "the Reception Statute",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That reflects the posit ion of all the experts  in the joint memorandum, and the cases I was referred to which, with one exception ( Miller  v Parker [1982] LRSC 73 dealing, of all things, with the presumption that a conveyance  into two or more names creates a joint tenancy), involv ed the application of principles of  U.S. law.   120.",
+    "legal_references": [
+      {
+        "text": "LRSC 73",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As it is relevant to both the ways in which  Lonestar puts its case (an action of damages for wrong under existing  Liberian law, or the  applica tion of the English torts of lawful or unlawful means conspiracy or unlawful  interference under the Reception Statute), I should address  the issue  at this stage .",
+    "legal_references": [
+      {
+        "text": "the Reception Statute",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "iv) In OBG v Allan  [2007] UKHL 21, the House of Lords confirmed the existence of a  tort where one p arty interferes with the economic interests of the claim ant, by the use  of unlawful means, and with the intention and effect of injuring the claimant.",
+    "legal_references": [
+      {
+        "text": "OBG v Allan",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "UKHL 21",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In the Particulars of Claim, Lonestar has advanced the following claims against the  Defendants:   i) lawful means conspiracy ;  ii) unlawful means conspiracy, the unlawful means being:   a) breaches of a UK statute (s s.3(1), 3A(1) and (5) of the Computer Misuse Act  1990) by reason of Mr Kaye\u2019s conduct in this jurisdiction; and   b) breach of s.76 of the Liberian Telecommunications Act 2007;   iii) \u201cunlawful interference\u201d, relying on the same unlawful means;   iv) a claim of liability under  action of damages for  wrong , a claim  said to be available   under Liberian law for loss caused by \u201cwrongful c onduct\u201d , the conduct implicitly  alleged to be wrongful including the contravention of the statutes referred to above .",
+    "legal_references": [
+      {
+        "text": "the Particulars of Claim",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.3(1),",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Computer Misuse Act  1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.76 of the Liberian Telecommunications Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "s.3(1), 3A(1) and (5) of the Computer Misuse Act  1990",
+        "match_type": "Regex - Complex Pattern"
+      },
+      {
+        "text": "s.76 of the Liberian Telecommunications Act 2007",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "(ii) To the extent that one of the elements involves a \u201cwrong\u201d, would a breach  of: (1) section 3 and/or 3A of the Computer Misuse Act 1990 (being a  United Kingdom statute) or (ii) section 76 of the Liberian  Telecommunicatio ns Act 2007 suffice to establish that element.",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 76",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Liberian  Telecommunicatio ns Act 2007",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "section 3 and/or 3A of the Computer Misuse Act 1990",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition to : THE HONOURABLE MR JUSTICE FOXTON   Approved Judgment  Lonestar Communications Corporation LLC   v Orange Liberia, Inc     35   i) the issue of whether  a Liberian court would recognise the English torts under the  Reception Statut e;  there are also disputes as to whether:   ii) to the extent it did so,  breach of foreign legislation (the Computer Misuse Act 1990)  would be sufficient;    iii) there was an action of damages for wrong as a matter of Liberian law  and if so:   a) could breach of a UK statute constitute a wrong for this purpose; and   b) did the \u201cwrong\u201d have to be civilly actionable at the suit of the victim.",
+    "legal_references": [
+      {
+        "text": "the  Reception Statut e",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "It will be apparent that none of these issues would arise to the extent that the Liberian  Telecommunications Act 2007 ( the 2007 Act ) itself gave a civil cause of action against  anyone who  had suffered loss as a result of a breach of its provisions.",
+    "legal_references": [
+      {
+        "text": "the Liberian  Telecommunications Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 2007 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "However, while  a  breach of s.76 of the 2007 Act was pleaded as an unlawful means for the purposes of the  two English \u201cunlawful means\u201d torts, and, implicitly as one basis for the claim under the  action of damages for wrong, no civil claim for damages was advanced under s.80 of the  2007 Act.   E3 The 2007 Act and the Evidence Upon it   E3(1)  The 2007 Act   127. Section 76 of the 2007 Act provides:   \u201c(1)  No person shall:   (a) fraudulently, maliciously, or with dis honest intent, use any  telecommunications facility or obtain any telecommunications service  without payment of a lawful charge thereof;   (b) intentionally, without right and with dishonest intent, access the whole or  any part of a telecommunications network or  computer system by  infringing security measures, with the intent of obtaining  telecommunications or computer data;   (c) intentionally, without right and with dishonest intent, intercept by  technical means a transmission not intended for public reception of  telecommunications or computer data to, from or within a  telecommunications network or computer system;   (d) intentionally, without right and with dishonest intent, damage, delete,  deteriorate, alter or suppress telecommunications or computer data  without right,  where this results in harm to any other person;   (e) intentionally, without right and with dishonest intent, interfere with the THE HONOURABLE MR JUSTICE FOXTON   Approved Judgment  Lonestar Communications Corporation LLC   v Orange Liberia, Inc     36   functioning of a telecommunications network or computer system by  inputting, transmitting, damaging, deleting, deteriorating, alter ing or  suppressing telecommunications or computer data;   (f) intentionally, without right and with dishonest intent, possess, produce,  sell, procure for use, import, distribute or otherwise make available a  device, including a computer program, designed or ada pted primarily for  the purpose of committing any of the offences established in subsections  (1) (a), (b), (c), (d) or (e); or a computer password, access code, or similar  data by which the whole or any part of a telecommunications network or  computer syste m is capable of being accessed with intent that it be used  for the purpose of committing any of the offences established in  subsections (1) (a), (b), (c), (d) or (e);   (g) use, or cause or suffer to be used, any telecommunications network or  telecommunications  service for the purpose of disturbing, annoying,  irritating, offending or harassing any person, including by means of a call  with or without speech or other sounds, data or video images; or   (h) wilfully damage any telecommunications network or related  teleco mmunications facility.",
+    "legal_references": [
+      {
+        "text": "s.76 of the 2007 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.80 of the  2007",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "The 2007 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Evidence Upon it",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "The 2007 Act   127",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(2)  Every person who acts in contravention of this Section commits an offence and  is liable to the penalties prescribed in Section 77.\u201d   128. Section 77 clearly contemplates that the s.76 offence can be committed both by natural  persons and corporations (who can only act through natural persons) , and that the  employees of corporations can be punished for a corporation\u2019s breach .",
+    "legal_references": [
+      {
+        "text": "Section 77",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "128. Section 77",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.76 offence can",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It provides:   \u201c(1)  Every person who contravenes Section 76 of this Act, and is found guilty of the  same after being accorded due process of the law, and is guilty of the offence  and liable:   (a)  in the case of a natural person, to a fine not exceeding one hundred  thousand Liberian Dollars for a first offence and two hundred and fifty  thousand Liberian Dolla rs for a subsequent offence;   (b)  in the case of a company or any person other than a natural person, to a  fine not exceeding one million Liberian Dollars for a first offence and  five million Liberian Dollars for a subsequent offence; or   (c)  in the case of a natural person who is an officer, employee or agent of a  company and who is responsible for the contravention, breach or failure  by the company, imprisonment for a Term to be decided in accordance  with the New Penal Code of the Republic of Liberi a.\u201d  129. Section 80, headed \u201cCivil Liability\u201d provides:   \u201c(1) Subject to any limitation of liability imposed in accordance with this Act or any THE HONOURABLE MR JUSTICE FOXTON   Approved Judgment  Lonestar Communications Corporation LLC   v Orange Liberia, Inc     37   other act, a person who has sustained loss or damage as a result of any act or  omission that is contrary to this Act, or contrary to any regulation, rule or order  made under this Act may bring a civil action against any person who engaged  in, directed, authorized, consented to or participated in the act or omission.",
+    "legal_references": [
+      {
+        "text": "Section 76",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the New Penal Code of the Republic of Liberi a.",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "\u201cCivil Liability\u201d",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "A \u201cperson\u201d is defined by s.2(1) of the 2007 Act as \u201ca natural or other legally recognized  person or entity, and includes a joint stock company, a limited liability company ,",
+    "legal_references": [
+      {
+        "text": "s.2(1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I now turn to t he evidence on ss.76 and 80 of the 2007 Act .",
+    "legal_references": [
+      {
+        "text": "ss.76 and 80",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "E3(2)  Professor Banks \u2019 Evidence on the 2007 Act   132.",
+    "legal_references": [
+      {
+        "text": "the 2007 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Professor Banks in his fir st report of 13 August 2021  expressed the following view s:  i) He said that s.80 \u201c does not lay out a special procedur e\u201d for the civil claim but \u201c in  respect of damages suffered by a party on account of the violations, the courts would  deem the violations to be a wrong committed against the victim, and as such would  allow the victim to bring an action of damages for wrong or to even characterize the  action as simply one of damages.",
+    "legal_references": [
+      {
+        "text": "s.80 \u201c does not lay",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "ii) He said that \u201cit is noteworthy  \u2026 that the Liberian Telecommunications Act 2007, a t  Section 80, does recognize that there can be civil liability arising from a violation of  the Act where loss or damage is sustained by a person.",
+    "legal_references": [
+      {
+        "text": "the Liberian Telecommunications Act 2007",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "a t  Section 80",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "iii) He suggested that \u201cbecause the Liberian Telecommunications Act 2007 does not have  extra -territorial effect, a person injured or damaged by the act o f another, done in a  foreign country, cannot bring suit in the foreign country to enforce the violation of  the Liberian Telecommunications Act 2007, although the impact of the perpetrator\u2019s  action is felt in Liberia.",
+    "legal_references": [
+      {
+        "text": "the Liberian Telecommunications Act 2007",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "iv) That a s.80 claim \u201cwould be an action of damages for wrong, not one based on the  theory or principle of \u2018unlawful means conspiracy \u2019\u201d stating h e was \u201cof the opinion,  and as has been the practice in civil actions which have grown out of a statutory  prohibition, a party may rely on the common law concept of damages for wrong or  simply action of damages which is recognized under Liberian law.",
+    "legal_references": [
+      {
+        "text": "s.80 claim",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "h e",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "v) That the offences under s.76 of the 2007 are grounded in intentional misconduct,  which, together with the fact that the 2007 Act does not refer to agency,  means that  there can be no vicarious liability under the 2007 Act.",
+    "legal_references": [
+      {
+        "text": "s.76 of the 2007",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In his second report, Professor Banks expressed the view (which is not readily reconcilable  with the view expressed in his first report) that \u201cbecause the Liberia Telecommunications  Act 20 07 is a statute and does not fall within or has not been declared, either by the statute  or by the courts, as constituting or to be an \u2018action of damages for wrong \u2019, but has its own  cause of action (criminal and civil), it cannot be deemed to constitute an  \u201caction of damages  for wrong\u201d \u201d.",
+    "legal_references": [
+      {
+        "text": "the Liberia Telecommunications  Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In his third report, Professor Banks said that the 2007 Act only imposed a liability on those  who had \u201cengaged in, directed, authorized, consented to or participated in the act or  omission\u201d, and no common law tort could be brought which imposed a liability for a breach  of s.76 in circumstances in which it would not have arisen under s.80.   E3(3)  Counsellor Padmore \u2019s Evidence on the 2007 Act   135.",
+    "legal_references": [
+      {
+        "text": "the 2007 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.76 in",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.80.",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In his first report, Counsellor Padmore said that s.80 did not impose  liability for an  agreement to commit the s.76 offence, although he was careful to note that a person who  did enter into such an agreement \u201cmay be liable for engaging in, directing, autho rizing,  consenting to or participating in an offence.\u201d",
+    "legal_references": [
+      {
+        "text": "s.80 did not",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.76 offence",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He said that there was no room for a civil  liability in conspiracy for breaches of s.76.   136.",
+    "legal_references": [
+      {
+        "text": "s.76.   136",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Counsellor Padmore refer red to  the 2007 Act  in passing in his second report, saying that  there was no action for  damages for wrong under the Liberian law, with the result that the  issue of whether a breach of s.76 of the 2007 Act could constitute such a wrong did not  arise.",
+    "legal_references": [
+      {
+        "text": "s.76 of the 2007",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In her first report, Counsellor Musu -Scott noted that s.77 imposed penalties against the  agents or employees of corporations for breaches of s.76, as well as the corporations  themselves .",
+    "legal_references": [
+      {
+        "text": "s.77 imposed penalties",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.76",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In her second report, Counsellor Musu -Scott expressed the view that a breach of s.76 of the  2007 Act could provide the basis f or an action of damages for wrong, pointing to various  cases in which the breach of a statute had been held to ground such an ac tion.",
+    "legal_references": [
+      {
+        "text": "s.76 of the  2007",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In her third report, Counsellor Musu -Scott stated that she did not accept that s.80 prevented  the Liberian courts from recognising common law liability for conspiracy for breaches of THE HONOURABLE MR JUSTICE FOXTON   Approved Judgment  Lonestar Communications Corporation LLC   v Orange Liberia, Inc     39   s.76, or that a breach of  s.76 could not form the basis of an actio n of damages for wrong,  pointing to other cases in which she said that breaches of Liberian statutes had formed the  basis for a claim of this type.",
+    "legal_references": [
+      {
+        "text": "s.80 prevented",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.76 could not",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "E3(5)  The Experts\u2019 Joint Memorandum  on the 2007 Act   141.",
+    "legal_references": [
+      {
+        "text": "The Experts\u2019 Joint Memorandum",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 2007 Act   141",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Joint Memorandum suggested that the experts were agreed as to what had to be proved  to establish a breach of s.76 of the 2007 Act,  on the basis that the Act was clear.",
+    "legal_references": [
+      {
+        "text": "The Joint Memorandum",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.76 of the",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As to s.80:   i) Professor Banks and Counsellor Padmore said that it gave a claim against the person  who \u201cengaged in, directed, authorized, consented to or participated in the act or  omission\u201d, but not against a person who agreed to commit the offence, but accepted  that \u201c such a person may be liable for engaging in, directing, authorizing, consenting  to or participating \u201d in the offence.",
+    "legal_references": [
+      {
+        "text": "s.80:",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "ii) Professor Banks and Counsellor Padmore expressed the view that there could only be  liability under s.80 \u201cwhere said defendant has directed,  authorized, consented to,  ratified, acquiesced in, or participated in the act, and that if those factors are not  present, a defendant will not be held liable\u201d (a view which accords with their opinion  as to the limits of vicarious liability generally under  Liberian law).   iii) Counsellor  Padmore  suggested that there could be no liability at common law for the  offence  and Professor Banks that s.76 could not provide the basis for an action for  damages for wrong.   iv) Counsellor Musu -Scott did not agree  that s.80 preclud ed a common law claim based  on a breach of 76, and  said that s.80 was not exhaustive.",
+    "legal_references": [
+      {
+        "text": "s.80 \u201c",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.76 could not",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.80 preclud ed",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.80 was",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The 2007 Act received  very little attention in cross -examination.",
+    "legal_references": [
+      {
+        "text": "The 2007",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It  was suggested to Counsellor Padmore that s.80 did not address liability on the basis of  agreement (which he accepted) and that this showed s.80 was not an exhaustive code.",
+    "legal_references": [
+      {
+        "text": "s.80 did not",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.80 was not",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In  response to that last suggestion,  he replied:   \u201cSection 80.",
+    "legal_references": [
+      {
+        "text": "Section 80",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I don\u2019t think that the entire issue relates to the Telecommunications Act.",
+    "legal_references": [
+      {
+        "text": "the Telecommunications Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That is (inaudible) my point. The Telecommunications Ac t is a Liberian statute that  says, here is the law in Liberia, and that is it\u201d.",
+    "legal_references": [
+      {
+        "text": "The Telecommunications Ac t",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "While I entirely understand Mr Kitchener KC\u2019s  forensic reluctance, both because s.80 has not been pleaded and because  it does  not appear  helpful to this part of his case, I found the reasons for Mr Singla KC\u2019s reluctance  more  difficult to discern. However, judges see only a very small part of the forensic landscape THE HONOURABLE MR JUSTICE FOXTON   Approved Judgment  Lonestar Communications Corporation LLC   v Orange Liberia, Inc     40   which the parties\u2019 legal representatives must survey  in full , and then plot how to navigate.  The end result is:   i) No claim is being advanced under s.80.   ii) The existence of s.80 is being relied upon by Orange Liberia as a reason why there  should be no liability on any other basis under Liberian law.",
+    "legal_references": [
+      {
+        "text": "s.80 has not",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.80.",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.80 is being",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I should record, however, that the position in which I find myself is, from the peculiarly  personal perspective of the judgment writer, a n uncomfortable and artificial one, in which  there are debates as to whether particular forms of  claim can be advanced against the  background of s.80  and/or as to whether any requirement of direct actionability, if there is  one, is met , without any exploration of that key provision.",
+    "legal_references": [
+      {
+        "text": "s.80  and/or",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The earl y Liberian legal source s provided to me referr ing to an action of damages for wrong  were the Constitution and Laws of Maryland in Liberia (1837), published by the Maryland  State Colonization Soc iety, and \u201cthe Statute Laws of the Republic of Liberia, Carefully  Compiled from the Laws of the Commonwealth with the Declaration of Independence\u201d  published \u201cby Authority\u201d in Monrovia in 1856.",
+    "legal_references": [
+      {
+        "text": "the Constitution and Laws of Maryland in Liberia",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Statute Laws of the Republic of Liberia",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Title II (\u201cOf Remedies\u201d) , Chapter 1 (\u201cOf  Actions\u201d)  of both works are to the following effect :  i) Section 3 divides actions into thre e classes: breach of contract, action s which \u201cgrow  out of a wrong\u201d and causes of action which \u201cgrow out of a judgment \u201d.",
+    "legal_references": [
+      {
+        "text": "Title II",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Section 3",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "ii) Sections 11 to 14 provide:   \u201cThere are three actions growing out of wrongs \u2013 replevin \u2013 ejectment \u2013 and  the action to recover damages for a wrong.",
+    "legal_references": [
+      {
+        "text": "Sections 11 to 14",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Chapter II (\u201cof  the Remedies used in Maryland\u201d) , 45-6 observes that there are five causes of action for  wrongs in Maryland \u2013 replevin, ejectment, dower \u201cand the remaining two, case, and  trespass\u201d.",
+    "legal_references": [
+      {
+        "text": "Chapter II (\u201cof",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "iv) During the nineteenth century, a substantial part of the residuary group had  \u201ccoalesced as the tort of negligence\u201d (ibid), outside of which a series of individual  torts crystallised, generally classified by reference to the interests of the claimant  which had been infringed, each with their ow n rules ( Ibbetson , 184).",
+    "legal_references": [
+      {
+        "text": "Chapter II (\u201cof",
+        "match_type": "Contextual - Ibid Reference"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the existence of a residuary cat egory for tort claims in Liberia in the form of the  action of damages for wrong is supported by s.165(c) of the Civil Procedure Law 1956,  describing \u201c[a]ctions to recover damages for wrong\u201d as \u201can action which lies for every  injury for which there is no ot her remedy\u201d  (and the Joint Memorandum quotes a similar",
+    "legal_references": [
+      {
+        "text": "the Civil Procedure Law 1956",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Joint Memorandum",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Those passages are in very similar terms to a document which was in evidence, an \u201cAbs tract  of Legal Principles and Rules\u201d dated January 1 841 which describes the principles for THE HONOURABLE MR JUSTICE FOXTON   Approved Judgment  Lonestar Communications Corporation LLC   v Orange Liberia, Inc     44   liability for wrong in similarly general terms  (Title I sections 1 to 6 and 54).   155.",
+    "legal_references": [
+      {
+        "text": "Title I sections",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "One of the cases he  referred to, Cavalla River Com pany v ES Prince Pepple  [1934] LRSC 5, involved a case in  which the form of action - \u201caction of damages to personal property\u201d - had wrongly been  used to bring a claim for breach of contract to recover  an amount o f money deposited with  the defendant and repayable on demand.",
+    "legal_references": [
+      {
+        "text": "LRSC 5",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Difficulties of that kind were addressed by section 1.3 of the Liberian Civil Procedure Act  1972  (the 1972 Act) which  provided as follows:   \u201c1.1.  Application of Civil Procedure Law.   The Civil Procedure Law shall govern the procedure in all civil actions and special  proceedings before all judges and in all courts in the judicial branch of the  Government, except where the procedure is regulated by inconsistent statutes or rules  adopted in conformity therewith.",
+    "legal_references": [
+      {
+        "text": "section 1.3 of the",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Civil Procedure Law",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "The Civil Procedure Law",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 1.3 of the Liberian Civil Procedure Act  1972",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "Except where otherwise required by statute or rule of court,  procedure in special proceedings shall be the same as in action s.   \u2026",
+    "legal_references": [
+      {
+        "text": "action s.   \u2026",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In Kamara v Wolloh [1981] LRSC 15, for  example, an attempt to dismiss a claim because it had been issued as summary proceedings ,  when it was not , failed because of the 1972 Act .",
+    "legal_references": [
+      {
+        "text": "LRSC 15",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 1972 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The new procedure is confirmed, for THE HONOURABLE MR JUSTICE FOXTON   Approved Judgment  Lonestar Communications Corporation LLC   v Orange Liberia, Inc     45   example, in the sample pleadings in Appendix 1 to  the Liberian Civil Procedure Law  1972, which include sample pleadings in an \u2018action for breach of contract\u2019 (Form 3),  negligence (Form 8), an \u2018action for damages for assault and battery \u2026",
+    "legal_references": [
+      {
+        "text": "the Liberian Civil Procedure Law  1972",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Second, the 1972 Act was a procedural reform, but I have seen nothing to suggest t hat it  limited the factual circumstances in which a tortious remedy would be available for loss  caused by unlawful conduct.",
+    "legal_references": [
+      {
+        "text": "the 1972",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is  very difficult to see  how the 1972 Act changed what sets of facts could be the subject of a claim in tort, as  opposed to the means by which such a claim might be pursued. The 1972 Act does not  purport to address anything other than matters of procedure  (including, for that purpose,  limitation which has a hybrid substantive and procedural character).   161.",
+    "legal_references": [
+      {
+        "text": "the 1972",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Nor did the specimen pleadings at the end of the 1972 Act have that effect (any more than  their pr edecessors in the appendix to the Old Blue Book ).",
+    "legal_references": [
+      {
+        "text": "the 1972",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 9. 3, addressing \u201cForm of  pleadings\u201d, provides that \u201cpleading forms , contained in the appendix of forms , are sufficient  under the requirements of this title and are illustrative of the degree of particularity  required.\u201d",
+    "legal_references": [
+      {
+        "text": "Section 9. 3",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "While it is  possible to analyse the facts of m any of these cases, and show that they  include averments which would meet the requirements of particular torts, that is no t how  they are reasoned:   i) In NPA v Dougbah [2016] LRSC 22, the court\u2019s analysis proceeded as follows:  \u201cwherefore it is our opinion that the appellant\u2019s conduct in removing the subject  container from the premises resulting to the loss of its contents was wrongful; that  said wrongful conduct injured the shippers of the containers as they were  dispossessed of their belongings; and for such wrong damages would lie as a matter  of law\u201d.",
+    "legal_references": [
+      {
+        "text": "LRSC 22",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "No reference was made to any nominate tort such as conversion or detinue.   ii) In Firestone Liberia Inc v G Galimah Kollie [2012] LRSC 14, the claimant brough t  an action for damages for wrong premised on the wrongful seizure and detention of  their truck.",
+    "legal_references": [
+      {
+        "text": "LRSC 14",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Rather the court held that, while Firestone Liberi a Inc had been granted extensive  police powers and authorities under an Amended and Restated Concession  Agreement with the Republic of Liberia  (which had been given effect by legislation) ,  by that same Agreement, Firestone had agreed to subscribe to and ad here to the  principles contained in  the Voluntary Principles on Security and Human Rights.",
+    "legal_references": [
+      {
+        "text": "an Amended and Restated Concession  Agreement",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Voluntary Principles on Security and Human Rights",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It  was found that Firestone had violated those principles and breached the Liberian  constitution through the duration of the seizure , their own use of the truck duri ng the  period of its detention  and their failure to comply with the Concession Agreement .",
+    "legal_references": [
+      {
+        "text": "the Concession Agreement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In  short, the wrongful act was breach of a statute (as Counsellor  Padmore  acknowledged), but there was no analysis of whether the statute gave a statutory cause  of ac tion to the claimant  (who was not, after all, a party to the Concession  Agreement) .",
+    "legal_references": [
+      {
+        "text": "the Concession  Agreement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In  the mind of this court, an Action for Damages for Wrong will be justified\u201d.",
+    "legal_references": [
+      {
+        "text": "an Action for Damages for Wrong",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "v) 50-50 Incorporated v Ecobank Liberia Ltd , 8 Septem ber 2017, in which the claim  (which failed on the fac ts, but was not challenged on the law) was that a bank who  had identified the claimant as a defaulting debtor in a return sent to the Central Bank  of Liberia had acted wrongfully in failing to correct that submission once the debt  was paid , in breach of the Central Bank of Liberia \u201cRegulation Guidelines for  Management of the Credit Reference System\u201d.",
+    "legal_references": [
+      {
+        "text": "the Central Bank of Liberia \u201cRegulation Guidelines for  Management of the Credit Reference System",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Having concluded that the current state of Liberia n law does not comprise an exhaustive   list of nominate or specific torts of the kind now recognised in US and  English law, but that  it retains, through the action of damages for wrong, scope for some kinds of residual claims  outside of those categories , the question which then arises is whether the wrongs relied  upon here \u2013 breaches of the UK statute and the 2007  Act \u2013 satisfy the requirement of a  \u201cwrongful act\u201d for this purpose .",
+    "legal_references": [
+      {
+        "text": "the 2007  Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In this case, I am satisfied  that, subject to the issue of whether s.80 of the 2007 Act precludes an alternative remedy,  wrongful interference with  Lonestar\u2019s telecommunications network in breach of s.76 of the  2007 Act is sufficient.",
+    "legal_references": [
+      {
+        "text": "s.80 of the 2007",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.76 of the  2007",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The clear terms of s. 76 both identify a telecommunications network  as a legally protected interest, and render unjustified interference with such a network  unlawful.",
+    "legal_references": [
+      {
+        "text": "s. 76",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Indeed,  Professor Banks\u2019 first report accepted this in terms:   \u201cThe Telecommunications Act 2007 does not lay out  a special procedure.",
+    "legal_references": [
+      {
+        "text": "The Telecommunications Act 2007",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Such characterization would only be given to the action  if the Liberia Telecommunications Authority was  the complainant and was s eeking  to hold the violator accountable for the violation of the statutory duty or to ensure  compliance with the Act \u201d.  166.",
+    "legal_references": [
+      {
+        "text": "the Act \u201d.  166",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is right to acknowledge  that in his subsequent reports, and his contribution to the Joint Memorandum, all produced  after Lonestar had advanced a claim in reliance on the action of damages for wrong,  Professor Banks provides a n appare ntly different opinion:   \u201cBecause the Liberia Telecommunications Act 2007 is a statute and does not fall  within or has not been declared, either by the statute or by the courts, as constituting  or to be an \u2018action of damages for wrong\u2019 but has its own cause  of action (criminal  and civil) it cannot be deemed to constitute  an action of damages for wrong\u2019.",
+    "legal_references": [
+      {
+        "text": "the Joint Memorandum",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Liberia Telecommunications Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "THE HONOURABLE MR JUSTICE FOXTON   Approved Judgment  Lonestar Communications Corporation LLC   v Orange Liberia, Inc     49   Where a complainant claims that a common law tort was committed against it and  relies on the breach of a statute which vests in a complainant a right to civi l action,  but is restrictive as to elements which must be present for the complainant to claim  damages against the defendant, liability will not attach if any one or more of the  elements or conditions stated in Section 80 of the Telecommunications Act 2007  is  not present. \u201d  167.",
+    "legal_references": [
+      {
+        "text": "Section 80 of the Telecommunications Act 2007",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I deal with the specific issue about the position when an action of damages for wrong would  be inconsistent with s.80 below.",
+    "legal_references": [
+      {
+        "text": "s.80 below",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "If Professor Banks was seeking to raise a wider issue in  his second and subsequent reports, he  neither acknowledg ed the change  from his first  report , nor offer ed any explanation for i t, and the resultant position would  be very difficult  to reconcile with his general description of the action of damages for wrong in his first  report, which he apparently stands by. I a m satisfied that this is one of those many occasions  when first thoughts were best thoughts , the opinion in the first report being particularly  valuable because it was given at a time when the point had yet to crystallise as a dispute in  the litigation .  168. By contrast, I was not persuaded on the evidence that breach of the (UK) Computer Misuse  Act 1990 would suffice.",
+    "legal_references": [
+      {
+        "text": "the (UK) Computer Misuse  Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "If, for any reason, the 2007 Act was not cap able of  supplying the wrongful act necessary for an action of damages for wrong, then I am not  persuaded Liberia would look to legislation from a foreign legislature to fill this gap.",
+    "legal_references": [
+      {
+        "text": "the 2007 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That leaves over, however, the issue of whether the existence of s.80 precludes a claim for  an action of damages for wrong based on an unlawful act constituted by a breach  of s.76 of  the 2007 Act.   170.",
+    "legal_references": [
+      {
+        "text": "s.80 precludes a",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.76 of  the",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "However, leaving aside the issue  of vicarious liability to which I will return, it remains wholly unclear to me why it is  suggested that there would be any conflict between the 2007 Act and the acti on of damages  for wrong in this case.",
+    "legal_references": [
+      {
+        "text": "the 2007 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the acti on of damages",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Counsellor Padmore ex pressed the view that \u201cSection 80 does not include civil liability on  the basis of an agreement to commit an offence\u201d, but was always careful to qualify that  language by stating \u201csuch a person\u201d (viz someone who has entered into an agreement) \u201cmay  be liable  for engaging in, directing, authorizing, consenting  to or participating in an  offence\u201d.",
+    "legal_references": [
+      {
+        "text": "Section 80",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "There is simply no real  world in which that conduct would fall outside the broad scope of s.80.   173.",
+    "legal_references": [
+      {
+        "text": "s.80.   173",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Nor is there anything to suggest that the \u201cmanner of enforcement\u201d of s.76, from a civil  perspective, would differ as between an action brought under s.80 and an action of damages  for wrong.",
+    "legal_references": [
+      {
+        "text": "s.76,",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.80 and",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Indeed s.80 expressly refers to any claim under it being \u201csubject to t he practices  and procedures of the applicable court in such matters\u201d, and, as I have noted, Professor  Banks\u2019 initial and unvarnished view was that this could involve an action of damages for  wrong.",
+    "legal_references": [
+      {
+        "text": "s.80 expressly refers",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": ", I am not persuaded that the existence of  s.80 precludes an action of damages for wrong premised on a breach of s.76 of the 2007  Act.",
+    "legal_references": [
+      {
+        "text": "s.80 precludes an",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.76 of the 2007",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Indeed,  it is not clear t hat Counsellor Padmore was saying anything more  than that there could be no action of damages for wrong based on a pure agreement to  commit the s.76 offence, and noth ing more, because s.80 did not provide for liability on  this basis .",
+    "legal_references": [
+      {
+        "text": "s.76 offence,",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.80 did not",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I was not persuaded that the Liberian courts would have adopted  any of  these three English  torts under the Reception Statute.",
+    "legal_references": [
+      {
+        "text": "the Reception Statute",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In any event, had it been necessary to reach this stage of the analysis, it would have followed  that although Liberi a had passed  legislation specifically criminalising conduct of th e type  in issue in th ese proceedings  through the 2007 Act, that conduct was only civilly actionable  under s.80 (as to which no claim is pleaded) or in circumstances which were not satisfied  in this case .",
+    "legal_references": [
+      {
+        "text": "the 2007 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.80 (as",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "THE HONOURABLE MR JUSTICE FOXTON   Approved Judgment  Lonestar Communications Corporation LLC   v Orange Liberia, Inc     51   E6 Vicarious Liability under Liberian Law  177.",
+    "legal_references": [
+      {
+        "text": "Liberian Law",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "ii) Can an employer/ principal  be held civilly liable for a breach of s.7 6 of the 2007 Act  committed by an employee/agent?",
+    "legal_references": [
+      {
+        "text": "s.7 6 of the 2007 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The suggestion that, as a matter of Liberian law, an employer or principal cannot be  vicariously liable f or intentional acts of wrongdoing by their servants or agents was traced  by Counsellor Padmore to Woodin & Company  v Gibson  [1923]  LRSC 1.",
+    "legal_references": [
+      {
+        "text": "LRSC 1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It was not suggested th at Delaware law recognised such a limitation on  the doctrine of vicarious liability, and I suspect that the reality of the attitude of the Liberian  courts is better caught by Counsellor  Padmore\u2019s observation that the bank in Guaranty  Trust was always going to be found liable for the tort of its foreign national managing  director against a local (\u201cthe Supreme Court of Liberia would never have failed to hold the  bank responsible in those circumstances \u201d), and that his  advice to one of Liberia\u2019s largest  international corporations was \u201csettle your cases and do your very best to come up with an  arbitration\u201d, that company never having prevailed in the Supreme Court or at any other  level in Liberia, to his knowledge.   E6(2)  Can an Employer/ Principal be Held Civilly Liable for a Breach of s.7 6 of the 2007 Act  Committed by an Employee/ Agent?",
+    "legal_references": [
+      {
+        "text": "s.7 6 of the 2007 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The effect of his opinion is that the  same test of vicarious liability applies to s.76 and s.80 as applies at common law, noting  the \u201call the violations for which the perpetrators are deemed to have committed a crime  under section 76 are g rounded in intentional misconduct\u201d, but accepting nonetheless that  \u201cthe agent must have been acting within the scope of his employment in order for the  principal to be held vicariously liable\u201d.",
+    "legal_references": [
+      {
+        "text": "s.76 and s.80",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 76",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In relation to s.80, he advised:   \u201cSub -section (2) of Section 8 0 \u2026 states that \u2018any action brought pursuant to this  Section shall be subject to the practices and procedures of the applicable court in such  matters\u2019.",
+    "legal_references": [
+      {
+        "text": "s.80,",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Sub -section (2) of",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Section 8 0",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "However, I woul d note that there appear s even less scope for such  a limitation under the 2007 Act.",
+    "legal_references": [
+      {
+        "text": "the 2007",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section s.76 of the 2007 Act creates various offences THE HONOURABLE MR JUSTICE FOXTON   Approved Judgment  Lonestar Communications Corporation LLC   v Orange Liberia, Inc     55   dependent on wrongful or dishonest intent.",
+    "legal_references": [
+      {
+        "text": "Section s.76 of the 2007 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As Counsellor Musu -Scott pointed out in her  first report, companies can com mit these offences (and therefore, necessarily, have the  dishonest intent of natural persons attributed to them for the purpose of criminal liability ):  see not simply the definition of \u201cperson\u201d but also s.77(1 )(b))",
+    "legal_references": [
+      {
+        "text": "s.77(1 )",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Vicarious  liability for the intentional acts of officers, employees or agents is \u201cbaked in\u201d to the criminal  offences created by the 2007 Act.",
+    "legal_references": [
+      {
+        "text": "the 2007",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "There is nothing in s.80, dealing with the position where  acts contrary to the 2007 Act have caused loss, to suggest it applies to a narrow er class of  persons than those who can commit the s.76 offences.",
+    "legal_references": [
+      {
+        "text": "s.80,",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s.76 offences",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the issue s arising in this case are essentially  \u201coutward -looking\u201d, determining when the victims of the putative e mployee\u2019s torts can  recover from the putative employer.  Legal questions of this type raise policy considerations  of ensuring that enterprises bear the adverse consequences (and the costs of those  consequences) which their activities bring about  (factors re ferred to in the American Digest,  Corpus Juris Secundum , \u00b6206 cited by the Liberian Supreme Court in Guaranty Trust Bank  (Liberia) Ltd v Freeman 23 September 2022) .",
+    "legal_references": [
+      {
+        "text": "Corpus Juris Secundum",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Counsellor Padmore  suggested that Liberian courts would look at  section 7.07(2) of the Restatement (Third) of  the Law of Age ncy\u00b8 which provid es that \u201can employee\u2019s act is not within the scope of  employment when it occurs wi thin an independent course of conduct not intended by the  employee to serve any purpose of the employer\u201d.",
+    "legal_references": [
+      {
+        "text": "section 7.07(2) of",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Restatement (Third)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Law of Age ncy\u00b8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I accept Counsellor  Padmore\u2019s evidence that  Liberian law would look, in particular, to Delaware law on an issue of this kind, and that  Delaware law does not recognise this basis for the liability of corporations.   E7 Exemplary Damages   199.",
+    "legal_references": [
+      {
+        "text": "E7 Exemplary Damages   199",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Counsellor Musu -Scott  challenge d that view, pointing to the award of punitive damages in Firestone Liberia v THE HONOURABLE MR JUSTICE FOXTON   Approved Judgment  Lonestar Communications Corporation LLC   v Orange Liberia, Inc     58   Kollie et al [2016] LRSC 33 , a case which involved extreme facts, and personally  reprehensible conduct by the employer .",
+    "legal_references": [
+      {
+        "text": "LRSC 33",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Against this ba ckground I am satisfied of the following:   i) Mr Kaye undertook the DDOS Attacks, and breached s.76 of the 2007 Act in doing  so.",
+    "legal_references": [
+      {
+        "text": "s.76 of the 2007 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "iv) Mr Marziano and Mr Polani\u2019s conduct also breached s.76 of the 2007 Act.",
+    "legal_references": [
+      {
+        "text": "s.76 of the 2007",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Turning to the subsequent  period, it is important to note the DD OS Attacks, and the  Individual Defendants \u2019 involvement with them, all began before Cellcom BVI agreed to  sell the shares to the Orange Group pursuant to the S PA of 1 8 December 2015  (albeit after  the July 2015 binding offer to purchase).",
+    "legal_references": [
+      {
+        "text": "the S PA",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Term Sheet  2.3 provided that the services of the named  22 expatriate employees w ere to be provided  \u201con the  same level as currently provided to the Target Company\u201d on a full-time basis.",
+    "legal_references": [
+      {
+        "text": "Term Sheet",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "viii) Subject to one possible qualification, t he intermediate purpose of Mr Marziano\u2019s and  Mr Polani\u2019s activities was, by improving Orange Liberia\u2019s financial performance, to  increase the amounts paid by Orange Liberia to Cellcom BVI under the performance - related provisions of the S PA, albeit the benefit to Cellcom BVI would not be co - extensive with the benefit to Orange Liberia (Orange Liber ia would continue to  benefit from customers and usage gained from Lonestar through the DDOS Attacks  after the end of the period relevant to the Earn Out  Payments ).  ix)",
+    "legal_references": [
+      {
+        "text": "the S PA",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The possible qualification arises from the fact that the Ear n Out Payments were linked  to Orange Liberia\u2019s financial performance up to 30 June 2016.",
+    "legal_references": [
+      {
+        "text": "the Ear n Out Payments",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The issue which gives me pause for  thought is the fact that Mr Marziano only wished to  improve Orange Liberia\u2019s financial position as a means of benefiting Cel lcom BVI, through  the earn out provisions in the S PA, and ultimately himself  (I will assume for this purpose  that this is true of the entire DDOS Attack period: cf. [216 (ix)] above) .",
+    "legal_references": [
+      {
+        "text": "the S PA",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Marziano was Group CEO of Cellcom BVI  from  November 2013 to 22 January 2019,  and he was held out as such to third parties, including in the \u201cInformation Memorandum\u201d  prepared in March 2014 in rel ation to a proposed sale of Cellcom BVI . I have found his  contract of employment was with Cellcom BVI.",
+    "legal_references": [
+      {
+        "text": "the \u201cInformation Memorandum\u201d",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, I have found that Mr Marziano instigated the  DDOS Attacks in order to increase the amounts payable by the Orange Group to Cellcom  BVI under the Earn Out provisions of the S PA.",
+    "legal_references": [
+      {
+        "text": "the S PA",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This is because the claim on the action of damages for wrong was only  introduced into these proceedings by amendment on 29 September 2021, and the applicable  limitation period under the Foreign Limitation Periods Act 1984 ( FLPA 1984 ) is three  years under the 1972  Act.  226.",
+    "legal_references": [
+      {
+        "text": "the Foreign Limitation Periods Act 1984",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "FLPA 1984",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Act.  226",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I am satisfied that there is nothing in this point:   i) CPR 17.4 allows a court to add a new claim after a limitation period (including one  applicable by virtue of FLPA 1984  or \u201cany other enactment which allows such an  amendment , or under which such an amendment is allowed\u201d ) has expired, provided  the new claim \u201carises out of the same facts, or substantially the same facts\u201d as those  in respect of which the claimant has already claimed a remedy.",
+    "legal_references": [
+      {
+        "text": "CPR 17.4",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "FLPA 1984",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "ii) It has been held that the Rome II Re gulation falls within the phrase \u201cany other  enactment\u201d for the purpose of CPR 17.4, and that it allows an amendment for CPR  17.4 purposes ( PJS Tatneft v Bogolyubov [2017] EWCA Civ 1581, [77] -[81] and  Qatar Airways Group QCSC v Middle Eastern News FZ -LLC [2021] EWHC 2180  (QB), [15] -[16]).",
+    "legal_references": [
+      {
+        "text": "Rome II Re",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "CPR 17.4",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "CPR  17.4",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EWCA Civ 1581",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Singla:  I think it is a case of once you know what  percentage and what  youconfine to that can be worked  out, and that shouldn't  controversia l.\u201d  255.",
+    "legal_references": [
+      {
+        "text": "controversia l.\u201d",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Viewed in the light of the actual effect of the DDOS At tacks,  and the intermittent nature of those effects, I am not persuaded that Lonestar acted  unreasonably in its response to the attacks.",
+    "legal_references": [
+      {
+        "text": "the DDOS At tacks",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, Orange Liberia seeks orders for 100% contribution from Cellcom BVI and the  Individual Defendants under the Civil Liability (Contribution) Act 1978.",
+    "legal_references": [
+      {
+        "text": "the Civil Liability (Contribution) Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 2(1) of  that Act",
+    "legal_references": [
+      {
+        "text": "Section 2(1) of",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In determining that amount, the case law suggests that I should have  regard to:   i) the causative potency of the various defendants \u2019 actions ;  ii) their respective moral blameworthiness (whether or not the blameworthy acts cau sed  the damage);   iii) organisational responsibility;  and  iv) other factors which have a \u201csufficient relationship\u201d to the damage in question;   (Dubai Aluminium Co Ltd v Salaam [2003] 2 AC 366, [72]; Brian Warwicker Partnership  Plc v HOL International Ltd [2005] EWCA Civ 962, [37] -[38], [45], [51]; Parkman  Consulting Engineers v Cumbrian Industrials Ltd [2001] EWCA Civ 1621, [108]).   271.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 962",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EWCA Civ 1621",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

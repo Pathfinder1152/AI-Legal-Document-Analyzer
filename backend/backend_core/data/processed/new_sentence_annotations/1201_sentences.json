@@ -1,0 +1,143 @@
+[
+  {
+    "sentence": "1.\tMR JUSTICE JACK:  On 2nd November 2005 District Judge Kenneth Grant, sitting as a Youth Court in Wimbledon, ruled that there was no case to answer by the defendant, David Lennon, and dismissed the charge brought against him under section 3(1) of the Computer Misuse Act 1990.",
+    "legal_references": [
+      {
+        "text": "section 3(1)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "section 3(1) of the Computer Misuse Act 1990",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "3.\tThe relevant parts of section 3 provide: \"(1) A person is guilty of an offence if\u2014  (a) he does any act which causes an unauthorised modification of the contents of any computer; and (b) at the time when he does the act he has the requisite intent and the requisite knowledge.",
+    "legal_references": [
+      {
+        "text": "section 3",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "4.\tIt is also necessary to refer to the interpretation provisions of section 17.",
+    "legal_references": [
+      {
+        "text": "section 17",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It was alleged that he had the requisite intent as provided for by section 3(2) because he intended to hinder the operation of the computers by overwhelming them with the emails \u2011 section 3(2)(a), and that he intended thereby to prevent or hinder access to their programs and data \u2011 section 3(2)(b), and to impair the operation of their programs and the reliability of their data \u2011 section 3(2)(c).",
+    "legal_references": [
+      {
+        "text": "section 3(2)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It was alleged that he had the requisite knowledge as provided for by section 3(4) because he had knowledge that the modifications he intended to cause by adding the emails to the data in the computers were unauthorised.",
+    "legal_references": [
+      {
+        "text": "section 3(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "7.\tThe District Judge's opinion stated in the case can be summarised as follows:  (1) section 3 was intended to deal with the sending of malicious material such as viruses, worms and Trojan horses which corrupt or change data, but not the sending of emails;  (2) as D&G's servers were configured to receive emails, each modification occurring on the receipt of an email sent by Mr Lennon was unauthorised.",
+    "legal_references": [
+      {
+        "text": "section 3",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 17(8) is the relevant provision.",
+    "legal_references": [
+      {
+        "text": "Section 17(8)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "So section 17(8)(a) is satisfied.",
+    "legal_references": [
+      {
+        "text": "section 17(8)(a)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The question is then whether Mr Lennon had \"consent to the modification from any person who [was] so entitled\" \u2011 section 17(8)(b).",
+    "legal_references": [
+      {
+        "text": "section 17(8)(b)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Allen submitted that if there was some point at which the sending of emails became unauthorised by reason of their number, then there could be no certainty in the law because that point could not be sufficiently identified.  So, he said, the offence offended against Article 7 of the European Convention on Human Rights (no punishment without law).",
+    "legal_references": [
+      {
+        "text": "Article 7",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the European Convention on Human Rights",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": ", then such an addition to such data is plainly unauthorised, as defined in section 17(8); intent to modify the contents of the computer as defined in section 3(2) is self\u2011evident and, by so doing, the reliability of the data in the computer is impaired within the meaning of section 3(2)(c).\"",
+    "legal_references": [
+      {
+        "text": "section 17(8)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 3(2)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 3(2)(c)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 3(4) requires that it be established not only that the modifications caused to D&G's computers should be unauthorised, but that Mr Lennon had knowledge that they were unauthorised.",
+    "legal_references": [
+      {
+        "text": "Section 3(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The critical issue is that of \"consent\" as that word is used in section 17(8) of the Act.",
+    "legal_references": [
+      {
+        "text": "section 17(8)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

@@ -22,5 +22,6 @@
     },
     "extracted_at": "2025-04-13T12:53:47.684655Z"
   },
-  "text_path": "data\\processed\\cases_txt\\433.txt"
+  "text_path": "data\\processed\\cases_txt\\433.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\433.txt"
 }

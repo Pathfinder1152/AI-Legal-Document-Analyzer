@@ -1,0 +1,181 @@
+CHBKF 95/0591/C
+
+BAILII Citation Number: [1996] EWCA Civ 1324
+
+IN THE SUPREME COURT OF JUDICATURE
+
+COURT OF APPEAL (CIVIL DIVISION)
+
+ON APPEAL FROM THE HIGH COURT OF JUSTICE
+
+CARDIFF DISTRICT REGISTRY CHANCERY DIVISION
+
+(His Honour Judge Cherryman QC)
+
+Royal Courts of Justice
+
+Strand
+
+London WC2
+
+Date: Thursday, 25th April 1996
+
+B e f o r e :
+
+LORD JUSTICE NOURSE
+
+LORD JUSTICE BELDAM
+
+LORD JUSTICE MILLETT
+
+---------------
+
+THE TRUSTEE OF THE PROPERTY OF F.C. JONES & SONS (a Firm)
+
+Plaintiff/Respondent
+
+-v-
+
+ANNE JONES (Married Woman)
+
+Defendant/Appellant
+
+---------------
+
+Computer Aided Transcript of the Palantype Notes of
+
+Smith Bernal Reporting Limited
+
+180 Fleet Street  London EC4A 2HD
+
+Tel: 0171 831 3183  Fax: 0171 831 8838
+
+(Official Shorthand Writers to the Court)
+
+---------------
+
+MR. J. QUIRKE (instructed by Messrs. Thursfields, Kidderminster) appeared on behalf of the Appellant Defendant.
+
+MR. S. DAVIES (instructed by Messrs. Eversheds Phillips & Buck, Cardiff) appeared on behalf of the Respondent Plaintiff.
+
+---------------
+
+J U D G M E N T
+
+LORD JUSTICE NOURSE:     I have asked Lord Justice Millett to deliver the first judgment.
+
+LORD JUSTICE MILLETT:    The firm of F.C. Jones & Sons carried on business as potato growers.  There were three partners, Messrs. F.C. Jones, F.W.J. Jones and A.C. Jones.  In 1984 the firm got into financial difficulties.  A supplier obtained judgment against it.  The judgment was not satisfied and a bankruptcy notice was issued.  The partners failed to comply with the notice and thereby committed an act of bankruptcy.  The judgment creditor presented a bankruptcy petition, a receiving order was made and in due course the partners were adjudicated bankrupt.
+
+In the meantime, that is to say after the act of bankruptcy and before the adjudication, Mrs. Jones, the wife of Mr. F.W.J. Jones, opened an account with a firm of commodity brokers in order to deal on the London Potato Futures Market.  Into this account she paid the proceeds of three cheques totalling £11,700.  The cheques were all drawn by Mrs. Jones' husband, Mr. F.W.J. Jones, on the joint account of himself and Mr. A.C. Jones at the local branch of Midland Bank.
+
+Mrs. Jones' dealings in potato futures proved to be highly profitable.  She received two cheques totalling £50,760 from the commodity brokers and paid them into a call deposit account which she opened at R. Raphael & Sons Plc ("Raphaels").  She allowed Mr. F.W.J. Jones to withdraw £900 from the account, leaving a balance of £49,860.  Shortly afterwards the Official Receiver informed Raphaels of his claim to the money in the account.  Mrs. Jones immediately demanded the release of the money and Raphaels interpleaded.
+
+Pursuant to an order made on the interpleader summons the money held by Raphaels was paid into court and issues between the rival claimants were directed to be tried with the trustee in bankruptcy as plaintiff and Mrs. Jones as defendant.  In 1986 the proceedings were transferred to the Chancery Division where, after an unexplained lapse of nine years, they came on for hearing before Mr. Cherryman QC, sitting as a deputy judge of that Division.  He found in favour of the trustee and ordered that the money in court be paid out to him.  Mrs. Jones now appeals from his decision.
+
+The trustee's case, as presently formulated, is simplicity itself.  The money in court represents the proceeds of Mrs. Jones' successful speculation with the £11,700 which she received from her husband.  The £11,700, in turn, was paid to her out of the joint account of two of the partners, who were afterwards adjudicated bankrupt.  The money was drawn from the joint account after the date of the act of bankruptcy on which the receiving order was made.  All this is undisputed.  But, says the trustee, the money in the joint account had already vested in him, for under section 37 of the Bankruptcy Act 1914 his title to the assets of the bankrupts related back to the date of the act of bankruptcy.  Accordingly, Mrs. Jones never acquired any title to the money.  The money which she received from her husband belonged to the trustee, and the money in court represents the proceeds of her successful speculation with his money.
+
+The trustee submits that his title to the money in court is clear and unimpeachable unless Mrs. Jones can take advantage of section 45 of the Bankruptcy Act 1914 by proving (a) that she was paid the £11,700 as a creditor of the firm and (b) that at the time she received the money she had no notice of any available act of bankruptcy.  Counsel for Mrs. Jones has disclaimed any contention that she was a creditor of the firm, and he concedes that the trustee's claim is bound to succeed in relation to the original sum of £11,700 with interest thereon.  But, he submits, the trustee cannot recover the profits which Mrs. Jones made by the use of the money because he cannot maintain a proprietary claim in equity, and he cannot maintain a proprietary claim in equity because he cannot establish the existence of a fiduciary relationship between Mrs. Jones and the trustee.
+
+Counsel for Mrs. Jones submits that all claims by a trustee or liquidator to recover payments to third parties, whether as fraudulent preferences (which are voidable) or as dispositions by a company made after the commencement of the winding up (which are void), must be made by way of an action for money had and received;  that this, being an action at law, is a personal claim;  that it does not matter whether the transaction which is impugned was void or merely voidable;  and that, in the absence of a constructive trust or fiduciary relationship which would justify the intervention of equity, the trustee cannot recover the proceeds of the profitable investment by the recipient of the money which he received.
+
+The judge thought that Mrs. Jones was a constructive trustee.  He said:
+
+"... the trustee really has no problem in establishing a fiduciary relationship.  In my view where, as here (due to the effect of the doctrine of relation back), A pays B's money to C, B retains the beneficial title to the money and C becomes a bare trustee (see Chase Manhattan Bank v. Israel-British Bank [1981] 1 Ch. 105, 119."
+
+Founding himself on that reasoning, the deputy judge applied the equitable rules of tracing.
+
+It is, however, in my view plain that Mrs. Jones did not receive the money in a fiduciary capacity and that she did not become a constructive trustee.  The deputy judge's conclusion presupposes that A (who in this case is the bankrupts) had a legal title to transfer.  In the present case, however, the bankrupts had been divested of all title by statute.  Mr. F.W.J. Jones had no title at all in law or equity to the money in the joint account at Midland Bank, and could confer no title on Mrs. Jones.
+
+While, however, I accept the submissions of counsel for Mrs. Jones that she did not become a constructive trustee, I do not accept the proposition that the trustee in bankruptcy is unable to recover the profits which Mrs. Jones made by the use of his money unless she can be shown to have received it in one or other of the two capacities mentioned;  nor do I consider it necessary for him to invoke the assistance of equity in order to maintain his claim.  In short, I do not accept the main submission of counsel that the only action at law which was available to the trustee was an action against Mrs. Jones for money had and received.
+
+It is, in my view, unhelpful to categorise the payment of the £11,700 to Mrs. Jones as either "void" or "voidable".  Neither term is strictly accurate.  In order to see why this is so it is necessary to consider the effect of the doctrine of relation back under the old bankruptcy law.  I recently had occasion to examine this in detail in In re Dennis [1995] 3 WLR 367.  At p.387 I said:
+
+"It is clear from the authorities that the relation back of the trustee's title did not merely make the title of the debtor himself or any person claiming through the debtor defeasible in the event of adjudication.  If the debtor was adjudicated bankrupt, then as from the date of the act of bankruptcy neither the debtor nor any such person claiming under him who could not bring himself within the protective provisions of the Bankruptcy Acts had any title at all;  as from that date title was vested in the trustee.  The position of the debtor and persons who claimed under him during the intermediate period was extremely curious.  They did not possess a defeasible title, but either an indefeasible title if the act of bankruptcy was not followed by adjudication or no title at all if it was.  Outside the law of bankruptcy no similar ambulatory title was known to the law."
+
+In saying this I was summarising the law expounded by this Court in In re Gunsbourg [1920] 2 KB 426.  In that case the debtor transferred his assets to a company which he had formed.  He afterwards committed an act of bankruptcy on which he was adjudicated bankrupt.  The company had sold some of the assets which it had acquired from the debtor to a bona fide purchaser without notice of the act of bankruptcy.  The trustee impugned the transfer to the company, which was held to be fraudulent and void and to constitute an act of bankruptcy.  The trustee then sought to recover from the purchaser the assets which he had acquired from the company after the act of bankruptcy.  The court held that the title of the trustee related back to the earlier act of bankruptcy, which consisted of the transfer to the company, and that neither the company nor any subsequent purchaser could establish any title against the trustee.  It was a hard case, because the defendant was a bona fide purchaser without notice of the act of bankruptcy;  but he was unable to bring himself within the protective provisions of section 45 of the Act of 1914, which were limited to persons who had dealt directly with the bankrupt.
+
+At p.438 Lord Sterndale MR explained the way in which the doctrine of relation back operated as follows:
+
+"If this be correct the position is exactly the same as if the bankrupt had been in possession of goods belonging to another person, to which he had no title, and had sold them to the original transferee who had then resold them.  In such a case neither the original nor any of the subsequent transferees would take any title at all, and the true owner could recover the goods from anyone in whose possession he found them.  I know of no doctrine of law or equity which would relieve any of the transferees in these circumstances.
+
+It was however argued that this statement of Lord Esher cannot be taken to its full extent and that it must be confined to avoiding dealings with his property by the bankrupt himself after the date of relation back.  This was founded on the argument that the original transfer was not void but only voidable, and that therefore any bona fide purchase from the original transferee was protected.  I am not sure that void and voidable are quite apt expressions, but clearly the transfer was not void at the moment it was made, for it might be that no circumstances would ever arise in which a trustee's title would accrue or the bankruptcy law apply.  I will assume that voidable is a correct expression to describe the nature of the transaction, and then it becomes necessary to ascertain the effect of the avoidance caused by the making of the receiving order.  This seems to me to be quite different from the effect of avoidance in the ordinary case of a voidable transfer where no principles of bankruptcy law apply.  In this latter case the title of the person avoiding the transaction arises only from the time when he elects to avoid, and therefore intervening bona fide transactions are protected because the transferor up to the date of avoidance had and could confer a good title.  In the case under consideration so soon as the receiving order is made the trustee at once gets a title which relates back to the earliest act of bankruptcy within three months of the receiving order, whether it be the one upon which the receiving order is made or not, and therefore his position and rights are entirely different from those of an ordinary person who elects to avoid a voidable transaction."
+
+Warrington LJ cited the decision in In re Hart, Ex parte Green [1912] 3 KB 6 and distinguished it on the ground that there the original disposal by the debtor was prior to the act of bankruptcy, though the later transfer by the disponee to the defendant was after it.  In such a case the trustee could not succeed against a transferee for value without notice.  He continued [1920] 2 KB 426 at p.446:
+
+"This seems to me to have no application to such a case as the present in which the effect of the subsequent bankruptcy is, without more, to vest the property in the trustee as from a date anterior to the dealing impeached.
+
+...  The statutory transfer passes the legal property in the goods to the trustee as from the commencement of the bankruptcy, and subsequent sales thereof by any person other than the trustee can confer no property on the purchaser ..."
+
+As I pointed out in In re Dennis at p.387:
+
+"This could not be clearer.  The transfer to the company constituted an act of bankruptcy.  Had no adjudication followed, the transfer would have passed title to the company.  It might still have been possible for the creditors to impugn it as a fraudulent conveyance, but then it could not have been avoided as against a bona fide purchaser for value without notice.  The relation back of the trustee's title, however, did not strictly render the transaction either void or voidable;  it operated automatically to divest the debtor at the date of the act of bankruptcy of any title to pass to the transferee, and this enabled the trustee to prevail against anyone who could not bring himself within the protective provisions of section 45."
+
+Accordingly, as from the date of the act of bankruptcy the money in the bankrupts' joint account at Midland Bank belonged to the trustee.  The account holders had no title to it at law or in equity.  The cheques which they drew in favour of Mrs. Jones were not "void" or "voidable" but, in the events which happened, they were incapable of passing any legal or equitable title.  They were not, however, without legal effect, for the bank honoured them.  The result was to affect the identity of the debtor but not the creditor and to put Mrs. Jones in possession of funds to which she had no title.  A debt formally owed by Midland Bank apparently to Messrs F.W.J Jones and A.C. Jones but in reality to their trustee ultimately became a debt owed by Raphaels apparently to Mrs. Jones but in reality to the trustee.
+
+What is the result?  If the cheques had passed the legal title to Mrs. Jones but not the beneficial ownership, she would have received the money as constructive trustee and be liable to a proprietary restitutionary claim in equity (sometimes, though inaccurately, described as a tracing claim).  Mrs. Jones would have been obliged, not merely to account for the £11,700 which she had received, but to hand over the £11,700 in specie to the trustee.  Her position would have been no different from that of an express trustee who held the money in trust for the trustee;  or from that of Mr. Reid in Attorney-General for Hong Kong v. Reid [1994] 1 AC 324, whose liability to account for the profits which he made from investing a bribe was based on his obligation to pay it over to his principal as soon as he received it.  The existence of any such obligation has been disputed by commentators, but no one disputes that, if the obligation exists, it carries with it the duty to pay over or account for any profits made by the use of the money.
+
+But Mrs. Jones was not a constructive trustee.  She had no legal title to the money.  She had no title to it at all.  She was merely in possession;  that is to say, in a position to deal with it even though it did not belong to her.  Counsel for Mrs. Jones says that it follows that she cannot be made liable to any kind of proprietary claim.  He relies strongly for this purpose on Ex parte Hooson, In re Chapman & Shaw (1872) 8 Ch. 231, followed in In re Bishop, Ex parte Claxton (1891) Morr. 221, which are both cases concerned with fraudulent preference.  In each case the debtor had paid a debt on the eve of his bankruptcy, the payment was found to be a fraudulent preference and the creditor was ordered to repay the amount in question to the trustee in bankruptcy.  The creditor failed to do so and was committed to prison under the Debtors Act 1869.  That Act had abolished imprisonment for debt, but there were exceptions.  One exception was "default by a trustee or person acting in a fiduciary capacity".  The court held that there was no fiduciary relationship between the debtor and his creditors, still less between the creditor whose debt was paid and the rest of the creditors.  Given the fact that the payment was good when made and that it continued to bind the debtor himself, being voidable only at the instance of the trustee in bankruptcy, the conclusion was perhaps inevitable.
+
+But those were cases in which the payment was valid when made and passed a good though defeasible title to the recipient.  He obtained legal title to the money and, since he was not a trustee, equitable title as well.  He was free to deal with the money on his own account as he pleased.  If he made a profit from the use of his own money, he was entitled to keep it.  If he become bankrupt, the money would form part of his estate and the debtor's trustee would have to prove in his bankruptcy for the amount claimed.  The present case is entirely different.  Mrs. Jones had no title at all, at law or in equity.  If she became bankrupt, the money would not vest in her trustee.  But this would not be because it was trust property;  it would be because it was not her property at all.  If she made a profit, how could she have any claim to the profit made by the use of someone else's money?
+
+In my judgment she could not.  If she were to retain the profit made by the use of the trustee's money, then, in the language of the modern law of restitution, she would be unjustly enriched at the expense of the trustee.  If she were a constructive trustee of the money, a court of equity, as a court of conscience, would say that it was unconscionable for her to lay claim to the profit made by the use of her beneficiary's money.  It would, however, be a mistake to suppose that the common law courts disregarded considerations of conscience.  Lord Mansfield CJ, who did much to develop the early law of restitution at common law, founded it firmly on the basis of good conscience and unjust enrichment.
+
+It would, in my judgment, be absurd if a person with no title at all were in a stronger position to resist a proprietary claim by the true owner than one with a bare legal title.  In the present case equity has no role to play.  The trustee must bring his claim at common law.  It follows that, if he has to trace his money, he must rely on common law tracing rules, and that he has no proprietary remedy.  But it does not follow that he has no proprietary claim.  His claim is exclusively proprietary.  He claims the money because it belongs to him at law or represents profits made by the use of money which belonged to him at law.
+
+The trustee submits that he has no need to trace, since the facts are clear and undisputed.  Mrs. Jones did not mix the money with her own.  The trustee's money remained identifiable as such throughout.  But, of course, he does have to trace it in order to establish that the money which he claims represents his money.  Counsel for Mrs. Jones acknowledges that the trustee can successfully trace his money into her account at Raphaels, for his concession in respect of the £11,700 acknowledges this.  I do not understand how his concession that the trustee is entitled to £11,700 of the money in court is reconcilable with his submission that the only cause of action available to the trustee is an action for money he had and received.  I say this for two reasons.  In the first place, the trustee has never brought such an action, and any such action would now be long out of time.  In the second place, in an action for money had and received it would be irrelevant what Mrs. Jones had done with the money after she received it.  Her liability would be based on her receipt of the money, and she would be personally liable to a money judgment for £11,700.  But while the trustee would be entitled to a money judgment for that sum, he would not be entitled to any particular sum of £11,700 in specie.
+
+But in my judgment the concession that the trustee can trace the money at common law is rightly made.  There are no factual difficulties of the kind which proved fatal in this Court to the common law claim in Agip (Africa) Ltd. v. Jackson [1991] Ch. 547.  It is not necessary to trace the passage of the money through the clearing system or the London Potato Futures Market.  The money which Mrs. Jones paid into her account with the commodity brokers represented the proceeds of cheques which she received from her husband.  Those cheques represented money in the bankrupts' joint account at Midland Bank which belonged to the trustee.
+
+In Lipkin Gorman (a Firm) v. Karpnale Ltd. [1991] 2 AC 548 at p.573 Lord Goff held that the plaintiffs could trace or follow their "property into its product" for this "involves a decision by the owner of the original property to assert title to the product in place of his original property".  In that case the original property was the plaintiffs' chose in action, a debt owed by the bank to the plaintiffs.  Lord Goff held that the plaintiffs could:
+
+"... trace their property at common law in that chose in action, or in any part of it, into its product, i.e. cash drawn by Cass from their client account at the bank."
+
+Accordingly, the trustee can follow the money in the joint account at Midland Bank, which had been vested by statute in him, into the proceeds of the three cheques which Mrs. Jones received from her husband.  The trustee does not need to follow the money from one recipient to another or follow it through the clearing system;  he can follow the cheques as they pass from hand to hand.  It is sufficient for him to be able to trace the money into the cheques and the cheques into their proceeds.
+
+In Agip (Africa) Ltd. v. Jackson [1990] Ch. 265 at p.285 I said that the ability of the common law to trace an asset into a changed form in the same hands was established in Taylor v. Plumer (1815) 3 M. & S. 562.  Lord Ellenborough CJ in that case had said:
+
+"The product of or substitute for the original thing still follows the nature of the thing itself as long as it can be ascertained to be such and the right only ceases when the means of ascertainment fails, which is the case when the subject is turned into money and confined within the general mass of the same description."
+
+In this it appears that I fell into a common error, for it has since been convincingly demonstrated that, although Taylor v. Plumer was decided by a common law court, the court was in fact applying the rules of equity;  see Lionel Smith, "Tracing in Taylor v. Plumer:  Equity in the King's Bench" (1995) LMCLQ 240.
+
+But this is no reason for concluding that the common law does not recognise claims to substitute assets or their products.  Such claims were upheld by this Court in Banque Belge pour l'Etranger v. Hambrouck [1921] 1 KB 321 and by the House of Lords in Lipkin Gorman (a Firm) v. Karpnale Ltd. [1991] 2 AC 548.  It has been suggested by commentators that these cases are undermined by their misunderstanding of Taylor v. Plumer, but that is not how the English doctrine of stare decisis operates.  It would be more consistent with that doctrine to say that, in recognising claims to substituted assets, equity must be taken to have followed the law, even though the law was not declared until later.  Lord Ellenborough CJ gave no indication that, in following assets into their exchange products, equity had adopted a rule which was peculiar to itself or which went further than the common law.
+
+There is no merit in having distinct and differing tracing rules at law and in equity, given that tracing is neither a right nor a remedy but merely the process by which the plaintiff establishes what has happened to his property and makes good his claim that the assets which he claims can properly be regarded as representing his property.  The fact that there are different tracing rules at law and in equity is unfortunate though probably inevitable, but unnecessary differences should not be created where they are not required by the different nature of legal and equitable doctrines and remedies.  There is, in my view, even less merit in the present rule which precludes the invocation of the equitable tracing rules to support a common law claim;  until that rule is swept away unnecessary obstacles to the development of a rational and coherent law of restitution will remain.
+
+Given that the trustee can trace his money at Midland Bank into the money in Mrs. Jones' account with the commodity brokers, can he successfully assert a claim to that part of the money which represents the profit made by the use of his money?  I have no doubt that, in the particular circumstances of this case, he can.  There is no need to trace through the dealings on the London Potato Futures Market.  If Mrs. Jones, as the nominal account holder, had any entitlement to demand payment from the brokers, this was because of the terms of the contract which she made with them.  Under the terms of that contract it is reasonable to infer that the brokers were authorised to deal in potato futures on her account, to debit her account with losses and to credit it with profits, and to pay her only the balance standing to her account.  It is, in my opinion, impossible to separate the chose in action constituted by the deposit of the trustee's money on those terms from the terms upon which it was deposited.  The chose in action, which was vested in Mrs. Jones' name but which in reality belonged to the trustee, was not a right to payment from the brokers of the original amount deposited but a right to claim the balance, whether greater or less than the amounted deposited;  and it is to that chose in action that the trustee now lays claim.
+
+Given, then, that the trustee has established his legal claim to the £11,700 and the profits earned by the use of his money, and has located the money, first, in Mrs. Jones' account with the commodity brokers and, later, in Mrs. Jones' account at Raphaels, I am satisfied that the common law has adequate remedies to enable him to recover his property.  He did not need to sue Mrs. Jones;  and he did not do so.  He was entitled to bring an action for debt against Raphaels and obtain an order for payment.  When he threatened to do so, Raphaels interpleaded, and the issue between the trustee and Mrs. Jones was which of them could give a good receipt to Raphaels.  That depended upon which of them had the legal title to the chose in action.  The money now being in court, the court can grant an appropriate declaration and make an order for payment.
+
+In my judgment the trustee was entitled at law to the money in the joint account of the bankrupts at Midland Bank, which had vested in him by statute.  He was similarly entitled to the balance of the money in Mrs. Jones' account with the commodity brokers, and the fact that it included profits made by the use of that money is immaterial.  He was similarly entitled to the money in Mrs. Jones' account at Raphaels and able to give them a good receipt for the money.  Mrs. Jones never had any interest, legal or equitable, in any of those monies.  The trustee is plainly entitled to the money in court and the judge was right to order that it be paid out to him.
+
+I would dismiss the appeal.
+
+LORD JUSTICE BELDAM:    I too would dismiss the appeal.
+
+Lord Justice Millett has set out the full facts of the case and has referred to the relevant cases.  The question for the court is whether Mrs. Jones can retain profits from dealing with £11,700 which in law belonged to the trustee in bankruptcy of F.C. Jones & Sons.  In In re Dennis [1995] 3 WLR 367 this Court held that where a debtor was adjudicated bankrupt the trustee's title to the debtor's property related back to the first available act of bankruptcy and, further, that it divested the debtor of title from that date.  That decision, as Lord Justice Millett has indicated, was based on the judgment of this Court in In re Gunsbourg [1920] 2 KB 426.  At p.438 Lord Sterndale MR, after referring to Lord Esher's judgment in In re Pollitt [1893] 1 QB 455, said of the effect of the relation back:
+
+"If this be correct the position is exactly the same as if the bankrupt had been in possession of goods belonging to another person, to which he had no title, and had sold them to the original transferee who had then resold them.  In such a case neither the original nor any of the subsequent transferees would take any title at all, and the true owner could recover the goods from anyone in whose possession he found them.  I know of no doctrine of law or equity which would relieve any of the transferees in these circumstances."
+
+At the date of the act of bankruptcy the partners apparently held an account with Midland Bank which was sufficiently in credit to provide for the payment of three cheques totalling £11,700 to Mrs. Jones, who deposited the cheques for collection with Drexel Burnham Lambert for the purpose of dealing in the London Potato Futures Market.  She subsequently gave instructions for investment of the money in various futures dealings, and was successful to the extent that the sum of £11,700 eventually increased to over £50,000.  That amount having been paid to her, she deposited it in an account with Raphaels.  The trustee in bankruptcy then claimed the asset represented by the balance standing to the credit of that account.  It was argued that the trustee in bankruptcy could validly trace the original £11,700 through the account with Drexel Burnham Lambert and into the account with Raphaels, but to no greater extent could he claim the sum then standing to the credit of the account.
+
+There is now ample authority for the proposition that a person who can trace his property into its product, provided the product is identifiable as the product of his property, may lay legal claim to that property.  As Lord Goff said in Lipkin Gorman (a Firm) v. Karpnale Ltd. [1991] 2 AC 548 at p.573:
+
+"Of course, `tracing' or `following' property into its product involves a decision by the owner of the original property to assert his title to the product in place of his original property."
+
+In my view, therefore, the trustee in this case could assert legal title to the debt which was due from Raphaels on the account represented by the original £11,700 and the proceeds of dealing with it.
+
+At no time did Mrs. Jones have any legal or beneficial title to any of the sums paid into that account.  It was argued by Mr. Quirke that, because she had given the instructions for the futures dealings with the money, she was entitled to the profits which had accrued.  He argued that, because Mrs. Jones had no legal or equitable title, she could retain profits made by the use of the property which, had she had a legal title, she would have been bound to pay to the trustee.  I cannot assent to this apparent absurdity.  In my view she at no time had any legal title or equitable right to the property or to profits made by dealing with it.  The trustee was legally entitled to the balance due from Raphaels on the account and not just to the sum of £11,700 originally deposited with Drexel Burnham Lambert.
+
+I too would dismiss the appeal.
+
+LORD JUSTICE NOURSE:    I also agree that the appeal must be dismissed.
+
+I recognise that our decision goes further than that of the House of Lords in Lipkin Gorman (a Firm) v. Karpnale Ltd. [1991] 2 AC 548, in that it holds that the action for money had and received entitles the legal owner to trace his property into its product, not only in the sense of property for which it is exchanged, but also in the sense of property representing the original and the profit made by the defendant's use of it.
+
+Lord Justice Millett has explained how that extension is justified on the particular facts of this case.  But there is, I think, a broader justification to be found in the seminal judgment of Lord Mansfield CJ in Clarke v. Shee and Johnson (1774) 1 Cowp. 197 at p.199, where he said of the action for money had and received:
+
+"This is a liberal action in the nature of a bill in equity;  and if, under the circumstances of the case, it appears that the defendant cannot in conscience retain what is the subject matter of it, the plaintiff may well support this action."
+
+In my view Mrs. Jones cannot in conscience retain the profit any more than the original £11,700.  She had no title to the original.  She could not have made the profit without her use of it.  She cannot, by making a profit through the use of money to which she had no title, acquire some better title to the profit.
+
+Order:	appeal dismissed with costs;  plaintiff's application against the Legal Aid Fund pursuant to s.18 of the Legal Aid Act 1988 adjourned to the Registrar, the defendant's contribution having been assessed at nil;  legal aid taxation of the defendant's costs;  leave to appeal to the House of Lords refused.

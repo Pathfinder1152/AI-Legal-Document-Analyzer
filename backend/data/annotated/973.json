@@ -20,5 +20,6 @@
     },
     "extracted_at": "2025-04-13T12:54:09.369153Z"
   },
-  "text_path": "data\\processed\\cases_txt\\973.txt"
+  "text_path": "data\\processed\\cases_txt\\973.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\973.txt"
 }
