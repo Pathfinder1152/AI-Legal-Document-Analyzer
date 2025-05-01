@@ -38,6 +38,7 @@ class Command(BaseCommand):
                         "parties": metadata.get("parties", {}),
                         "representatives": metadata.get("representatives", {}),
                         "text_path": data.get("text_path", ""),
+                        "semantic_text_path": data.get("semantic_text_path", ""),
                         "extracted_at": parse_datetime(metadata.get("extracted_at")) if metadata.get("extracted_at") else None
                     }
                 )

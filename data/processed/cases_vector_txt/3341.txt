@@ -1,415 +1,753 @@
-Neutral Citation Number:  [2024] EWHC 3341 (Admin)  
- 
-Case No: AC-2024 -LON -001728  
-IN THE HIGH COURT OF JUSTICE  
-KING'S BENCH DIVISION  
-DIVISIONAL COURT  
- 
-Royal Courts of Justice  
-Strand, London, WC2A 2LL  
- 
-Date: 20/12/2024   
- 
-Before : 
- 
-LORD JUSTICE JEREMY BAKER  
-MR JUSTICE JAY  
-- - - - - - - - - - - - - - - - - - - - - 
-Between:  
- 
- DIRECTOR OF PUBLIC PROSECUTIONS  
- Appellant  
- - and – 
-  
- JOANN JINKS  Respondent  
- 
-- - - - - - - - - - - - - - - - - - - - - 
-- - - - - - - - - - - - - - - - - - - - - 
- 
-James Boyd  (instructed by  CPS Appeals and Review Unit ) for the  Claimant  
-Philip Rule KC and Ian Bridge  (instructed by Jonas Roy Bloom ) for the Respon dent 
- 
-Hearing date: 17 December 2024  
-- - - - - - - - - - - - - - - - - - - - - 
-Approved Judgment  
-  
-This judgment was handed down remotely at 10.30am on 20 December 2024 by circulation 
-to the parties or their representatives by e -mail and by release to the National Archives.  
- 
-.............................  
- 
+Neutral Citation Number: [2024] EWHC 3341 (Admin)
+
+Case No: AC-2024-LON-001728
+
+IN THE HIGH COURT OF JUSTICE
+
+KING'S BENCH DIVISION
+
+DIVISIONAL COURT
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Date: 20/12/2024
+
+Before:
+
+LORD JUSTICE JEREMY BAKER
+
 MR JUSTICE JAY
 
-Judgment Approved by the court for handing down.  DPP v Jinks  
- 
- 
-Draft  23 December 2024  12:56  Page 2 MR JUSTICE JAY:  
- 
-INTRODUCTION  
-1. This is the judgment of the Court.  
-2. The Director of Public Prosecution s (“the Appell ant”) appeals by way of case stated 
-against the decision of Deputy Chief Magistrate Tanweer Ikram (“the Judge”) sitting at 
-Westminster Magistrates’ Court (“the Court”) on 23 August 2022 to dismiss the 
-prosecution of Ms Joann Jinks (“the Respondent”) on the  basis that the proceedings 
-were brought out of time.  
-3. The Respondent was charged with three counts of sending a grossly offensive message 
-by a public electronic communications network, contrary to section 127 of the 
-Communications Act 2003 (“the 2003 Act”). The charges related to what were alleged 
-to be racist images sent by her to her co -defendant and fellow serving police officer, 
-Mr James Wat ts, in June 2020.  
-4. The Judge dismissed the charge on the basis that the relevant date for the purpose of 
-the time limit  for bringing proceedings in section 127(5)(b) of the 2003 Act was more 
-than six months before the institution of proceedings in the Court. In a nutshell, the 
-issue for our determination is whether the judge was correct so to conclude .  
- 
-THE FACTS  
-5. We take the relevant facts largely from the case stated prepared by the Judge .  
-6. On 18 May 2021 a case file was referred by the Independent Office of Police Conduct 
-(“the IOPC”) to the CPS. On 14 June 2021 a Senior Crown Prosecutor (“the first 
-prosecutor”) reviewed the file and concluded that there was insufficient evidence to 
-bring proceedings. That decision was subsequently challenged by the IOPC in 
-accordance with the pre -trial decision appeals process, and the matter was referred to 
-the CPS for reconside ration. On 18 October 2021 another Senior Crown Prosecutor 
-(“the second prosecut or”) considered the same material  and concluded that there was 
-sufficient evidence to institute proceedings and that it was in the public interest to do 
-so: in other words, that the full code test was fulfilled.  
-7. After the taking of further steps  which are not relevant to these proceedings, on 3 March 
-2022 the matter was referred to the CPS Special Crime Team for charging authority to 
-be provided under  Crown Prosecution Service legal guidance regarding offences 
-committed via social media. Charging authority was provided on 16 March 2022.  
-8. Authorisation to charge both the Respondent and her co -defendant was provided to the 
-IOPC on 25 March 2022, and postal requisitions were sent on 31 March 2022.  
-9. The Respondent and her co -defendant appeared before Birmingham Magistrates ’ Court 
+- - - - - - - - - - - - - - - - - - - - -
+
+Between:
+
+DIRECTOR OF PUBLIC PROSECUTIONS Appellant
+
+- and –
+
+JOANN JINKS Respondent
+
+- - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - -
+
+James Boyd (instructed by CPS Appeals and Review Unit) for the Claimant
+
+Philip Rule KC and Ian Bridge (instructed by Jonas Roy Bloom) for the Respondent
+
+Hearing date: 17 December 2024
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Approved Judgment
+
+This judgment was handed down remotely at 10.30am on 20 December 2024 by circulation
+
+to the parties or their representatives by e-mail and by release to the National Archives.
+
+.............................
+
+MR JUSTICE JAY
+
+Judgment Approved by the court for handing down. DPP v Jinks
+
+MR JUSTICE JAY:
+
+INTRODUCTION
+
+1. This is the judgment of the Court.
+
+2. The Director of Public Prosecutions (“the Appellant”) appeals by way of case stated
+
+against the decision of Deputy Chief Magistrate Tanweer Ikram (“the Judge”) sitting at
+
+Westminster Magistrates’ Court (“the Court”) on 23 August 2022 to dismiss the
+
+prosecution of Ms Joann Jinks (“the Respondent”) on the basis that the proceedings
+
+were brought out of time.
+
+3. The Respondent was charged with three counts of sending a grossly offensive message
+
+by a public electronic communications network, contrary to section 127 of the
+
+Communications Act 2003 (“the 2003 Act”). The charges related to what were alleged
+
+to be racist images sent by her to her co-defendant and fellow serving police officer,
+
+Mr James Watts, in June 2020.
+
+4. The Judge dismissed the charge on the basis that the relevant date for the purpose of
+
+the time limit for bringing proceedings in section 127(5)(b) of the 2003 Act was more
+
+than six months before the institution of proceedings in the Court. In a nutshell, the
+
+issue for our determination is whether the judge was correct so to conclude.
+
+THE FACTS
+
+5. We take the relevant facts largely from the case stated prepared by the Judge.
+
+6. On 18 May 2021 a case file was referred by the Independent Office of Police Conduct
+
+(“the IOPC”) to the CPS. On 14 June 2021 a Senior Crown Prosecutor (“the first
+
+prosecutor”) reviewed the file and concluded that there was insufficient evidence to
+
+bring proceedings. That decision was subsequently challenged by the IOPC in
+
+accordance with the pre-trial decision appeals process, and the matter was referred to
+
+the CPS for reconsideration. On 18 October 2021 another Senior Crown Prosecutor
+
+(“the second prosecutor”) considered the same material and concluded that there was
+
+sufficient evidence to institute proceedings and that it was in the public interest to do
+
+so: in other words, that the full code test was fulfilled.
+
+7. After the taking of further steps which are not relevant to these proceedings, on 3 March
+
+2022 the matter was referred to the CPS Special Crime Team for charging authority to
+
+be provided under Crown Prosecution Service legal guidance regarding offences
+
+committed via social media. Charging authority was provided on 16 March 2022.
+
+8. Authorisation to charge both the Respondent and her co-defendant was provided to the
+
+IOPC on 25 March 2022, and postal requisitions were sent on 31 March 2022.
+
+9. The Respondent and her co-defendant appeared before Birmingham Magistrates’ Court
+
 on 13 May 2022. The Respondent pleaded not guilty to the charges at the hearing. Her
 
-Judgment Approved by the court for handing down.  DPP v Jinks  
- 
- 
-Draft  23 December 2024  12:56  Page 3 co-defendant pleaded guilty to the ten charges relevant to him, and ultimately he 
-received an immediate sentence of 20 weeks’ imprisonment.  
-10. The Respondent’s case was adjourned for trial at Westminster Magistrates ’ Court on 
-23 and 24 August 2022. At the hearing, it was argued for the Respondent that, for the 
-purpose of section 127(5) of the 2003 Act, the relevant date  was the date on which the 
-decision was taken to authorise no further action against her. In response, the Appellant 
-argued that the decision to authorise no further action did not trigger the 6 -month time 
-limit, as the prosecutor had decided that there was not sufficient evidence t o justify 
-proceedings.  
-11.  The Judge ruled that the relevant date was 14 June 2021, his reasoning being that it 
-was: 
-“… the date on which the evidence came to the knowledge of the 
-“first” prosecutor, on the basis that this was the date on which 
-the evidence first came to the notice of the prosecutor. While not 
-determinative of my decision, the prosecution argument would 
-allow continual reviews of the same bundle, though it is accepted 
-that this could be grounds for abuse of process. On the basis that 
-the “relevant date” was 14 June 2021, I ruled that the 
-proceedings against the defendant Jinks had therefore been 
-commenced  outside the 6 -month time limit.”  
- 
-THE JUDGE’S QUESTIONS FOR DETERMINATION BY THIS COURT  
-12. The Judge posed the following two questions for our determination:  
-“In context, a prosecutor later (18 October 2021) decided that the 
-evidence that had, in fact, been available on 14 June 2021 was, 
-in fact, sufficient to justify proceedings.  
-For the purposes of Section 127(5) of the Act, does a decision, 
-taken with knowledge of all relevant evidence, that the evidence 
-is not sufficient to justify proceedings trigger the “relevant date” 
-provisions even if a contrary view is taken upon the same 
-evidence on a later date?  
-Was I correct to rule that in those circumstances, the relevant 
-date was 14 June 2021?”  
-13. We mention in passing that the Respondent seeks to uphold the Judge’s decision on a 
-further and a lternative  ground, and to that end has filed a Respondent’s Notice. 
-However, we consider that the Respondent’s Notice is predicated on a misreading of 
-section 111(1) of the Magistrates’ Courts Act 1980 leading to  an incorrect use of the 
-case stated procedure: see the decision s of th is Court in R (oao Paul Bussetti) v DPP  
-[2020] EWHC 3004 (Admin), at paras 21 -22 (per Carr LJ, as she then was) , and in 
-Harvey v DPP  [2021] EWHC 147 (Admin); [2021] 1 WLR 2721 , at para 9  (per Lord 
-Burnett CJ) . The effect of the sub -section is that the terms of the case stated bind this
+Draft 23 December 2024 12:56 Page 2
 
-Judgment Approved by the court for handing down.  DPP v Jinks  
- 
- 
-Draft  23 December 2024  12:56  Page 4 Court to the extent that we can only answer the questions posed by the Judge; we cannot 
-travel more widely into different issues or determine further facts. We therefore say no 
-more about the Respondent’s Notice .  
- 
-RELEVANT LEGISLATIVE PROVISIONS  
-14. Section 127 of the 2003 Act provides, in material part:  
-“(1) A person is guilty of an offence if he — 
-(a) sends by means of a public electronic communications 
-network a message or other matter that is grossly offensive or of 
-an indecent, obscene or menacing character; or  
-(b) causes any such message or matter to be so sent.  
-… 
-(3) A person guilty of an offence under this section shall be 
-liable, on summary conviction, to imprisonment for a term not 
-exceeding six months or to a fine not exceeding level 5 on the 
-standard scale, or to both.  
-… 
-(5) An information or complaint relating to an offence under this 
-section may be tried by a magistrates' court in England and 
-Wales or Northern Ireland if it is laid or made — 
-(a) before the end of the period of 3 years beginning with the day 
-on which the offence was committed, and  
-(b) before the end of the period of 6 months beginning with the 
-day on which evidence comes to the knowledge of the prosecutor 
-which the prosecutor considers sufficient to justify proceedings.  
-… 
-(7) A certificate of a prosecutor as to the date on which evidence 
-described in subsection (5)(b) … came to his or her knowledge 
-is conclusive evidence of that fact. ” 
-15. The second prosecutor issued a certificate under section 127(5) but the parties are 
-agreed that nothing turns upon its terms. However, as a matter of first impression we 
-observe that the sub -section would be otiose if time started to run from the date of t he 
-prosecutor’s decision to prosecute. That would always be known , or at least readily 
-provable . Thus, the existence of the certification procedure indicates that the relevant 
+Judgment Approved by the court for handing down. DPP v Jinks
+
+co-defendant pleaded guilty to the ten charges relevant to him, and ultimately he
+
+received an immediate sentence of 20 weeks’ imprisonment.
+
+10. The Respondent’s case was adjourned for trial at Westminster Magistrates’ Court on
+
+23 and 24 August 2022. At the hearing, it was argued for the Respondent that, for the
+
+purpose of section 127(5) of the 2003 Act, the relevant date was the date on which the
+
+decision was taken to authorise no further action against her. In response, the Appellant
+
+argued that the decision to authorise no further action did not trigger the 6-month time
+
+limit, as the prosecutor had decided that there was not sufficient evidence to justify
+
+proceedings.
+
+11. The Judge ruled that the relevant date was 14 June 2021, his reasoning being that it
+
+was:
+
+“… the date on which the evidence came to the knowledge of the
+
+“first” prosecutor, on the basis that this was the date on which
+
+the evidence first came to the notice of the prosecutor. While not
+
+determinative of my decision, the prosecution argument would
+
+allow continual reviews of the same bundle, though it is accepted
+
+that this could be grounds for abuse of process. On the basis that
+
+the “relevant date” was 14 June 2021, I ruled that the
+
+proceedings against the defendant Jinks had therefore been
+
+commenced outside the 6-month time limit.”
+
+THE JUDGE’S QUESTIONS FOR DETERMINATION BY THIS COURT
+
+12. The Judge posed the following two questions for our determination:
+
+“In context, a prosecutor later (18 October 2021) decided that the
+
+evidence that had, in fact, been available on 14 June 2021 was,
+
+in fact, sufficient to justify proceedings.
+
+For the purposes of Section 127(5) of the Act, does a decision,
+
+taken with knowledge of all relevant evidence, that the evidence
+
+is not sufficient to justify proceedings trigger the “relevant date”
+
+provisions even if a contrary view is taken upon the same
+
+evidence on a later date?
+
+Was I correct to rule that in those circumstances, the relevant
+
+date was 14 June 2021?”
+
+13. We mention in passing that the Respondent seeks to uphold the Judge’s decision on a
+
+further and alternative ground, and to that end has filed a Respondent’s Notice.
+
+However, we consider that the Respondent’s Notice is predicated on a misreading of
+
+section 111(1) of the Magistrates’ Courts Act 1980 leading to an incorrect use of the
+
+case stated procedure: see the decisions of this Court in R (oao Paul Bussetti) v DPP
+
+[2020] EWHC 3004 (Admin), at paras 21-22 (per Carr LJ, as she then was), and in
+
+Harvey v DPP [2021] EWHC 147 (Admin); [2021] 1 WLR 2721, at para 9 (per Lord
+
+Burnett CJ). The effect of the sub-section is that the terms of the case stated bind this
+
+Draft 23 December 2024 12:56 Page 3
+
+Judgment Approved by the court for handing down. DPP v Jinks
+
+Court to the extent that we can only answer the questions posed by the Judge; we cannot
+
+travel more widely into different issues or determine further facts. We therefore say no
+
+more about the Respondent’s Notice.
+
+RELEVANT LEGISLATIVE PROVISIONS
+
+14. Section 127 of the 2003 Act provides, in material part:
+
+“(1) A person is guilty of an offence if he —
+
+(a) sends by means of a public electronic communications
+
+network a message or other matter that is grossly offensive or of
+
+an indecent, obscene or menacing character; or
+
+(b) causes any such message or matter to be so sent.
+
+…
+
+(3) A person guilty of an offence under this section shall be
+
+liable, on summary conviction, to imprisonment for a term not
+
+exceeding six months or to a fine not exceeding level 5 on the
+
+standard scale, or to both.
+
+…
+
+(5) An information or complaint relating to an offence under this
+
+section may be tried by a magistrates' court in England and
+
+Wales or Northern Ireland if it is laid or made —
+
+(a) before the end of the period of 3 years beginning with the day
+
+on which the offence was committed, and
+
+(b) before the end of the period of 6 months beginning with the
+
+day on which evidence comes to the knowledge of the prosecutor
+
+which the prosecutor considers sufficient to justify proceedings.
+
+…
+
+(7) A certificate of a prosecutor as to the date on which evidence
+
+described in subsection (5)(b) … came to his or her knowledge
+
+is conclusive evidence of that fact.”
+
+15. The second prosecutor issued a certificate under section 127(5) but the parties are
+
+agreed that nothing turns upon its terms. However, as a matter of first impression we
+
+observe that the sub-section would be otiose if time started to run from the date of the
+
+prosecutor’s decision to prosecute. That would always be known, or at least readily
+
+provable. Thus, the existence of the certification procedure indicates that the relevant
+
 date could be a different and earlier date known only to the prosecutor.
 
-Judgment Approved by the court for handing down.  DPP v Jinks  
- 
- 
-Draft  23 December 2024  12:56  Page 5 THE COMPETING CONTENTION S 
-16. Mr James Boyd for the Appellant submitted that we should accord a literal 
-interpretation to the statutory wording unless it yielded an absurd result. In June 2021 
-the first prosecutor was the “prosecutor” for the purposes of section 127(5). Although 
-all th e relevant evidence came to her knowledge on 14 June 2021, it was not evidence 
-that in her opinion was sufficient to justify proceedings. It lacked an essential 
-characteristic. When the second prosecutor considered the matter afresh four months 
-later, he w as a different “prosecutor” for the purposes of section 127(5). It followed that 
-the statutory test for the running of time was not met. To construe the statutory wording 
-differently would be tantamount to rewriting it.  
-17. Mr Philip Rule KC for the Respondent invoked the well -established canon of statutory 
-interpretation that any ambiguity should be resolved against the Appellant in the context 
-of a penal provision. The relevant date for starting the notional clock was not the date 
-a prosecutor decides to prosecute: if it were, he or she could simply delay coming to a 
-decision until a date of his or her choosing. The relevant date is when an authorised  
-individual, on these facts the first prosecutor, received the evidence and  considered it 
-so that knowledge of its contents was imparted  to the CPS as an organisation . It is 
-irrelevant for these purposes what decision the first prosecutor made as to whether to 
-prosecute; or, put another way, that the first prosecutor decided not to prosecute. 
-Although the second prosecutor was a different authorised individual, it was not his 
-knowledge which began the notional clock. Time was already running because the first 
-prosecutor had acquired knowledge for the purposes of the sub -section.  
-18. Mr Rule accepted that time does not begin running for these purposes if the prosecutor 
-advises that further inquiries or investigations be undertaken  that leads to further 
-evidence . In the present case, however, it may clearly be inferred that no further 
-inquiries were carried out  because the material evidence  did not change between June 
-and October 2021. The IOPC did not appeal on the footing that further inquiries were 
-necessary. The second prosecutor came to a different decision only because his 
-evaluati on of the evidence was different from the first prosecutor’s, and not because 
-something new had emerged.  
-19. In a clear and persuasive oral argument, Mr Rule took us through the key authorities . 
-We are grateful for his analysis.  
- 
-DISCUSSION  
-20. Section 127(5) of the 2003 Act is not an isolated or unfamiliar provision. There are 
-numerous examples in both primary and secondary legislation of similarly -worded 
-provisions which are designed to constitute exceptions to the general rule that summary 
-proceedings should be started within six months of the commission of the offence, and 
-treat the prosecutor’s knowledge of X as triggering a different and later six -month time 
-limit. For example, the formulation “evidence sufficient in the opinion of the 
-prose cutor” appears in section 6 of the Road Traffic Offenders Act 1988. The slightly 
-different formulation, “evidence which the prosecutor thinks is sufficient to justify 
-proceedings comes to his knowledge” appears in section 31 of the Animal Welfare Act 
-2006,  and the almost identical, “evidence which the prosecutor thinks is sufficient to
+Draft 23 December 2024 12:56 Page 4
 
-Judgment Approved by the court for handing down.  DPP v Jinks  
- 
- 
-Draft  23 December 2024  12:56  Page 6 justify the proceedings comes to the prosecutor’s knowledge” in regulation 41 of the 
-Welfare of Animals at the Time of Killing (England) Regulations 2015  [SI No 2015 of 
-1782] .  
-21. Although there are minor differences in wording across the statutory landscape, we 
-consider that these are immaterial and that a consistent approach should be adopted. It 
-follows that the case law  cited to us which addressed these various  provisions , as well 
-as others,  is germane to our consideration.  
-22. The authorities address the following connected questions: the identity of the 
-“prosecutor” for these purposes; the circumstances in which  a conclusive certificate 
-may be challenged; and how to avoid the unattractive consequences of a prosecuting 
-authority “shuffling the papers” in order  to extend time. The instant case is not 
-concerned with the integrity of a prosecutorial certificate or the difficulties which arise 
-in a case of arguably deliberate delay ing tactics . Both the first and second prosecutors 
-made their decisions on the day the evidence came to their respective knowledge.  
-23. We were referred to no authority which provides a conclusive answer to the questions 
-posed by the Judge. The situation which has arisen is, we consider, relatively unusual.  
-24. There is some authority supporting the proposition that the taking of the decision to 
-prosecute is the relevant trigger  in the context of extended time limit provisions of this 
-sort. In Leatherbarrow v Warwickshire County Council  [2014] EWHC 4820 (Admin); 
-[2015] 179 J.P. 307 , the focus of Bean LJ’s reasoning was directed to  the decision to 
-prosecute applying the test in the full code. In R v Woodward  [2017] EWHC 1008 
-(Admin); [2017] 181 J.P. 405 Hickinbottom LJ held (at para 23(iii)) that the relevant 
-date:  
-“is the date upon which the prosecutor considers that, upon the 
-available evidence, it is in the public interest to prosecute the 
-particular individual or individuals”.  
-25. If these dicta were correct, it would follow that time did not start running until 18 
-October 2021.  However, Mr Boyd did not seek to support th ese decisions . He accepted, 
-correctly in our view, that a more authoritative analysis is to be found elsewhere.  
-26. Mr Rule accepted that knowledge for the purposes of section 127(5) cannot be acquired 
-simply when the material evidence – by which we mean, evidence sufficient to fulfil 
-the full code test – comes to the knowledge of the CPS as a whole. In this regard, 
-knowledge must be acquired by the individual responsible for exercising a judgment 
-whether that evidence was sufficient to justify a prosecution. There is a mass of 
-authority supporting Mr Rule’s concession . These include Leatherbarrow  (per Bean LJ 
-at para 19 ); R (Chesterfield Poultry Ltd) v Sheffield Magistrates’ Court  [2019] EWHC 
-2953 (Admin); [2020] 1 WLR 499 (per Males LJ at para s 42 and  59); and Winder v 
-DPP  [2020] EWHC 1611 (Admin) (per Dove J at para 23).  
-27. At first blush, there is some force in Mr Boyd’s submission that, if “prosecutor” in the 
-sub-section means “the individual”, what matters here is when the second prosecutor 
-acquired knowledge of the evidence sufficient to justify a prosecut ion. One literal 
-reading of the statutory wording supports that analysis , but in our view it is not the only 
+Judgment Approved by the court for handing down. DPP v Jinks
+
+THE COMPETING CONTENTIONS
+
+16. Mr James Boyd for the Appellant submitted that we should accord a literal
+
+interpretation to the statutory wording unless it yielded an absurd result. In June 2021
+
+the first prosecutor was the “prosecutor” for the purposes of section 127(5). Although
+
+all the relevant evidence came to her knowledge on 14 June 2021, it was not evidence
+
+that in her opinion was sufficient to justify proceedings. It lacked an essential
+
+characteristic. When the second prosecutor considered the matter afresh four months
+
+later, he was a different “prosecutor” for the purposes of section 127(5). It followed that
+
+the statutory test for the running of time was not met. To construe the statutory wording
+
+differently would be tantamount to rewriting it.
+
+17. Mr Philip Rule KC for the Respondent invoked the well-established canon of statutory
+
+interpretation that any ambiguity should be resolved against the Appellant in the context
+
+of a penal provision. The relevant date for starting the notional clock was not the date
+
+a prosecutor decides to prosecute: if it were, he or she could simply delay coming to a
+
+decision until a date of his or her choosing. The relevant date is when an authorised
+
+individual, on these facts the first prosecutor, received the evidence and considered it
+
+so that knowledge of its contents was imparted to the CPS as an organisation. It is
+
+irrelevant for these purposes what decision the first prosecutor made as to whether to
+
+prosecute; or, put another way, that the first prosecutor decided not to prosecute.
+
+Although the second prosecutor was a different authorised individual, it was not his
+
+knowledge which began the notional clock. Time was already running because the first
+
+prosecutor had acquired knowledge for the purposes of the sub-section.
+
+18. Mr Rule accepted that time does not begin running for these purposes if the prosecutor
+
+advises that further inquiries or investigations be undertaken that leads to further
+
+evidence. In the present case, however, it may clearly be inferred that no further
+
+inquiries were carried out because the material evidence did not change between June
+
+and October 2021. The IOPC did not appeal on the footing that further inquiries were
+
+necessary. The second prosecutor came to a different decision only because his
+
+evaluation of the evidence was different from the first prosecutor’s, and not because
+
+something new had emerged.
+
+19. In a clear and persuasive oral argument, Mr Rule took us through the key authorities.
+
+We are grateful for his analysis.
+
+DISCUSSION
+
+20. Section 127(5) of the 2003 Act is not an isolated or unfamiliar provision. There are
+
+numerous examples in both primary and secondary legislation of similarly-worded
+
+provisions which are designed to constitute exceptions to the general rule that summary
+
+proceedings should be started within six months of the commission of the offence, and
+
+treat the prosecutor’s knowledge of X as triggering a different and later six-month time
+
+limit. For example, the formulation “evidence sufficient in the opinion of the
+
+prosecutor” appears in section 6 of the Road Traffic Offenders Act 1988. The slightly
+
+different formulation, “evidence which the prosecutor thinks is sufficient to justify
+
+proceedings comes to his knowledge” appears in section 31 of the Animal Welfare Act
+
+2006, and the almost identical, “evidence which the prosecutor thinks is sufficient to
+
+Draft 23 December 2024 12:56 Page 5
+
+Judgment Approved by the court for handing down. DPP v Jinks
+
+justify the proceedings comes to the prosecutor’s knowledge” in regulation 41 of the
+
+Welfare of Animals at the Time of Killing (England) Regulations 2015 [SI No 2015 of
+
+1782].
+
+21. Although there are minor differences in wording across the statutory landscape, we
+
+consider that these are immaterial and that a consistent approach should be adopted. It
+
+follows that the case law cited to us which addressed these various provisions, as well
+
+as others, is germane to our consideration.
+
+22. The authorities address the following connected questions: the identity of the
+
+“prosecutor” for these purposes; the circumstances in which a conclusive certificate
+
+may be challenged; and how to avoid the unattractive consequences of a prosecuting
+
+authority “shuffling the papers” in order to extend time. The instant case is not
+
+concerned with the integrity of a prosecutorial certificate or the difficulties which arise
+
+in a case of arguably deliberate delaying tactics. Both the first and second prosecutors
+
+made their decisions on the day the evidence came to their respective knowledge.
+
+23. We were referred to no authority which provides a conclusive answer to the questions
+
+posed by the Judge. The situation which has arisen is, we consider, relatively unusual.
+
+24. There is some authority supporting the proposition that the taking of the decision to
+
+prosecute is the relevant trigger in the context of extended time limit provisions of this
+
+sort. In Leatherbarrow v Warwickshire County Council [2014] EWHC 4820 (Admin);
+
+[2015] 179 J.P. 307, the focus of Bean LJ’s reasoning was directed to the decision to
+
+prosecute applying the test in the full code. In R v Woodward [2017] EWHC 1008
+
+(Admin); [2017] 181 J.P. 405 Hickinbottom LJ held (at para 23(iii)) that the relevant
+
+date:
+
+“is the date upon which the prosecutor considers that, upon the
+
+available evidence, it is in the public interest to prosecute the
+
+particular individual or individuals”.
+
+25. If these dicta were correct, it would follow that time did not start running until 18
+
+October 2021. However, Mr Boyd did not seek to support these decisions. He accepted,
+
+correctly in our view, that a more authoritative analysis is to be found elsewhere.
+
+26. Mr Rule accepted that knowledge for the purposes of section 127(5) cannot be acquired
+
+simply when the material evidence – by which we mean, evidence sufficient to fulfil
+
+the full code test – comes to the knowledge of the CPS as a whole. In this regard,
+
+knowledge must be acquired by the individual responsible for exercising a judgment
+
+whether that evidence was sufficient to justify a prosecution. There is a mass of
+
+authority supporting Mr Rule’s concession. These include Leatherbarrow (per Bean LJ
+
+at para 19); R (Chesterfield Poultry Ltd) v Sheffield Magistrates’ Court [2019] EWHC
+
+2953 (Admin); [2020] 1 WLR 499 (per Males LJ at paras 42 and 59); and Winder v
+
+DPP [2020] EWHC 1611 (Admin) (per Dove J at para 23).
+
+27. At first blush, there is some force in Mr Boyd’s submission that, if “prosecutor” in the
+
+sub-section means “the individual”, what matters here is when the second prosecutor
+
+acquired knowledge of the evidence sufficient to justify a prosecution. One literal
+
+reading of the statutory wording supports that analysis, but in our view it is not the only
+
 possible reading.
 
-Judgment Approved by the court for handing down.  DPP v Jinks  
- 
- 
-Draft  23 December 2024  12:56  Page 7 28. However, we have reached the conclusion that this reading is both inconsistent with 
-authority and unsound on policy grounds. Our reasons are as follows.  
-29. In Morgans v DPP  [1999] 1 WLR 968, this Court ( Kennedy  LJ and Sullivan J)  was 
-considering the terms of a broadly similar limitation provision in section 11(2) of the 
-Computer Misuse Act 1990. In that case, transposing the nomenclature we are 
-deploying in the present case, the first prosecutor was a police officer and the second 
-prosecutor was the CPS. By the end of January 1996, the police officer had all the 
-material evidence on which the pros ecution was brought. He therefore submitted the 
-file to the CPS for charging advice. The police officer then fell ill and a different police 
-officer charged the defendant in August 1996. On 20 August the CPS prosecutor formed 
-the opinion that he had sufficient evidence to warrant proceedings, and in due course 
-he signed a certificate to that effect.  
-30. Kennedy LJ gave the lead judgment. He held that the knowledge of the first prosecutor 
-“can be added to that of the charging officer” for the purposes of section 11(2) [at 
-983B]. Kennedy LJ further held that, given that the first prosecutor had all the mate rial 
-on which the prosecution was eventually brought, time began to run. His reasons were 
-as follows [at 983D -F]: 
-“[Counsel] contends that the words “sufficient in the opinion of 
-the prosecutor to warrant the proceedings” are merely 
-descriptive of the evidence, and that the prosecutor would not 
-have to form his opinion for time to run. I accept that submission 
-because  otherwise the prosecutor, in full possession of all 
-relevant information, can prevent time running simply by not 
-applying his mind to the case.  
-Section 11(2) is an exception to the normal rule that summary 
-offences should be prosecuted within six months. As an 
-exception in favour of the prosecution, it should be strictly 
-construed. The draftsman could have provided that proceedings 
-for an offence under subsection (1) “may be brought within a 
-period of six months from the date on which the prosecution 
-forms the opinion that there is sufficient evidence to warrant 
-proceedings” but he did not do so.”  
-31. By “merely descriptive of the evidence”, Kennedy LJ meant that the evidence was 
-sufficient to fulfil the full code test even if that judgment had not yet been made. 
-Kennedy LJ was no doubt intending to distinguish this from situations where further 
-inquiries were deemed necessary.  
-32. In our judgment, Morgans  provides strong support for Mr Rule’s argument. It is not 
-conclusively in his favour, because we must now address the question whether it is 
-consistent with subsequent authority.  
-33. The leading authority on provisions such as these is now the Chesterfield Poultry  case 
-where Males LJ (sitting with Jefford J) undertook a careful and comprehensive review 
+Draft 23 December 2024 12:56 Page 6
+
+Judgment Approved by the court for handing down. DPP v Jinks
+
+28. However, we have reached the conclusion that this reading is both inconsistent with
+
+authority and unsound on policy grounds. Our reasons are as follows.
+
+29. In Morgans v DPP [1999] 1 WLR 968, this Court (Kennedy LJ and Sullivan J) was
+
+considering the terms of a broadly similar limitation provision in section 11(2) of the
+
+Computer Misuse Act 1990. In that case, transposing the nomenclature we are
+
+deploying in the present case, the first prosecutor was a police officer and the second
+
+prosecutor was the CPS. By the end of January 1996, the police officer had all the
+
+material evidence on which the prosecution was brought. He therefore submitted the
+
+file to the CPS for charging advice. The police officer then fell ill and a different police
+
+officer charged the defendant in August 1996. On 20 August the CPS prosecutor formed
+
+the opinion that he had sufficient evidence to warrant proceedings, and in due course
+
+he signed a certificate to that effect.
+
+30. Kennedy LJ gave the lead judgment. He held that the knowledge of the first prosecutor
+
+“can be added to that of the charging officer” for the purposes of section 11(2) [at
+
+983B]. Kennedy LJ further held that, given that the first prosecutor had all the material
+
+on which the prosecution was eventually brought, time began to run. His reasons were
+
+as follows [at 983D-F]:
+
+“[Counsel] contends that the words “sufficient in the opinion of
+
+the prosecutor to warrant the proceedings” are merely
+
+descriptive of the evidence, and that the prosecutor would not
+
+have to form his opinion for time to run. I accept that submission
+
+because otherwise the prosecutor, in full possession of all
+
+relevant information, can prevent time running simply by not
+
+applying his mind to the case.
+
+Section 11(2) is an exception to the normal rule that summary
+
+offences should be prosecuted within six months. As an
+
+exception in favour of the prosecution, it should be strictly
+
+construed. The draftsman could have provided that proceedings
+
+for an offence under subsection (1) “may be brought within a
+
+period of six months from the date on which the prosecution
+
+forms the opinion that there is sufficient evidence to warrant
+
+proceedings” but he did not do so.”
+
+31. By “merely descriptive of the evidence”, Kennedy LJ meant that the evidence was
+
+sufficient to fulfil the full code test even if that judgment had not yet been made.
+
+Kennedy LJ was no doubt intending to distinguish this from situations where further
+
+inquiries were deemed necessary.
+
+32. In our judgment, Morgans provides strong support for Mr Rule’s argument. It is not
+
+conclusively in his favour, because we must now address the question whether it is
+
+consistent with subsequent authority.
+
+33. The leading authority on provisions such as these is now the Chesterfield Poultry case
+
+where Males LJ (sitting with Jefford J) undertook a careful and comprehensive review
+
 of relevant case law.
 
-Judgment Approved by the court for handing down.  DPP v Jinks  
- 
- 
-Draft  23 December 2024  12:56  Page 8 34. One of the issues in the Chesterfield Poultry  case was the validity of the prosecutor’s 
-certificate, being an issue which does not arise in the instant case. At para 35 of his 
-judgment, Males LJ cited the core reasoning in Morgans , and then said this:  
-“36. Thus the relevant date is the date on which the 
-prosecutor has evidence which is sufficient in his opinion to 
-warrant the proceedings, even if he or she has not yet formed 
-that opinion . However, Morgans  says nothing about what 
-matters need to be taken into account as being relevant to the 
-question whether there is sufficient evidence to warrant the 
-proceedings. In particular, there is nothing to suggest that the 
-question whether a prosecution is in the i nterests of justice does 
-not need to be considere d.” [emphasis supplied]  
-35. We read the highlighted sentence as affirming Kennedy LJ’s approach in Morgans . The 
-qualification appearing in the second sentence of para 36 relates to the validity of a 
-conclusive certificate and not to what Males LJ was characterising as the “relevant date 
-issue”: see para 37.  
-36. Para 60 of Males LJ’s  judgment contains the germane legal test:  
-“Second, the decision whether the evidence was sufficient to 
-justify proceedings which Ms Sanghera had to make required an 
-exercise of judgment on her part, both as to whether the evidence 
-amounted to a prima facie case and whether proceedings were in 
-the p ublic interest. However, the statutory question was when 
-evidence which in her  opinion satisfied those criteria came to 
-her knowledge, and not (if different) when she formed the 
-opinion that proceedings were justified . The date on which the 
-relevant eviden ce came to her knowledge is not, however, to be 
-equated with the date on which the relevant evidence was placed 
-on her desk or delivered to her inbox. Rather it is the date on 
-or by which it has been considered so that knowledge of the 
-content has been imparted.  In most cases, no doubt, and there 
-is no reason to suppose that this case is different, the imparting 
-of knowledge and the forming of opinion will happen together. 
-The responsible individual will review the file and make a 
-decision about prosecution . Hypothetically, however, if he or she 
-were to review the file so as to have knowledge of all the relevant 
-evidence, but only make a decision about prosecution at a later 
-date, it seems to me that the date on which the file was reviewed 
-would be the date when the evidence came to the prosecutor’s 
-knowledge. To that limited extent, therefore, I respectfully 
-disagree with Hickinbottom LJ’s statement in R v Woodward at 
-para 23(iii) that the relevant date is the date on which the 
-prosecutor decided that it in the public interest to prosecute.” 
-(emphasis supplied)  
-37. In DPP v Cook  [2022] EWHC 2963 (Admin); [2023] 4 WLR 77, this Court (Stuart 
-Smith LJ and Fordham J) followed para 60 of the Chesterfield Poultry  case.
+Draft 23 December 2024 12:56 Page 7
 
-Judgment Approved by the court for handing down.  DPP v Jinks  
- 
- 
-Draft  23 December 2024  12:56  Page 9 38. Drawing these strands together, in our judgment Morgans , Chesterfield Poultry  and 
-Cook  all support the related propositions that (1) the relevant date for the purposes of 
-an extended limitation provision such as section 127(5)  is the date on which the material 
-evidence (i.e. evidence which fulfils the full code test) is first considered by an 
-authorised person so that knowledge of its content is imparted, and not the date when 
-he formed the opinion that proceedings were justified, and (2) as soon as an auth orised 
-person acquires the level of knowledge referred to in (1), time starts running regardless 
-of the opinion that person actually forms. Put another way, the fact that the first 
-prosecutor on the facts of the present case acted in a timely manner and formed the 
-opinion that the evidence was not sufficient to justify proceedings is irrelevant to the 
-prosecutor’s  date of knowledge. Unless and until a prosecutor decides to begin 
-proceedings, section 127(5) can have no possible application; but as and when h e did – 
-here, on 18 October 2021 – the relevant date was the date on which a prosecutor, here 
-the first prosecutor, acquired knowledge of the content of the material evidence.  
-39. Mr Boyd’s submission to the effect that the focus must be on the knowledge of the 
-particular individual who goes on to decide that the material evidence is sufficient to 
-warrant proceedings has little appeal. His submission is inconsistent  with Morgans , and 
-– as Mr Rule pointed out – with basic principles of public law. The prosecution is 
-brought by the CPS and not in the name of the individual prosecutor. Although 
-knowledge of an individual prosecutor authorised to make the decision to prosecute is 
-the sta tutory focus, her knowledge is imputed to the organisation on Carltona  
-principles. There are also sound policy reasons for adopting this approach, not least 
-because there is a public interest in summary -only proceedings, even those with an 
-extended time limit, being brought and determined expeditiously, and the abuse of 
-process jurisdiction may not alw ays be adequate to address the vices of paper -shuffling 
-and intra -departmental delays. As was pointed out in oral argument, if there were  only 
-one prosecutor and he or she either procrastinates or there is a change of mind, time 
-would be running even on Mr  Boyd’s approach. There is no good reason, in our opinion, 
-to distinguish this type of situation from th ose where there are more than one 
-prosecutor.  
-40. For the avoidance of doubt, we should make it clear that in cases where different 
-evidence is placed before a second prosecutor because further inquiries have been 
-undertaken, time would not run from the date of the first prosecutor’s acquisition of 
-knowle dge.  
-41. Once knowledge is acquired at the time of first consideration, it is incumbent on the 
-CPS or the relevant prosecutorial body to proceed with reasonable expedition. That 
-need for expedition must accommodate the possibility that a decision not to prosecute 
-may find itself subject to review.  
-42. For all these reasons, we conclude that the Judge’s decision was correct  in law, and that 
-the relevant date for the purposes of the present case was  14 June 2021 and not  18 
-October 2021. It follows that these proceedings were not brought in time.  
- 
+Judgment Approved by the court for handing down. DPP v Jinks
+
+34. One of the issues in the Chesterfield Poultry case was the validity of the prosecutor’s
+
+certificate, being an issue which does not arise in the instant case. At para 35 of his
+
+judgment, Males LJ cited the core reasoning in Morgans, and then said this:
+
+“36. Thus the relevant date is the date on which the
+
+prosecutor has evidence which is sufficient in his opinion to
+
+warrant the proceedings, even if he or she has not yet formed
+
+that opinion. However, Morgans says nothing about what
+
+matters need to be taken into account as being relevant to the
+
+question whether there is sufficient evidence to warrant the
+
+proceedings. In particular, there is nothing to suggest that the
+
+question whether a prosecution is in the interests of justice does
+
+not need to be considered.” [emphasis supplied]
+
+35. We read the highlighted sentence as affirming Kennedy LJ’s approach in Morgans. The
+
+qualification appearing in the second sentence of para 36 relates to the validity of a
+
+conclusive certificate and not to what Males LJ was characterising as the “relevant date
+
+issue”: see para 37.
+
+36. Para 60 of Males LJ’s judgment contains the germane legal test:
+
+“Second, the decision whether the evidence was sufficient to
+
+justify proceedings which Ms Sanghera had to make required an
+
+exercise of judgment on her part, both as to whether the evidence
+
+amounted to a prima facie case and whether proceedings were in
+
+the public interest. However, the statutory question was when
+
+evidence which in her opinion satisfied those criteria came to
+
+her knowledge, and not (if different) when she formed the
+
+opinion that proceedings were justified. The date on which the
+
+relevant evidence came to her knowledge is not, however, to be
+
+equated with the date on which the relevant evidence was placed
+
+on her desk or delivered to her inbox. Rather it is the date on
+
+or by which it has been considered so that knowledge of the
+
+content has been imparted. In most cases, no doubt, and there
+
+is no reason to suppose that this case is different, the imparting
+
+of knowledge and the forming of opinion will happen together.
+
+The responsible individual will review the file and make a
+
+decision about prosecution. Hypothetically, however, if he or she
+
+were to review the file so as to have knowledge of all the relevant
+
+evidence, but only make a decision about prosecution at a later
+
+date, it seems to me that the date on which the file was reviewed
+
+would be the date when the evidence came to the prosecutor’s
+
+knowledge. To that limited extent, therefore, I respectfully
+
+disagree with Hickinbottom LJ’s statement in R v Woodward at
+
+para 23(iii) that the relevant date is the date on which the
+
+prosecutor decided that it in the public interest to prosecute.”
+
+(emphasis supplied)
+
+37. In DPP v Cook [2022] EWHC 2963 (Admin); [2023] 4 WLR 77, this Court (Stuart
+
+Smith LJ and Fordham J) followed para 60 of the Chesterfield Poultry case.
+
+Draft 23 December 2024 12:56 Page 8
+
+Judgment Approved by the court for handing down. DPP v Jinks
+
+38. Drawing these strands together, in our judgment Morgans, Chesterfield Poultry and
+
+Cook all support the related propositions that (1) the relevant date for the purposes of
+
+an extended limitation provision such as section 127(5) is the date on which the material
+
+evidence (i.e. evidence which fulfils the full code test) is first considered by an
+
+authorised person so that knowledge of its content is imparted, and not the date when
+
+he formed the opinion that proceedings were justified, and (2) as soon as an authorised
+
+person acquires the level of knowledge referred to in (1), time starts running regardless
+
+of the opinion that person actually forms. Put another way, the fact that the first
+
+prosecutor on the facts of the present case acted in a timely manner and formed the
+
+opinion that the evidence was not sufficient to justify proceedings is irrelevant to the
+
+prosecutor’s date of knowledge. Unless and until a prosecutor decides to begin
+
+proceedings, section 127(5) can have no possible application; but as and when he did –
+
+here, on 18 October 2021 – the relevant date was the date on which a prosecutor, here
+
+the first prosecutor, acquired knowledge of the content of the material evidence.
+
+39. Mr Boyd’s submission to the effect that the focus must be on the knowledge of the
+
+particular individual who goes on to decide that the material evidence is sufficient to
+
+warrant proceedings has little appeal. His submission is inconsistent with Morgans, and
+
+– as Mr Rule pointed out – with basic principles of public law. The prosecution is
+
+brought by the CPS and not in the name of the individual prosecutor. Although
+
+knowledge of an individual prosecutor authorised to make the decision to prosecute is
+
+the statutory focus, her knowledge is imputed to the organisation on Carltona
+
+principles. There are also sound policy reasons for adopting this approach, not least
+
+because there is a public interest in summary-only proceedings, even those with an
+
+extended time limit, being brought and determined expeditiously, and the abuse of
+
+process jurisdiction may not always be adequate to address the vices of paper-shuffling
+
+and intra-departmental delays. As was pointed out in oral argument, if there were only
+
+one prosecutor and he or she either procrastinates or there is a change of mind, time
+
+would be running even on Mr Boyd’s approach. There is no good reason, in our opinion,
+
+to distinguish this type of situation from those where there are more than one
+
+prosecutor.
+
+40. For the avoidance of doubt, we should make it clear that in cases where different
+
+evidence is placed before a second prosecutor because further inquiries have been
+
+undertaken, time would not run from the date of the first prosecutor’s acquisition of
+
+knowledge.
+
+41. Once knowledge is acquired at the time of first consideration, it is incumbent on the
+
+CPS or the relevant prosecutorial body to proceed with reasonable expedition. That
+
+need for expedition must accommodate the possibility that a decision not to prosecute
+
+may find itself subject to review.
+
+42. For all these reasons, we conclude that the Judge’s decision was correct in law, and that
+
+the relevant date for the purposes of the present case was 14 June 2021 and not 18
+
+October 2021. It follows that these proceedings were not brought in time.
+
 DISPOSAL
 
-Judgment Approved by the court for handing down.  DPP v Jinks  
- 
- 
-Draft  23 December 2024  12:56  Page 10 43. Turning to the two questions posed by the Judge, we answer these as follows. In our 
-opinion , the Judge was correct  to hold that the relevant date was 14 June 2021 . 
-Reformulating the Judge’s question slightly, the relevant date for the purposes of 
-section 127(5) of the 2003 Act is the date on which a prosecutor first applied her mind 
-to the material evidence in the case, being evidence which fulfilled both limbs of the 
-full code test.  
+Draft 23 December 2024 12:56 Page 9
+
+Judgment Approved by the court for handing down. DPP v Jinks
+
+43. Turning to the two questions posed by the Judge, we answer these as follows. In our
+
+opinion, the Judge was correct to hold that the relevant date was 14 June 2021.
+
+Reformulating the Judge’s question slightly, the relevant date for the purposes of
+
+section 127(5) of the 2003 Act is the date on which a prosecutor first applied her mind
+
+to the material evidence in the case, being evidence which fulfilled both limbs of the
+
+full code test.
+
 44. This appeal must be dismissed.
+
+Draft 23 December 2024 12:56 Page 10

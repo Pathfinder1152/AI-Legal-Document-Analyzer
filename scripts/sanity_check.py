@@ -2,11 +2,11 @@ import random
 from pathlib import Path
 
 # --- Paths ---
-text_dir = Path("data/processed/cases_txt")  # Make sure this points correctly
+text_dir = Path("data/processed/cases_vector_txt")
 
 # --- Settings ---
-num_files_to_check = 5  # How many random .txt files you want to peek into
-num_paragraphs_per_file = 5  # How many paragraphs per file to show
+num_files_to_check = 3  # How many random .txt files you want to peek into
+num_paragraphs_per_file = 15  # How many paragraphs per file to show
 
 # --- Main ---
 txt_files = list(text_dir.glob("*.txt"))

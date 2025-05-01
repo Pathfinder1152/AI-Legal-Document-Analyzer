@@ -1,7 +1,8 @@
 import os
+import re
 import json
 from pathlib import Path
-from PyPDF2 import PdfReader
+import pdfplumber
 from docx import Document
 import chardet
 from striprtf.striprtf import rtf_to_text
@@ -11,14 +12,13 @@ def extract_raw_text(file_path: Path) -> str:
     ext = file_path.suffix.lower()
 
     if ext == ".pdf":
-        with open(file_path, "rb") as f:
-            reader = PdfReader(f)
-            text = ""
-            for page in reader.pages:
+        text = ""
+        with pdfplumber.open(file_path) as pdf:
+            for page in pdf.pages:
                 page_text = page.extract_text()
                 if page_text:
                     text += page_text.replace("\n", " ")
-            return text
+        return text
 
     elif ext == ".docx":
         doc = Document(file_path)
@@ -48,15 +48,14 @@ def extract_semantic_text(file_path: Path) -> str:
     ext = file_path.suffix.lower()
 
     if ext == ".pdf":
-        with open(file_path, "rb") as f:
-            reader = PdfReader(f)
-            paragraphs = []
-            for page in reader.pages:
+        paragraphs = []
+        with pdfplumber.open(file_path) as pdf:
+            for page in pdf.pages:
                 page_text = page.extract_text()
                 if page_text:
-                    cleaned = page_text.strip()
-                    paragraphs.append(cleaned)
-            return "\n\n".join(paragraphs)  # Paragraphs separated clearly
+                    page_paragraphs = [p.strip() for p in page_text.split('\n') if p.strip()]
+                    paragraphs.extend(page_paragraphs)
+        return "\n\n".join(paragraphs)
 
     elif ext == ".docx":
         doc = Document(file_path)

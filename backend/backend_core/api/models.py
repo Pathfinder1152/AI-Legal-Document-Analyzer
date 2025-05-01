@@ -12,6 +12,7 @@ class CaseMetadata(models.Model):
     parties = models.JSONField(null=True, blank=True)
     representatives = models.JSONField(null=True, blank=True)
     text_path = models.TextField()
+    semantic_text_path = models.TextField(null=True, blank=True)
     extracted_at = models.DateTimeField(blank=True, null=True)
 
     def __str__(self):

@@ -1,550 +1,1035 @@
-Neutral Citation Number: [2020] EWHC 1611 (Admin ) 
- 
-Case No: CO/33/2020  
-IN THE HIGH COURT OF JUSTICE  
-QUEEN'S BENCH DIVISION  
-DIVISIONAL COURT  
-Royal Courts of Justice  
-Strand, London, WC2A 2LL  
- 
-Date: 19/06/2020  
- 
-Before  : 
- 
-LORD JUSTICE DINGEMANS  
-AND  
-MR JUSTI CE DOVE  
-- - - - - - - - - - - - - - - - - - - - - 
-Between :  
- 
- Peter John Winder  Appellant  
- - and -  
- Director of Public Prosecutions  Respondent  
- 
-- - - - - - - - - - - - - - - - - - - - - 
-- - - - - - - - - - - - - - - - - - - - - 
- 
-Leslie Smith  (instructe d by Hogan Brown Solicitors ) for the  Appellant  
-Paul Jarvis  (instructed by the Crown Prosecution Service ) for the Respondent  
- 
-Hearing date: 11th June 2020  
-- - - - - - - - - - - - - - - - - - - - - 
-Approved Judgment  
- 
- 
-Covid -19 Protocol:   This judgment was ha nded down by the Judge remotely by 
-circulation to the parties’ representatives by email and release to Bailii.  The date and 
-time for hand -down is deemed to be listed on 19th June 2020 at 1030.
+Neutral Citation Number: [2020] EWHC 1611 (Admin)
 
-Judgment Approved by the court for handing down.   
- 
- Mr Justice Dove  :  
-1. This is an appeal by way of case stated f ollowing a hearing at Poole Magistrates ’ 
-Court on 3 September 2019 at which, following an application by the appellant, the 
-District Judge ruled that the charges he faced had been brought in time.  
-2. The complainants in this matter, Mr and Mrs Jones, are cust omers of the Santander 
-Bank. They had been on holiday, and on return noticed potentially fraudulent activity 
-occurring on their bank account. Mrs Jones rang the bank on 13 March 2018 and 
-spoke to a fraud investigator, who it is clear was the appellant. The y had a heated 
-argument. The prosecution case is that the appellant then used the bank’s internal 
-system to discover the complainants’ mobile and landline telephone numbers. On 18 
-March 2018 and 19 March 2018 , Mrs Jones received a number of calls on her la ndline 
-from a withheld number. These were concluded to be harassing rather than 
-threatening calls. On 20 March 2018 Mr Jones received a call from a male saying that 
-he knew where Mr Jones lives and that he was coming to get him.  
-3. On 18 April 2018 the appell ant was arrested and interviewed by the police and his 
-mobile phones were seized and subsequently examined. In the interview the appellant 
-gave no comment and provided a prepared statement in relation to the allegations 
-which were put to him. By 6 December  2018 the mobile phone examinations had 
-been completed, and a file had been compiled for submission to the CPS. The file was 
-reviewed by a senior police officer and it was submitted to the CPS on 18 January 
-2019. In a certificate signed on 17 July 2019 by a Senior Crown prosecutor she 
-certifies that she had evidence within her knowledge sufficient to justify the 
-commencement of criminal proceedings on 5 February 2019 and that she made a 
-decision to charge the appellant on 4 March 2019.  
-4. The appellant was cha rged with offences under section 127 of the Communications 
-Act 2003 (see below) by way of a postal requisition dated 17 May 2019. As set out 
-above, on his behalf it was contended, unsuccessfully, before the District Judge that 
-the prosecution had been comm enced out of time. This appeal and the questions posed 
-by the District Judge centre on the question of whether or not that decision was 
-correct.  
-5. At the hearing on 3 September 2019 it was indicated on the appellant’s behalf that a 
-guilty plea would be like ly to be entered in due course. A pre -sentence report was 
-obtained.  At a hearing on 30 September 2019 t he District Judge was informed of the 
-application that had just been made to state a case in respect of his ruling that the 
-prosecution was in time. The District Judge indicated that in the event it was 
-necessary for him to sentence the appellant he would be minded to impose a 
-community disposal. Thus, the view was taken that the outcome of this question in 
-relation to the timeliness of charging is centra l to the result of these proceedings.  
-6. The charges which were preferred were as follows:  
-“That between 17 March 2018 and 21 March 2018 19 Brookfield 
-Avenue Liverpool L23 3DN Mr Winder persistently made use of an 
-electronic communications network for the pur poses of causing 
-annoyance, inconvenience or needless anxiety to another, contrary to 
-section 127 (2) (c) and (3) of the Communications Act 2003;
+Case No: CO/33/2020
 
-Judgment Approved by the court for handing down.   
- 
- That on 20 March 2018 at 19 Brookfield Avenue Liverpool L23 3DN 
-Mr Winder sent by means of a public electronic communications 
-network a communication that was grossly offensive or of an indecent, 
-abusive or menacing character, contrary to section 127 (1) ( a) and (3) 
-of the Communications Act 2003.”  
-7. Section 127 of the Communications Act 2003, so far as relevant to t hese proceedings, 
-provides as follows:  
-“127 (1) a person is guilty of an offence if he - 
-(a) sends by means of a public electronic communications network a 
-message or other matter that is grossly offensive or of an indecent, 
-obscene or menacing character; o r 
-(b) causes any such message o r matter to be so sent.  
-(2) a person is guilty of an offence if, for the purpose of causing 
-annoyance, inconvenience or needless anxiety to another, he - 
-(a) sends by means of a public electronic communications network, a 
-mess age that he knows to be false,  
-(b) causes such a message to be sent; or  
-(c) persistently makes use of a public electronic communications 
-network.  
-(3) a person guilty of an offence under this section shall be liable, on 
-summary conviction, to imprisonment f or a term not exceeding 6 
-months or a fine not exceeding level 5 on the standard scale, or to both.  
-… 
-(5) an information or complaint relating to an offence under this 
-section may be tried by a magistrates ’ court in England and Wales or 
-Northern I reland if  it is laid or made - 
-(a) before the end of the period of 3 years beginning with the day on 
-which the offence was committed, and  
-(b) before the end of the period of 6 months beginning with the day on 
-which evidence comes  to the knowledge of the prosecutor w hich the 
-prosecutor considers sufficient to justify proceedings.  
-… 
-(7) a certificate of a prosecutor as to the date on which evidence 
-described in subsection (5)( b) or (6)( b) came to his or her knowledge is 
-conclusive evidence of that fact.”
+IN THE HIGH COURT OF JUSTICE
 
-Judgment Approved by the court for handing down.   
- 
- 8. The offences c reated by section 127(1) and (2) of the 2003 Act are summary only. 
-Section 127(5) provides time limits for the bringing of a charge. It is sensible to 
-conclude that the postal requisition process equates, for the purposes of section 
-127(5), to the laying o f an information given that it is the commencement of the 
-criminal proceedings.  
-9. It is common ground that, whilst the application to the Magistrates ’ Court for the 
-court to state a case pursuant to section 111 of the Magistrates ’ Court Act 1980 was 
-made in time, the application to appeal to this court was brought one day out of time. 
-It was further common ground that this court has jurisdiction to extend time for the 
-appeal to be brought before the court by virtue of  the provisions of the CPR  (see CPR 
-52.15). The explanation for the failure to comply with the time limit is simply that 
-there was an administrative oversight by those representing the appellant. It is pointed 
-out that it was not the appellant’s fault that this occurred. Whilst it is beyond 
-argume nt that a failure to comply with the time limit provided in CPR PD 52E  para 
-2.2 is a serious failure to which significant weight should attach, and bearing in mind 
-the fact that there is in truth no real excuse for the default, nonetheless having regard 
-to the particular circumstances of the case and in particular the fact that the notice of 
-appeal was submitted only one day to o late and the consequences for the appellant are 
-very significant involving criminal liability, I am satisfied that it would noneth eless be 
-just to allow the appeal to proceed out of time.  
-10. A further preliminary point has been raised in relation to whether it is proper for the 
-court to consider this appeal, on the basis that it is in effect an appeal by way of case 
-stated a t an interlo cutory stage  of proceedings . Mr Smith, who appears on behalf of 
-the appellant, contends that in exceptional cases it is permissible for the court to 
-consider an appeal by way of case stated in relation to a matter arising at an 
-interlocutory stage. He reli es upon the decision of this court in the case of R(on the 
-application of Yogesh Par ashar ) v Sunderland Magistrates Court  [2019] EWHC 514  
-(Admin); [2019] 2 Cr. App. R. 3 , which was a case concerning the treatment by the 
-court of an application to vacate a trial date in advance of the case being heard. A 
-point was taken in relation to whether or not it was appropriate for the court to 
-consider a challenge to such a decision, prior to the court proceedings being 
-ultimately disposed of. The relevant authoritie s were review ed by Bean LJ in a 
-passage which was relied upon by Mr Smith : 
-“33 Mr Boyd for the CPS relied on what he described as the Buck rule. 
-This is a reference to the decision of this court in R v Rochford Justices 
-ex parte Buck  (1979) 68 C r. App. R.  114. Lord Widgery CJ cited with 
-approval the decision of this court in R v Carden  (1879) 5 QBD 1 . In 
-Carden  Cockburn CJ had said that “while we have authority to issue a 
-mandamus to hear and determine we have no authority, as it seems to 
-me to control the magistrate in the conduct of the case or to prescribe 
-to him the evidence which he shall receive or reject as the case may 
-be”. 
-34 Lord Widgery CJ said that there was an obligation on this court “to 
-keep out of the way until the magistrate had finished his  
-determination” and that “there was no jurisdiction in this court to 
-interfere  with the justice ’s decision , that not having been reached by 
-termination of the proceedings below.”
+QUEEN'S BENCH DIVISION
 
-Judgment Approved by the court for handing down.   
- 
- 35 The “Buck  rule” is no longer a rule. More useful guidance is to be 
-obtaine d from the judgement of Hughes LJ in this court in R. (Crown 
-Prosecution Service)  v Sedgemoor Justices  [2007] EWHC 1803 
-(Admin). This was, as the name of the case indicates, an application 
-for judicial review by the CPS to challenge a ruling of the justice s that 
-the evidence of analysis of the accused ’s blood specimen was 
-inadmissible. Hughes LJ said  (at [3]) :- 
-“in general terms this court will not entertain, whether by 
-application for judicial review or by way of appeal by case stated, an 
-interlocutory c hallenge to proceedings in the magistrates court…”  
-He added, however  (at [5]) that “it is right to say that this court has 
-sometimes been persuaded to consider a case which is at the 
-interlocutory stage where there is a powerful reason for doing so.”  
-11. Mr Smit h submitted that the observations of Hughes LJ in the Sedgemoor Justices  
-case supported his submission , at least by inference,  that there could be cases where 
-an application for appeal by way of case stated could be used to challenge an 
-interlocutory rulin g by the Magistrates ’ Court. He therefore submitted that there was, 
-in principle, jurisdiction for th e court to entertain this appeal, on the basis that the way 
-in which the case had been approached by the District Judge amounted to unusual or 
-exceptional circumstances justifying proceeding in this way.  
-12. On behalf of the respondent, Mr Jarvis submitted that there was no jurisdiction for the 
-court to consider an appeal by way of case stated in relation to a criminal matter 
-which had yet to be finally determin ed in the Magistrates ’ Court. He relied in 
-particular upon the case of Downes v RSPCA  [2017] EWHC 3622 (Admin) ; [2018] 2 
-Cr. App. R. 3 , in which Julian Knowles J, having analysed the relevant authorities in 
-relation to this issue, reached the following con clusions at paragraph 23 of his 
-judgement (with which Holroyd LJ agreed):  
-“23. It  seems to me that the relevant principles to be drawn from these 
-cases are as follows: ( a) where a jurisdicti onal point is taken before the 
-magistrates court, then if the cou rt decline s jurisdiction that decision 
-can be challenged either by judicial review or by way of case stated… 
-(b) where such a point is taken and they court accepts that it has 
-jurisdiction then there is nothing in Streames  to suggest that the 
-magistrates c ourt has the power to state a case. The only remedy is for 
-the aggrieved party to seek judicial review, and the magistrates in such 
-an event should not adjourn unless there are particularly good reasons 
-to do so. It will very usually be better to carry on and complete the 
-case, allowing for all matters to be raised on appeal at the conclusion 
-of the case in the normal way ; and  (c) in all other cases there is no 
-power to state a case in relation to an interlocutory ruling. A magistrate 
-should proceed to dete rmine the case finally and then to state a case if 
-appropriate to do so. In a “special case” (the words used in Streames ) 
-and if the defendant has obtained leave to seek judicial review then the 
-magistrates might consider adjourning.  
+DIVISIONAL COURT
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Date: 19/06/2020
+
+Before :
+
+LORD JUSTICE DINGEMANS
+
+AND
+
+MR JUSTICE DOVE
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Between :
+
+Peter John Winder Appellant
+
+- and -
+
+Director of Public Prosecutions Respondent
+
+- - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Leslie Smith (instructed by Hogan Brown Solicitors) for the Appellant
+
+Paul Jarvis (instructed by the Crown Prosecution Service) for the Respondent
+
+Hearing date: 11th June 2020
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Approved Judgment
+
+Covid-19 Protocol: This judgment was handed down by the Judge remotely by
+
+circulation to the parties’ representatives by email and release to Bailii. The date and
+
+time for hand-down is deemed to be listed on 19th June 2020 at 1030.
+
+Judgment Approved by the court for handing down.
+
+Mr Justice Dove :
+
+1. This is an appeal by way of case stated following a hearing at Poole Magistrates’
+
+Court on 3 September 2019 at which, following an application by the appellant, the
+
+District Judge ruled that the charges he faced had been brought in time.
+
+2. The complainants in this matter, Mr and Mrs Jones, are customers of the Santander
+
+Bank. They had been on holiday, and on return noticed potentially fraudulent activity
+
+occurring on their bank account. Mrs Jones rang the bank on 13 March 2018 and
+
+spoke to a fraud investigator, who it is clear was the appellant. They had a heated
+
+argument. The prosecution case is that the appellant then used the bank’s internal
+
+system to discover the complainants’ mobile and landline telephone numbers. On 18
+
+March 2018 and 19 March 2018, Mrs Jones received a number of calls on her landline
+
+from a withheld number. These were concluded to be harassing rather than
+
+threatening calls. On 20 March 2018 Mr Jones received a call from a male saying that
+
+he knew where Mr Jones lives and that he was coming to get him.
+
+3. On 18 April 2018 the appellant was arrested and interviewed by the police and his
+
+mobile phones were seized and subsequently examined. In the interview the appellant
+
+gave no comment and provided a prepared statement in relation to the allegations
+
+which were put to him. By 6 December 2018 the mobile phone examinations had
+
+been completed, and a file had been compiled for submission to the CPS. The file was
+
+reviewed by a senior police officer and it was submitted to the CPS on 18 January
+
+2019. In a certificate signed on 17 July 2019 by a Senior Crown prosecutor she
+
+certifies that she had evidence within her knowledge sufficient to justify the
+
+commencement of criminal proceedings on 5 February 2019 and that she made a
+
+decision to charge the appellant on 4 March 2019.
+
+4. The appellant was charged with offences under section 127 of the Communications
+
+Act 2003 (see below) by way of a postal requisition dated 17 May 2019. As set out
+
+above, on his behalf it was contended, unsuccessfully, before the District Judge that
+
+the prosecution had been commenced out of time. This appeal and the questions posed
+
+by the District Judge centre on the question of whether or not that decision was
+
+correct.
+
+5. At the hearing on 3 September 2019 it was indicated on the appellant’s behalf that a
+
+guilty plea would be likely to be entered in due course. A pre-sentence report was
+
+obtained. At a hearing on 30 September 2019 the District Judge was informed of the
+
+application that had just been made to state a case in respect of his ruling that the
+
+prosecution was in time. The District Judge indicated that in the event it was
+
+necessary for him to sentence the appellant he would be minded to impose a
+
+community disposal. Thus, the view was taken that the outcome of this question in
+
+relation to the timeliness of charging is central to the result of these proceedings.
+
+6. The charges which were preferred were as follows:
+
+“That between 17 March 2018 and 21 March 2018 19 Brookfield
+
+Avenue Liverpool L23 3DN Mr Winder persistently made use of an
+
+electronic communications network for the purposes of causing
+
+annoyance, inconvenience or needless anxiety to another, contrary to
+
+section 127 (2)(c) and (3) of the Communications Act 2003;
+
+Judgment Approved by the court for handing down.
+
+That on 20 March 2018 at 19 Brookfield Avenue Liverpool L23 3DN
+
+Mr Winder sent by means of a public electronic communications
+
+network a communication that was grossly offensive or of an indecent,
+
+abusive or menacing character, contrary to section 127 (1) (a) and (3)
+
+of the Communications Act 2003.”
+
+7. Section 127 of the Communications Act 2003, so far as relevant to these proceedings,
+
+provides as follows:
+
+“127 (1) a person is guilty of an offence if he-
+
+(a) sends by means of a public electronic communications network a
+
+message or other matter that is grossly offensive or of an indecent,
+
+obscene or menacing character; or
+
+(b) causes any such message or matter to be so sent.
+
+(2) a person is guilty of an offence if, for the purpose of causing
+
+annoyance, inconvenience or needless anxiety to another, he-
+
+(a) sends by means of a public electronic communications network, a
+
+message that he knows to be false,
+
+(b) causes such a message to be sent; or
+
+(c) persistently makes use of a public electronic communications
+
+network.
+
+(3) a person guilty of an offence under this section shall be liable, on
+
+summary conviction, to imprisonment for a term not exceeding 6
+
+months or a fine not exceeding level 5 on the standard scale, or to both.
+
 …
 
-Judgment Approved by the court for handing down.   
- 
- 30. In so far as the  appellants suggest that we should circumvent the 
-jurisdictional issue by treating this appeal as a rolled -up application for 
-permission to seek judicial review, it would not be proper to do so in 
-my judgement and Mr Hardy in the end did not press the poin t. The 
-starting point is that as Streames  makes clear, the onus is on the 
-defendants  to suggest what good reasons there are for seeking judicial 
-review. No, or no sufficient, reasons have been advanced.  
-31. Secondly, the defendants  chose to commence this a ppeal by way of 
-case stated despite the very considerable jurisdictional bar which 
-obviously lay in their way, which they wholly failed to grapple with in 
-their skeleton argument. It is not for this court to fashion a solution for 
-them.  
-32. Thirdly, if the  consequences of our allowing an application for 
-judicial review were that the case before the District Judge would be 
-finished once and for all, then I for my part could see some attraction 
-in allowing the application to proceed. But that would not be the  
-outcome because, as I have said, there are other in -time charges which 
-will have to be determined on the merits in any event. Thus there may 
-be issues of cross -admissibility or other evidential reasons why it 
-might be undesirable for us to start adjudicat ing at this stage as an 
-exercise of discretion by judicial review.  
-33. For all of these reasons, had we been invited to do so I would 
-decline to treat this application as a rolled -up application for 
-permission to seek judicial review of the District Judge’ s ruling.”  
-13. Mr Jarvis also drew attention to the recent case of  Highbury Poultry Produce Limited 
-v CPS  [2018] EWHC 3122  (Admin) , in which having reviewed the authorities, this 
-court concluded, following Downes , that there was no jurisdiction to entertain an  
-appeal by way of case stated in relation to an interlocutory matter, but that in the 
-circumstances of that case it was appropriate to proceed by way of judicial review.  
-14. In the light of the authorities it is clear to me that there is no jurisdiction for t his court 
-to consider this case as an appeal by way of case stated, on the basis that it relates to a 
-challenge to an interlocutory or preliminary issue brought by a defendant whose case 
-has yet to be finally determined. There are sound practical reasons f or awaiting the 
-conclusion of the proceedings in the Magistrates ’ Court prior to this court addressing 
-a defendant’s contentions in relation to an adverse preliminary or interlocutory by 
-way of an appeal by case stated.  For instance, the defendant may, in  the result, be 
-acquitted. I do not consider that this approach is inconsistent with the observation 
-made by Hughes LJ in Sedgemoor Justices . In that remark he was capturing in 
-summary all the circumstances in which an appeal by way of case stated might ar ise, 
-including by the prosecution in relation to an interlocutory decision which effectively 
-becomes a terminating ruling. What he said does not, however, assist the appellant in 
-the present case.  
-15. As the authorities demonstrate, this is not an end of the m atter in relation to 
-jurisdiction and it is open to the court in appropriate cases to convert the case as an 
-application for judicial review, treat  this hearing as a rolled -up hearing  of the
+(5) an information or complaint relating to an offence under this
 
-Judgment Approved by the court for handing down.   
- 
- application for permission to apply for judicial review and if pe rmission is granted, 
-the substantive hearing . On behalf of the prosecution, Mr Jarvis objected to this 
-course. He pointed out that although there had been an indication of a guilty plea 
-before the Magistrates Court, and the District Judge considered that a  community 
-sentence would be appropriate, there was no guarantee that the appellant would in fact 
-plead guilty .  Som eone in the position of the appellant could wrong -foot the 
-prosecution, by returning to court many months after the interlocutory ruling was  
-given  and an unsuccessful application to this court had been made and chang e their 
-mind in relation to their plea, potentially putting the prosecution in evidential 
-difficulties. In my view there is considerable force in this submission, and the court 
-should exercise considerable caution before exercising the discretion to convert an 
-appeal by way of case stated in relation to an interlocutory matter into a judicial 
-review. The practical difficulties and potential prejudice which could arise may well 
-be co nsiderable, and significantly outweigh any justification for permitting the action 
-to continue and be resolved as a judicial review: see , for instance,  Downes  at 
-paragraph 32.   
-16. Faced with these submissions, and following an enquiry by the court, the appell ant 
-has submitted an undertaking to the court that, in the event of his case being 
-unsuccessful and the matter being returned to the Magistrates Court, he will enter a 
-guilty plea. In my view this adds a further consideration in relation to the question of  
-whether, i n the present case , there is good reason to permit this appeal to be converted 
-into an application for judicial review.  I have reached the conclusion that it would be 
-permissible in the particular circumstances of the present case for it to be p ermitted to 
-continue as a judicial review, albeit this is an unusual course to adopt. My reasons are 
-as follows.  Unlike Downes , the point that is taken in this case will effectively resolve 
-these proceedings one way or the other , in particular in the light  of the undertaking 
-which has been given in relation to the entering of a guilty plea, which effectively 
-obviates the concerns about the appellant changing his mind about his plea and the 
-prosecution being prejudiced . As the District Judge rightly observed , there is a 
-practical danger in the circumstances of this case that the appellant may have served a 
-community disposal before this appeal might  have  been heard, and therefore there is 
-good sense in giving definitive consideration to the single issue upon which the 
-appellant’s guilt turn s without any risk of him serving a sentence and then 
-subsequently being acquitted. Whilst it is inappropriate for this matter to proceed by 
-way of a case stated, it is appropriate for it to be treated as an application for judicial 
-review, for permission to be granted, and for it to be heard substantively.  
-17. In this case the argument focuse s on the meaning of section 127 (5)(b) of the 2003 
-Act, it being accepted that the long -stop time bar in section 127(5)(a) does not arise. 
-The appellant contends that the evidence which was sufficient to justify proceedings 
-was available to the police well before six months prior to the appellant in fact being 
-charged. In particular, Mr Smith stresses that by the time that the appellant was 
-interviewed on 18 April 2018 the police had collated all of the evidence necessary to 
-make out the charges under the 2003 Act  upon which they relied before the 
-Magistrates Court. This material included the witness statements from the 
-complainants and the app ellant’s employer about his accessing their systems  which 
-were used to prove the case . In reality, the other enquiries which were undertaken 
-after the interview did not add materially to the case which the appellant faced. On the 
-basis that these were summ ary only offences, which the police were perfectly entitled
+section may be tried by a magistrates’ court in England and Wales or
 
-Judgment Approved by the court for handing down.   
- 
- to charge, the appellant submits that the limitation period in section 127(5)(b) has 
-been breached in circumstances where the police had sufficient evidence before them 
-to be satisfied that charge s should be brought.  
-18. The respondent relies upon the contention that the prosecutor for the purposes of 
-section 127(5)(b) of the 2003 Act is in this instance the person at the CPS who was 
-permitted to authorise the prosecution. This court has previously giv en consideration 
-to the question of who is to be taken as being the prosecutor a long with  the time limits 
-for bringing a prosecution in relation to very similarly worded legislation contained in 
-section 31(1) of the Animal Welfare Act 2006, in the case of Letherbarrow v 
-Warwickshire County Council  [2015] EWHC 4820  (Admin) . The court concluded in 
-relation to the phrase “the prosecutor thinks is sufficient to justify the proceedings 
-comes to his knowledge” that the proper interpretation was that this did not apply to 
-any employee of the prosecuting local authority, but only the employee who was 
-entrusted to make the decision to prosecute on behalf of the local authority using the 
-skill and experience which had led them to be identified as the person to act in that 
-capacity , bearing in mind the broad range of considerations which needed to be taken 
-into account in determining when a prosecution may be appropriate. Bean LJ 
-observed as follows:  
-“16 But reference was also made to RSPCA v Johnson  [2009] EWHC 
-2702, i n which, as in this case, the prosecution was brought under the 
-Animal Welfare Act 2006. In Johnson  this court  (Pill LJ and Rafferty 
-J) declined to hold that Donnachie established any principle of law and 
-took the view that the prosecutor for the purposes of section 31 was the 
-RSPCA’s case manager given responsibility for making the important 
-decision of whether to prosecute.  
-17 This court held that time did not begin to run just because some 
-other employee of the RSPCA may have had prior knowledge of the 
-relevant evidence .  At paragraph 33 of his judgement Pill LJ said this : 
-“There is no principle of law that knowledge in a prosecutor 
-begins immediately any employee of that prosecutor has the 
-relevant knowledge, and Donna chie does not establish one. It is 
-right that prosecutors are not entitled to shuffle papers between 
-office rs or sit on information so as to extend a time limit. There 
-is, however, a degree of judgement involved in bringing a 
-prosecution, and knowledge, in my judgement, involves an 
-opportuni ty for those with appropriate skills to consider whether 
-there is sufficient information to justify a prosecution .” 
-I agree with those observations of Pill LJ and, in my view, the 
-particular terms of section 31(1) strongly support  them . It is an unusual 
-time limit provision in that it extends the time limit for prosecution 
-potentially well beyond the usual 6 months set out in the Magistrates ’ 
-Court Act 1980. It creates a  first alternative, a long stop time limit of 3 
-years and a second  alternative, 6 months  beginning with the date on 
-which evidence which the prosecutor thinks is sufficient to justify the 
-proceedings comes to his knowledge. If the prosecution do nothing at 
+Northern Ireland if it is laid or made-
+
+(a) before the end of the period of 3 years beginning with the day on
+
+which the offence was committed, and
+
+(b) before the end of the period of 6 months beginning with the day on
+
+which evidence comes to the knowledge of the prosecutor which the
+
+prosecutor considers sufficient to justify proceedings.
+
+…
+
+(7) a certificate of a prosecutor as to the date on which evidence
+
+described in subsection (5)(b) or (6)(b) came to his or her knowledge is
+
+conclusive evidence of that fact.”
+
+Judgment Approved by the court for handing down.
+
+8. The offences created by section 127(1) and (2) of the 2003 Act are summary only.
+
+Section 127(5) provides time limits for the bringing of a charge. It is sensible to
+
+conclude that the postal requisition process equates, for the purposes of section
+
+127(5), to the laying of an information given that it is the commencement of the
+
+criminal proceedings.
+
+9. It is common ground that, whilst the application to the Magistrates’ Court for the
+
+court to state a case pursuant to section 111 of the Magistrates’ Court Act 1980 was
+
+made in time, the application to appeal to this court was brought one day out of time.
+
+It was further common ground that this court has jurisdiction to extend time for the
+
+appeal to be brought before the court by virtue of the provisions of the CPR (see CPR
+
+52.15). The explanation for the failure to comply with the time limit is simply that
+
+there was an administrative oversight by those representing the appellant. It is pointed
+
+out that it was not the appellant’s fault that this occurred. Whilst it is beyond
+
+argument that a failure to comply with the time limit provided in CPR PD 52E para
+
+2.2 is a serious failure to which significant weight should attach, and bearing in mind
+
+the fact that there is in truth no real excuse for the default, nonetheless having regard
+
+to the particular circumstances of the case and in particular the fact that the notice of
+
+appeal was submitted only one day too late and the consequences for the appellant are
+
+very significant involving criminal liability, I am satisfied that it would nonetheless be
+
+just to allow the appeal to proceed out of time.
+
+10. A further preliminary point has been raised in relation to whether it is proper for the
+
+court to consider this appeal, on the basis that it is in effect an appeal by way of case
+
+stated at an interlocutory stage of proceedings. Mr Smith, who appears on behalf of
+
+the appellant, contends that in exceptional cases it is permissible for the court to
+
+consider an appeal by way of case stated in relation to a matter arising at an
+
+interlocutory stage. He relies upon the decision of this court in the case of R(on the
+
+application of Yogesh Parashar) v Sunderland Magistrates Court [2019] EWHC 514
+
+(Admin); [2019] 2 Cr. App. R. 3, which was a case concerning the treatment by the
+
+court of an application to vacate a trial date in advance of the case being heard. A
+
+point was taken in relation to whether or not it was appropriate for the court to
+
+consider a challenge to such a decision, prior to the court proceedings being
+
+ultimately disposed of. The relevant authorities were reviewed by Bean LJ in a
+
+passage which was relied upon by Mr Smith:
+
+“33 Mr Boyd for the CPS relied on what he described as the Buck rule.
+
+This is a reference to the decision of this court in R v Rochford Justices
+
+ex parte Buck (1979) 68 Cr. App. R. 114. Lord Widgery CJ cited with
+
+approval the decision of this court in R v Carden (1879) 5 QBD 1. In
+
+Carden Cockburn CJ had said that “while we have authority to issue a
+
+mandamus to hear and determine we have no authority, as it seems to
+
+me to control the magistrate in the conduct of the case or to prescribe
+
+to him the evidence which he shall receive or reject as the case may
+
+be”.
+
+34 Lord Widgery CJ said that there was an obligation on this court “to
+
+keep out of the way until the magistrate had finished his
+
+determination” and that “there was no jurisdiction in this court to
+
+interfere with the justice’s decision, that not having been reached by
+
+termination of the proceedings below.”
+
+Judgment Approved by the court for handing down.
+
+35 The “Buck rule” is no longer a rule. More useful guidance is to be
+
+obtained from the judgement of Hughes LJ in this court in R. (Crown
+
+Prosecution Service) v Sedgemoor Justices [2007] EWHC 1803
+
+(Admin). This was, as the name of the case indicates, an application
+
+for judicial review by the CPS to challenge a ruling of the justices that
+
+the evidence of analysis of the accused’s blood specimen was
+
+inadmissible. Hughes LJ said (at [3]):-
+
+“in general terms this court will not entertain, whether by
+
+application for judicial review or by way of appeal by case stated, an
+
+interlocutory challenge to proceedings in the magistrates court…”
+
+He added, however (at [5]) that “it is right to say that this court has
+
+sometimes been persuaded to consider a case which is at the
+
+interlocutory stage where there is a powerful reason for doing so.”
+
+11. Mr Smith submitted that the observations of Hughes LJ in the Sedgemoor Justices
+
+case supported his submission, at least by inference, that there could be cases where
+
+an application for appeal by way of case stated could be used to challenge an
+
+interlocutory ruling by the Magistrates’ Court. He therefore submitted that there was,
+
+in principle, jurisdiction for the court to entertain this appeal, on the basis that the way
+
+in which the case had been approached by the District Judge amounted to unusual or
+
+exceptional circumstances justifying proceeding in this way.
+
+12. On behalf of the respondent, Mr Jarvis submitted that there was no jurisdiction for the
+
+court to consider an appeal by way of case stated in relation to a criminal matter
+
+which had yet to be finally determined in the Magistrates’ Court. He relied in
+
+particular upon the case of Downes v RSPCA [2017] EWHC 3622 (Admin); [2018] 2
+
+Cr. App. R. 3, in which Julian Knowles J, having analysed the relevant authorities in
+
+relation to this issue, reached the following conclusions at paragraph 23 of his
+
+judgement (with which Holroyd LJ agreed):
+
+“23. It seems to me that the relevant principles to be drawn from these
+
+cases are as follows: (a) where a jurisdictional point is taken before the
+
+magistrates court, then if the court declines jurisdiction that decision
+
+can be challenged either by judicial review or by way of case stated…
+
+(b) where such a point is taken and they court accepts that it has
+
+jurisdiction then there is nothing in Streames to suggest that the
+
+magistrates court has the power to state a case. The only remedy is for
+
+the aggrieved party to seek judicial review, and the magistrates in such
+
+an event should not adjourn unless there are particularly good reasons
+
+to do so. It will very usually be better to carry on and complete the
+
+case, allowing for all matters to be raised on appeal at the conclusion
+
+of the case in the normal way; and (c) in all other cases there is no
+
+power to state a case in relation to an interlocutory ruling. A magistrate
+
+should proceed to determine the case finally and then to state a case if
+
+appropriate to do so. In a “special case” (the words used in Streames)
+
+and if the defendant has obtained leave to seek judicial review then the
+
+magistrates might consider adjourning.
+
+…
+
+Judgment Approved by the court for handing down.
+
+30. In so far as the appellants suggest that we should circumvent the
+
+jurisdictional issue by treating this appeal as a rolled-up application for
+
+permission to seek judicial review, it would not be proper to do so in
+
+my judgement and Mr Hardy in the end did not press the point. The
+
+starting point is that as Streames makes clear, the onus is on the
+
+defendants to suggest what good reasons there are for seeking judicial
+
+review. No, or no sufficient, reasons have been advanced.
+
+31. Secondly, the defendants chose to commence this appeal by way of
+
+case stated despite the very considerable jurisdictional bar which
+
+obviously lay in their way, which they wholly failed to grapple with in
+
+their skeleton argument. It is not for this court to fashion a solution for
+
+them.
+
+32. Thirdly, if the consequences of our allowing an application for
+
+judicial review were that the case before the District Judge would be
+
+finished once and for all, then I for my part could see some attraction
+
+in allowing the application to proceed. But that would not be the
+
+outcome because, as I have said, there are other in-time charges which
+
+will have to be determined on the merits in any event. Thus there may
+
+be issues of cross-admissibility or other evidential reasons why it
+
+might be undesirable for us to start adjudicating at this stage as an
+
+exercise of discretion by judicial review.
+
+33. For all of these reasons, had we been invited to do so I would
+
+decline to treat this application as a rolled-up application for
+
+permission to seek judicial review of the District Judge’s ruling.”
+
+13. Mr Jarvis also drew attention to the recent case of Highbury Poultry Produce Limited
+
+v CPS [2018] EWHC 3122 (Admin), in which having reviewed the authorities, this
+
+court concluded, following Downes, that there was no jurisdiction to entertain an
+
+appeal by way of case stated in relation to an interlocutory matter, but that in the
+
+circumstances of that case it was appropriate to proceed by way of judicial review.
+
+14. In the light of the authorities it is clear to me that there is no jurisdiction for this court
+
+to consider this case as an appeal by way of case stated, on the basis that it relates to a
+
+challenge to an interlocutory or preliminary issue brought by a defendant whose case
+
+has yet to be finally determined. There are sound practical reasons for awaiting the
+
+conclusion of the proceedings in the Magistrates’ Court prior to this court addressing
+
+a defendant’s contentions in relation to an adverse preliminary or interlocutory by
+
+way of an appeal by case stated. For instance, the defendant may, in the result, be
+
+acquitted. I do not consider that this approach is inconsistent with the observation
+
+made by Hughes LJ in Sedgemoor Justices. In that remark he was capturing in
+
+summary all the circumstances in which an appeal by way of case stated might arise,
+
+including by the prosecution in relation to an interlocutory decision which effectively
+
+becomes a terminating ruling. What he said does not, however, assist the appellant in
+
+the present case.
+
+15. As the authorities demonstrate, this is not an end of the matter in relation to
+
+jurisdiction and it is open to the court in appropriate cases to convert the case as an
+
+application for judicial review, treat this hearing as a rolled-up hearing of the
+
+Judgment Approved by the court for handing down.
+
+application for permission to apply for judicial review and if permission is granted,
+
+the substantive hearing. On behalf of the prosecution, Mr Jarvis objected to this
+
+course. He pointed out that although there had been an indication of a guilty plea
+
+before the Magistrates Court, and the District Judge considered that a community
+
+sentence would be appropriate, there was no guarantee that the appellant would in fact
+
+plead guilty. Someone in the position of the appellant could wrong-foot the
+
+prosecution, by returning to court many months after the interlocutory ruling was
+
+given and an unsuccessful application to this court had been made and change their
+
+mind in relation to their plea, potentially putting the prosecution in evidential
+
+difficulties. In my view there is considerable force in this submission, and the court
+
+should exercise considerable caution before exercising the discretion to convert an
+
+appeal by way of case stated in relation to an interlocutory matter into a judicial
+
+review. The practical difficulties and potential prejudice which could arise may well
+
+be considerable, and significantly outweigh any justification for permitting the action
+
+to continue and be resolved as a judicial review: see, for instance, Downes at
+
+paragraph 32.
+
+16. Faced with these submissions, and following an enquiry by the court, the appellant
+
+has submitted an undertaking to the court that, in the event of his case being
+
+unsuccessful and the matter being returned to the Magistrates Court, he will enter a
+
+guilty plea. In my view this adds a further consideration in relation to the question of
+
+whether, in the present case, there is good reason to permit this appeal to be converted
+
+into an application for judicial review. I have reached the conclusion that it would be
+
+permissible in the particular circumstances of the present case for it to be permitted to
+
+continue as a judicial review, albeit this is an unusual course to adopt. My reasons are
+
+as follows. Unlike Downes, the point that is taken in this case will effectively resolve
+
+these proceedings one way or the other, in particular in the light of the undertaking
+
+which has been given in relation to the entering of a guilty plea, which effectively
+
+obviates the concerns about the appellant changing his mind about his plea and the
+
+prosecution being prejudiced. As the District Judge rightly observed, there is a
+
+practical danger in the circumstances of this case that the appellant may have served a
+
+community disposal before this appeal might have been heard, and therefore there is
+
+good sense in giving definitive consideration to the single issue upon which the
+
+appellant’s guilt turns without any risk of him serving a sentence and then
+
+subsequently being acquitted. Whilst it is inappropriate for this matter to proceed by
+
+way of a case stated, it is appropriate for it to be treated as an application for judicial
+
+review, for permission to be granted, and for it to be heard substantively.
+
+17. In this case the argument focuses on the meaning of section 127(5)(b) of the 2003
+
+Act, it being accepted that the long-stop time bar in section 127(5)(a) does not arise.
+
+The appellant contends that the evidence which was sufficient to justify proceedings
+
+was available to the police well before six months prior to the appellant in fact being
+
+charged. In particular, Mr Smith stresses that by the time that the appellant was
+
+interviewed on 18 April 2018 the police had collated all of the evidence necessary to
+
+make out the charges under the 2003 Act upon which they relied before the
+
+Magistrates Court. This material included the witness statements from the
+
+complainants and the appellant’s employer about his accessing their systems which
+
+were used to prove the case. In reality, the other enquiries which were undertaken
+
+after the interview did not add materially to the case which the appellant faced. On the
+
+basis that these were summary only offences, which the police were perfectly entitled
+
+Judgment Approved by the court for handing down.
+
+to charge, the appellant submits that the limitation period in section 127(5)(b) has
+
+been breached in circumstances where the police had sufficient evidence before them
+
+to be satisfied that charges should be brought.
+
+18. The respondent relies upon the contention that the prosecutor for the purposes of
+
+section 127(5)(b) of the 2003 Act is in this instance the person at the CPS who was
+
+permitted to authorise the prosecution. This court has previously given consideration
+
+to the question of who is to be taken as being the prosecutor along with the time limits
+
+for bringing a prosecution in relation to very similarly worded legislation contained in
+
+section 31(1) of the Animal Welfare Act 2006, in the case of Letherbarrow v
+
+Warwickshire County Council [2015] EWHC 4820 (Admin). The court concluded in
+
+relation to the phrase “the prosecutor thinks is sufficient to justify the proceedings
+
+comes to his knowledge” that the proper interpretation was that this did not apply to
+
+any employee of the prosecuting local authority, but only the employee who was
+
+entrusted to make the decision to prosecute on behalf of the local authority using the
+
+skill and experience which had led them to be identified as the person to act in that
+
+capacity, bearing in mind the broad range of considerations which needed to be taken
+
+into account in determining when a prosecution may be appropriate. Bean LJ
+
+observed as follows:
+
+“16 But reference was also made to RSPCA v Johnson [2009] EWHC
+
+2702, in which, as in this case, the prosecution was brought under the
+
+Animal Welfare Act 2006. In Johnson this court (Pill LJ and Rafferty
+
+J) declined to hold that Donnachie established any principle of law and
+
+took the view that the prosecutor for the purposes of section 31 was the
+
+RSPCA’s case manager given responsibility for making the important
+
+decision of whether to prosecute.
+
+17 This court held that time did not begin to run just because some
+
+other employee of the RSPCA may have had prior knowledge of the
+
+relevant evidence. At paragraph 33 of his judgement Pill LJ said this:
+
+“There is no principle of law that knowledge in a prosecutor
+
+begins immediately any employee of that prosecutor has the
+
+relevant knowledge, and Donnachie does not establish one. It is
+
+right that prosecutors are not entitled to shuffle papers between
+
+officers or sit on information so as to extend a time limit. There
+
+is, however, a degree of judgement involved in bringing a
+
+prosecution, and knowledge, in my judgement, involves an
+
+opportunity for those with appropriate skills to consider whether
+
+there is sufficient information to justify a prosecution.”
+
+I agree with those observations of Pill LJ and, in my view, the
+
+particular terms of section 31(1) strongly support them. It is an unusual
+
+time limit provision in that it extends the time limit for prosecution
+
+potentially well beyond the usual 6 months set out in the Magistrates’
+
+Court Act 1980. It creates a first alternative, a long stop time limit of 3
+
+years and a second alternative, 6 months beginning with the date on
+
+which evidence which the prosecutor thinks is sufficient to justify the
+
+proceedings comes to his knowledge. If the prosecution do nothing at
+
 all for more than 2 years, then stir themselves and issue summonses
 
-Judgment Approved by the court for handing down.   
- 
- within 5 months of evidence coming to their knowledge, then they 
-would be within the time limit set out in section 31 (1).  
-What the section does show is that Parliament expected the 
-consideration of a prosecution under this section to be the subject of a 
-careful decision. Th e decision which the prosecutor has to make under 
-this subsection is not whether there is a prime facie  case but whether 
-the evidence is sufficient to justify a prosecution . That will involve, as 
-this court said in Davies v Environment Agency (Wales) , a 
-consideration of what is in the interests of justice. It will usually 
-involve (and certainly in the present case was rightly regarded as 
-involving) the opportunity for the defendant to make a statement either 
-at interview or, as Mr Lether barrow did, in writi ng by way of 
-mitigation. Such further material may show that the defendant ’s animal 
-husbandry practices are now improving ; or, conversely, that matters 
-are so bad that the authority ought to press on with an application for a 
-ban to prevent him from keepin g livestock altogether.  
-… 
-19 As this court held in the Davies  case, the prosecutor is the Council, 
-but the Council does not decide collectively whether evidence is 
-sufficient to justify proceedings. Section 31(1)( b) involves the exercise 
-of judgement by an  individual, namely (see Johnson ) the individual 
-who is given responsibility for making the important decision whether 
-to prosecute. Prosecutors are entitled to have a system which lays 
-down at what level of seniority this decision is made. In the present 
-case, it was laid down that it should be made at the level of Group 
-Manager (Trading Standards) and Ms Fa ulkner duly made the decision 
-on 5 August 2013. That was not paper pushing, as Pill LJ described it 
-in Johnson , it was a proper internal system for hav ing these important 
-decisions taken at an appropriate level. ” 
-19. This approach was specifically endorsed by Hickinbottom LJ (with whom Kerr J 
-agreed) in R v Woodward and ors  [2017] EWHC 1008  (Admin)  at paragraph 23 , in 
-particular in sub -paragraph s (iii) and (iv) as follows:  
-“(iii) For the purposes of this appeal, an understanding of the nature of 
-the decision which the prosecutor is required to make under section 
-31(1)(b), as set out by Bean LJ in that passage, is crucial: the relevant 
-date is the date upon wh ich the prosecutor considers that, upon the 
-available evidence, it is in the public interest to prosecute the 
-particular individual or individuals.  That decision needs to be made 
-with especial care; and it cannot be avoided or delayed by – to use the 
-phrase of Pill LJ in Johnson  (at [33]) – the mere “shuffling of papers”, 
-or by information being sat on so as to extend the time limit.  So far as 
-substance is concerned, it demands, not merely consideration of 
-whether there is a prima facie  case, but whether it is in the public 
-interest for such a prosecution to be brought.  That requires 
-consideration of, and often investigation into, factors which bear upon 
+Judgment Approved by the court for handing down.
+
+within 5 months of evidence coming to their knowledge, then they
+
+would be within the time limit set out in section 31 (1).
+
+What the section does show is that Parliament expected the
+
+consideration of a prosecution under this section to be the subject of a
+
+careful decision. The decision which the prosecutor has to make under
+
+this subsection is not whether there is a prime facie case but whether
+
+the evidence is sufficient to justify a prosecution. That will involve, as
+
+this court said in Davies v Environment Agency (Wales), a
+
+consideration of what is in the interests of justice. It will usually
+
+involve (and certainly in the present case was rightly regarded as
+
+involving) the opportunity for the defendant to make a statement either
+
+at interview or, as Mr Letherbarrow did, in writing by way of
+
+mitigation. Such further material may show that the defendant’s animal
+
+husbandry practices are now improving; or, conversely, that matters
+
+are so bad that the authority ought to press on with an application for a
+
+ban to prevent him from keeping livestock altogether.
+
+…
+
+19 As this court held in the Davies case, the prosecutor is the Council,
+
+but the Council does not decide collectively whether evidence is
+
+sufficient to justify proceedings. Section 31(1)(b) involves the exercise
+
+of judgement by an individual, namely (see Johnson) the individual
+
+who is given responsibility for making the important decision whether
+
+to prosecute. Prosecutors are entitled to have a system which lays
+
+down at what level of seniority this decision is made. In the present
+
+case, it was laid down that it should be made at the level of Group
+
+Manager (Trading Standards) and Ms Faulkner duly made the decision
+
+on 5 August 2013. That was not paper pushing, as Pill LJ described it
+
+in Johnson, it was a proper internal system for having these important
+
+decisions taken at an appropriate level.”
+
+19. This approach was specifically endorsed by Hickinbottom LJ (with whom Kerr J
+
+agreed) in R v Woodward and ors [2017] EWHC 1008 (Admin) at paragraph 23, in
+
+particular in sub-paragraphs (iii) and (iv) as follows:
+
+“(iii) For the purposes of this appeal, an understanding of the nature of
+
+the decision which the prosecutor is required to make under section
+
+31(1)(b), as set out by Bean LJ in that passage, is crucial: the relevant
+
+date is the date upon which the prosecutor considers that, upon the
+
+available evidence, it is in the public interest to prosecute the
+
+particular individual or individuals. That decision needs to be made
+
+with especial care; and it cannot be avoided or delayed by – to use the
+
+phrase of Pill LJ in Johnson (at [33]) – the mere “shuffling of papers”,
+
+or by information being sat on so as to extend the time limit. So far as
+
+substance is concerned, it demands, not merely consideration of
+
+whether there is a prima facie case, but whether it is in the public
+
+interest for such a prosecution to be brought. That requires
+
+consideration of, and often investigation into, factors which bear upon
+
 that issue, for which a prosecutor is entitled to reasonable time, even
 
-Judgment Approved by the court for handing down.   
- 
- after the primary evidence has  been gathered in, and even after the 
-prosecutor has decided that there is or may be a prima facie  criminal 
-case against someone or even identified individuals.  That remains 
-good law, the relevant passages from both Johnson  and Letherbarrow  
-being recently  endorsed by Gross LJ (with whom Andrews J agreed) 
-in Riley  at [17].  
-(iv) In Lamont -Perkins  at [26], it was said by Wyn Williams J (with 
-whom Sir John Thomas PQBD, as he then was, agreed) that the phrase 
-“the prosecutor” “applies to anyone who initiates a prosecution under 
-the [2006] Act, and not merely those who prosecute under some 
-statutory power to prosecute”.  However, in Letherbarrow  at [19], 
-Bean LJ considered more particularly who is, for these purposes, “the 
-prosecutor”.  His conclusion on that iss ue was, of course, informed by 
-what he had said in [17] about the nature of the decision that “the 
-prosecutor” is required to make under section 31(1)(b); and he drew 
-the well -established distinction between investigators and prosecutors 
-in criminal procee dings.   He said this:  
-“… [T]he prosecutor is the Council, but the Council does not 
-decide collectively whether evidence is sufficient to justify 
-proceedings.  Section 31(1)(b) involves the exercise of a 
-judgment by an individual, namely… the individual wh o is 
-given responsibility for making the important decision 
-whether to prosecute.  Prosecutors are entitled to have a 
-system which lays down at what level of seniority this 
-decision is made…”.  
-This was endorsed by Gross LJ in Riley , at [15], where, in a ca se 
-indistinguishable from the one before us, he held that those working 
-for the FSA were investigators, the prosecutor being the CPS.  Mr 
-Glenser conceded that Riley  was binding upon this court; and he 
-conceded that the District Judge erred in proceeding o n the basis that, 
-for the purposes of section 31, he should consider the date when the 
-evidence was in the hands of the FSA.  That concession was well 
-made.”  
-20. In the case stated by the District Judge he records at paragraph 8 that the police had 
-all of the evidence necessary to consider a charge by 6 December 2018. He sets out 
-the submissions made on behalf of the appellant and the respondent, which in broad 
-terms reflected the submissions made before this court.  Having set out the conclusions 
-in the case of  Woodward  the District Judge in the present case stated his conclusions 
-as follows:  
-“11 The court having considered the submissions made the following 
-ruling:  
-1 That the DPP’s Guidelines on Charging were guidelines and there 
-was no reason why the police wo uld be precluded from seeking CPS 
+Judgment Approved by the court for handing down.
+
+after the primary evidence has been gathered in, and even after the
+
+prosecutor has decided that there is or may be a prima facie criminal
+
+case against someone or even identified individuals. That remains
+
+good law, the relevant passages from both Johnson and Letherbarrow
+
+being recently endorsed by Gross LJ (with whom Andrews J agreed)
+
+in Riley at [17].
+
+(iv) In Lamont-Perkins at [26], it was said by Wyn Williams J (with
+
+whom Sir John Thomas PQBD, as he then was, agreed) that the phrase
+
+“the prosecutor” “applies to anyone who initiates a prosecution under
+
+the [2006] Act, and not merely those who prosecute under some
+
+statutory power to prosecute”. However, in Letherbarrow at [19],
+
+Bean LJ considered more particularly who is, for these purposes, “the
+
+prosecutor”. His conclusion on that issue was, of course, informed by
+
+what he had said in [17] about the nature of the decision that “the
+
+prosecutor” is required to make under section 31(1)(b); and he drew
+
+the well-established distinction between investigators and prosecutors
+
+in criminal proceedings. He said this:
+
+“… [T]he prosecutor is the Council, but the Council does not
+
+decide collectively whether evidence is sufficient to justify
+
+proceedings. Section 31(1)(b) involves the exercise of a
+
+judgment by an individual, namely… the individual who is
+
+given responsibility for making the important decision
+
+whether to prosecute. Prosecutors are entitled to have a
+
+system which lays down at what level of seniority this
+
+decision is made…”.
+
+This was endorsed by Gross LJ in Riley, at [15], where, in a case
+
+indistinguishable from the one before us, he held that those working
+
+for the FSA were investigators, the prosecutor being the CPS. Mr
+
+Glenser conceded that Riley was binding upon this court; and he
+
+conceded that the District Judge erred in proceeding on the basis that,
+
+for the purposes of section 31, he should consider the date when the
+
+evidence was in the hands of the FSA. That concession was well
+
+made.”
+
+20. In the case stated by the District Judge he records at paragraph 8 that the police had
+
+all of the evidence necessary to consider a charge by 6 December 2018. He sets out
+
+the submissions made on behalf of the appellant and the respondent, which in broad
+
+terms reflected the submissions made before this court. Having set out the conclusions
+
+in the case of Woodward the District Judge in the present case stated his conclusions
+
+as follows:
+
+“11 The court having considered the submissions made the following
+
+ruling:
+
+1 That the DPP’s Guidelines on Charging were guidelines and there
+
+was no reason why the police would be precluded from seeking CPS
+
 advice.
 
-Judgment Approved by the court for handing down.   
- 
- 2 That the police had not acted unreasonably in seeking charging 
-advice.  
-3 That there had not been any unreasonable delay in the police 
-gathering the evidence and sending it to the Crown Prosecution 
-Service.  
-4 That the Crown Prosecution Service had considered that evidence 
-within one month and authorise d the issue of the requisition . 
-5 That for the purposes of the legislation, the prosecutor was the 
-Crown Prosecution Service and that the proceedings were issued in 
-time.” 
-21. The questions which he presents for the consideration of this court in the case stated 
-are as follows:  
-“12 The court poses the following questions for the High Court:  
-1 Was I right in concluding that  for the purposes of the legislation the 
-prosecutor  was the Crown  Prosecution Service  
-2 That the proceedings were issued in time?”  
-22. The term prosecutor is not further defined either in section 127(5) or elsewhere in the 
-2003 Act. We have had our attention drawn to the Director’s Guidance on Charging, 
-which makes clear that it is possible for the police to charge the offences under 
-section 127(1) and (2), essentially on the basis that the offences are summary only. 
-That is not, however, an answer to the question as to whether the police were the only 
-party wh o could be a prosecutor for the purposes of section 127(5) in the present 
-circumstances. It is clear, and not challenged, that the CPS are an organisation who 
-were authorised and competent to bring the charges in the present case. There is a 
-strong sense i n which that is an end of the matter: given that they are authorised and 
-competent to decide that a prosecution should be brought , the CPS undoubtedly fall 
-within the definition of the term prosecutor. The certificate makes plain that these 
-charges were br ought within the time lim its provided for by section 127 (5). 
-23. There is good reason for the terms of the statute enabling more than one organisation, 
-if properly authorised, to be capable of charging the offences under this section. 
-Firstly, as is pointed ou t by the respondent, the evidence on the file in the present case 
-disclosed potential offences with which the appellant could have been charged which 
-were triable either way and therefore required a decision by the CPS as to whether or 
-not the appellant sh ould be charged with those offences. Potential offences arose 
-under the Computer Misuse Act 1990 and the Malicious Communications Act 1988. 
-The police would not have had authority to charge those matters. The need to take a 
-broader view of the potential ov erall offending, and give consideration to matters 
-which the police could not charge, supports the approach set out above in relation to 
-the term prosecutor. Further, there may be cases in which the particular expertise of 
-the CPS is required to resolve co mplex evidential issues which would justify their 
-involvement in the question of whether or not a suspect should be charged. It is 
+Judgment Approved by the court for handing down.
+
+2 That the police had not acted unreasonably in seeking charging
+
+advice.
+
+3 That there had not been any unreasonable delay in the police
+
+gathering the evidence and sending it to the Crown Prosecution
+
+Service.
+
+4 That the Crown Prosecution Service had considered that evidence
+
+within one month and authorised the issue of the requisition.
+
+5 That for the purposes of the legislation, the prosecutor was the
+
+Crown Prosecution Service and that the proceedings were issued in
+
+time.”
+
+21. The questions which he presents for the consideration of this court in the case stated
+
+are as follows:
+
+“12 The court poses the following questions for the High Court:
+
+1 Was I right in concluding that for the purposes of the legislation the
+
+prosecutor was the Crown Prosecution Service
+
+2 That the proceedings were issued in time?”
+
+22. The term prosecutor is not further defined either in section 127(5) or elsewhere in the
+
+2003 Act. We have had our attention drawn to the Director’s Guidance on Charging,
+
+which makes clear that it is possible for the police to charge the offences under
+
+section 127(1) and (2), essentially on the basis that the offences are summary only.
+
+That is not, however, an answer to the question as to whether the police were the only
+
+party who could be a prosecutor for the purposes of section 127(5) in the present
+
+circumstances. It is clear, and not challenged, that the CPS are an organisation who
+
+were authorised and competent to bring the charges in the present case. There is a
+
+strong sense in which that is an end of the matter: given that they are authorised and
+
+competent to decide that a prosecution should be brought, the CPS undoubtedly fall
+
+within the definition of the term prosecutor. The certificate makes plain that these
+
+charges were brought within the time limits provided for by section 127(5).
+
+23. There is good reason for the terms of the statute enabling more than one organisation,
+
+if properly authorised, to be capable of charging the offences under this section.
+
+Firstly, as is pointed out by the respondent, the evidence on the file in the present case
+
+disclosed potential offences with which the appellant could have been charged which
+
+were triable either way and therefore required a decision by the CPS as to whether or
+
+not the appellant should be charged with those offences. Potential offences arose
+
+under the Computer Misuse Act 1990 and the Malicious Communications Act 1988.
+
+The police would not have had authority to charge those matters. The need to take a
+
+broader view of the potential overall offending, and give consideration to matters
+
+which the police could not charge, supports the approach set out above in relation to
+
+the term prosecutor. Further, there may be cases in which the particular expertise of
+
+the CPS is required to resolve complex evidential issues which would justify their
+
+involvement in the question of whether or not a suspect should be charged. It is
+
 inappropriate to interpret the legislation so as to restrict the term prosecutor in the way
 
-Judgment Approved by the court for handing down.   
- 
- contemplated by the appellant. Fo r the reasons given, that approach is far too narrow 
-and does not properly reflect the language of the statute.  In short, for the purposes of 
-this legislation the person who initiates the prosecution and brings the charges with 
-authority to do so is the pr osecutor.  
-24. It was submitted by Mr Smith that this approach would lead to potentially lengthy 
-delays with investigations hanging over the head of an individual without charges 
-being brought. He also contended that it would lead to potential abuse, with the p olice 
-passing a file to the CPS simply for the purpose of avoiding the application of 
-s127(5) (b) in circumstances where they had been in possession of the necessary 
-evidence to justify a charge for more than 6 months. In relation to the first point, it is 
-in my view clear that this is simply a feature of the way in which Parliament 
-deliberately drew together the statutory time limits for these offences and does not 
-justify any different approach to the one taken above : see Letherbarrow  at paragraph 
-17 above . In relation to the second point, it may be possible to conceive of cases 
-where arguments in relation to abuse of process could arise and provide a remedy. 
-Such cases will be rare and depend on their particular facts, but this is not one of 
-them.  
-25. Having e xamined the issues raised in this application were the matter being dealt with 
-as an appeal by way of case stated both of the questions raised by the District Judge 
-would have been answered in the affirmative. In the event, and treating the matter as 
-an ap plication for judicial review, the appropriate outcome in this case is that the 
-application should be dismissed.  
-Lord Justice Dingemans  
-26. I agree.  As appears from the judgement of Mr Justice Dove this case could not 
-proceed by way of appeal by case stated o n behalf of the appellant, because he had 
-not yet been convicted.  I also agree that in the particular circumstances of this case, 
-which include the fact that it was clear that the appellant would be convicted, on his 
-own plea of guilty, when the matter re turns to the Magistrates’ Court, that this Court 
-should determine the substantive question of whether the proceedings were brought in 
-time as a claim brought by way of judicial review.  
-27. This is possible because there is jurisdiction in this court to enterta in challenges to 
-interlocutory decisions of the Magistrates by way of proceedings for judicial review, 
-as appears from CPS v Sedgemoor Justices .  However although there is jurisdiction to 
-entertain such challenges I agree with Hughes LJ’s statement in CPS v Sedgemoor 
-Justices that there will need to be a “powerful reason ” to entertain such a challenge.  
-That is because proceedings in the Magistrates’ Court are summary and intended to be 
-speedy.  Challenges to interlocutory rulings will increase cost and del ay, and should 
-be avoided  without a powerful reason .
+Judgment Approved by the court for handing down.
+
+contemplated by the appellant. For the reasons given, that approach is far too narrow
+
+and does not properly reflect the language of the statute. In short, for the purposes of
+
+this legislation the person who initiates the prosecution and brings the charges with
+
+authority to do so is the prosecutor.
+
+24. It was submitted by Mr Smith that this approach would lead to potentially lengthy
+
+delays with investigations hanging over the head of an individual without charges
+
+being brought. He also contended that it would lead to potential abuse, with the police
+
+passing a file to the CPS simply for the purpose of avoiding the application of
+
+s127(5)(b) in circumstances where they had been in possession of the necessary
+
+evidence to justify a charge for more than 6 months. In relation to the first point, it is
+
+in my view clear that this is simply a feature of the way in which Parliament
+
+deliberately drew together the statutory time limits for these offences and does not
+
+justify any different approach to the one taken above: see Letherbarrow at paragraph
+
+17 above. In relation to the second point, it may be possible to conceive of cases
+
+where arguments in relation to abuse of process could arise and provide a remedy.
+
+Such cases will be rare and depend on their particular facts, but this is not one of
+
+them.
+
+25. Having examined the issues raised in this application were the matter being dealt with
+
+as an appeal by way of case stated both of the questions raised by the District Judge
+
+would have been answered in the affirmative. In the event, and treating the matter as
+
+an application for judicial review, the appropriate outcome in this case is that the
+
+application should be dismissed.
+
+Lord Justice Dingemans
+
+26. I agree. As appears from the judgement of Mr Justice Dove this case could not
+
+proceed by way of appeal by case stated on behalf of the appellant, because he had
+
+not yet been convicted. I also agree that in the particular circumstances of this case,
+
+which include the fact that it was clear that the appellant would be convicted, on his
+
+own plea of guilty, when the matter returns to the Magistrates’ Court, that this Court
+
+should determine the substantive question of whether the proceedings were brought in
+
+time as a claim brought by way of judicial review.
+
+27. This is possible because there is jurisdiction in this court to entertain challenges to
+
+interlocutory decisions of the Magistrates by way of proceedings for judicial review,
+
+as appears from CPS v Sedgemoor Justices. However although there is jurisdiction to
+
+entertain such challenges I agree with Hughes LJ’s statement in CPS v Sedgemoor
+
+Justices that there will need to be a “powerful reason” to entertain such a challenge.
+
+That is because proceedings in the Magistrates’ Court are summary and intended to be
+
+speedy. Challenges to interlocutory rulings will increase cost and delay, and should
+
+be avoided without a powerful reason.

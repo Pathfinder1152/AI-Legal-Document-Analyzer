@@ -1,1193 +1,2231 @@
-Neutral Citation Number: [2021] EWHC 27 (Admin) 
- 
-Case No: CO/2368/2016 
-IN THE HIGH COURT OF JUSTICE 
-QUEEN'S BENCH DIVISION 
-DIVISIONAL COURT 
- 
-Royal Courts of Justice 
-Strand, London, WC2A 2LL 
- 
-Date: 08/01/2021 
- 
-Before : 
- 
-LORD JUSTICE BEAN 
-& 
-MRS JUSTICE FARBEY 
-- - - - - - - - - - - - - - - - - - - - - 
-Between : 
- 
- PRIVACY INTERNATIONAL Claimant 
- - and -  
- INVESTIGATORY POWERS TRIBUNAL Defendant 
- - and -  
- SECRETARY OF STATE FOR FOREIGN,  
-COMMONWEALTH AND DEVELOPMENT 
-AFFAIRS 
-- and - 
-GOVERNMENT COMMUNICATION 
-HEADQUARTERS 
- 
-  
- 
- 
-Interested 
-Parties 
- 
- 
- 
-Ben Jaffey QC and Tom Cleaver (instructed by Bhatt Murphy) for the Claimant 
-The Defendant Tribunal did not appear and was not represented. 
-Sir James Eadie QC and Richard O’Brien (instructed by Government Legal Department) 
-for the Interested Parties 
- 
-Hearing dates: 8-9 December 2020 
-- - - - - - - - - - - - - - - - - - - - - 
+Neutral Citation Number: [2021] EWHC 27 (Admin)
+
+Case No: CO/2368/2016
+
+IN THE HIGH COURT OF JUSTICE
+
+QUEEN'S BENCH DIVISION
+
+DIVISIONAL COURT
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Date: 08/01/2021
+
+Before :
+
+LORD JUSTICE BEAN
+
+&
+
+MRS JUSTICE FARBEY
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Between :
+
+PRIVACY INTERNATIONAL Claimant
+
+- and -
+
+INVESTIGATORY POWERS TRIBUNAL Defendant
+
+- and -
+
+SECRETARY OF STATE FOR FOREIGN,
+
+COMMONWEALTH AND DEVELOPMENT
+
+AFFAIRS
+
+- and - Interested
+
+GOVERNMENT COMMUNICATION Parties
+
+HEADQUARTERS
+
+Ben Jaffey QC and Tom Cleaver (instructed by Bhatt Murphy) for the Claimant
+
+The Defendant Tribunal did not appear and was not represented.
+
+Sir James Eadie QC and Richard O’Brien (instructed by Government Legal Department)
+
+for the Interested Parties
+
+Hearing dates: 8-9 December 2020
+
+- - - - - - - - - - - - - - - - - - - - -
+
 Approved Judgment
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- Lord Justice  Bean  and Mrs Justice Farbey :  
-1. This is the judgment of the court to which we have both contributed.   
-2. The Claimant applies for judicial  review of the judgment of the Investig atory Powers 
-Tribunal (“the Tribunal”) dated 12 February 2016.  It invites the court to quash the 
-judgment and to grant relief in the form of a declaration as to the scope of section 5 of 
-the Intelligence Services Act  1994 (“the 1994 Act”).  The question raised in the claim 
-relates particularly to computer network exploitation  (“CNE”), colloquially  known as 
-computer hacking. The question posed in the Statement of Facts and Grounds is: 
-“Does section 5 of [the 1994 Act] permit the issue of a ‘thematic ’ computer hacking 
-warrant authorising acts in respect of an entire class of people or an entire class of 
-such acts?”  
-3. We heard submissions from Mr Ben Jaffey QC (with Mr Tom Cleaver) on behalf of 
-the Claimant and Sir James Eadie QC (with Mr Richard O’Brien) on behalf of the 
-Interested Parties.  We repeat the thanks that we gave at the hearing for their excellent 
-oral and written advocacy .   
-4. The three UK intelligence agencies (“the Agencies ”) are the Security Service, 
-generally known as MI5 ; the Secret Intelligence Service, generally known as MI6 ; 
-and Government Communication Headquarters (“ GCHQ ”). Before 1989, the 
-functio ns and indeed the existence  of the Agencies were not officially acknowledged : 
-this was a somewhat artificial state of affairs since, for example, in the mid -1980s 
-GCHQ featured twice in litigation which reached the House of Lords  (Waite v 
-Government Commun ication Headquarters [1983 ] 2 AC 714 ; Council of Civil Service 
-Unions v Minister of the Civil Service [1985] AC 374) . The activities  of the Agencies 
-were not the subject of statutory regulation.   
-5. By section 1 (1) of the Security Service Act 1989, Parliamen t acknowledged the 
-existence of the Security Service.  At the same time, its functions were placed on a 
-statutory footing as being the protection of national security, the safeguarding of the 
-economic well -being of the United Kingdom , and the support of la w enforcement 
-agencies in the prevention and detection of serious crime (section 1(3)).         
-6. The Secret Intelligence Service was acknowledged by the 1994 Act . Its function was 
-established as obtaining and providing information relating to the actions or  intentions 
-of persons abroad for national security and other reasons (section 1).  GCHQ was 
-acknowledged by section 3(1).  Its function is , so far as relevant to the present case , to 
-monitor or interfere with electromagnetic, acoustic and other emissions and any 
-equipment producing such emission s.  This function is exercisable only in the 
-interests of national security, the economic well -being of the United Kingdom , and 
-the support of the prevention or detection of serious crime (section 3(2) ).       
-7. CNE i s a set of techniques through which an individual or organisation gains cover t 
-and remote access to equipment (including both networked and mobile computer 
-devices) typically with a view to obtaining information from it.  CNE  can be a critical 
-tool in inv estigations into the full range of threats to the United Kingdom such as 
-terrorism, serious and organised crime , and other national security threats.  As the  
-Tribunal observed at para 3 of their judgment: “[t]he particular significance of the use 
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+Lord Justice Bean and Mrs Justice Farbey:
+
+1. This is the judgment of the court to which we have both contributed.
+
+2. The Claimant applies for judicial review of the judgment of the Investigatory Powers
+
+Tribunal (“the Tribunal”) dated 12 February 2016. It invites the court to quash the
+
+judgment and to grant relief in the form of a declaration as to the scope of section 5 of
+
+the Intelligence Services Act 1994 (“the 1994 Act”). The question raised in the claim
+
+relates particularly to computer network exploitation (“CNE”), colloquially known as
+
+computer hacking. The question posed in the Statement of Facts and Grounds is:
+
+“Does section 5 of [the 1994 Act] permit the issue of a ‘thematic’ computer hacking
+
+warrant authorising acts in respect of an entire class of people or an entire class of
+
+such acts?”
+
+3. We heard submissions from Mr Ben Jaffey QC (with Mr Tom Cleaver) on behalf of
+
+the Claimant and Sir James Eadie QC (with Mr Richard O’Brien) on behalf of the
+
+Interested Parties. We repeat the thanks that we gave at the hearing for their excellent
+
+oral and written advocacy.
+
+4. The three UK intelligence agencies (“the Agencies”) are the Security Service,
+
+generally known as MI5; the Secret Intelligence Service, generally known as MI6;
+
+and Government Communication Headquarters (“GCHQ”). Before 1989, the
+
+functions and indeed the existence of the Agencies were not officially acknowledged:
+
+this was a somewhat artificial state of affairs since, for example, in the mid-1980s
+
+GCHQ featured twice in litigation which reached the House of Lords (Waite v
+
+Government Communication Headquarters [1983] 2 AC 714; Council of Civil Service
+
+Unions v Minister of the Civil Service [1985] AC 374). The activities of the Agencies
+
+were not the subject of statutory regulation.
+
+5. By section 1(1) of the Security Service Act 1989, Parliament acknowledged the
+
+existence of the Security Service. At the same time, its functions were placed on a
+
+statutory footing as being the protection of national security, the safeguarding of the
+
+economic well-being of the United Kingdom, and the support of law enforcement
+
+agencies in the prevention and detection of serious crime (section 1(3)).
+
+6. The Secret Intelligence Service was acknowledged by the 1994 Act. Its function was
+
+established as obtaining and providing information relating to the actions or intentions
+
+of persons abroad for national security and other reasons (section 1). GCHQ was
+
+acknowledged by section 3(1). Its function is, so far as relevant to the present case, to
+
+monitor or interfere with electromagnetic, acoustic and other emissions and any
+
+equipment producing such emissions. This function is exercisable only in the
+
+interests of national security, the economic well-being of the United Kingdom, and
+
+the support of the prevention or detection of serious crime (section 3(2)).
+
+7. CNE is a set of techniques through which an individual or organisation gains covert
+
+and remote access to equipment (including both networked and mobile computer
+
+devices) typically with a view to obtaining information from it. CNE can be a critical
+
+tool in investigations into the full range of threats to the United Kingdom such as
+
+terrorism, serious and organised crime, and other national security threats. As the
+
+Tribunal observed at para 3 of their judgment: “[t]he particular significance of the use
+
 of CNE is that it addresses difficulties for the Intelligence Agencies caused by the
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- ever increasing use of encryption by those whom the Agencies would wish to target 
-for interception.”   Its value to the protection of those who live in the United Kingdom 
-from individuals engaged in (among other things) terrorist attacks, espionage and 
-serious organised crime is beyond  dispute.                                          
-8. In July 2014, the Claimant, along with others, issued proceedings  in the Tribunal 
-against the Interested Parties.  The Claimant challenged various aspects of the 
-arrangements under which the Agencies were believed to make use of CNE  including 
-the use of thematic warrants .  A preliminary hearing  took place on points of law on 1 -
-3 December 2015.   At that open hearing, the extent and scope of the use of thematic 
-warrants in practice was not considered. It was however common ground that GCHQ 
-had obtained warrants in respect of CNE under section 5 of  the 1994 Act.     
-9. The Tribunal were asked to rule on ten issues of law. It will help to give an overview 
-of the hearing before them to set out their conclusions: - 
-“Issue 1: An act  (CNE) which would be an offence under s.3 
-of the CMA is made lawful by a s .5 warrant or s. 7 
-authorisation, and the amendment of s. l 0 CMA was simply 
-confirmatory of that fact.  
-Issue 2: An act abroad pursuant to ss.5 or 7 of the ISA which 
-would otherwise be an offence under ss.1 and/or 3 of the CMA 
-would not be unlawful.  
-Issue  3: The power under s.5 of ISA to authorise interference 
-with property encompasses intangible property.  
-Issue 4: A s.5 warrant is lawful if it is as specific as possible in 
-relation to the property to be covered by the warrant, both to 
-enable the Secretar y of State to be satisfied as to legality, 
-necessity and proportionality and to assist those executing the 
-warrant, so that the property to be covered is objectively 
-ascertainable, and it need not be defined by reference to named 
-or identified individuals.   
-Issue 5: There might be circumstances in which an individual 
-claimant might be able to claim a breach of Article 8/10 rights 
-as a  result of a s.7 authorisation, but that does not lead to a  
-conclusion that the s.7 regime is non -compliant with Articles 8  
-or 10.  
-Issue 6:  A s.5 warrant which accords with the criteria of 
-specification referred to in Issue 4 complies with the safeguards 
-referred to in  [the decision of the European Court of Human 
-Rights in]  Weber  (1) to (3), and consequently with Articles 8 
-and 10 in that regard.   
-Issue 7: If information were obtained in bulk through the use of 
-CNE,  there might be circumstances  in which an individual
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- complainant might be able to mount a claim, but in principle 
-CNE is lawful.  
-Issue 8: The s.5 regime since Feb ruary 2015 is compliant with 
-Articles 8/10.  
-Issue 9: The s.5 regime prior to February 2015 was compliant 
-with Articles 8/10.  
-Issue 10: So far as concerns the adequacy of dealing with LPP,  
-the CNE regime has been compliant with the Convention since 
-Febru ary 2015.”  
-10. The Claimant applied for judicial review of the Tribunal’s conclusions on Issue 4. The 
-Interested Parties raised the question of whether section 67(8) of the Regulation of 
-Investigatory Powers Act 2000 (“RIPA”) , the statute which created the T ribunal , 
-ousted the supervisory jurisdiction of the High Court to quash a judgment of the 
-Tribunal for error of law. On 17 June 2016 Lang J granted permission for judicial 
-review but directed that jurisdiction should be tried as a preliminary issue. The 
-Divisional Court and Court of Appeal held that there was no jurisdiction but on 15 
-May 2019 the Supreme Court, by a majority of 4 -3, allowed the Claimant’s appeal 
-and held that this court does indeed have jurisdiction ([2020] AC 491; [2019] UKSC 
-22).    
-11. In October 2019 an application was made to amend the claim to seek judicial review 
-of the T ribunal ’s conclusion on Issue 9, namely whether the use of CNE by GCHQ 
-prior to publication of the draft Equipment Interference Code in February 2015  had 
-been in contrav ention of Article 8 and/or Article 10  of the European Convention on 
-Human Rights (“the Convention”) . On 8 January 2020 Steyn J approved a consent 
-order under which the question of whether leave to amend should be granted would be 
-dealt with on a rolled -up basis together with the existing judicial review claim for 
-which permission had been given in 2016 . 
-The relevant statutes  
-12. Section 5(2)  of the 1994  Act  is the crucial provision in this case. A s originally 
-enacted in 1994, it provided that the Secretary of  State could issue a warrant: - 
-"authorising the taking ... of such action as is specified in the 
-warrant in respect of any property so specified or in respect of 
-wireless telegraphy so specified if the Secreta ry of State:  
-(a) thinks it necessa ry for the a ction to be taken on the ground 
-that it is likel y to be of substantial value in assisting ...  
-(iii) GCHQ ……   
-in ca rrying out any function which falls within Section 
-3(l)(a) and  
-(b) is satisfied that what the action seeks to achieve cannot 
-reasonably be achi eved by other means and
+ever increasing use of encryption by those whom the Agencies would wish to target
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- (c) is satisfied that satisfactory arrangements are in force under 
-. . . section 4(2)(a)  above with respect to the disclosure of 
-information obtained ... and that any information obtained 
-under the warrant will be subject to those arrangements".  
-13. From 25 September 2000, s ection 5(2)(b) was amended to substitute a requirement 
-that the Secretary of State must be satisfied that the taking of the action is 
-proportionate to what it seeks to achieve : this change was made by  RIPA, which came 
-into effect on 2 October 2000, the same day as the Human Rights Act.  
-14. We set out the relevant provisions of sections 5, 6 and 7 of the Intelligence Services 
-Act 1994 as they were in force at the date of the Tribunal’s judgment on 12 February 
-2016 (there have been some amendments since that time , but they are not material to 
-the issues before us), omitting provisions relating to Scotland: - [emphasis added]  
-5  Warrants: general  
-(1) No entry on or interference with property or with wireless 
-telegra phy shall be unlawful if it is authorised by a warrant 
-issued by the Secretary of State under this section.  
-(2) The Secretary of State may, on an application made by .  . . 
-GCHQ, issue a  warrant under this section authorising the 
-taking, subject to subse ction (3) below, of such action as is 
-specified in the warrant in respect of any property so specified 
-or in respect of wireless telegraphy so specified if the Secretary 
-of State – 
-(a) thinks it necessary for the action to be taken for the 
-purpose of assis ting  
-...  
-(iii) GCHQ in carrying out any function which falls within 
-section 3(J)(a) above; and  
-(b) is satisfied that the taking of the action is proportionate to 
-what the action seeks to achieve;  
-(c) is satisfied that satisfactory arrangements are in f orce 
-under section 2(2)(a) of the [Security Service Act 1989 ("the 
-1989 Act")] (duties of the Director -General of the Security 
-Service), section 2(2)(a) above or section 4(2)(a) above with 
-respect to the disclosure of information obtained by virtue of 
-this section and that any information obtained under the 
-warrant will be subject to those arrangements.  
-(2A) The matters to be taken into account in considering 
-whether the requirements of subsection (2)(a) and (b) are 
-satisfied in the case of any warrant sha ll include whether what
+for interception.” Its value to the protection of those who live in the United Kingdom
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- it is thought necessary to achieve by the conduct authorised by 
-the warrant could reasonably be achieved by other means.  
-(3) A warrant issued on the application of the Intelligence 
-Service or GCHQ for the purposes of the exercise o f their 
-functions by virtue of section . .  . 3(2)(c) above may not relate 
-to property in the British Islands.  
-(3A) A warrant issued on the application of the Security 
-Service for the purposes of the exercise of their function under 
-section 1 (4) of the S ecurity Service Act 1989 may not relate to 
-property in the British Islands unless it authorises the taking of 
-action in relation to conduct within subsection (3B) below.  
-(3B) Conduct is within this subsection if it constitutes (or, if it 
-took place in the  United Kingdom, would constitute) one or 
-more offences, and either – 
-(a) it involves the use of violence, results in substantial 
-financial gain or is conduct by a  large number of persons in 
-pursuit of a  common purpose; or  
-(b) the offence or one of the offences is an offence for which 
-a person who has attained the age of twenty -one and has no 
-previous convictions could reasonably be expected to be 
-sentenced to imprisonment for a  term of three years or 
-more.  
-(4) Subject to subsection (5) below, the Secu rity Service may 
-make an application under subsection (2) above for a  warrant 
-to be issued authorising that Service (or a person acting on its 
-behalf) to take such action as is specified in the warrant on 
-behalf of the Intelligence Service or GCHQ and, wh ere such a  
-warrant is issued, the functions of the Security Service shall 
-include the carrying out of the action so specified, whether or 
-not it would otherwise be within its functions.  
-(5) The Security Service may not make an application for a  
-warrant by virtue of subsection (4) above except where the 
-action proposed to be authorised by the warrant - 
-(a) is action in respect of which the Intelligence Service or, 
-as the case may be, GCHQ could make such an application; 
-and  
-(b) is to be taken otherwise th an in support of the prevention 
-or detection of serious crime.  
-6 Warrants: procedure and duration, etc.  
-(1) A warrant shall not be issued except -
+from individuals engaged in (among other things) terrorist attacks, espionage and
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- (a) under the hand of the Secretary of State or…….  
-(b) in an urgent case where the Secretary of State has 
-expressly authorised its issue and a  statement of that fact is 
-endorsed on it, under the hand of a  senior official; or…….  
-(d) in an urgent case where the Secretary of State has 
-expressly authorised the issue of warrants in accordance with 
-this paragraph b y specified senior officials and a  statement 
-of that fact is endorsed on the warrant,  under the hand of the 
-specified officials.  
-(1A) But a warrant issued in accordance with subsection (1)(d) 
-may authorise the taking of an action only if the action is a n 
-action in relation to property which, immediately before the 
-issue of the warrant, would, if done outside the British Islands, 
-have been authorised by virtue of an authorisation under 
-section 7 that was in force at that time.  
-(1B) A senior official who issues a warrant in accordance with 
-subsection (l)(d) must inform the Secretary of State about the 
-issue of the warrant as soon as practicable after issuing it.  
-(2) A warrant shall, unless renewed under subsection (3) below, 
-cease to have effect - 
-(a) if the warrant was under the hand of the Secretary of 
-State, ……..at the end of the period of six months beginning 
-with the day on which it was issued; and  
-(b) in any other case, at the end of the period ending with the 
-second working day following that day.  
-(3) If at any time before the day on which a warrant would 
-cease to have effect the Secretary of State considers it 
-necessary for the warrant to continue to have effect for the 
-purpose for which it was issued, he may by an instrument under 
-his hand renew it for a period of six months beginning with that 
-day.  
-(4) The Secretary of State shall cancel a warrant if he is 
-satisfied that the action authorised by it is no longer necessary.  
-(5) In the preceding provisions of this section "warrant" means 
-a warrant  under section 5 above.  
-7. Authorisation of acts outside the British Islands  
-(1) If, apart from this section,  a person would be liable in the 
-United Kingdom for any act done outside the British Islands, he 
-shall not be so liable if the act is one which i s authorised to be
+serious organised crime is beyond dispute.
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- done by virtue of an authorisation given by the Secretary of 
-State under this section.  
-(2) In subsection (1) above "liable in the United Kingdom" 
-means liable under the criminal or civil law of any part of the 
-United Kingdom.  
-(3) The S ecretary of State shall not give an authorisation under 
-this section unless he is satisfied – 
-(a) that any acts which may be done in reliance on the 
-authorisation or, as the case may be, the operation in the 
-course of which the acts may be done will be nec essary for 
-the proper discharge of a function of the Intelligence Service 
-or GCHQ; and  
-(b) that there are satisfactory arrangements in force to 
-secure - 
-(i) that nothing will be done in reliance on the 
-authorisation beyond what is necessary for the proper 
-discharge of a function of the Intelligence Service or 
-GCHQ; and  
-(ii) that, in so far as any acts may be done in reliance on 
-the authorisation, their nature and likely consequences 
-will be reasonable, having regard to the purposes for 
-which they are carri ed out; and  
-(c) that there are satisfactory arrangements in force under 
-section 2(2)(a) or 4(2)(a) above with respect to the disclosure 
-of information obtained by virtue of this section and that any 
-information obtained by virtue of anything done in relia nce 
-on the authorisation will be subject to those arrangements.  
-(4) Without prejudice to the generality of the power of the 
-Secretary of State to give an authorisation under this section, 
-such an authorisation - 
-(a) may relate to a particular act or acts, to acts of a 
-description specified in the authorisation or to acts 
-undertaken in the course of an operation so specified ;  
-(b) may be limited to a particular person or persons of a 
-description so specified ; and  
-(c) may be subject to conditions so specifie d.  
-(5) An authorisation shall not be given under this section 
-except - 
+8. In July 2014, the Claimant, along with others, issued proceedings in the Tribunal
+
+against the Interested Parties. The Claimant challenged various aspects of the
+
+arrangements under which the Agencies were believed to make use of CNE including
+
+the use of thematic warrants. A preliminary hearing took place on points of law on 1-
+
+3 December 2015. At that open hearing, the extent and scope of the use of thematic
+
+warrants in practice was not considered. It was however common ground that GCHQ
+
+had obtained warrants in respect of CNE under section 5 of the 1994 Act.
+
+9. The Tribunal were asked to rule on ten issues of law. It will help to give an overview
+
+of the hearing before them to set out their conclusions:-
+
+“Issue 1: An act (CNE) which would be an offence under s.3
+
+of the CMA is made lawful by a s.5 warrant or s. 7
+
+authorisation, and the amendment of s. l0 CMA was simply
+
+confirmatory of that fact.
+
+Issue 2: An act abroad pursuant to ss.5 or 7 of the ISA which
+
+would otherwise be an offence under ss.1 and/or 3 of the CMA
+
+would not be unlawful.
+
+Issue 3: The power under s.5 of ISA to authorise interference
+
+with property encompasses intangible property.
+
+Issue 4: A s.5 warrant is lawful if it is as specific as possible in
+
+relation to the property to be covered by the warrant, both to
+
+enable the Secretary of State to be satisfied as to legality,
+
+necessity and proportionality and to assist those executing the
+
+warrant, so that the property to be covered is objectively
+
+ascertainable, and it need not be defined by reference to named
+
+or identified individuals.
+
+Issue 5: There might be circumstances in which an individual
+
+claimant might be able to claim a breach of Article 8/10 rights
+
+as a result of a s.7 authorisation, but that does not lead to a
+
+conclusion that the s.7 regime is non-compliant with Articles 8
+
+or 10.
+
+Issue 6: A s.5 warrant which accords with the criteria of
+
+specification referred to in Issue 4 complies with the safeguards
+
+referred to in [the decision of the European Court of Human
+
+Rights in] Weber (1) to (3), and consequently with Articles 8
+
+and 10 in that regard.
+
+Issue 7: If information were obtained in bulk through the use of
+
+CNE, there might be circumstances in which an individual
+
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+complainant might be able to mount a claim, but in principle
+
+CNE is lawful.
+
+Issue 8: The s.5 regime since February 2015 is compliant with
+
+Articles 8/10.
+
+Issue 9: The s.5 regime prior to February 2015 was compliant
+
+with Articles 8/10.
+
+Issue 10: So far as concerns the adequacy of dealing with LPP,
+
+the CNE regime has been compliant with the Convention since
+
+February 2015.”
+
+10. The Claimant applied for judicial review of the Tribunal’s conclusions on Issue 4. The
+
+Interested Parties raised the question of whether section 67(8) of the Regulation of
+
+Investigatory Powers Act 2000 (“RIPA”), the statute which created the Tribunal,
+
+ousted the supervisory jurisdiction of the High Court to quash a judgment of the
+
+Tribunal for error of law. On 17 June 2016 Lang J granted permission for judicial
+
+review but directed that jurisdiction should be tried as a preliminary issue. The
+
+Divisional Court and Court of Appeal held that there was no jurisdiction but on 15
+
+May 2019 the Supreme Court, by a majority of 4-3, allowed the Claimant’s appeal
+
+and held that this court does indeed have jurisdiction ([2020] AC 491; [2019] UKSC
+
+22).
+
+11. In October 2019 an application was made to amend the claim to seek judicial review
+
+of the Tribunal’s conclusion on Issue 9, namely whether the use of CNE by GCHQ
+
+prior to publication of the draft Equipment Interference Code in February 2015 had
+
+been in contravention of Article 8 and/or Article 10 of the European Convention on
+
+Human Rights (“the Convention”). On 8 January 2020 Steyn J approved a consent
+
+order under which the question of whether leave to amend should be granted would be
+
+dealt with on a rolled-up basis together with the existing judicial review claim for
+
+which permission had been given in 2016.
+
+The relevant statutes
+
+12. Section 5(2) of the 1994 Act is the crucial provision in this case. As originally
+
+enacted in 1994, it provided that the Secretary of State could issue a warrant:-
+
+"authorising the taking ... of such action as is specified in the
+
+warrant in respect of any property so specified or in respect of
+
+wireless telegraphy so specified if the Secretary of State:
+
+(a) thinks it necessary for the action to be taken on the ground
+
+that it is likely to be of substantial value in assisting ...
+
+(iii) GCHQ……
+
+in carrying out any function which falls within Section
+
+3(l)(a) and
+
+(b) is satisfied that what the action seeks to achieve cannot
+
+reasonably be achieved by other means and
+
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+(c) is satisfied that satisfactory arrangements are in force under
+
+. . . section 4(2)(a) above with respect to the disclosure of
+
+information obtained ... and that any information obtained
+
+under the warrant will be subject to those arrangements".
+
+13. From 25 September 2000, section 5(2)(b) was amended to substitute a requirement
+
+that the Secretary of State must be satisfied that the taking of the action is
+
+proportionate to what it seeks to achieve: this change was made by RIPA, which came
+
+into effect on 2 October 2000, the same day as the Human Rights Act.
+
+14. We set out the relevant provisions of sections 5, 6 and 7 of the Intelligence Services
+
+Act 1994 as they were in force at the date of the Tribunal’s judgment on 12 February
+
+2016 (there have been some amendments since that time, but they are not material to
+
+the issues before us), omitting provisions relating to Scotland:- [emphasis added]
+
+5 Warrants: general
+
+(1) No entry on or interference with property or with wireless
+
+telegraphy shall be unlawful if it is authorised by a warrant
+
+issued by the Secretary of State under this section.
+
+(2) The Secretary of State may, on an application made by . . .
+
+GCHQ, issue a warrant under this section authorising the
+
+taking, subject to subsection (3) below, of such action as is
+
+specified in the warrant in respect of any property so specified
+
+or in respect of wireless telegraphy so specified if the Secretary
+
+of State –
+
+(a) thinks it necessary for the action to be taken for the
+
+purpose of assisting
+
+...
+
+(iii) GCHQ in carrying out any function which falls within
+
+section 3(J)(a) above; and
+
+(b) is satisfied that the taking of the action is proportionate to
+
+what the action seeks to achieve;
+
+(c) is satisfied that satisfactory arrangements are in force
+
+under section 2(2)(a) of the [Security Service Act 1989 ("the
+
+1989 Act")] (duties of the Director-General of the Security
+
+Service), section 2(2)(a) above or section 4(2)(a) above with
+
+respect to the disclosure of information obtained by virtue of
+
+this section and that any information obtained under the
+
+warrant will be subject to those arrangements.
+
+(2A) The matters to be taken into account in considering
+
+whether the requirements of subsection (2)(a) and (b) are
+
+satisfied in the case of any warrant shall include whether what
+
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+it is thought necessary to achieve by the conduct authorised by
+
+the warrant could reasonably be achieved by other means.
+
+(3) A warrant issued on the application of the Intelligence
+
+Service or GCHQ for the purposes of the exercise of their
+
+functions by virtue of section . . . 3(2)(c) above may not relate
+
+to property in the British Islands.
+
+(3A) A warrant issued on the application of the Security
+
+Service for the purposes of the exercise of their function under
+
+section 1 (4) of the Security Service Act 1989 may not relate to
+
+property in the British Islands unless it authorises the taking of
+
+action in relation to conduct within subsection (3B) below.
+
+(3B) Conduct is within this subsection if it constitutes (or, if it
+
+took place in the United Kingdom, would constitute) one or
+
+more offences, and either –
+
+(a) it involves the use of violence, results in substantial
+
+financial gain or is conduct by a large number of persons in
+
+pursuit of a common purpose; or
+
+(b) the offence or one of the offences is an offence for which
+
+a person who has attained the age of twenty-one and has no
+
+previous convictions could reasonably be expected to be
+
+sentenced to imprisonment for a term of three years or
+
+more.
+
+(4) Subject to subsection (5) below, the Security Service may
+
+make an application under subsection (2) above for a warrant
+
+to be issued authorising that Service (or a person acting on its
+
+behalf) to take such action as is specified in the warrant on
+
+behalf of the Intelligence Service or GCHQ and, where such a
+
+warrant is issued, the functions of the Security Service shall
+
+include the carrying out of the action so specified, whether or
+
+not it would otherwise be within its functions.
+
+(5) The Security Service may not make an application for a
+
+warrant by virtue of subsection (4) above except where the
+
+action proposed to be authorised by the warrant-
+
+(a) is action in respect of which the Intelligence Service or,
+
+as the case may be, GCHQ could make such an application;
+
+and
+
+(b) is to be taken otherwise than in support of the prevention
+
+or detection of serious crime.
+
+6 Warrants: procedure and duration, etc.
+
+(1) A warrant shall not be issued except-
+
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+(a) under the hand of the Secretary of State or…….
+
+(b) in an urgent case where the Secretary of State has
+
+expressly authorised its issue and a statement of that fact is
+
+endorsed on it, under the hand of a senior official; or…….
+
+(d) in an urgent case where the Secretary of State has
+
+expressly authorised the issue of warrants in accordance with
+
+this paragraph by specified senior officials and a statement
+
+of that fact is endorsed on the warrant, under the hand of the
+
+specified officials.
+
+(1A) But a warrant issued in accordance with subsection (1)(d)
+
+may authorise the taking of an action only if the action is an
+
+action in relation to property which, immediately before the
+
+issue of the warrant, would, if done outside the British Islands,
+
+have been authorised by virtue of an authorisation under
+
+section 7 that was in force at that time.
+
+(1B) A senior official who issues a warrant in accordance with
+
+subsection (l)(d) must inform the Secretary of State about the
+
+issue of the warrant as soon as practicable after issuing it.
+
+(2) A warrant shall, unless renewed under subsection (3) below,
+
+cease to have effect-
+
+(a) if the warrant was under the hand of the Secretary of
+
+State, ……..at the end of the period of six months beginning
+
+with the day on which it was issued; and
+
+(b) in any other case, at the end of the period ending with the
+
+second working day following that day.
+
+(3) If at any time before the day on which a warrant would
+
+cease to have effect the Secretary of State considers it
+
+necessary for the warrant to continue to have effect for the
+
+purpose for which it was issued, he may by an instrument under
+
+his hand renew it for a period of six months beginning with that
+
+day.
+
+(4) The Secretary of State shall cancel a warrant if he is
+
+satisfied that the action authorised by it is no longer necessary.
+
+(5) In the preceding provisions of this section "warrant" means
+
+a warrant under section 5 above.
+
+7. Authorisation of acts outside the British Islands
+
+(1) If, apart from this section, a person would be liable in the
+
+United Kingdom for any act done outside the British Islands, he
+
+shall not be so liable if the act is one which is authorised to be
+
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+done by virtue of an authorisation given by the Secretary of
+
+State under this section.
+
+(2) In subsection (1) above "liable in the United Kingdom"
+
+means liable under the criminal or civil law of any part of the
+
+United Kingdom.
+
+(3) The Secretary of State shall not give an authorisation under
+
+this section unless he is satisfied –
+
+(a) that any acts which may be done in reliance on the
+
+authorisation or, as the case may be, the operation in the
+
+course of which the acts may be done will be necessary for
+
+the proper discharge of a function of the Intelligence Service
+
+or GCHQ; and
+
+(b) that there are satisfactory arrangements in force to
+
+secure-
+
+(i) that nothing will be done in reliance on the
+
+authorisation beyond what is necessary for the proper
+
+discharge of a function of the Intelligence Service or
+
+GCHQ; and
+
+(ii) that, in so far as any acts may be done in reliance on
+
+the authorisation, their nature and likely consequences
+
+will be reasonable, having regard to the purposes for
+
+which they are carried out; and
+
+(c) that there are satisfactory arrangements in force under
+
+section 2(2)(a) or 4(2)(a) above with respect to the disclosure
+
+of information obtained by virtue of this section and that any
+
+information obtained by virtue of anything done in reliance
+
+on the authorisation will be subject to those arrangements.
+
+(4) Without prejudice to the generality of the power of the
+
+Secretary of State to give an authorisation under this section,
+
+such an authorisation-
+
+(a) may relate to a particular act or acts, to acts of a
+
+description specified in the authorisation or to acts
+
+undertaken in the course of an operation so specified;
+
+(b) may be limited to a particular person or persons of a
+
+description so specified; and
+
+(c) may be subject to conditions so specified.
+
+(5) An authorisation shall not be given under this section
+
+except-
+
 (a) under the hand of the Secretary of State; or
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- (b) in an urgent case where the Secretary of State has 
-expressly authorised it to be given and a statement of that 
-fact is endorsed on it, under the hand of a senior official.  
-(6) An authorisation shall, unless renewed under subsection (7) 
-below, cease to have effect - 
-(a) if the authorisation was given under the hand of the 
-Secretary of State, at the end of the period of six months 
-beginning with the day on which it was given;  
-(b) in any other case, at the end of the period ending with the 
-second working day following the day on which it was 
-given.  
-(7) If at any time before the day on which an authorisation 
-would cease to have effect the Secretary of State considers it 
-necessary for the authorisation to continue to have effect for the 
-purpose for which it was given, he  may by an instrument under 
-his hand renew it for a period of six months beginning with that 
-day.  
-(8) The Secretary of State shall cancel an authorisation if he is 
-satisfied that any act authorised by it is no longer necessary.  
-(9) For the purposes of this section the reference in subsection 
-(1) to an act done outside the British Islands includes a 
-reference to any act which - 
-(a) is done in the British Islands; but  
-(b) is or is intended to be done in relation to apparatus that is 
-believed to be outside  the British Islands, or in relation to 
-anything appearing to originate from such apparatus;  
-and in this subsection "apparatus" has the same meaning as in 
-[RIPA].  
-(10) Where - 
-(a) a person is authorised by virtue of this section to do an 
-act outside the B ritish Islands in relation to property,  
-(b) the act is one which, in relation to property within the 
-British Islands, is capable of being authorised by a  warrant 
-under section 5,  
-(c) a person authorised by virtue of this section to do that act 
-outside t he British Islands, does the act in relation to that 
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+(b) in an urgent case where the Secretary of State has
+
+expressly authorised it to be given and a statement of that
+
+fact is endorsed on it, under the hand of a senior official.
+
+(6) An authorisation shall, unless renewed under subsection (7)
+
+below, cease to have effect-
+
+(a) if the authorisation was given under the hand of the
+
+Secretary of State, at the end of the period of six months
+
+beginning with the day on which it was given;
+
+(b) in any other case, at the end of the period ending with the
+
+second working day following the day on which it was
+
+given.
+
+(7) If at any time before the day on which an authorisation
+
+would cease to have effect the Secretary of State considers it
+
+necessary for the authorisation to continue to have effect for the
+
+purpose for which it was given, he may by an instrument under
+
+his hand renew it for a period of six months beginning with that
+
+day.
+
+(8) The Secretary of State shall cancel an authorisation if he is
+
+satisfied that any act authorised by it is no longer necessary.
+
+(9) For the purposes of this section the reference in subsection
+
+(1) to an act done outside the British Islands includes a
+
+reference to any act which-
+
+(a) is done in the British Islands; but
+
+(b) is or is intended to be done in relation to apparatus that is
+
+believed to be outside the British Islands, or in relation to
+
+anything appearing to originate from such apparatus;
+
+and in this subsection "apparatus" has the same meaning as in
+
+[RIPA].
+
+(10) Where-
+
+(a) a person is authorised by virtue of this section to do an
+
+act outside the British Islands in relation to property,
+
+(b) the act is one which, in relation to property within the
+
+British Islands, is capable of being authorised by a warrant
+
+under section 5,
+
+(c) a person authorised by virtue of this section to do that act
+
+outside the British Islands, does the act in relation to that
+
 property while it is within the British Islands, and
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- (d) the act is done in circumstances falling within subsection 
-(11) or (12),  
-this section shall have effect as if the act were done outside the 
-British Islands in relation to that property.  
-(11) An act is done in circumstances falling within this 
-subsection if it is done in relation to the property at a  time 
-when it is believed to be outside the British Islands.  
-(12) An act is done in circumstances  falling within this 
-subsection if it - 
-(a) is done in relation to property which was mistakenly 
-believed to be outside the British Islands either when the 
-authorisation under this section was given or at a  subsequent 
-time or which has been brought within the British Islands 
-since the giving of the authorisation; but  
-(b) is done before the end of the fifth working day after the 
-day on which the presence of the property in the British 
-Islands first becomes known.  
-(13) In subsection (12) the reference to th e day on which the 
-presence of the property in the British Islands first becomes 
-known is a  reference to the day  on which it first appears to a  
-member of the Intelligence Service or of GCHQ, after  the 
-relevant time - 
-(a) that the belief that the propert y was outside the British 
-Islands was mistaken; or  
-(b) that the property is within those Islands.  
-(14) In subsection (13) 'the relevant time' means, as the case 
-may be – 
-(a) the time of the mistaken belief mentioned in subsection 
-(12)(a); or  
-(b) the time  at which the property was, or was most recently, 
-brought within the British Islands.  
-Sir Mark Waller’s report  
-15. Prior to the coming into force of the provisions of the Investigatory Powers Act 2016 
-establishing the office of the Investigatory Powers Commiss ioner, there was an 
-Intelligence Services Commissioner appointed pursuant to RIPA. In 2014 and 2015 
-the holder of this office was the Rt Hon Sir Mark Waller, a former Lord Justice of 
-Appeal. In his report for the year 2014 laid before Parliament and publis hed on 25 
-June 2015, he said: -
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- “Thematic Property Warrants   
-I  have expressed concerns about the use of what might be 
-termed "thematic" property warrants issued under section 5 of 
-ISA. ISA section 7 makes specific reference to thematic 
-authorisations (what  are called class authorisation) because it 
-refers “to a particular act" or to "acts" undertaken in the course 
-of an operation. However, section 5 is narrower , referring to 
-"property so specified".  
-During 2014 I have discussed with all the agencies and th e 
-warrantry units the use of section 5  in a way which seemed to 
-me arguably too broad or "thematic". I have expressed my view 
-that:  
-• section 5 does not expressly allow for a class of 
-authorisation; and  
-• the words "property so specified" might be narrowly 
-construed , requiring the Secretary of State to consider a 
-particular operation against a particular piece of property as 
-opposed to property more generally described by reference 
-for example to a described set of individuals.  
-The agencies and the  warrant ry units argue that ISA refers to 
-action and properties which "are specified " which they 
-interpret  to mean "described by specification". Under this 
-interpretation they consider that the property does not 
-necessarily need to be specifically identif ied in advance as long 
-as what is stated in the warrant can properly be said to include 
-the property that is the subject of the subsequent interference . 
-They argue that sometimes time constraints are such that if they 
-are to act to protect national securit y they need a warrant which 
-"specifies" property by reference to a described set of persons, 
-only being able to ident ify with precision an individual at a 
-later moment.  
-I accept the agencies' inte rpretation is very arguable. I also see 
-in practical terms the national security requirement.  
-The critical thing however is that the submission and the 
-warrant must be set out in a way which allows the Secretary of 
-State to make the decision on necessity and proportionality.  
-Thus, I have made it clear:  
- A Sec retary of State  can only sign the warrant if they 
-are able property to assess whether it is necessary and 
+(d) the act is done in circumstances falling within subsection
+
+(11) or (12),
+
+this section shall have effect as if the act were done outside the
+
+British Islands in relation to that property.
+
+(11) An act is done in circumstances falling within this
+
+subsection if it is done in relation to the property at a time
+
+when it is believed to be outside the British Islands.
+
+(12) An act is done in circumstances falling within this
+
+subsection if it-
+
+(a) is done in relation to property which was mistakenly
+
+believed to be outside the British Islands either when the
+
+authorisation under this section was given or at a subsequent
+
+time or which has been brought within the British Islands
+
+since the giving of the authorisation; but
+
+(b) is done before the end of the fifth working day after the
+
+day on which the presence of the property in the British
+
+Islands first becomes known.
+
+(13) In subsection (12) the reference to the day on which the
+
+presence of the property in the British Islands first becomes
+
+known is a reference to the day on which it first appears to a
+
+member of the Intelligence Service or of GCHQ, after the
+
+relevant time-
+
+(a) that the belief that the property was outside the British
+
+Islands was mistaken; or
+
+(b) that the property is within those Islands.
+
+(14) In subsection (13) 'the relevant time' means, as the case
+
+may be –
+
+(a) the time of the mistaken belief mentioned in subsection
+
+(12)(a); or
+
+(b) the time at which the property was, or was most recently,
+
+brought within the British Islands.
+
+Sir Mark Waller’s report
+
+15. Prior to the coming into force of the provisions of the Investigatory Powers Act 2016
+
+establishing the office of the Investigatory Powers Commissioner, there was an
+
+Intelligence Services Commissioner appointed pursuant to RIPA. In 2014 and 2015
+
+the holder of this office was the Rt Hon Sir Mark Waller, a former Lord Justice of
+
+Appeal. In his report for the year 2014 laid before Parliament and published on 25
+
+June 2015, he said:-
+
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+“Thematic Property Warrants
+
+I have expressed concerns about the use of what might be
+
+termed "thematic" property warrants issued under section 5 of
+
+ISA. ISA section 7 makes specific reference to thematic
+
+authorisations (what are called class authorisation) because it
+
+refers “to a particular act" or to "acts" undertaken in the course
+
+of an operation. However, section 5 is narrower, referring to
+
+"property so specified".
+
+During 2014 I have discussed with all the agencies and the
+
+warrantry units the use of section 5 in a way which seemed to
+
+me arguably too broad or "thematic". I have expressed my view
+
+that:
+
+• section 5 does not expressly allow for a class of
+
+authorisation; and
+
+• the words "property so specified" might be narrowly
+
+construed, requiring the Secretary of State to consider a
+
+particular operation against a particular piece of property as
+
+opposed to property more generally described by reference
+
+for example to a described set of individuals.
+
+The agencies and the warrantry units argue that ISA refers to
+
+action and properties which "are specified " which they
+
+interpret to mean "described by specification". Under this
+
+interpretation they consider that the property does not
+
+necessarily need to be specifically identified in advance as long
+
+as what is stated in the warrant can properly be said to include
+
+the property that is the subject of the subsequent interference.
+
+They argue that sometimes time constraints are such that if they
+
+are to act to protect national security they need a warrant which
+
+"specifies" property by reference to a described set of persons,
+
+only being able to identify with precision an individual at a
+
+later moment.
+
+I accept the agencies' interpretation is very arguable. I also see
+
+in practical terms the national security requirement.
+
+The critical thing however is that the submission and the
+
+warrant must be set out in a way which allows the Secretary of
+
+State to make the decision on necessity and proportionality.
+
+Thus, I have made it clear:
+
+ A Secretary of State can only sign the warrant if they
+
+are able property to assess whether it is necessary and
+
 proportionate to authorise the activity.
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
-  The necessity and propo rtionality consideration must 
-not be delegated  
- Property warrants under the present legislat ion should 
-be as narrow as possible; and  
- Exceptional circumstances where time constraints 
-would put national security at risk will be more likely to 
-justify “thematic” warrants.  
-This has led to one of the agencies withdrawing a thematic 
-property warrant in  order to better define the specified property. 
-We remain in discussion to find a way to do so but I am 
-anxious to ensure that they are not missing intelligence 
-opportunities which might endanger national security.  
-I made five recommendations at each of t he intelligence 
-agencies and warrantry units in relation to what might be 
-termed thematic property warrants.  
-(1) for any warrants which might be considered to be 
-thematic to be highlighted in the list provided for my 
-selection;  
-(2) the terms of a warrant a nd the submission must always be 
-such as to enable the Secretary of State to assess the 
-necessity and proportionality;  
-(3) the assessment to proportionality and necessity should 
-not be delegated;  
-(4) property warrants should be as narrow as possible but 
-circumstances where time constraints and national security 
-dictate may allow a more broadly drawn ”thematic” warrant; 
-and 
-(5) as the agencies and the Secretary of State have made 
-clear to me is the case, thematic or broadly drawn warrants 
-should not be asked  for simply for administrative 
-convenience. ” 
-The Investigatory Powers Act 2016  
-16. The Investigatory Powers Act 2016 creates a new regime for the authorisation of 
-warrant s for certain purposes. Sections 99, 101  and 102 provide for “targeted 
-equipment interference warrants ”. Section 99(2) defines a targeted equipment 
-interference warrant as one which authorises or requires the addressee to secure 
-interference with any equipment for the purpose of obtaining communications, 
-equipment data or any other inf ormation. Section 101(1) provides: -
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- “(1) A targeted equipment interference warrant may relate to 
-any one or more of the following  matters — 
-(a) equipment belonging to, used by or in the possession of a 
-particular person or organisation;  
-(b) equipment belong ing to, used by or in the possession of a 
-group of persons who share a common purpose or who carry 
-on, or may carry on, a particular activity;  
-(c) equipment belonging to, used by or in the possession of 
-more than one person or organisation, where the inter ference 
-is for the purpose of a single investigation or operation;  
-(d) equipment in a particular location;  
-(e) equipment in more than one location, where the 
-interference is for the purpose of a single investigation or 
-operation;  
-(f) equipment which is bei ng, or may be, used for the 
-purposes of a particular activity or activities of a particular 
-description;  
-(g) equipment which is being, or may be, used to test, 
-maintain or develop capabilities relating to interference with 
-equipment for the purpose of obtaining communications, 
-equipment data or other information;  
-(h) equipment which is being, or may be, used for the 
-training of persons who carry out, or are likely to carry out, 
-such interference with equipment.”  
-17. Notwithstanding the coming into force of these powers in the 2016 Act , Issue 4 
-decided by the Tribunal in 2016 , unlike Issue 9, is not of merely historic al 
-significance. Section 5 of the 1994 Act remains the governing regime in respect of: - 
-a) covert entry and search of premises or good s 
-b) interferenc e with goods  
-c) interference with intellectual property rights; and  
-d) computer hacking where the aim is not to acquire data , but to destroy 
-or otherwise manipulate the functioning of electronic systems.  
-The Tribunal’s judgment  on issue 4  
-18. After referring to the submissions of Mr Jaffey QC for the Claimants, including his 
-reliance on 18th century authorities on general warrants to which we shall come later, 
-and to those of Mr Eadie QC (as he then was) for the Respondents, the Tribunal said: -
+ The necessity and proportionality consideration must
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- “37. Eighteenth century abhorrence of general warrants issued 
-without express statutory sanction is not in our judgment a 
-useful or permissible aid to construction of an express statutory 
-power given to a Service, one of whose principal functions is to 
-further the interest s of UK national security, with particular 
-reference to defence and foreign policy. The words should be 
-given their natural meaning in the context in which they are set.  
-38. The issue as to whether the specification is sufficient  in 
-any particular case w ill be dependent on the particular facts of 
-that case. The courts frequently have to determine such 
-questions for example in respect of a warrant under the Police 
-Act 1997 s.93, when the issues, by reference to the particular 
-facts would be fully aired in open. That is not possible in 
-relation to a s.5 wa rrant, but it may still be subject to scrutiny 
-by the Intelligence Services Commissioner, by the ISC and, if 
-and when a  complaint is made to this Tribunal, then by this 
-Tribunal. But the test is not in our  judgment different -Are the 
-actions and the property sufficiently identified? The Home 
-Secretary's own words as recorded in paragraph 42 of the ISC 
-Report, set out in paragraph 32 above, relating to a s.8(1) 
-warrant, are applicable here also. It is not in  our judgment 
-necessary for a  Secretary of State to exercise judgment in 
-relation to a warrant for it to be limited to a  named or 
-identified individual or list of individuals. The property should 
-be so defined, whether by reference to persons or a  group  or 
-category of persons, that the extent of the reasonably 
-foreseeable interference caused by the authorisation of CNE in 
-relation to the actions and property specified in the warrant can 
-be addressed.  
-39. As discussed in the course of argument, the word under 
-consideration is simply specified, and this may be contrasted 
-with other statutes such as those relating to letters of request, 
-where the requirement of the Evidence (Proceedings in Other 
-Jurisdictions) Act 1975 is for "particular documents specified ''. 
-There is no requirement here for specification of particular 
-property, but simply for specification of the property, which in 
-our judgment is a  word not of limitation but of description, and 
-the issue becomes one simply of sufficiency of identificatio n.  
-40. The statute does not fall to be interpreted by reference to 
-the underlying Code, in particular one which, like the E I Code, 
-has been in draft waiting to be approved by Parliament. But 
-what is of course important is what is put in the applications to 
-the Secretary of State, so that he can exercise his discretion 
-lawfully and reasonably. Both in the Property Code, in place 
-since 2002, (at paragraphs 7.18 -7.19) and now in the EI Code 
-(at paragraph 4.6), there is a lengthy list of what is required to 
+not be delegated
+
+ Property warrants under the present legislation should
+
+be as narrow as possible; and
+
+ Exceptional circumstances where time constraints
+
+would put national security at risk will be more likely to
+
+justify “thematic” warrants.
+
+This has led to one of the agencies withdrawing a thematic
+
+property warrant in order to better define the specified property.
+
+We remain in discussion to find a way to do so but I am
+
+anxious to ensure that they are not missing intelligence
+
+opportunities which might endanger national security.
+
+I made five recommendations at each of the intelligence
+
+agencies and warrantry units in relation to what might be
+
+termed thematic property warrants.
+
+(1) for any warrants which might be considered to be
+
+thematic to be highlighted in the list provided for my
+
+selection;
+
+(2) the terms of a warrant and the submission must always be
+
+such as to enable the Secretary of State to assess the
+
+necessity and proportionality;
+
+(3) the assessment to proportionality and necessity should
+
+not be delegated;
+
+(4) property warrants should be as narrow as possible but
+
+circumstances where time constraints and national security
+
+dictate may allow a more broadly drawn ”thematic” warrant;
+
+and
+
+(5) as the agencies and the Secretary of State have made
+
+clear to me is the case, thematic or broadly drawn warrants
+
+should not be asked for simply for administrative
+
+convenience.”
+
+The Investigatory Powers Act 2016
+
+16. The Investigatory Powers Act 2016 creates a new regime for the authorisation of
+
+warrants for certain purposes. Sections 99, 101 and 102 provide for “targeted
+
+equipment interference warrants”. Section 99(2) defines a targeted equipment
+
+interference warrant as one which authorises or requires the addressee to secure
+
+interference with any equipment for the purpose of obtaining communications,
+
+equipment data or any other information. Section 101(1) provides:-
+
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+“(1) A targeted equipment interference warrant may relate to
+
+any one or more of the following matters—
+
+(a) equipment belonging to, used by or in the possession of a
+
+particular person or organisation;
+
+(b) equipment belonging to, used by or in the possession of a
+
+group of persons who share a common purpose or who carry
+
+on, or may carry on, a particular activity;
+
+(c) equipment belonging to, used by or in the possession of
+
+more than one person or organisation, where the interference
+
+is for the purpose of a single investigation or operation;
+
+(d) equipment in a particular location;
+
+(e) equipment in more than one location, where the
+
+interference is for the purpose of a single investigation or
+
+operation;
+
+(f) equipment which is being, or may be, used for the
+
+purposes of a particular activity or activities of a particular
+
+description;
+
+(g) equipment which is being, or may be, used to test,
+
+maintain or develop capabilities relating to interference with
+
+equipment for the purpose of obtaining communications,
+
+equipment data or other information;
+
+(h) equipment which is being, or may be, used for the
+
+training of persons who carry out, or are likely to carry out,
+
+such interference with equipment.”
+
+17. Notwithstanding the coming into force of these powers in the 2016 Act, Issue 4
+
+decided by the Tribunal in 2016, unlike Issue 9, is not of merely historical
+
+significance. Section 5 of the 1994 Act remains the governing regime in respect of:-
+
+a) covert entry and search of premises or goods
+
+b) interference with goods
+
+c) interference with intellectual property rights; and
+
+d) computer hacking where the aim is not to acquire data, but to destroy
+
+or otherwise manipulate the functioning of electronic systems.
+
+The Tribunal’s judgment on issue 4
+
+18. After referring to the submissions of Mr Jaffey QC for the Claimants, including his
+
+reliance on 18th century authorities on general warrants to which we shall come later,
+
+and to those of Mr Eadie QC (as he then was) for the Respondents, the Tribunal said:-
+
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+“37. Eighteenth century abhorrence of general warrants issued
+
+without express statutory sanction is not in our judgment a
+
+useful or permissible aid to construction of an express statutory
+
+power given to a Service, one of whose principal functions is to
+
+further the interests of UK national security, with particular
+
+reference to defence and foreign policy. The words should be
+
+given their natural meaning in the context in which they are set.
+
+38. The issue as to whether the specification is sufficient in
+
+any particular case will be dependent on the particular facts of
+
+that case. The courts frequently have to determine such
+
+questions for example in respect of a warrant under the Police
+
+Act 1997 s.93, when the issues, by reference to the particular
+
+facts would be fully aired in open. That is not possible in
+
+relation to a s.5 warrant, but it may still be subject to scrutiny
+
+by the Intelligence Services Commissioner, by the ISC and, if
+
+and when a complaint is made to this Tribunal, then by this
+
+Tribunal. But the test is not in our judgment different -Are the
+
+actions and the property sufficiently identified? The Home
+
+Secretary's own words as recorded in paragraph 42 of the ISC
+
+Report, set out in paragraph 32 above, relating to a s.8(1)
+
+warrant, are applicable here also. It is not in our judgment
+
+necessary for a Secretary of State to exercise judgment in
+
+relation to a warrant for it to be limited to a named or
+
+identified individual or list of individuals. The property should
+
+be so defined, whether by reference to persons or a group or
+
+category of persons, that the extent of the reasonably
+
+foreseeable interference caused by the authorisation of CNE in
+
+relation to the actions and property specified in the warrant can
+
+be addressed.
+
+39. As discussed in the course of argument, the word under
+
+consideration is simply specified, and this may be contrasted
+
+with other statutes such as those relating to letters of request,
+
+where the requirement of the Evidence (Proceedings in Other
+
+Jurisdictions) Act 1975 is for "particular documents specified''.
+
+There is no requirement here for specification of particular
+
+property, but simply for specification of the property, which in
+
+our judgment is a word not of limitation but of description, and
+
+the issue becomes one simply of sufficiency of identification.
+
+40. The statute does not fall to be interpreted by reference to
+
+the underlying Code, in particular one which, like the E I Code,
+
+has been in draft waiting to be approved by Parliament. But
+
+what is of course important is what is put in the applications to
+
+the Secretary of State, so that he can exercise his discretion
+
+lawfully and reasonably. Both in the Property Code, in place
+
+since 2002, (at paragraphs 7.18-7.19) and now in the EI Code
+
+(at paragraph 4.6), there is a lengthy list of what is required to
+
 be included in an application to the Secretary of State for the
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- issue or renewal of a s.5 warrant. Apart from a description of 
-the proposed interference and the measures to be taken to 
-minimise intrusion, at the head of the list in both Codes is a 
-requireme nt to specify "the identity or identities, where known, 
-of those who possess [or use] the [equipment] that is to be 
-subject to the int erference" and "sufficient information to 
-ident ify the [equipment] which will be affected by the 
-interference" (the square  bracketed parts are the changes from 
-the Property Code to the draft EI Code).  
-41. We are entirely satisfied that Mr Jaffey's submissions have 
-confused the property to be specified with the person or persons 
-whose ownership or use of the equipment may assi st in its 
-identification. We do not accept his submission (Day 2/12) that 
-the Secretary of State has to consider, by reference to each 
-individual  person who might use or own such equipment, 
-whether CNE would be justified in each individual case.   
-Questio ns of necessity and proportionality to be applied by the 
-Secretary of State must relate to the foreseeable effect of the 
-grant of such a warrant, and one of the matters to be considered 
-is the effect and extent of the warrant in the light of the 
-specificat ion of the property in that warrant.  
-42. As originally enacted,  s.5(2) authorised the Secretary of 
-State to issue a warrant  "authorising the taking ... of such action 
-as is specified in the warrant in respect of any property so 
-specified or in respect of  wireless telegraphy so specified if the 
-Secretary  of State: (a) thinks it necessary  for the action to be 
-taken on the ground that it is likely  to be of substantial value in 
-assisting  ... [our underlining] (iii) GCHQ in carrying  out any 
-function which fall s within Section 3(l)(a) and (b) is satisfied 
-that what the action seeks to achieve cannot reasonably be 
-achieved by other means and (c) is satisfied that satisfactory 
-arrangements are in force under . . . Section 4(2)(a)above with 
-respect to the disclosur e of information obtained ... and that any 
-information obtained under the warrant will be subject to those 
-arrangements".  
-43. " Specified ” must mean the same in relation to each action, 
-property and wireless telegraphy. "Wireless telegraphy" as 
-defined by s.1l(e) of ISA meant "the emitting or receiving over 
-paths which are not provided by any material substance 
-constructed or arranged for that purpose, of electro magnetic 
-energy or frequency not exceeding 3  million megacycles per 
-second ... ". ( s.19(1) Wir eless Telegraphy Act 1949).  
-44. Given the width of meaning contained in the words "action" 
-and "wireless telegraphy" and, at least potentially,  in the word 
-"property", specified cannot have meant anything more 
-restrictive than 'adequately described'. The  key purpose of 
-specifying is to permit a  person executing the warrant to know
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- when it  is executed that the action which he is to take and the 
-property or wireless telegraphy with which he is to interfere is 
-within the scope of the warrant.  
-45. It there fore follows that a warrant issued under s.5 as 
-originally enacted was not required: i) to identify one or more 
-individual items of property by reference to their name, 
-location or owner or ii) to identify property in existence at the 
-date on which the war rant was issued. Warrants could 
-therefore, for example, lawfully be issued to permit GCHQ to 
-interfere with computers used by members, wherever located, 
-of a  group whose activities could pose a  threat to UK national 
-security, or be used to further the po licies or activities of a 
-terrorist  organisation or grouping, during the life of a  warrant, 
-even though the members or individuals so described and/or of 
-the users of the computers were not and could not be identified 
-when the warrant was issued.  
-46. Th e amendment of s.7 in 2001 to add GCHQ cannot alter 
-the meaning of s.5, which has, in all respects relevant to this 
-Issue, remained unchanged.  
-47. In our judgment what is required is  for the warrant to be as 
-specific as possible in relation to the proper ty to be covered by 
-the warrant, both to enable the Secretary of State to be satisfied 
-as to legality,  necessity and proportionality and to assist those 
-executing the warrant, so that the property to be covered is 
-objectively ascertainable.”  
-The Claimants ’ submissions  
-19. Mr Jaffey submitted that the Tribunal had misdirected itself in concluding that a 
-section 5 warrant would be lawful provided that it “adequately described” property 
-which was the target of the warrant.  In contradistinction to section 7 of th e 1994 Act, 
-section 5(2) requires the property to be “specified” , not “described.”  The natural 
-meaning of “specified” connotes the identification of particular, ascertained things 
-rather than a general or collective description of a class of things.   
-20. Mr Jaffey relied on the principle of legality as elucidated in cases such as R v 
-Secretary of State for the Home Department, ex parte Simms [2000] 2 A.C. 115 .  That 
-principle means that the courts will, when interpreting the provisions of a statute, 
-presume t hat Parliament did not intend to legislate in a manner which overrides 
-fundamental common law rights.  The common law has an aversion to general 
-warrants that leave significant matters of judgment and discretion to the person 
-executing the warrant rather t han to the person legally or constitutionally responsible 
-for issuing it.  In order to prevent the unlawful delegation of discretion from the 
-Secretary of State (who issues warrants) to officials in GCHQ (who execute them), 
-the word “specify” imposes  a req uirement to be specific about the person or property 
-that will be subject to interference.  The principle of legality would otherwise be 
+issue or renewal of a s.5 warrant. Apart from a description of
+
+the proposed interference and the measures to be taken to
+
+minimise intrusion, at the head of the list in both Codes is a
+
+requirement to specify "the identity or identities, where known,
+
+of those who possess [or use] the [equipment] that is to be
+
+subject to the interference" and "sufficient information to
+
+identify the [equipment] which will be affected by the
+
+interference" (the square bracketed parts are the changes from
+
+the Property Code to the draft EI Code).
+
+41. We are entirely satisfied that Mr Jaffey's submissions have
+
+confused the property to be specified with the person or persons
+
+whose ownership or use of the equipment may assist in its
+
+identification. We do not accept his submission (Day 2/12) that
+
+the Secretary of State has to consider, by reference to each
+
+individual person who might use or own such equipment,
+
+whether CNE would be justified in each individual case.
+
+Questions of necessity and proportionality to be applied by the
+
+Secretary of State must relate to the foreseeable effect of the
+
+grant of such a warrant, and one of the matters to be considered
+
+is the effect and extent of the warrant in the light of the
+
+specification of the property in that warrant.
+
+42. As originally enacted, s.5(2) authorised the Secretary of
+
+State to issue a warrant "authorising the taking ... of such action
+
+as is specified in the warrant in respect of any property so
+
+specified or in respect of wireless telegraphy so specified if the
+
+Secretary of State: (a) thinks it necessary for the action to be
+
+taken on the ground that it is likely to be of substantial value in
+
+assisting ... [our underlining] (iii) GCHQ in carrying out any
+
+function which falls within Section 3(l)(a) and (b) is satisfied
+
+that what the action seeks to achieve cannot reasonably be
+
+achieved by other means and (c) is satisfied that satisfactory
+
+arrangements are in force under . . . Section 4(2)(a)above with
+
+respect to the disclosure of information obtained ... and that any
+
+information obtained under the warrant will be subject to those
+
+arrangements".
+
+43. "Specified” must mean the same in relation to each action,
+
+property and wireless telegraphy. "Wireless telegraphy" as
+
+defined by s.1l(e) of ISA meant "the emitting or receiving over
+
+paths which are not provided by any material substance
+
+constructed or arranged for that purpose, of electro magnetic
+
+energy or frequency not exceeding 3 million megacycles per
+
+second ... ". (s.19(1) Wireless Telegraphy Act 1949).
+
+44. Given the width of meaning contained in the words "action"
+
+and "wireless telegraphy" and, at least potentially, in the word
+
+"property", specified cannot have meant anything more
+
+restrictive than 'adequately described'. The key purpose of
+
+specifying is to permit a person executing the warrant to know
+
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+when it is executed that the action which he is to take and the
+
+property or wireless telegraphy with which he is to interfere is
+
+within the scope of the warrant.
+
+45. It therefore follows that a warrant issued under s.5 as
+
+originally enacted was not required: i) to identify one or more
+
+individual items of property by reference to their name,
+
+location or owner or ii) to identify property in existence at the
+
+date on which the warrant was issued. Warrants could
+
+therefore, for example, lawfully be issued to permit GCHQ to
+
+interfere with computers used by members, wherever located,
+
+of a group whose activities could pose a threat to UK national
+
+security, or be used to further the policies or activities of a
+
+terrorist organisation or grouping, during the life of a warrant,
+
+even though the members or individuals so described and/or of
+
+the users of the computers were not and could not be identified
+
+when the warrant was issued.
+
+46. The amendment of s.7 in 2001 to add GCHQ cannot alter
+
+the meaning of s.5, which has, in all respects relevant to this
+
+Issue, remained unchanged.
+
+47. In our judgment what is required is for the warrant to be as
+
+specific as possible in relation to the property to be covered by
+
+the warrant, both to enable the Secretary of State to be satisfied
+
+as to legality, necessity and proportionality and to assist those
+
+executing the warrant, so that the property to be covered is
+
+objectively ascertainable.”
+
+The Claimants’ submissions
+
+19. Mr Jaffey submitted that the Tribunal had misdirected itself in concluding that a
+
+section 5 warrant would be lawful provided that it “adequately described” property
+
+which was the target of the warrant. In contradistinction to section 7 of the 1994 Act,
+
+section 5(2) requires the property to be “specified”, not “described.” The natural
+
+meaning of “specified” connotes the identification of particular, ascertained things
+
+rather than a general or collective description of a class of things.
+
+20. Mr Jaffey relied on the principle of legality as elucidated in cases such as R v
+
+Secretary of State for the Home Department, ex parte Simms [2000] 2 A.C. 115. That
+
+principle means that the courts will, when interpreting the provisions of a statute,
+
+presume that Parliament did not intend to legislate in a manner which overrides
+
+fundamental common law rights. The common law has an aversion to general
+
+warrants that leave significant matters of judgment and discretion to the person
+
+executing the warrant rather than to the person legally or constitutionally responsible
+
+for issuing it. In order to prevent the unlawful delegation of discretion from the
+
+Secretary of State (who issues warrants) to officials in GCHQ (who execute them),
+
+the word “specify” imposes a requirement to be specific about the person or property
+
+that will be subject to interference. The principle of legality would otherwise be
+
 breached.
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- 21. In view of the importance of the constitutional principle that there can be no 
-interference with property without clear and specific legal authorisation, the words of 
-an enactment must be unambiguous before the court may interpret Parliament as 
-intending t o override rights.  There are no such unambiguous words in section 5. The 
-national security context makes no difference as otherwise the courts would sanction 
-wide powers to override fundamental rights.   
-22. Turning to the proposed new ground, Mr Jaffey submitted that the  Tribunal had 
-further erred in concluding that the use of the section 5 power to engage in CNE was 
-lawful before the publication of the draft Equipment Interference Code in February 
-2016.  Prior to the Code’s publication, almost nothing a bout the arrangements 
-governing CNE was publicly acknowledged.  The Property Code existed but there 
-was nothing to suggest that it was being treated by the Agencies as applicable to CNE.  
-In the absence of published arrangements for the exercise of the sec tion 5 discretion, 
-domestic law was insufficiently clear and precise to bestow the necessary qualities of 
-legality and foreseeability required by Article 8(2) of the Convention ( Association for 
-European Integration and Human Rights v Bulgaria  (6250/00, 28 June 2007, para 75; 
-Weber & Saravia v Germany  (2008) 46 EHRR SE5, paras 93 -95). 
-23. Mr Jaffey explained the reasons for the delay in raising this ground by reference to the 
-progress of the Claimant’s various challenges both in the domestic courts and in the 
-European Court of Human Rights.  The lack of clarity, until the Supreme Court’s 
-judgment, as to the scope for a domestic remedy had led to some complexity as to the 
-appropriate forum for this particular Article 8 argument to be ventilated.  
-Acknowledging the  passage of years since the publication of the Equipment 
-Interference Code and since the Tribunal’s judgment , as well as legislative changes , 
-Mr Jaffey submitted that the argument still raised an important point of public 
-interest.  There would be no preju dice to the Interested Parties in allowing this ground 
-to be pursued.  For these reasons, the court should extend time and exercise its 
-discretion to permit the Claimant to amend its grounds.                 
-The Interested Parties’ submissions   
-24. Sir James Eadie submitted that there was no error of law in the Tribunal’s  carefully  
-reasoned ruling.  The national security context was critical to the proper interpretation 
-of section 5.  Directing our attention to various passages in the evidence, he 
-emphasised th e extent of the terrorist threat against the United Kingdom and the 
-importance of CNE to GCHQ in combatting that threat.  The Government’s counter -
-terrorism operations inevitably function in a world without certainties.  When 
-enacting section 5, Parliament  would have been aware of, and should be presumed to 
-have legislated consistently with, the  operational realities.  Any interpretation of 
-section 5 should not require such specificity that its operational effectiveness would 
-be limited and its protective purpose undermined.   
-25. The Tribunal’s interpretation does not lead to over -broad powers.  On a natural 
-reading of section 5, the mechanism s for the control of the Agencies’ discretion are 
-the requirements of necessity and proportionality, which the Secretar y of State is 
-expressly directed to consider in section 5(2).  Those fundamental safeguards are the 
-core considerations when issuing a warrant.  Provided that the property is described to 
-a sufficient level of particularity so as to enable the  Secretary o f State to make a
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- proper assessment of necessity and  proportionality, all relevant statutory controls are 
-satisfied.       
-26. Section 5 permits the Agencies to provide levels of particularity  to a greater  or lesser 
-extent, depending on the ir state of knowled ge in any given situation.  As made clear 
-by section 6 of the 1994 Act, it may be necessary to act very urgently wi thin the 
-confines of the s ection 5 procedure.  In this context, the Tribunal  were right to 
-conclude that “specified” cannot have meant anything more  restrictive than 
-“adequately described .” 
-27. The touchstone for the lawfulness of the warrant cannot be whether or not  the 
-exercise of judgement is involved by those officials executing the warrant : every 
-warrant will need officials to exercise judgement to some lesser or greater degree, in 
-order to ensure that the right person and property are targeted in accordance with the 
-words of the warrant.  Nor is it possible to infer the meaning of section 5 from the 
-different words of section 7: each se ction has a different function and the breadth of 
-powers under section 7 has no counterpart in section 5.  The two sections fall to be 
-separately interpreted.   
-28. The common law cases on general warrants are not relevant to the interpretation of a 
-statutory power. In any event, the Tribunal rightly held that the property covered by a 
-warrant must be “objectively ascertainable” which imposes a restraint that was 
-lacking in the eighteenth century cases, on which the Claimant relied, and which 
-related to truly g eneral warrants.   
-29. Sir James submitted that the p rinciple  of legality is of no assistance in the present 
-case.   The principle of legality is an important tool of statutory interpretation but no 
-more than that: the task of the court is always to decide what  Parliame nt intended 
-(AJA v Commissioner of Police of the Metropolis [2013] EWCA Civ 1342, [2014] 1 
-WLR 285, para 28,  per Lord Dyson). The principle has no role where  Parlia ment’s 
-intention is  clear from  the ordinary or natural meaning of a statutory provision read in 
-the context of the  legislative scheme as  a whole ( R (Gillan) v Commissioner of Police 
-of the Metropolis [2006] UKHL 11, [2006] 2 AC 307, para 15, per Lord Bingham of 
-Cornhill).   
-30. As to Articl e 8 of the Convention, Sir James pointed to the considerable delay in 
-bringing this particular aspect of the challenge and to the considerable legislative and 
-other changes that have brought about a different landscape.  There was no good 
-reason for the co urt to hear argument on historic matters.  The Tribunal had 
-considered all relevant elements of the Article 8 claim and had reached conclusions 
-that were reasonably open to it.  The Claimants had failed to identify a reviewable 
-error of law.         
-The ap plication to amend to allege breach of Article 8 before February 2015  
-31. Having considered the oral and written submissions on this topic, we refuse 
-permission to amend. We do so because although the grounds of claim originally 
-lodged raised a number of Artic le 8 issues, this one was not raised until more than 
-three years later and more than four years after the period of alleged unlawfulness 
-prior to February 2015. The delay has been so substantial that the regime for granting 
+21. In view of the importance of the constitutional principle that there can be no
+
+interference with property without clear and specific legal authorisation, the words of
+
+an enactment must be unambiguous before the court may interpret Parliament as
+
+intending to override rights. There are no such unambiguous words in section 5. The
+
+national security context makes no difference as otherwise the courts would sanction
+
+wide powers to override fundamental rights.
+
+22. Turning to the proposed new ground, Mr Jaffey submitted that the Tribunal had
+
+further erred in concluding that the use of the section 5 power to engage in CNE was
+
+lawful before the publication of the draft Equipment Interference Code in February
+
+2016. Prior to the Code’s publication, almost nothing about the arrangements
+
+governing CNE was publicly acknowledged. The Property Code existed but there
+
+was nothing to suggest that it was being treated by the Agencies as applicable to CNE.
+
+In the absence of published arrangements for the exercise of the section 5 discretion,
+
+domestic law was insufficiently clear and precise to bestow the necessary qualities of
+
+legality and foreseeability required by Article 8(2) of the Convention (Association for
+
+European Integration and Human Rights v Bulgaria (6250/00, 28 June 2007, para 75;
+
+Weber & Saravia v Germany (2008) 46 EHRR SE5, paras 93-95).
+
+23. Mr Jaffey explained the reasons for the delay in raising this ground by reference to the
+
+progress of the Claimant’s various challenges both in the domestic courts and in the
+
+European Court of Human Rights. The lack of clarity, until the Supreme Court’s
+
+judgment, as to the scope for a domestic remedy had led to some complexity as to the
+
+appropriate forum for this particular Article 8 argument to be ventilated.
+
+Acknowledging the passage of years since the publication of the Equipment
+
+Interference Code and since the Tribunal’s judgment, as well as legislative changes,
+
+Mr Jaffey submitted that the argument still raised an important point of public
+
+interest. There would be no prejudice to the Interested Parties in allowing this ground
+
+to be pursued. For these reasons, the court should extend time and exercise its
+
+discretion to permit the Claimant to amend its grounds.
+
+The Interested Parties’ submissions
+
+24. Sir James Eadie submitted that there was no error of law in the Tribunal’s carefully
+
+reasoned ruling. The national security context was critical to the proper interpretation
+
+of section 5. Directing our attention to various passages in the evidence, he
+
+emphasised the extent of the terrorist threat against the United Kingdom and the
+
+importance of CNE to GCHQ in combatting that threat. The Government’s counter-
+
+terrorism operations inevitably function in a world without certainties. When
+
+enacting section 5, Parliament would have been aware of, and should be presumed to
+
+have legislated consistently with, the operational realities. Any interpretation of
+
+section 5 should not require such specificity that its operational effectiveness would
+
+be limited and its protective purpose undermined.
+
+25. The Tribunal’s interpretation does not lead to over-broad powers. On a natural
+
+reading of section 5, the mechanisms for the control of the Agencies’ discretion are
+
+the requirements of necessity and proportionality, which the Secretary of State is
+
+expressly directed to consider in section 5(2). Those fundamental safeguards are the
+
+core considerations when issuing a warrant. Provided that the property is described to
+
+a sufficient level of particularity so as to enable the Secretary of State to make a
+
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+proper assessment of necessity and proportionality, all relevant statutory controls are
+
+satisfied.
+
+26. Section 5 permits the Agencies to provide levels of particularity to a greater or lesser
+
+extent, depending on their state of knowledge in any given situation. As made clear
+
+by section 6 of the 1994 Act, it may be necessary to act very urgently within the
+
+confines of the section 5 procedure. In this context, the Tribunal were right to
+
+conclude that “specified” cannot have meant anything more restrictive than
+
+“adequately described.”
+
+27. The touchstone for the lawfulness of the warrant cannot be whether or not the
+
+exercise of judgement is involved by those officials executing the warrant: every
+
+warrant will need officials to exercise judgement to some lesser or greater degree, in
+
+order to ensure that the right person and property are targeted in accordance with the
+
+words of the warrant. Nor is it possible to infer the meaning of section 5 from the
+
+different words of section 7: each section has a different function and the breadth of
+
+powers under section 7 has no counterpart in section 5. The two sections fall to be
+
+separately interpreted.
+
+28. The common law cases on general warrants are not relevant to the interpretation of a
+
+statutory power. In any event, the Tribunal rightly held that the property covered by a
+
+warrant must be “objectively ascertainable” which imposes a restraint that was
+
+lacking in the eighteenth century cases, on which the Claimant relied, and which
+
+related to truly general warrants.
+
+29. Sir James submitted that the principle of legality is of no assistance in the present
+
+case. The principle of legality is an important tool of statutory interpretation but no
+
+more than that: the task of the court is always to decide what Parliament intended
+
+(AJA v Commissioner of Police of the Metropolis [2013] EWCA Civ 1342, [2014] 1
+
+WLR 285, para 28, per Lord Dyson). The principle has no role where Parliament’s
+
+intention is clear from the ordinary or natural meaning of a statutory provision read in
+
+the context of the legislative scheme as a whole (R (Gillan) v Commissioner of Police
+
+of the Metropolis [2006] UKHL 11, [2006] 2 AC 307, para 15, per Lord Bingham of
+
+Cornhill).
+
+30. As to Article 8 of the Convention, Sir James pointed to the considerable delay in
+
+bringing this particular aspect of the challenge and to the considerable legislative and
+
+other changes that have brought about a different landscape. There was no good
+
+reason for the court to hear argument on historic matters. The Tribunal had
+
+considered all relevant elements of the Article 8 claim and had reached conclusions
+
+that were reasonably open to it. The Claimants had failed to identify a reviewable
+
+error of law.
+
+The application to amend to allege breach of Article 8 before February 2015
+
+31. Having considered the oral and written submissions on this topic, we refuse
+
+permission to amend. We do so because although the grounds of claim originally
+
+lodged raised a number of Article 8 issues, this one was not raised until more than
+
+three years later and more than four years after the period of alleged unlawfulness
+
+prior to February 2015. The delay has been so substantial that the regime for granting
+
 warrants under section 5 of the 1994 Act is no longer in force in respect of CNE for
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- the purpose of obtaining information, having been materially replaced by provisions 
-of the Investigatory Powers Act 2016 with effect from 31 May 2018. We do not think 
-that the court should give a ruling on a complaint relating to a state of affairs which 
-had ceased to exist more than four years before the complaint was made. We also bear 
-in mind that the Supreme Court held that judicial review should only be granted in 
-respect of decisions of the T ribunal  of general significance. Issue 9 is in our view of 
-historical significance only.  
-Discussion  of Issue 4  
-The relevant principles of statutory interpretation  
-32. In construing the words of section 5(2), our task is to “ascertain the intention of 
-Parliament as expressed in the w ords it has chosen”  (R (Quintavalle) v Secreta ry of 
-State for Health  [2003] UKHL 13 , [2003] 2 AC 687, para 3 8, per Lo rd Millett ).  The 
-court  acts under the “banner of loyalty to the will of Parliament ” in that its task is to 
-“give effect to the true meaning of what Parliament has said” (ibid, para 8 , per Lord 
-Bingham of Cornhill).    
-33. What Parliament has said  will be derived from the meaning of individual words read 
-in the context of the enactment as a whole.  Ascertaining the statutory conte xt does 
-not involve a n assessment of  evidence relating to the asserted  advantages of two 
-competing interpretations .  We do not therefore regard GCHQ’s written evidence as 
-to the national security benefits of thematic warrants as a legitimate interpretative 
-tool.  Nor do we r egard the Claimant’s evidence, which criticis es the use of CNE  on 
-privacy grounds , as relevant to our task.    
-34. Ascertaining the statutory context will instead involve  the court in a legal 
-determination of the purpose of the Act.  It is the court’s duty “to favour an 
-interpretation of legislation which gives effect to its purpose rather than defeating it” 
-(Test Claimants in the Franked Investment Income Group Litigation v Commissioners 
-for Her Majesty’s Revenue and Customs  [2020] UKSC 47, para 155 , per Lord Reed 
-and Lord Hodge).   If the enactment is ambiguous, th e meaning which relates the 
-scope of the Act to the mischief it is intended to cure should be adopted  rather than a 
-different or wider meaning which the situation befor e Parliament did not call for  
-(Black -Clawson International  Ltd v Papierwerke Waldhof Aschaffenburg AG  [1975] 
-AC 571 at 614C -D).  In the present case, t he Tribunal held that the words of section 
-5(2) should “be given their natural meaning in the context in  which they are set. ”  To 
-the extent that the Tribunal  meant that it was legitimate to consider the statutory 
-purpose, we agree.          
-35. The purpose of the 1 994 A ct was (among other things) to place the existence and 
-functions of GCHQ  on a statutory footing .  In doing so, Parliament intended that 
-GCHQ (together with the other Agencies ) should continue to protect the United 
-Kingdom’s national  security  and econo mic well -being , and play its part in the  
-prevention of serious  crime . We accept that t hose vital interests form the context of 
-the statute as a whol e.     
-36. Nevertheless, t here is a distinction between (on the one hand) ascertaining the purpose 
-of an enactment and (on the other hand) deploying the statutory context  to bestow on 
-the Agencies the widest possible powers  that the language may sustain .  The
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- Interested Parties respectively have constitutional responsibility  for and expertise in 
-operational matters relating to national security .  However, t he construction of t he 
-provisions of an Act is for the court and for no one else ( Black -Clawson  at 614F per 
-Lord Reid).   If the court were to be moved by the view of the Interested Parties  on the 
-extent of the powers which they regard as necessary , it would risk departing from 
-what Parliament has said.  Far from acting under t he banner of loyalty to Parliament , 
-the court would risk frustrating Parliament’s intention .  Even in the critically 
-important sphere of national security, the court would overs tep its function.       
-37. Nor do we regard the national security  context as implying that Parliament was not 
-concerned with the fundamental rights of those who se property may be the subject of 
-CNE.  Parliamentary sovereignty means that Parliament may legislate to overrid e 
-fundamental rights.  However, Parliament is and must be subject to  political 
-constraints : if Parliament decides to enact legislation that is contrary to fundamental 
-rights, it must squarely confront what it is doing and accept the political cost.  That 
-Parliament has confront ed a breach of rights may be demonstrated not only in the 
-express language o f a statute but also b y necessary implication .  In the absence of 
-either of those m echanisms, the courts will presume that fundamental rights are 
-untouched.  This is the well-established principle of legality ( R v Secretary of State 
-for the Home Department, ex parte Simms  [2000] 2 A.C. 115, 130D-F and 131D -G).  
-38. The next question is whether section 5(2) of the 1994 Act engages fundamental rights. 
-In our view it plainly does, because of the longstanding aversion of the common law 
-to general search warrants.   
- 
-The aversion of the common law to general warrants  
-39. The aversion of the common law to general warrants was established by the time of  
-William Blackstone.   In his Commentaries on the Laws of England , Book IV ,  he 
-wrote  (in the form published by Clarendon Press in 1769  but using modern spelling) : 
-“A general  warrant to apprehend all persons suspected , without 
-naming o r particula rly describing any person in special, is 
-illegal and void for its uncertainty; for it is the duty of the 
-magistrate , and ought not to be left to the officer, to judge of 
-the ground of suspicion. ” 
-40. In his History of the Pleas of the Crown  (1736) , Sir Matthew Hale cited earlier 
-authority  to the effect that a general warrant to apprehend anyone suspected of a crime 
-was void and would give rise to a false imprisonment  (First American Edition, 
-Philadelphia, 1847, Vol 1, p.580) .  
-41. In Huckle v Money  (1763) 2 Wilson 205, the Secretary of State (Lord Halifax) had 
-granted a warrant that directed four messengers to apprehend “the printers and 
-publishers” of an edition of a paper called the North Briton  which contained a 
-“seditious libel”  against King George III .   No person was named in the warrant .  One 
-of the King’s messengers to whom the warrant was directed – Carrington – suspected 
-that the printer was a man called Leach and directed the defendant to execute the 
-warrant on the plainti ff who was one of Leach’s  journeym en.  The plaintiff was kept
+the purpose of obtaining information, having been materially replaced by provisions
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- in custody for about six hours.  Followi ng a trial, the jury awarded £300 damages  (the 
-equivalent in 2021 terms of £60,000 ).  A new trial was sought on the grounds that the 
-damages were excessive .  Refusing to order a new trial ,  Pratt CJ CP  (the future Lord 
-Camden) described the warrant as a general warrant because no individual was named 
-in it.  Such a warrant  amounted to the exercise of arbitrary power  and was unlawful.  
-The “daring at tack” upon the liberty of the subject had justified the grant of 
-exemplary damages.   
-42. The North Briton  seditious libel was further considered in Money v Leach  (1765) 3 
-Burrow 1742, which concerned an action in trespass brought by  Leach against three 
-King’s  messengers  who had broken into his home and imprisoned him  for four days.  
-The case report shows that Lord Halifax  had issued the warrant “in writing under his 
-hand and seal ,” authorising the messengers on behalf of the King to make “strict and 
-diligent s earch  for the said authors, printers, and publishers  of the aforesaid seditious 
-libel…; and them or any of them having found , to apprehend and seize, together with 
-their papers, and to bring in safe custody before [Lord Halifax] , to be examined 
-concerning the premises, and to be further dealt with according to law” .   
-43. Lord Mansfield CJ KB considered an objection to the warrant on the grounds of the 
-“incertainty of the person, being neither named nor described .”  He held:  
-“It is not fit, that the receiving or judging of the information 
-should be left to the discretion of the officer.  The magistrate 
-ought to judge ; and should give certain discretions to the 
-officer …Hale and all others hold such an uncertain warrant 
-void”.   
-Lord Mansfield was here saying that the officer who execute d a warrant c ould not 
-lawfully exercise a discretion as to who was to be apprehended: a general warrant 
-which did not specify its target was void.              
-44. Similarly, in Wilkes v Wood  (1763) Lofft 1, Lord Camden CJ CP held that a general 
-warrant enabling the King’s messengers to exercise their own discretion in interfering 
-with property was a breach of the right to liberty : 
-“The defendants claimed a right, under precedents, to force 
-persons hou ses, break open escrutores, seize their papers, &c. 
-upon a general warrant, where no inventory is made of the 
-things thus taken away, and where no offenders names are 
-specified in the warrant, and therefore a discretionary power 
-given to messengers to sear ch wherever their suspicions may 
-chance to fall.   If such a power is truly invested in a Secretary 
-of State, and he can delegate this power, it certainly may affect 
-the person and property of every man in this kingdom, and is 
-totally subversive of the liberty of the subject. ” 
-45. We take from Blackstone, Hale and the general warrant cases  that it is a fundamental 
-right of an individual under the common law that he or she should not be 
-apprehended , or have property seized  and searched , save by decision of the person 
-legally charged with issuing the warrant.   Expressed in modern legal language, a 
-general warrant is one which requires  the exercise of judgment or discretion by the
+of the Investigatory Powers Act 2016 with effect from 31 May 2018. We do not think
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- official executing the warrant  as to which individuals or which p roperty should  be 
-targeted.   It follows that a  general warrant gives rise to an unlawful delegation of 
-authority  by the legally entrusted decision -maker to the executing official.   This 
-unlawful delegation breaches a fundamental right .      
-46. We appreciate that t he Secretary of State in the general warrant cases was exercising 
-common law or prerogative powers not authorised by statute , and that two of those 
-cases involved - at least partly  - the physical liberty of the subject .  Nevertheles s, Mr  
-Jaffe y was correct to say that the right not to have property searched other than by the 
-authority of the law has always been treated as a fundamental right.   The great case of  
-Entick v Carrington  (1765) 19 State Tr 1029  held that the Secretary of State could not 
-order searches of private property without authority conferred by an Act of Parliament 
-or the common law.   In doing so, the court emphasised the connection between 
-property and privacy: a  person’s papers (containing private information) are their 
-owner’s “dea rest property”  whose secret  nature cannot be the subject of intrusion 
-without legal authority.    
-47. Entick v Carrington  and the other general warrant cases of the 1760s are  not a mere  
-historical footnote , nor, as Sir James put it, of only “marginal relevance” .   Some of 
-the language used by Lord Camden, comparing general search warrants to the 
-practices of the Spanish Inquisition, seems overblown to modern eyes; and no one 
-today would be awarded exemplary damages at the rate of £10,000 per hour for six 
-hours’ wrongful detention. But the fundamental message remains good law. Indeed, 
-the common law ’s insistence that the Government cannot search private premises 
-without lawful authority  has been recently confirmed by a unanimous  Supreme Court 
-as having the status of a constitutional principle ( R (Miller) v Prime Minister; Cherry 
-v Advocate General for Scotland  [2019] UKSC 41, [2020] AC 373, para 40).            
-48. We have for these reasons concluded that the principle of legality expounded in 
-Simms  extends to the issuing of  general warrants whether in relation to physical 
-liberty or in relation to interference with property.  The aversion to general warrants is 
-one of the basic principles on which the law of the United Kingdom is founded.  As 
-such, it may not be overridden by statute unless the wording of the statute makes clear 
-that Parliament  intended to do so  (AXA General Insurance Ltd v HM Advocate [2011] 
-UKSC 46, [2012] 1 AC 868, para 152, per Lord Reed, citing Lord Browne -Wilkinson 
-in R v Secretary of State for the Home Department, ex parte Pierson  [1998] AC 539, 
-575).  Unambiguous words  are required  (Ahmed v Her Majesty’s Treasury   [2010] 2 
-AC 534, para 204).   
-49. The proper protection of the citizen against terrorist attack is of the greatest  
-importance, and there can be little doubt that technological capabilities operated by 
-the Agencies lie at the very heart of the effor ts of the State to safeguard the citizen 
-against terrorist attack. But we do not accept the suggestion in Sir James’ argument 
-that for th is reason powers conferred on the Secretary of State in statute , such as the 
-power in section 5(2) of the 1994 Act , must be given the widest possible construction. 
-This may not be what Lord Atkin described as an argument “which might have 
-acceptably been add ressed to the Court of King ’s Bench in the time of Charles I” , but 
-it is entirely contrary to the authorities we have cited in the last paragraph.  
-50. Sir James repeatedly emphasised that the “control” on over -broad use of section 5 
+that the court should give a ruling on a complaint relating to a state of affairs which
+
+had ceased to exist more than four years before the complaint was made. We also bear
+
+in mind that the Supreme Court held that judicial review should only be granted in
+
+respect of decisions of the Tribunal of general significance. Issue 9 is in our view of
+
+historical significance only.
+
+Discussion of Issue 4
+
+The relevant principles of statutory interpretation
+
+32. In construing the words of section 5(2), our task is to “ascertain the intention of
+
+Parliament as expressed in the words it has chosen” (R (Quintavalle) v Secretary of
+
+State for Health [2003] UKHL 13, [2003] 2 AC 687, para 38, per Lord Millett). The
+
+court acts under the “banner of loyalty to the will of Parliament” in that its task is to
+
+“give effect to the true meaning of what Parliament has said” (ibid, para 8, per Lord
+
+Bingham of Cornhill).
+
+33. What Parliament has said will be derived from the meaning of individual words read
+
+in the context of the enactment as a whole. Ascertaining the statutory context does
+
+not involve an assessment of evidence relating to the asserted advantages of two
+
+competing interpretations. We do not therefore regard GCHQ’s written evidence as
+
+to the national security benefits of thematic warrants as a legitimate interpretative
+
+tool. Nor do we regard the Claimant’s evidence, which criticises the use of CNE on
+
+privacy grounds, as relevant to our task.
+
+34. Ascertaining the statutory context will instead involve the court in a legal
+
+determination of the purpose of the Act. It is the court’s duty “to favour an
+
+interpretation of legislation which gives effect to its purpose rather than defeating it”
+
+(Test Claimants in the Franked Investment Income Group Litigation v Commissioners
+
+for Her Majesty’s Revenue and Customs [2020] UKSC 47, para 155, per Lord Reed
+
+and Lord Hodge). If the enactment is ambiguous, the meaning which relates the
+
+scope of the Act to the mischief it is intended to cure should be adopted rather than a
+
+different or wider meaning which the situation before Parliament did not call for
+
+(Black-Clawson International Ltd v Papierwerke Waldhof Aschaffenburg AG [1975]
+
+AC 571 at 614C-D). In the present case, the Tribunal held that the words of section
+
+5(2) should “be given their natural meaning in the context in which they are set.” To
+
+the extent that the Tribunal meant that it was legitimate to consider the statutory
+
+purpose, we agree.
+
+35. The purpose of the 1994 Act was (among other things) to place the existence and
+
+functions of GCHQ on a statutory footing. In doing so, Parliament intended that
+
+GCHQ (together with the other Agencies) should continue to protect the United
+
+Kingdom’s national security and economic well-being, and play its part in the
+
+prevention of serious crime. We accept that those vital interests form the context of
+
+the statute as a whole.
+
+36. Nevertheless, there is a distinction between (on the one hand) ascertaining the purpose
+
+of an enactment and (on the other hand) deploying the statutory context to bestow on
+
+the Agencies the widest possible powers that the language may sustain. The
+
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+Interested Parties respectively have constitutional responsibility for and expertise in
+
+operational matters relating to national security. However, the construction of the
+
+provisions of an Act is for the court and for no one else (Black-Clawson at 614F per
+
+Lord Reid). If the court were to be moved by the view of the Interested Parties on the
+
+extent of the powers which they regard as necessary, it would risk departing from
+
+what Parliament has said. Far from acting under the banner of loyalty to Parliament,
+
+the court would risk frustrating Parliament’s intention. Even in the critically
+
+important sphere of national security, the court would overstep its function.
+
+37. Nor do we regard the national security context as implying that Parliament was not
+
+concerned with the fundamental rights of those whose property may be the subject of
+
+CNE. Parliamentary sovereignty means that Parliament may legislate to override
+
+fundamental rights. However, Parliament is and must be subject to political
+
+constraints: if Parliament decides to enact legislation that is contrary to fundamental
+
+rights, it must squarely confront what it is doing and accept the political cost. That
+
+Parliament has confronted a breach of rights may be demonstrated not only in the
+
+express language of a statute but also by necessary implication. In the absence of
+
+either of those mechanisms, the courts will presume that fundamental rights are
+
+untouched. This is the well-established principle of legality (R v Secretary of State
+
+for the Home Department, ex parte Simms [2000] 2 A.C. 115, 130D-F and 131D-G).
+
+38. The next question is whether section 5(2) of the 1994 Act engages fundamental rights.
+
+In our view it plainly does, because of the longstanding aversion of the common law
+
+to general search warrants.
+
+The aversion of the common law to general warrants
+
+39. The aversion of the common law to general warrants was established by the time of
+
+William Blackstone. In his Commentaries on the Laws of England, Book IV, he
+
+wrote (in the form published by Clarendon Press in 1769 but using modern spelling):
+
+“A general warrant to apprehend all persons suspected, without
+
+naming or particularly describing any person in special, is
+
+illegal and void for its uncertainty; for it is the duty of the
+
+magistrate, and ought not to be left to the officer, to judge of
+
+the ground of suspicion.”
+
+40. In his History of the Pleas of the Crown (1736), Sir Matthew Hale cited earlier
+
+authority to the effect that a general warrant to apprehend anyone suspected of a crime
+
+was void and would give rise to a false imprisonment (First American Edition,
+
+Philadelphia, 1847, Vol 1, p.580).
+
+41. In Huckle v Money (1763) 2 Wilson 205, the Secretary of State (Lord Halifax) had
+
+granted a warrant that directed four messengers to apprehend “the printers and
+
+publishers” of an edition of a paper called the North Briton which contained a
+
+“seditious libel” against King George III. No person was named in the warrant. One
+
+of the King’s messengers to whom the warrant was directed – Carrington – suspected
+
+that the printer was a man called Leach and directed the defendant to execute the
+
+warrant on the plaintiff who was one of Leach’s journeymen. The plaintiff was kept
+
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+in custody for about six hours. Following a trial, the jury awarded £300 damages (the
+
+equivalent in 2021 terms of £60,000). A new trial was sought on the grounds that the
+
+damages were excessive. Refusing to order a new trial, Pratt CJCP (the future Lord
+
+Camden) described the warrant as a general warrant because no individual was named
+
+in it. Such a warrant amounted to the exercise of arbitrary power and was unlawful.
+
+The “daring attack” upon the liberty of the subject had justified the grant of
+
+exemplary damages.
+
+42. The North Briton seditious libel was further considered in Money v Leach (1765) 3
+
+Burrow 1742, which concerned an action in trespass brought by Leach against three
+
+King’s messengers who had broken into his home and imprisoned him for four days.
+
+The case report shows that Lord Halifax had issued the warrant “in writing under his
+
+hand and seal,” authorising the messengers on behalf of the King to make “strict and
+
+diligent search for the said authors, printers, and publishers of the aforesaid seditious
+
+libel…; and them or any of them having found, to apprehend and seize, together with
+
+their papers, and to bring in safe custody before [Lord Halifax], to be examined
+
+concerning the premises, and to be further dealt with according to law”.
+
+43. Lord Mansfield CJKB considered an objection to the warrant on the grounds of the
+
+“incertainty of the person, being neither named nor described.” He held:
+
+“It is not fit, that the receiving or judging of the information
+
+should be left to the discretion of the officer. The magistrate
+
+ought to judge; and should give certain discretions to the
+
+officer…Hale and all others hold such an uncertain warrant
+
+void”.
+
+Lord Mansfield was here saying that the officer who executed a warrant could not
+
+lawfully exercise a discretion as to who was to be apprehended: a general warrant
+
+which did not specify its target was void.
+
+44. Similarly, in Wilkes v Wood (1763) Lofft 1, Lord Camden CJCP held that a general
+
+warrant enabling the King’s messengers to exercise their own discretion in interfering
+
+with property was a breach of the right to liberty:
+
+“The defendants claimed a right, under precedents, to force
+
+persons houses, break open escrutores, seize their papers, &c.
+
+upon a general warrant, where no inventory is made of the
+
+things thus taken away, and where no offenders names are
+
+specified in the warrant, and therefore a discretionary power
+
+given to messengers to search wherever their suspicions may
+
+chance to fall. If such a power is truly invested in a Secretary
+
+of State, and he can delegate this power, it certainly may affect
+
+the person and property of every man in this kingdom, and is
+
+totally subversive of the liberty of the subject.”
+
+45. We take from Blackstone, Hale and the general warrant cases that it is a fundamental
+
+right of an individual under the common law that he or she should not be
+
+apprehended, or have property seized and searched, save by decision of the person
+
+legally charged with issuing the warrant. Expressed in modern legal language, a
+
+general warrant is one which requires the exercise of judgment or discretion by the
+
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+official executing the warrant as to which individuals or which property should be
+
+targeted. It follows that a general warrant gives rise to an unlawful delegation of
+
+authority by the legally entrusted decision-maker to the executing official. This
+
+unlawful delegation breaches a fundamental right.
+
+46. We appreciate that the Secretary of State in the general warrant cases was exercising
+
+common law or prerogative powers not authorised by statute, and that two of those
+
+cases involved - at least partly - the physical liberty of the subject. Nevertheless, Mr
+
+Jaffey was correct to say that the right not to have property searched other than by the
+
+authority of the law has always been treated as a fundamental right. The great case of
+
+Entick v Carrington (1765) 19 State Tr 1029 held that the Secretary of State could not
+
+order searches of private property without authority conferred by an Act of Parliament
+
+or the common law. In doing so, the court emphasised the connection between
+
+property and privacy: a person’s papers (containing private information) are their
+
+owner’s “dearest property” whose secret nature cannot be the subject of intrusion
+
+without legal authority.
+
+47. Entick v Carrington and the other general warrant cases of the 1760s are not a mere
+
+historical footnote, nor, as Sir James put it, of only “marginal relevance”. Some of
+
+the language used by Lord Camden, comparing general search warrants to the
+
+practices of the Spanish Inquisition, seems overblown to modern eyes; and no one
+
+today would be awarded exemplary damages at the rate of £10,000 per hour for six
+
+hours’ wrongful detention. But the fundamental message remains good law. Indeed,
+
+the common law’s insistence that the Government cannot search private premises
+
+without lawful authority has been recently confirmed by a unanimous Supreme Court
+
+as having the status of a constitutional principle (R (Miller) v Prime Minister; Cherry
+
+v Advocate General for Scotland [2019] UKSC 41, [2020] AC 373, para 40).
+
+48. We have for these reasons concluded that the principle of legality expounded in
+
+Simms extends to the issuing of general warrants whether in relation to physical
+
+liberty or in relation to interference with property. The aversion to general warrants is
+
+one of the basic principles on which the law of the United Kingdom is founded. As
+
+such, it may not be overridden by statute unless the wording of the statute makes clear
+
+that Parliament intended to do so (AXA General Insurance Ltd v HM Advocate [2011]
+
+UKSC 46, [2012] 1 AC 868, para 152, per Lord Reed, citing Lord Browne-Wilkinson
+
+in R v Secretary of State for the Home Department, ex parte Pierson [1998] AC 539,
+
+575). Unambiguous words are required (Ahmed v Her Majesty’s Treasury [2010] 2
+
+AC 534, para 204).
+
+49. The proper protection of the citizen against terrorist attack is of the greatest
+
+importance, and there can be little doubt that technological capabilities operated by
+
+the Agencies lie at the very heart of the efforts of the State to safeguard the citizen
+
+against terrorist attack. But we do not accept the suggestion in Sir James’ argument
+
+that for this reason powers conferred on the Secretary of State in statute, such as the
+
+power in section 5(2) of the 1994 Act, must be given the widest possible construction.
+
+This may not be what Lord Atkin described as an argument “which might have
+
+acceptably been addressed to the Court of King’s Bench in the time of Charles I”, but
+
+it is entirely contrary to the authorities we have cited in the last paragraph.
+
+50. Sir James repeatedly emphasised that the “control” on over-broad use of section 5
+
 warrants is the requirement for the Secretary of State to be satisfied of the necessity
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- and proportionality of the authorisation sought. We note, however, that t here was no 
-such requirement in the 1994 Act until the amendments made by RIPA to ensure 
-comp liance with the H uman Rights Act. The only requirement was for the Secretary 
-of State to “think it necessary for the action to be taken on the ground that it is likely 
-to be of substantial value” in assisting the relevant Agency in carrying out any of its 
-functions and to be satisfied that what the action sought to achieve could not 
-“reasonably be achieved by other means”.  In any event the value judgment about 
-necessity and proportionality entrusted to the Secretary of State does not in our view 
-assist in c onsideration of why Parliament used the word “specified” in relation to the 
-contents of the warrant.  
-51. A recent and striking  example of the courts’ approach to powers of search in the 
-context of the fight against terrorism is Secretary of State for the Home Department v 
-GG [2009] EWCA Civ 786, [2010] QB 585. The question was whether a person 
-subject to a control order under the Prevention of Terrorism Act 2005 could be 
-required to submit to a personal search. Section 1(3) of the Act provided that:  
-“The obliga tions that may be imposed by a control order made 
-against an individual are any obligations that the Secretary of 
-State or (as the case may be) the court considers necessary for 
-purposes connected with preventing or restricting involvement 
-by that individu al in terrorism -related activity. ”  
-Section 1(4), beginning with the words “these obligations may include , in particular” 
-[emphasis added], went on to set out in 16 subparagraphs what obligations might be 
-imposed, such as:  
-“(j) a requirement on him to give  access to specified persons to 
-his place of residence or to other premises to which he has 
-power to grant access; ” 
-(k) a requirement on him to allow specified persons to search 
-that place or any such premises for the purpose of ascertaining 
-whether obligations imposed by or under the order have been, 
-are being or are about to be contravened;  
-(l) a requirement on him to allow specified persons, either for 
-that purpose or for the purpose of securing that the order is 
-complied with, to remove anything f ound in that place or on 
-any such premises and to subject it to tests or to retain it for a 
-period not exceeding the period for which the order remains in 
-force; …..” 
-The Court of Appeal held that these provisions did not permit the inclusion in a 
-control o rder of a requirement that the controlee submit to a personal search. Dyson 
-LJ said  at para 44  that “general statutory words will not suffice to permit an invasion 
-of fundamental rights unless it is clear from the whole statutory context that 
-Parliament in tended to achieve that result.”  
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+and proportionality of the authorisation sought. We note, however, that there was no
+
+such requirement in the 1994 Act until the amendments made by RIPA to ensure
+
+compliance with the Human Rights Act. The only requirement was for the Secretary
+
+of State to “think it necessary for the action to be taken on the ground that it is likely
+
+to be of substantial value” in assisting the relevant Agency in carrying out any of its
+
+functions and to be satisfied that what the action sought to achieve could not
+
+“reasonably be achieved by other means”. In any event the value judgment about
+
+necessity and proportionality entrusted to the Secretary of State does not in our view
+
+assist in consideration of why Parliament used the word “specified” in relation to the
+
+contents of the warrant.
+
+51. A recent and striking example of the courts’ approach to powers of search in the
+
+context of the fight against terrorism is Secretary of State for the Home Department v
+
+GG [2009] EWCA Civ 786, [2010] QB 585. The question was whether a person
+
+subject to a control order under the Prevention of Terrorism Act 2005 could be
+
+required to submit to a personal search. Section 1(3) of the Act provided that:
+
+“The obligations that may be imposed by a control order made
+
+against an individual are any obligations that the Secretary of
+
+State or (as the case may be) the court considers necessary for
+
+purposes connected with preventing or restricting involvement
+
+by that individual in terrorism-related activity.”
+
+Section 1(4), beginning with the words “these obligations may include, in particular”
+
+[emphasis added], went on to set out in 16 subparagraphs what obligations might be
+
+imposed, such as:
+
+“(j) a requirement on him to give access to specified persons to
+
+his place of residence or to other premises to which he has
+
+power to grant access;”
+
+(k) a requirement on him to allow specified persons to search
+
+that place or any such premises for the purpose of ascertaining
+
+whether obligations imposed by or under the order have been,
+
+are being or are about to be contravened;
+
+(l) a requirement on him to allow specified persons, either for
+
+that purpose or for the purpose of securing that the order is
+
+complied with, to remove anything found in that place or on
+
+any such premises and to subject it to tests or to retain it for a
+
+period not exceeding the period for which the order remains in
+
+force;…..”
+
+The Court of Appeal held that these provisions did not permit the inclusion in a
+
+control order of a requirement that the controlee submit to a personal search. Dyson
+
+LJ said at para 44 that “general statutory words will not suffice to permit an invasion
+
+of fundamental rights unless it is clear from the whole statutory context that
+
+Parliament intended to achieve that result.”
+
 Application of these principles to section 5(2) of the 1994 Act
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- 52. On the  basis of these principles, even looking at section 5(2) in isolation, we would 
-conclude that Parliament deliberately used the word “specified” rather th an “of a 
-specified description” or “described” , and that the provision as drafted does not 
-permit the issue of a general warrant. But that becomes even clearer when one re ads 
-the 1994 Act as a whole.  
-The contrast with section 7(4)  
-53. There is a s triking contr ast between section s 5(2) and 7(4)  of the 1994 Act . The latter, 
-which only applies to acts done outside the British Islands, permits authorisations 
-which “may relate to a particular act or acts , to acts of a description specified in the 
-authorisation or to acts undertaken in the course of an operation so specified ”, and 
-“may be limited to a particular person or person of a description so specified”; and , 
-for good measure,  the opening words of the  subsection say that these provisions are 
-“without prejudice to the generality of the power of the Secretary of State to give an 
-authorisation” under section 7. There is no such wording in section 5. If Parliament 
-had wished to use the phrase “property of a description specified in the warrant” in 
-section  5(2) it could have done so.  “Specified” and “ of a specified description”  are not 
-synonyms, and we consider that the use of different words in the two provisions is 
-highly significant.  
-The contrast with the  2016 Act  
-54. There is also a contrast between section 5 of the 1994 Act and the regime established 
-by sections 99 -102 of the I nvestigatory Powers Act 2016 for targeted equipment 
-interference warrants for the purpose of obtaining communications, equipment data  or 
-any other information. The subject matter to which such warrants may relate is set out 
-in great detail in section 101(1). It includes, for example, “equipment belonging to, 
-used by or in possession of a group of persons who share a common purpose or wh o 
-carry on, or may carry on , a particular activity ( section 101(1)(b)) or “which is being, 
-or may be, used for the purposes of a particular activity or activities of a particular 
-description”  (section 101(1) (f)). As with section 7 of the 1994 Act, the cont rast 
-between these very broad powers and the use of the word “specified” in section 5 of 
-the 1994 Act is striking. It is also to be noted that, as we have said, section 5 of the 
-1994 Act is still in force in relation to CNE for the purpose of disrupting or  destroying 
-a target’s electronic capability, as well as for activities such as interference with 
-vehicles or other tangible property.  The fact that Parliament left its wording unaltered 
-while using entirely different wording for creating new powers of equ ipment 
-interference strongly suggests to us a deliberate decision to maintain a distinction 
-between the breadth of the relevant powers . It may be that, as Sir James submits, a 
-later statute cannot generally be used to interpret an earlier one ; but we do no t 
-consider that this rule applies where the later statute has partly replaced the earlier 
-provision but partly left it in force.  
-Conclusions on Issue 4  
-55. The Tribunal’ s formulation was that the warrant must be “as specific as possible… so 
-that the property to be covered is objectively ascertainable ”; the latter phrase not 
-being derived from the statute but from Sir James’ submissions . They said that this 
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+52. On the basis of these principles, even looking at section 5(2) in isolation, we would
+
+conclude that Parliament deliberately used the word “specified” rather than “of a
+
+specified description” or “described”, and that the provision as drafted does not
+
+permit the issue of a general warrant. But that becomes even clearer when one reads
+
+the 1994 Act as a whole.
+
+The contrast with section 7(4)
+
+53. There is a striking contrast between sections 5(2) and 7(4) of the 1994 Act. The latter,
+
+which only applies to acts done outside the British Islands, permits authorisations
+
+which “may relate to a particular act or acts, to acts of a description specified in the
+
+authorisation or to acts undertaken in the course of an operation so specified”, and
+
+“may be limited to a particular person or person of a description so specified”; and,
+
+for good measure, the opening words of the subsection say that these provisions are
+
+“without prejudice to the generality of the power of the Secretary of State to give an
+
+authorisation” under section 7. There is no such wording in section 5. If Parliament
+
+had wished to use the phrase “property of a description specified in the warrant” in
+
+section 5(2) it could have done so. “Specified” and “of a specified description” are not
+
+synonyms, and we consider that the use of different words in the two provisions is
+
+highly significant.
+
+The contrast with the 2016 Act
+
+54. There is also a contrast between section 5 of the 1994 Act and the regime established
+
+by sections 99-102 of the Investigatory Powers Act 2016 for targeted equipment
+
+interference warrants for the purpose of obtaining communications, equipment data or
+
+any other information. The subject matter to which such warrants may relate is set out
+
+in great detail in section 101(1). It includes, for example, “equipment belonging to,
+
+used by or in possession of a group of persons who share a common purpose or who
+
+carry on, or may carry on, a particular activity (section 101(1)(b)) or “which is being,
+
+or may be, used for the purposes of a particular activity or activities of a particular
+
+description” (section 101(1)(f)). As with section 7 of the 1994 Act, the contrast
+
+between these very broad powers and the use of the word “specified” in section 5 of
+
+the 1994 Act is striking. It is also to be noted that, as we have said, section 5 of the
+
+1994 Act is still in force in relation to CNE for the purpose of disrupting or destroying
+
+a target’s electronic capability, as well as for activities such as interference with
+
+vehicles or other tangible property. The fact that Parliament left its wording unaltered
+
+while using entirely different wording for creating new powers of equipment
+
+interference strongly suggests to us a deliberate decision to maintain a distinction
+
+between the breadth of the relevant powers. It may be that, as Sir James submits, a
+
+later statute cannot generally be used to interpret an earlier one; but we do not
+
+consider that this rule applies where the later statute has partly replaced the earlier
+
+provision but partly left it in force.
+
+Conclusions on Issue 4
+
+55. The Tribunal’s formulation was that the warrant must be “as specific as possible… so
+
+that the property to be covered is objectively ascertainable”; the latter phrase not
+
+being derived from the statute but from Sir James’ submissions. They said that this
+
 requirement was for two reasons: (1) to enable the Secretary of State to make a
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- decision as to legality, necessity and proportionality and (2) to assist those executing 
-the warrant.  
-56. With respect, w e do not follow  the logic of the first of these two reasons. It is the 
-application, not the warrant itself, which the Secretary of State has to consider. 
-Section 5 does not lay down requirements about the application for the warrant, but as 
-to the content of the warrant itself , which is the Secretary of State’s document .   
-57. The real point, as it seems to us , is whether the warrant is on its face sufficiently 
-specific to indicate to individual officers at GCHQ – who for these purposes are the 
-successors to the King’s Messen gers in the 1760s – whose property, or which 
-property, can be interfered with, rather than leaving it to their discretion. That is what 
-we understand by the words “objectively ascertainable”  (though they are not used in 
-the statute) .  
-58. The requirement for w arrants ( except  pursuant to the urgency provisions) to be “under 
-the hand of the Secretary of State ” and thus be the product of a decision taken by him 
-or her personally further emphasises that Parliament regar ded it as impermissib le to 
-delegate to an offi cial the decision as to whose property is to be interfered with.    
-59. As Mr Jaffey accepted , a warrant under section 5(2) may properly be issued in respect 
-of one or more mobile phones or other devices with listed serial numbers; those used 
-by one or more nam ed individuals; those located or being used at one or more sets of 
-premises, such as 1 and 2 Acacia Avenue; any device used (in his example) by 
-“persons who at today’s date are on the FC DO Syrian diplomatic list”; and any device 
-used (again, in his example) by “the blonde haired man , name unknown, seen leaving 
-1 Acacia Avenue on 1 December 2015”.  
-60. Turning  to location, Mr Jaffey  was prepared to concede that the whole of Acacia 
-Avenue could be included, but not a large area such as Birmingham. He did n ot agree 
-that a warrant could properly cover anyone who was not within its scope (for 
-example, by being on the FCO Syrian diplomatic list, or being in residence at 1 
-Acacia Avenue) on the date of issue of the warrant, but who came within it  at some 
-future point  during the period for which it was in force.  
-61. We do not agree with Mr Jaffey that a warrant could never lawfully permit the use of 
-CNE across a broad geographical area (such as a town or city).  The boundaries of a 
-geographical area , at least if it is  a local authority area (such as the city of 
-Birmingham, or the county of Kent) , are capable of being specified in a warrant  under 
-section 5(2) .  Whether the issue of a warrant to allow interference with every mobile 
-phone in Birmingham could ever be justi fied as being necessary and proportionate is a 
-different question , which does not arise in these proceedings . 
-62. We do not regard section 5 as limited to factual situations as at the date of the 
-warrant : that is not what the section means. A warrant in respec t of “any device used 
-at the Acacia Avenue Internet Café during the period of six months from the date of 
-issue of the warrant” would in our view be sufficiently specific, as would “anyone 
-who appears on the FC DO Ruritanian diplomatic list during the perio d of six months 
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+decision as to legality, necessity and proportionality and (2) to assist those executing
+
+the warrant.
+
+56. With respect, we do not follow the logic of the first of these two reasons. It is the
+
+application, not the warrant itself, which the Secretary of State has to consider.
+
+Section 5 does not lay down requirements about the application for the warrant, but as
+
+to the content of the warrant itself, which is the Secretary of State’s document.
+
+57. The real point, as it seems to us, is whether the warrant is on its face sufficiently
+
+specific to indicate to individual officers at GCHQ – who for these purposes are the
+
+successors to the King’s Messengers in the 1760s – whose property, or which
+
+property, can be interfered with, rather than leaving it to their discretion. That is what
+
+we understand by the words “objectively ascertainable” (though they are not used in
+
+the statute).
+
+58. The requirement for warrants (except pursuant to the urgency provisions) to be “under
+
+the hand of the Secretary of State” and thus be the product of a decision taken by him
+
+or her personally further emphasises that Parliament regarded it as impermissible to
+
+delegate to an official the decision as to whose property is to be interfered with.
+
+59. As Mr Jaffey accepted, a warrant under section 5(2) may properly be issued in respect
+
+of one or more mobile phones or other devices with listed serial numbers; those used
+
+by one or more named individuals; those located or being used at one or more sets of
+
+premises, such as 1 and 2 Acacia Avenue; any device used (in his example) by
+
+“persons who at today’s date are on the FCDO Syrian diplomatic list”; and any device
+
+used (again, in his example) by “the blonde haired man, name unknown, seen leaving
+
+1 Acacia Avenue on 1 December 2015”.
+
+60. Turning to location, Mr Jaffey was prepared to concede that the whole of Acacia
+
+Avenue could be included, but not a large area such as Birmingham. He did not agree
+
+that a warrant could properly cover anyone who was not within its scope (for
+
+example, by being on the FCO Syrian diplomatic list, or being in residence at 1
+
+Acacia Avenue) on the date of issue of the warrant, but who came within it at some
+
+future point during the period for which it was in force.
+
+61. We do not agree with Mr Jaffey that a warrant could never lawfully permit the use of
+
+CNE across a broad geographical area (such as a town or city). The boundaries of a
+
+geographical area, at least if it is a local authority area (such as the city of
+
+Birmingham, or the county of Kent), are capable of being specified in a warrant under
+
+section 5(2). Whether the issue of a warrant to allow interference with every mobile
+
+phone in Birmingham could ever be justified as being necessary and proportionate is a
+
+different question, which does not arise in these proceedings.
+
+62. We do not regard section 5 as limited to factual situations as at the date of the
+
+warrant: that is not what the section means. A warrant in respect of “any device used
+
+at the Acacia Avenue Internet Café during the period of six months from the date of
+
+issue of the warrant” would in our view be sufficiently specific, as would “anyone
+
+who appears on the FCDO Ruritanian diplomatic list during the period of six months
+
 from the date of the warrant”.
 
-Judgment Approved by the court for handing down.  Privacy International v Investigatory Powers Tribunal  
- 
- 63. However, w e consider that a warrant which referred to the property of anyone 
-engaged in an activity (for example “the mobile phone of any person conspiring to 
-commit acts of terrorism”) would be insufficiently  specific to satisfy the requirements 
-of section 5(2) . Whether a warrant which refers to the property of any one suspected of 
-being a member of an organisation , but not named or otherwise identified in the 
-warrant , is sufficiently specific will be a fact -sensitive question, the answer to which 
-will depend on whether a person’s membership of the organisation is objectively 
-ascertainable .  
-64. We would therefore answer the question of law in Issue 4 by declaring  that a warrant 
-under section 5 of the 1994 Act will be lawful if it is sufficiently specific for the 
-property concerned to be objectively ascertainable on the face of the warrant , in the 
+Judgment Approved by the court for handing down. Privacy International v Investigatory Powers Tribunal
+
+63. However, we consider that a warrant which referred to the property of anyone
+
+engaged in an activity (for example “the mobile phone of any person conspiring to
+
+commit acts of terrorism”) would be insufficiently specific to satisfy the requirements
+
+of section 5(2). Whether a warrant which refers to the property of anyone suspected of
+
+being a member of an organisation, but not named or otherwise identified in the
+
+warrant, is sufficiently specific will be a fact-sensitive question, the answer to which
+
+will depend on whether a person’s membership of the organisation is objectively
+
+ascertainable.
+
+64. We would therefore answer the question of law in Issue 4 by declaring that a warrant
+
+under section 5 of the 1994 Act will be lawful if it is sufficiently specific for the
+
+property concerned to be objectively ascertainable on the face of the warrant, in the
+
 sense we have set out in paragraphs 57 to 64 of this judgment.
 
-1 
- IN THE HIGH COURT OF JUSTICE     Case No: CO/2368/2016   
-QUEEN’S BENCH DIVISION  
-DIVISIONAL COURT  
- 
-Lord Justice Bean and Mrs Justice Farbey  
-8 January 2021  
- 
-BETWEEN:  
-PRIVACY INTERNATIONAL  
-Claimant  
-– and – 
- 
-INVESTIGATORY POWERS TRIBUNAL  
-Defendant  
-– and – 
- 
-(1) SECRETARY OF STATE FOR FOREIGN , COMMONWEALTH AND 
-DEVELOPMENT AFFAIRS  
-(2) GOVERNMENT COMMUNICATION HEADQUARTERS  
-Interested Parties  
- 
-          
-ORDER  
-          
- 
-UPON  the Claimant’s application for judicial review of the decision of the Defendant (“the 
-Tribunal ”) dated 12 February 2016 (“ the Decision ”)  
-AND UPON  hearing Ben Jaffey QC and Tom Cleaver for the Claimant and Sir James Eadie QC 
-and Richard O’Brien for the Interested Parties (the Tribunal not appearing by counsel)  
+IN THE HIGH COURT OF JUSTICE Case No: CO/2368/2016
+
+QUEEN’S BENCH DIVISION
+
+DIVISIONAL COURT
+
+Lord Justice Bean and Mrs Justice Farbey
+
+8 January 2021
+
+BETWEEN:
+
+PRIVACY INTERNATIONAL
+
+Claimant
+
+– and –
+
+INVESTIGATORY POWERS TRIBUNAL
+
+Defendant
+
+– and –
+
+(1) SECRETARY OF STATE FOR FOREIGN, COMMONWEALTH AND
+
+DEVELOPMENT AFFAIRS
+
+(2) GOVERNMENT COMMUNICATION HEADQUARTERS
+
+Interested Parties
+
+ORDER
+
+UPON the Claimant’s application for judicial review of the decision of the Defendant (“the
+
+Tribunal”) dated 12 February 2016 (“the Decision”)
+
+AND UPON hearing Ben Jaffey QC and Tom Cleaver for the Claimant and Sir James Eadie QC
+
+and Richard O’Brien for the Interested Parties (the Tribunal not appearing by counsel)
+
 IT IS ORDERED THAT:
 
-2 
- 1. The Tribunal’s preli minary ruling on ‘Issue 4 ’ (as defined in the Decision ) is quashed.  
-2. It is declared that a warrant issued under section 5 of the Intelligence Services Act 1994 
-must , in order to be lawful,  be sufficiently specific for the property concerned to be 
-objectively ascertainable on the face of the warrant, in the sense set out in paragraphs 57 to 
-64 of the judgment of the Divisional Court handed down on 8 January 2021  (“the 
-Judgment ”). 
-3. The Claimant’s application for permission to amend the claim to seek j udicial review of the 
-Defendant’s conclusion on Issue 9 (as defined in the Decision) is dismissed . 
-4. The Tribunal’s determination under section 68(4) of the Regulation of Investigatory Powers 
-Act 2000 is quashed and is remitted to the Tribunal for reconsideration  in light of the 
-Judgment .  
-5. The parties shall file and exchange written submissions as to the costs of the proceedings 
-(except in so far as already ordered by the Supreme Court in its order of 10 June 2019) by 
-4pm on 11 January 2021.  
-6. Time f or the Claimant or the Interested Parties to make any application to the Divisional 
-Court for permission to appeal to the Court of Appeal be extended from 4pm on 11 January 
-2021 to 4pm on 1 February 2021.  
-7. The Claimant and the Interested Parties shall have  liberty to apply for any further extension 
-of time to make any application referred to in paragraph 6.  
-8. Time for any application  by the Claimant or the Interested Parties to the Court of Appeal for 
-permission to appeal be extended to 21 days from the date  of any decision by the Divisional 
-Court on an y application referred to in paragraph 6.
+1
+
+1. The Tribunal’s preliminary ruling on ‘Issue 4’ (as defined in the Decision) is quashed.
+
+2. It is declared that a warrant issued under section 5 of the Intelligence Services Act 1994
+
+must, in order to be lawful, be sufficiently specific for the property concerned to be
+
+objectively ascertainable on the face of the warrant, in the sense set out in paragraphs 57 to
+
+64 of the judgment of the Divisional Court handed down on 8 January 2021 (“the
+
+Judgment”).
+
+3. The Claimant’s application for permission to amend the claim to seek judicial review of the
+
+Defendant’s conclusion on Issue 9 (as defined in the Decision) is dismissed.
+
+4. The Tribunal’s determination under section 68(4) of the Regulation of Investigatory Powers
+
+Act 2000 is quashed and is remitted to the Tribunal for reconsideration in light of the
+
+Judgment.
+
+5. The parties shall file and exchange written submissions as to the costs of the proceedings
+
+(except in so far as already ordered by the Supreme Court in its order of 10 June 2019) by
+
+4pm on 11 January 2021.
+
+6. Time for the Claimant or the Interested Parties to make any application to the Divisional
+
+Court for permission to appeal to the Court of Appeal be extended from 4pm on 11 January
+
+2021 to 4pm on 1 February 2021.
+
+7. The Claimant and the Interested Parties shall have liberty to apply for any further extension
+
+of time to make any application referred to in paragraph 6.
+
+8. Time for any application by the Claimant or the Interested Parties to the Court of Appeal for
+
+permission to appeal be extended to 21 days from the date of any decision by the Divisional
+
+Court on any application referred to in paragraph 6.
+
+2
