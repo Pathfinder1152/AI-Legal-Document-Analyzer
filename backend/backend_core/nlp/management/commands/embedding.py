@@ -6,34 +6,36 @@ from preprocessing.cleaning import clean_paragraph_text
 from preprocessing.chunking import smart_chunk_text
 from api.models import CaseMetadata
 
-# Pinecone setup
-PINECONE_API_KEY = os.getenv("pcsk_5ekBj9_DLGe9otFGoyF5pk9ewkzcHa1DUqEkn9m56PN5QTUnD7bwo6QoU7kBse5XpTAnXg")
-PINECONE_INDEX_NAME = os.getenv("PINECONE_INDEX_NAME", "legal-embeddings")
-pc = Pinecone(api_key=PINECONE_API_KEY)
+BASE_DIR = "D:/ai-legal-document-analysis/"
 
-SAFE_MAX_TOKENS = 1800
-OVERLAP = 200
-EMBEDDING_DIR = os.path.join("data", "embeddings")
+# Pinecone setup
+pc = Pinecone(api_key="pcsk_5ekBj9_DLGe9otFGoyF5pk9ewkzcHa1DUqEkn9m56PN5QTUnD7bwo6QoU7kBse5XpTAnXg")
+PINECONE_INDEX_NAME = "legal-embeddings"
+
+# Ensure the Pinecone index exists
+if PINECONE_INDEX_NAME not in [i.name for i in pc.list_indexes()]:
+    pc.create_index(
+        name=PINECONE_INDEX_NAME,
+        dimension=1024,
+        metric="cosine",
+        spec=ServerlessSpec(cloud="aws", region="us-east-1"),
+    )
+
+index = pc.Index(PINECONE_INDEX_NAME)
+
+SAFE_MAX_TOKENS = 250
+OVERLAP = 50
+EMBEDDING_DIR = os.path.join(BASE_DIR, "data", "embeddings")
 
 class Command(BaseCommand):
     help = "Generate vector embeddings and upsert to Pinecone (plus save JSON locally)."
 
     def handle(self, *args, **kwargs):
-        # Ensure the Pinecone index exists
-        if PINECONE_INDEX_NAME not in [i.name for i in pc.list_indexes()]:
-            pc.create_index(
-                name=PINECONE_INDEX_NAME,
-                dimension=1024,
-                metric="cosine",
-                spec=ServerlessSpec(cloud="aws", region="us-east-1"),
-            )
-
-        index = pc.Index(PINECONE_INDEX_NAME)
-
+        
         cases = CaseMetadata.objects.exclude(semantic_text_path__isnull=True)
 
         for case in cases:
-            file_path = case.embedding_text_path
+            file_path = os.path.join(BASE_DIR, case.semantic_text_path)
             if not os.path.isfile(file_path):
                 self.stdout.write(self.style.WARNING(f"File not found: {file_path}"))
                 continue
