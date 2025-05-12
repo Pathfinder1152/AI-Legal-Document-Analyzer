@@ -1,0 +1,25 @@
+{
+  "file_name": "172.rtf",
+  "metadata": {
+    "case_number": "CO/5994/2016",
+    "neutral_citation": "[2018] EWHC 172 (Admin)",
+    "court": "IN THE HIGH COURT OF JUSTICE QUEEN'S BENCH DIVISION ADMINISTRATIVE COURT",
+    "judges": [
+      "THE RIGHT HONOURABLE THE LORD BURNETT OF MALDON THE LORD CHIEF JUSTICE, THE HONOURABLE MR JUSTICE OUSELEY"
+    ],
+    "hearing_date": "29 and 30 November 2017",
+    "parties": {
+      "Appellant": "LAURI LOVE",
+      "Respondent": "THE GOVERNMENT OF THE UNITED STATES OF AMERICA",
+      "Interested Parties": "LIBERTY"
+    },
+    "representatives": {
+      "Appellant": "Mr Edward Fitzgerald Qc And Mr Ben Cooper (Instructed By Kaim Todner Solicitors Ltd) For The Appellant",
+      "Respondent": "Mr Peter Caldwell (Instructed By Cps Extradition Unit)",
+      "Interested Parties": "Mr Alex Bailin Qc And Mr Aaron Watkins (Instructed By Liberty)"
+    },
+    "extracted_at": "2025-04-13T12:53:03.827337Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\172.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\172.txt"
+}

@@ -1,0 +1,201 @@
+Neutral Citation Number: [2013] EWHC 216 (Admin)
+
+Case No: CO/4854/2012
+
+IN THE HIGH COURT OF JUSTICE
+
+QUEEN'S BENCH DIVISION
+
+ADMINISTRATIVE COURT
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Date: 21/02/2013
+
+Before:
+
+LORD JUSTICE GROSS
+
+And
+
+MRS JUSTICE GLOSTER
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Between :
+
+|Usman Ahzaz|Appellant|
+
+|- and -||
+
+|The United States of America|Respondent|
+
+- - - - - - - - - - - - - - - - - - - - -
+
+(Transcript of the Handed Down Judgment of
+
+WordWave International Limited
+
+A Merrill Communications Company
+
+165 Fleet Street, London EC4A 2DY
+
+Tel No:  020 7404 1400, Fax No: 020 7831 8838
+
+Official Shorthand Writers to the Court)
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Mr Ben Cooper (instructed by Kaim Todner) for the Appellant
+
+Mr Daniel Sternberg (instructed by the Crown Prosecution Service) for the Respondent
+
+Hearing dates: 1st February 2013
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Judgment
+
+LORD JUSTICE GROSS:
+
+INTRODUCTION
+
+This is an appeal, pursuant to s.103 of the Extradition Act 2003 (“the 2003 Act”), from the decision of DSDJ Wickham, sitting at Westminster Magistrates’ Court, on the 16th March, 2012 (“the judgment”), to send the matter to the Secretary of State (“the SSHD”) to consider extraditing the Appellant to the United States of America in connection with (what may be termed) “computer hacking”.   Subsequently, on the 1st May, 2012, the SSHD ordered the Appellant’s extradition.
+
+The sole issue on this appeal concerned double criminality, though, as will be seen, the true scope of the matter came to benefit from some clarification.
+
+At the end of the hearing, we indicated that the appeal would be dismissed and that our reasons would follow (including the clarification already foreshadowed).  These are my reasons for dismissing the appeal.
+
+The factual allegations forming the basis of the Request for extradition (“the Request”) may be shortly summarised and are taken from the Affidavit, sworn on the 5th October, 2011 (“the Affidavit”), of Mr. Arenson, a Trial Attorney of the United States Department of Justice, together with the supporting documents therewith – including the Indictment filed on 26th July, 2011 (“the Indictment”).
+
+The Appellant is a 24 year old Pakistani national who, prior to his arrest, resided in Pakistan.  In or about June and July 2010, the Respondent (“the US”) alleges that the Appellant had control of over 100,000 protected computers (a “botnet”), without the knowledge or authorisation of the owners of those computers.  Previously, those computers had been infected with malicious software (“malware”).
+
+The US goes on to allege that in June 2010, the Appellant sold “installs” to an undercover FBI agent.  The undercover agent paid the Appellant US$600 in return for the Appellant’s agreement to surreptitiously install what he believed to be malicious computer code (provided by the undercover agent) onto the compromised computers within the Appellant’s botnet.   The FBI has stated that the software provided to the Appellant was indeed installed on more than 100,000 computers.
+
+After some debate in the Court below, it was established that, of those 100,000 computers, approximately 800 were physically located in the United States.  Accordingly and as accepted by DSDJ Wickham, given the requirements of territoriality, the Appellant’s extradition to the United States was limited to the allegations regarding these 800 computers.
+
+Insofar as material, the Indictment provided as follows:
+
+“INTRODUCTION
+
+…….
+
+1. A ‘protected computer’ includes a computer which is used in or affecting interstate or foreign commerce or communication…. A personal computer connected to the Internet is a ‘protected computer’.
+
+…..
+
+3. Defendant….used malicious software to take command and control of a network of compromised protected computers (a ‘botnet’) without the authorisation of the owners of those computers, and offered for sale the use of said botnet to others for unauthorized purposes.
+
+COUNT ONE
+
+(Damaging a computer or information)
+
+…..
+
+5. On or before June 28, 2010, and continuing until at least July 5, 2010, within the District of Columbia and elsewhere, defendant….did knowingly cause and attempt to cause the transmission of a program, information, code, or command, that is, a malicious computer software program, and an additional program, information, code, or command, that is, a secondary program, and, as a result of such conduct, intentionally caused and attempted to cause damage without authorization to ten or more protected computers during any one-year period.
+
+All in violation of Title 18, United States Code, Sections 1030(a)(5)(A), (b), and (c)(4)(A)(i)(VI) and Section 2.”
+
+The gravamen of the US case appears from the Affidavit:
+
+“ The government’s evidence will establish that AHZAZ transmitted and installed what he believed to be malicious code provided to him by an undercover FBI agent onto more than 100,000 compromised computers that AHZAZ surreptitiously controlled. …. ”
+
+As already explained, “only” about 800 of the 100,000 computers are relevant to these proceedings.
+
+It is unnecessary to take further time over the detail of US law as there was no dispute, either before the District Judge or on appeal, that the conduct set out in the Request in relation to the 800 computers would, if proved, constitute an offence under US law punishable by imprisonment for more than 12 months.  Instead, the issue throughout has been whether such conduct, had it occurred here, would (if proved) constitute an offence under the law of England and Wales – and thus constitute an extradition offence within ss. 78(4)(b) and 137(2) of the 2003 Act.
+
+The relevant English law is to be found in ss. 1, 3 and 17 of the Computer Misuse Act 1990 (“the 1990 Act”).
+
+“ 1. Unauthorised access to computer material.
+
+(1) A person is guilty of an offence if –
+
+(a) he causes a computer to perform any function with intent to secure access to any program or data held in any computer …..
+
+(b) the access he intends to secure….is unauthorised; and
+
+(c) he knows at the time when he causes the computer to perform the function that that is the case.
+
+(2) The intent a person has to have to commit an offence under this section need not be directed at –
+
+(a) any particular program or data;
+
+(b) a program or data of any particular kind; or
+
+(c) a program or data held in any particular computer.
+
+….
+
+3. Unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer, etc.
+
+(1) A person is guilty of an offence if –
+
+(a)  he does any unauthorised act in relation to a computer;
+
+(b) at the time when does the act he knows that it is unauthorised; and
+
+(c)  either subsection (2) or subsection (3) below applies.
+
+(2) This subsection applies if the person intends by doing the act –
+
+(a) to impair the operation of any computer;
+
+(b) to prevent or hinder access to any program or data held in any computer;
+
+(c) to impair the operation of any such program or the reliability of any such data; …..
+
+…..
+
+17. Interpretation.
+
+(2)  A person secures access to any program or data held in a computer if by causing a computer to perform any function he –
+
+(a) alters or erases the program or data; ….”
+
+DSDJ Wickham’s key conclusions were set out at [14] of the judgment; she dealt, first, with s.3 of the 1990 Act, thereafter with s.1, as follows:
+
+“ The key factor as far as this court is concerned is that these computers were under the control of the defendant as a result of them being infected with a program and that when the ‘installs’ occurred this must have been an unauthorised act …intended to impair the operation of a program or reliability of data, Section 3(2)(c) must apply.  I accept this submission.  The 1990 Act does not need any particular program or data to be identified to satisfy the need of the defendant’s intention.
+
+Furthermore, the use of the defendant’s own computer in the installation of the code supplied to him by the FBI onto computers that he controlled and which he intended to access would in my opinion constitute causing a computer to perform a function with intent to secure access to a program held in those other computers. To that extent this request is Section 17(2)(c) compliant.”
+
+Very fairly, Mr. Cooper who appeared for the Appellant in this Court (but not below) accepted that although the District Judge referred (apparently erroneously) to s.17(2)(c), he would not object to us considering the matter under s.17(2)(a) (set out above).
+
+THE RIVAL CASES
+
+For the Appellant, Mr. Cooper formulated the short point on the appeal as follows: namely, whether the Appellant’s conduct (if proved and had it occurred here) constituted an offence under ss. 1 and/or 3 of the 1990 Act.  His submission was that the Request was insufficiently particularised to answer that question “yes”.  The Request was too broad and generalised.  There was no explanation of how “malware” operated. As to the “installs”, to describe them as “malicious” was too imprecise; there were many forms of “malice” and not all of them resulted in impairment (within the 1990 Act).   Accordingly, the double criminality requirement was not satisfied.
+
+This was not simply a technical point.  It served to highlight the distinction between a completed offence doing actual damage and an attempt which fell short of causing actual damage.  The Request did not furnish an evidential basis supporting actual damage; it was inherently likely that in a “sting” operation (such as that alleged here), the FBI would not have supplied the Appellant with software which was in fact malicious – as opposed to software he believed to be malicious.  The difference between the complete offence (causing damage) and an attempt was (at the lowest) capable of being of importance for sentencing purposes in the US and the true basis upon which extradition was sought should be made clear by this Court – even if it was otherwise against the Appellant.
+
+For the US, Mr. Sternberg, fortified by a powerful skeleton argument, submitted that the requirement of double criminality was satisfied under both ss. 1 and 3 of the 1990 Act and amply so.  As to s.1:
+
+“ …the appellant …secured access to the data in the computers controlled in his botnet by altering the data on those computers.  He used his computer to perform a function, the transmission of the malicious code, thus altering the data held on the computers in the botnet on which the code was installed….
+
+Notably the intent to commit an offence under section 1(2) …[of the 1990 Act]…does not need to be directed at any particular program or data, a program or data of any particular kind or a program or data held in any particular computer. Thus causing a computer to transmit code intending to alter the data of another computer in an unauthorised manner and knowing it to be so, makes out the offence under section 1….”
+
+So far as concerned s.3, there was no dispute that the Appellant’s acts were unauthorised and that he knew them to be unauthorised.   The very fact of his installing code believing it to be malicious onto a computer was an act intended to impair the operation of such a computer, whether or not it in fact had that effect. The offence under s.3 was sufficiently made out.
+
+Very properly, Mr. Sternberg accepted that on the material contained in the Request, the focus of the extradition was concerned with an attempt rather than the causing of actual damage.  However, Mr. Sternberg underlined that the offence/s arose in the context of the Appellant’s prior control of the computers in question.
+
+DISCUSSION
+
+We were furnished with a number of authorities but, in light of the view I take of the matter, it is unnecessary to make more than the briefest reference to two.
+
+First, the relevant test in s.137(2)(b) of the 2003 Act requires the Court to be satisfied (to the criminal standard) that “…the conduct would constitute an offence under the law of the relevant part of the United Kingdom…”.    As explained by Maurice Kay LJ in Mauro v Government of the United States of America [2009] EWHC 150 (Admin), at [9]:
+
+“ This does not mean that the requesting state must prove the guilt of the person in English law.  That would be absurd and would be a higher test than the prima facie case which had to be established under earlier legislation.  The words ‘would constitute an offence’ simply mean ‘would, if proved, constitute’ the English offence….”
+
+Secondly, in addressing the relevant test, the Court is entitled to draw proper inferences from the conduct that is spelled out in a request:  see, Zak v Regional Court of Bydgoszcz Poland [2008] EWHC 470 (Admin), at [16], per Richards LJ.
+
+I take s.3 of the 1990 Act first. For my part and despite Mr. Cooper’s valiant efforts, it is plain that the Appellant’s conduct would, if proved, constitute an offence under s.3.  In the present case, the Appellant (on the facts as alleged) had control of the computers in question without the knowledge or authorisation of their owners.  The Appellant, for reward, agreed to install, surreptitiously, and did install, software he believed to be malicious on those computers. There is no dispute that his action in doing so was, to his knowledge, unauthorised.   The obvious reason for the Appellant acting as he did was to impair the operation of the computer or the program or data in question, within the meaning of s.3(2)(a) and/or (c) of the 1990 Act.  To my mind that inference is inescapable unless there is something to set against it – which, conspicuously, there is not.  No further particularisation was required in the Request.   The point will not benefit from elaboration and this conclusion is sufficient to dispose of the appeal, regardless of the view taken as to s.1 of the 1990 Act.
+
+For completeness, however, I go on to deal with s.1, which can likewise be taken shortly.   In my judgment (on the alleged facts), by his knowingly unauthorised action in installing the software believed to be malicious onto the computers in question, the conclusion is inescapable that the Appellant was altering the data on those computers, so constituting an offence under s.1, read with s.17(2)(a) of the 1990 Act.   Again, I am wholly unable to accept that any further particularisation was required in the Request.
+
+It follows that I would dismiss this appeal.
+
+There remains, however, one point of clarification which, in fairness to the Appellant, should be clearly stated here. As I understand it, the gravamen of the Request, on the material before this Court, relates to an attempt to do damage rather than the actual causing of damage.  This is so because the natural inference in respect of the FBI “sting” operation is that the undercover agent supplied software in fact innocuous though believed by the Appellant to be malicious.  As already recorded, counsel for the US accepted this analysis and, for my part, it serves to delineate the true scope of the matter for which the Appellant is to be extradited.  Count One of the Indictment should be understood accordingly.  Conversely, it is fair to the US to record that the Appellant’s unauthorised prior control of the 800 computers in question provides the context in which his attempt/s to cause damage took place.
+
+MRS JUSTICE GLOSTER:
+
+I agree.

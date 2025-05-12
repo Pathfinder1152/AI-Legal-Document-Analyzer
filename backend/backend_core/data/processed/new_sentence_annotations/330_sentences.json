@@ -1,0 +1,254 @@
+[
+  {
+    "sentence": "The Norwich Pharmacal Application  2.",
+    "legal_references": [
+      {
+        "text": "The Norwich Pharmacal Application  2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Protective Costs Order granted by Underhill J.  3.",
+    "legal_references": [
+      {
+        "text": "The Protective Costs Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The thrust of that  submission was that the present application could not be characterised as proceedings brought to pursue a  public interest but were private law proceedings \u201cconcerned with the Applicant\u2019s private concerns about confidentiality within its organisation\u201d and as such fell outside the principles governing the grant of such a protective costs order established in R (Corner House Research) v. Secretary of State for Trade and Industry [2005] 1 WLR 2600, at 2625, para.74, in the context of public law proceedings.",
+    "legal_references": [
+      {
+        "text": "R (Corner House Research)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Nor it was said could the order come within the principles governing costs capping orders in the context of private law proceedings, exemplified in those laid down by Gage J. in Smart v. East Cheshire NHS Trust [2003] EWHC 2806 para. 22 (cited at page 86 of current White Book Civil Procedure volume 1).",
+    "legal_references": [
+      {
+        "text": "EWHC 2806 para. 22",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "White Book Civil Procedure",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Underhill J. himself however at paragraph 32 of his judgment considered that he had jurisdiction to make the order he did, relying upon the Court of Appeal\u2019s decision in King v. Telegraph Group Ltd [2005] 1WLR 2282, describing the court\u2019s powers as regards cost-capping as \u201cextremely wide.\u201d",
+    "legal_references": [
+      {
+        "text": "1WLR 2282",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Where for example (but not the case here) the disclosure sought would involve the disclosure of a journalist\u2019s sources of information, the court will have to have regard to the protection given to those sources by section 10 of the Contempt of Court Act 1981.",
+    "legal_references": [
+      {
+        "text": "section 10",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Contempt of Court Act 1981",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "A statutory fetter is, however, placed on the exercise of this equitable jurisdiction by section 10 of the Contempt of Court Act 1981.",
+    "legal_references": [
+      {
+        "text": "section 10",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Contempt of Court Act 1981",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Absent section 10, the common law would have been developed to provide a similar protection to that provided by section 10 because it also accepts that a high level of protection should be attached to the freedom of the press\u201d.",
+    "legal_references": [
+      {
+        "text": "section 10",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar considerations would apply in other cases where Article 10 of the European Convention on Human Rights is engaged.",
+    "legal_references": [
+      {
+        "text": "Article 10 of the European Convention on Human Rights",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Thus it is alleged that the decision was reached by reference to considerations of damage to diplomatic relations rendered unlawful by Article 5 of the OECD convention, and further or in the alternative the advice given by the Prime Minister to the Attorney General and the SFO purportedly on the public interest, was itself tainted by similar improper considerations and amounted to an unlawful direction not to prosecute.",
+    "legal_references": [
+      {
+        "text": "Article 5",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Where a document that would otherwise fall to be preserved under paragraph 5.1 has been deleted, the respondent shall take all reasonable steps to reconstruct such documents using a qualified independent computer professional, instructed by and under the supervision of Allen and Overy LLP.",
+    "legal_references": [
+      {
+        "text": "paragraph 5.1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the Applicant says that in any event a witness statement in the terms of para. 5 of the draft order is still a justifiable request since (to quote the Applicant\u2019s solicitors\u2019 letter of the 1st of February), \u201cthere can be no good reason for your client agreeing to provide routing and addressing information which is derived from the email itself, but no further information to assist CAAT in identifying the source of the leak, where that information is within BAE\u2019s knowledge\u201d.",
+    "legal_references": [
+      {
+        "text": "para. 5",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "My attention was drawn to the restrictions on disclosure imposed on such a provider by the Data Protection Act in the absence of any authorising court order.",
+    "legal_references": [
+      {
+        "text": "the Data Protection Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "The Court\u2019s Conclusions on the merits of the Norwich Pharmacal Application  69.",
+    "legal_references": [
+      {
+        "text": "the Norwich Pharmacal Application",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Alternatively, CAAT may have been the victim of unlawful use of its computer facilities or interception of its email, offences contrary to the Computer Misuse Act 1990\u201d.",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "The foundation of the collateral motive allegation disappeared in my view once the Applicant before this hearing began, put the indicated limitation on the terms of the order sought under para.3.1(3), by reference to the date of the Sunday Times article.   91.",
+    "legal_references": [
+      {
+        "text": "para.3.1(3)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This is not a case like John where considerations concerning the freedom of the press were highly relevant or where the provisions of section 10 of the Contempt of Court Act 1981 or those of Article 10 of the ECHR were engaged.",
+    "legal_references": [
+      {
+        "text": "section 10",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Contempt of Court Act 1981",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Article 10",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Protective Costs Order granted by Underhill J.   100.",
+    "legal_references": [
+      {
+        "text": "The Protective Costs Order",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Underhill J.   100",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "However I am quite satisfied on the authorities cited to me and the provisions of section 51 of the Supreme Court Act 1981 as substituted by section 4 of the Courts and Legal Services Act 1990, together with rules of the CPR at r.1.1 (1); r. 1.1 (2); r.1.2; r. 3.1(2) (m), that the court had the power to make the order it did in this case.",
+    "legal_references": [
+      {
+        "text": "section 51 of the Supreme Court Act 1981",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 4 of the Courts and Legal Services Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "CPR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "r.1.1 (1)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "r. 1.1 (2)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "r. 3.1(2) (",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 51 of the Supreme Court Act 1981",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "However, I can see equal force in the submission that given this is an application ancillary to an intended set of public law proceedings in which the public interest requirement laid down in Corner House at para.74 is likely to be satisfied, then the court in a private law context should not be inhibited from  making a Corner House type order, albeit ex hypothesi  the Applicant in whose favour the order is made, cannot say he has no \u201cprivate interest in the outcome of the case\u201d within the meaning of the third Cornerhouse requirement as presently applied by the Court of Appeal (but see the comments of the Court of Appeal in R (England) v. Tower Hamlets London Borough Council [2006] EWCA Civ.1742,at para.14,and the observations of the Court of Appeal in Goodson v. HM Coroner [2005] EWCA Civ.1172, CA at para.14 speaking of the wide discretion given to the court under section 51 of the Supreme Court Act, and stressing that Corner House should not be treated as laying down hard and fast rules for all circumstances).",
+    "legal_references": [
+      {
+        "text": "Corner House",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Cornerhouse",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "R (England",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EWCA Civ.1742,at para.14,and",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 51 of the Supreme Court Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

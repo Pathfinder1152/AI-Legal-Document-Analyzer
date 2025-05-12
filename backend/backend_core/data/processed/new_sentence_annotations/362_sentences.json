@@ -1,0 +1,326 @@
+[
+  {
+    "sentence": "In this judgment I shall refer to the order made by Mrs Justice Baron to give effect to the Baron judgment, the Baron Order.",
+    "legal_references": [
+      {
+        "text": "the Baron Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Application was made to Mrs Justice Baron herself when the Baron judgment was handed down for permission on the part of Mrs Harrison to appeal the judgment, but it was recorded in the Baron Order that permission was refused.",
+    "legal_references": [
+      {
+        "text": "the Baron Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mrs Harrison did not pay a sum to Mr Harrison by way of costs pursuant to the Baron Order, so the question of repayment could not possibly arise.",
+    "legal_references": [
+      {
+        "text": "the Baron Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "6)  The defendant, both through his counsel at a hearing in January 2002 seeking the release of monies subject to the Freezing Order, and in his own oral evidence on the 5th of July 2002, represented to the court that he was in dispute with Mr Cook in relation to Cash on Cars, that the business had ceased lending since about March 2001, and that its only activity was in trying to recover some outstanding loans.",
+    "legal_references": [
+      {
+        "text": "the Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Cash on Cars",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the outcome of that application was that Mr Justice Butterfield was persuaded to grant a Freezing Injunction (to which I shall refer to in this judgment as the \u2018Freezing Injunction\u2019) restraining Mr Harrison from removing from England and Wales any of his assets up to the value of \u00a32 million.",
+    "legal_references": [
+      {
+        "text": "a Freezing Injunction",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the \u2018Freezing Injunction\u2019",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Freezing Injunction made no provision for the disposal by Interchange of its assets in the ordinary course of business.",
+    "legal_references": [
+      {
+        "text": "The Freezing Injunction",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "An application was consequently made to Mr Justice McCombe on the 31st of July 2007 for an order discharging paragraph 7(b) and (c) of the Freezing Injunction.",
+    "legal_references": [
+      {
+        "text": "the Freezing Injunction",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The question then arose of whether the whole of the Freezing Injunction, as varied by the order of Mr Justice McCombe, should be discharged.",
+    "legal_references": [
+      {
+        "text": "the Freezing Injunction",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "By paragraph three of the order of Mr Justice Lloyd Jones, he directed that \u201cThe costs incurred by the defendant as a result of the Freezing Injunction including, but not limited to, the defendant\u2019s costs of preparing an application to set aside the Freezing Injunction, and the costs of both parties reserved by Mr Justice McCombe by his order dated the 31st of July 2007, be reserved to the interim applications judge on a date to be fixed or alternatively, to the judge hearing the defendant\u2019s intended application to strike out the proceedings\u201d.",
+    "legal_references": [
+      {
+        "text": "the Freezing Injunction",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "While it was no doubt sensible for the parties to agree that the costs incurred by Mr Harrison in connection with the Freezing Injunction and the application to Mr Justice McCombe should be deferred to be dealt with at the same time as Mr Harrison\u2019s intended application to strike-out the proceedings, in the ordinary course one would expect that Mrs Harrison, having sought and obtained the Freezing Injunction, it then having been varied at the instance of Mr Harrison, and subsequently it having been agreed that the whole injunction should be discharged, she should pay his costs of the whole enterprise.",
+    "legal_references": [
+      {
+        "text": "the Freezing Injunction",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "By an application issued on the 24th of September 2007 on behalf of Mr Harrison, he sought the following relief; \u201c1)  The claimant\u2019s claim form and particulars of claim dated the 27th of July 2007 be struck out pursuant to CPR part 3.4(2)(a) on the ground that they disclose no cause of action, alternatively, pursuant to CPR 3.4(2)(b) on the ground that they are an abuse of the process of the court; 2)  (Alternatively to the order sought in paragraph 1 above) summary judgment be entered against the claimant on the whole of her claim pursuant to CPR part 24.2 on the ground that the defendant believes that on the evidence, the claimant has no real prospect of succeeding on her claim and the defendant knows of no other reason why the disposal of the claim should await a trial.",
+    "legal_references": [
+      {
+        "text": "CPR part 3.4(2)(a) on",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "CPR 3.4(2)(b) on",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "CPR part 24.2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "5)  There be an enquiry as to the damage suffered by the defendant as a result of the Freezing Order made by Mr Justice Butterfield on the 26th of July 2007 (and varied by Mr Justice McCombe on the 31st of July 2007) and further varied by agreement between the parties on the 3rd of August 2007.",
+    "legal_references": [
+      {
+        "text": "the Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "6) (Alternatively to the order sought in paragraph 3 above) the claimant do pay on the indemnity basis the costs incurred by the defendant as a result of the Freezing Order including, but not limited to, the costs reserved by Mr Justice McCombe by his order dated the 31st of July 2007, and the defendant\u2019s costs of preparing an application to set aside the Freezing Order\u201d.",
+    "legal_references": [
+      {
+        "text": "the Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "2)  The Freezing Order should not have been made because there was no serious issue to be tried and/or because there was no real risk of dissipation of assets and/or because the case presented to Mr Justice Butterfield on the claimant\u2019s without notice application on the 26th of July 2007 was misleading and failed to draw to Mr Justice Butterfield\u2019s attention, all material facts and matters of which the claimant and her advisors knew or ought to have known.",
+    "legal_references": [
+      {
+        "text": "The Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "3) The claimant gave undertakings in relation to the Freezing Order that, should the court find that the order caused loss to the defendant, she would comply with any order for compensation made by the court.",
+    "legal_references": [
+      {
+        "text": "the Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Those applications were, first, an application for an order that this action be transferred to the Family Division and, second, an application for orders that \u201c1) the Metropolitan Police does give disclosure to the claimant pursuant to CPR part 31.17 of the unredacted crime report prepared by Detective Constable Setter relating to an alleged burglary in May 2002 at Interchange, Marble Arch Tower, 55 Bryanston Street, London, W1H 7AH, (the \u201ccrime report\u201d) and 2) upon being given seven days notice, the Metropolitan Police does provide a copy of the crime report to the claimant\u201d.",
+    "legal_references": [
+      {
+        "text": "CPR",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "10) Third, this court is the appropriate court to determine the costs of the application for the Freezing Injunction.",
+    "legal_references": [
+      {
+        "text": "the Freezing Injunction",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It seemed to me that a judge in this division was the appropriate person to deal with the issues of the costs of and occasioned by the Freezing Injunction, as varied by the order of Mr Justice McCombe, and whether there should be an enquiry as to the damage suffered by Mr Harrison as a result of the making of the Freezing Injunction.",
+    "legal_references": [
+      {
+        "text": "the Freezing Injunction",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is, of course, the case that Mrs Harrison might have sought to appeal out of time against the Baron Order or sought by some application in the original divorce proceedings to have it set aside.",
+    "legal_references": [
+      {
+        "text": "the Baron Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Had she done, so it would seem that an aspect which could have been considered was whether Mr Harrison had failed to disclose for the purposes of the hearing which resulted in the Baron Order, some fact of relevance.",
+    "legal_references": [
+      {
+        "text": "the Baron Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In the result, it is clear, in my judgment, that there is no possible ground upon which the Baron Order could be challenged on the basis that Mr Harrison misrepresented to Mrs Justice Baron or otherwise during the course of the ancillary relief proceedings, the existence of the RBS account or the assets of Interchange.",
+    "legal_references": [
+      {
+        "text": "the Baron Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The wife admits to employing detectives in the Children Act proceedings, but denies their use in this financial case.   \u201cClearly if the information was taken by an unauthorised person, it amounts to a criminal offence under the provisions of the Computer Misuse Act, 1990.",
+    "legal_references": [
+      {
+        "text": "Children Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Computer Misuse Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Children Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "What was in issue was whether the statement made by Mr Harrison was correct when made.  However, the only conceivable relevance of that so far as the Baron Order was concerned, was the credibility of Mr Harrison.",
+    "legal_references": [
+      {
+        "text": "the Baron Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The fact that I have come to the conclusion, after a hearing lasting a day-and-a-half, and having a considerable volume of evidence, that summary judgment should be entered in this action for Mr Harrison, does not of itself mean that it was inappropriate for an application for a Freezing Order to have been made on behalf of Mrs Harrison to Mr Justice Butterfield on the 26th of July 2007.  However, the fact that the Freezing Injunction was discharged by consent points strongly in the direction of it being appropriate for Mrs Harrison to have to pay the costs of Mr Harrison incurred as a result of the making of that order, at least on the standard basis.",
+    "legal_references": [
+      {
+        "text": "a Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Freezing Injunction",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "However, bearing in mind that the whole purpose of this action was to have the Baron Order set aside, it is difficult to understand how counsel could have prepared to make the application to Mr Justice Butterfield without reading the Baron Judgment.",
+    "legal_references": [
+      {
+        "text": "the Baron Judgment",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The question of whether there was a real risk of dissipation of his assets by Mr Harrison unless a Freezing Order was made was dealt with at paragraph 34 to 38 inclusive of the skeleton argument.",
+    "legal_references": [
+      {
+        "text": "a Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The quantum of the claim of Mrs Harrison and the extent of the Freezing Order were the subject of paragraphs 39 to 44 inclusive of the skeleton argument.",
+    "legal_references": [
+      {
+        "text": "the Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The CPR pro-forma for a Freezing Order contains an exception stating that the order does not prohibit the defendant from dealing with or disposing of assets in the ordinary and proper course of business, which I have removed in this context.",
+    "legal_references": [
+      {
+        "text": "a Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "For the reasons which I have set out, in my judgment an application for a Freezing Order should never have been sought because Mrs Harrison had no proper claim to have the Baron Order set aside.",
+    "legal_references": [
+      {
+        "text": "a Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Baron Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the making of an application for a Freezing Order was accompanied by serious failures of frankness and disclosure on the part of Mrs Harrison.",
+    "legal_references": [
+      {
+        "text": "a Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Regrettably, the application made to Mr Justice Butterfield was a travesty of an application for a Freezing Order.",
+    "legal_references": [
+      {
+        "text": "a Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "However, it is not, I think, necessary for me to reach any conclusion as to what motivated the making of the application for the Freezing Injunction.",
+    "legal_references": [
+      {
+        "text": "the Freezing Injunction",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

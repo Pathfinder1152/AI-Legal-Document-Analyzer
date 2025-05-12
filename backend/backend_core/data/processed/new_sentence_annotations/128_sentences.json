@@ -1,0 +1,2164 @@
+[
+  {
+    "sentence": "Neutral Citation Number: [2021] EWCA Crim 128     Case No: 202100094 B1, 20210011 0 B1, 202100112 B1, 202100113 B1   IN THE COURT OF APPEAL ( CRIMINAL  DIVISION)   ON APPEAL FROM THE CROWN COURT AT LIVERPOOL   The Hon Mr Justice Dove     Royal Courts of Justice   Strand, London, WC2A 2LL     Date: 05/02/2021",
+    "legal_references": [
+      {
+        "text": "EWCA Crim 128     Case No:",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The issue in this appeal is whether evidence obtained from a mobile phone system  known as EncroChat (\u201cthe EncroChat material\u201d), which was marketed to its users as  totally secure, can be admitted in evidence in criminal proceedings or is excluded by  the Inv estigatory Powers Act 2016 (\u201cthe 2016 Act\u201d).",
+    "legal_references": [
+      {
+        "text": "the Inv estigatory Powers Act 2016",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 2016 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The appeal is against a ruling  by Dove J in a preparatory hearing held under s ection 29  of the Criminal Procedure and Investigations Act 1996  (\u201cthe 1996 Act\u201d) .",
+    "legal_references": [
+      {
+        "text": "s ection 29  of the Criminal Procedure and Investigations Act 1996",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 1996 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Pursuant to  section 37 of the 1996 Act the reporting of these proceedings is prevented until the  conclusion of the trial, save for specified  basic facts such as the name of the accused  and the offence, unless the court orders that the provisions do not apply.  There is an  identical restriction on reporting of the proceedings in the Crown Court.",
+    "legal_references": [
+      {
+        "text": "section 37",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The judge also rejected submissions:   a. that he should exclude the EncroChat material under section 78 of the Police  and Criminal Evidence Act 1984; and   b. that he should stay the criminal proceedings a s an abuse of the process of the  court.   5.",
+    "legal_references": [
+      {
+        "text": "section 78",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Police  and Criminal Evidence Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As will appear, there are a  significant number of cas es pending in England and Wales derived from EncroChat Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      material which otherwise are quite unconnected with this one.",
+    "legal_references": [
+      {
+        "text": "EncroChat Judgment Approved",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": ".  A",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "For that reason, we direct under  section 37(4) of 1996 Act that the restriction under section 37(1) shall not apply to this  judgment.",
+    "legal_references": [
+      {
+        "text": "section 37(4) of",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 37(1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He then had to apply the  United Kingdom domestic law  governing the admissibility of such material, which is found in the 2016 Act.   8.",
+    "legal_references": [
+      {
+        "text": "the 2016",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Act.   8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The 2016 Act superseded the law found in the Regulation of Investigatory  Powers Act 2000, which itself replaced the Interception of Communications Act 1985.",
+    "legal_references": [
+      {
+        "text": "the Regulation of Investigatory  Powers Act 2000",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Interception of Communications Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Major changes between the current regime and the one established in the 2000 Act  concern the new regulatory and supervisory system established by the 2016 Ac t.",
+    "legal_references": [
+      {
+        "text": "the 2000 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Ac t.",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential point before us is the submission, rejected by the judge, that the  EncroChat material i s intercept material and inadmissible in criminal proceedings  because of section 56 of the 2016 Act, and further that it was unlawfully obtained under  a Targeted Equipment Interference warrant, when its obtaining should have been Judgment Approved by the court for handing down.",
+    "legal_references": [
+      {
+        "text": "section 56",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Targeted Equipment Interference warrants are governed by Part 5 of the 2016  Act and may produce material which can be used in evidence.  Targeted Interception  warrants are governed by Part 2 of the Act and the product is inadmissible in evidence  in almost all criminal proceedings, including these.  The judge found that the EncroChat  material in this case was obtained under Part 5 warrants.  These were approved by Sir  Kenneth Parker, a Judicial  Commissioner, on 5 March 2020, and Sir Brian Leveson,  the Investigatory Powers Commissioner, on 26 March 2020, prior to the obtaining of  the EncroChat material.  The second warrant was needed in order to widen the scope  of the first for reasons which are not material to the issues before us.",
+    "legal_references": [
+      {
+        "text": "Part 5",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Targeted Interception",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Investigatory Powers Commissioner",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The issue is  whether that approach was correct, or whether on a true understanding of the way the  data were obtained, and of the 2016 Act, they comprised material obtained unlawfully  under the wrong warrant and, in an y event, were inadmissible.    The facts as found by the judge   10.",
+    "legal_references": [
+      {
+        "text": "the 2016 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Much of the factual background to the issues in this appeal is set out by the Divisional  Court (Singh LJ and Dove J) in a decision refusing permission to pursue judicial review  proceedings chall enging the European Investigation Order brought by C, one of the  appellants in this case, see R (C) v. Director of Public Prosecutions  [2020] EWHC 2967  Admin.",
+    "legal_references": [
+      {
+        "text": "the European Investigation Order",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "R (C) v.",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The scheme for European Investigation Orders in the  Criminal Justice (European Investigation Order) Regulations 2017, SI 2017 No. 730   (\u201cthe 2017 Regulations\u201d) in force at the material time is set out in that judgment.",
+    "legal_references": [
+      {
+        "text": "European Investigation Orders",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the  Criminal Justice (European Investigation Order) Regulations",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "SI 2017 No. 730",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 2017 Regulations",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "By  regulation 7, a designated public prosecutor had the power to make or validate a  European Investigation Order.",
+    "legal_references": [
+      {
+        "text": "regulation 7",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "a  European Investigation Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "iii) In response to the European Investigation Order issued by the United Kingdom  authorities, the National Crime Agency was permitted by the French Authorities  to have access to the data being obtained with effect from 1 April 2020.",
+    "legal_references": [
+      {
+        "text": "the European Investigation Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The owner would compose  a message on the device for an identified contact and this would  be held in RAM for the purposes of the app, and when  instructed  to send the message the app ensured its encryption, following Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      which it would be sent to the radio chip and antenna for it  to be  transmitted out of the device to the EncroChat server.",
+    "legal_references": [
+      {
+        "text": "Judgment Approved",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": ".  A",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "4 M. Decou is a French police officer who had given relevant evidence in a witness statement which the judge  admitted as hearsay under Part 11, Chapter 2 of the Criminal Justice Act 2003   5",
+    "legal_references": [
+      {
+        "text": "Part 11, Chapter 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Criminal Justice Act 2003",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Criminal Justice Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "It follows that the EncroChat data was not \u201cbeing  transmitted\u201d at the time it was taken and was properly to be  regarded as \u201cstored in or by the system (whether before or after  transmission)\u201d and subject to section 4(4)(b) of the 2016 Act.",
+    "legal_references": [
+      {
+        "text": "section 4(4)(b)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I  have no difficulty in concluding th at the holding of the message  data in RAM memory as described above is to be regarded as  being stored in or by the system (either before or after  transmission) for the purposes of the 2016 Act.",
+    "legal_references": [
+      {
+        "text": "the 2016 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This involves deciding whether , at the point when  they were in tercepted, they were \u201cstored in or by \u201d the telecommunications system by  which they were transmitted, or whether they were \u201cbeing transmitted\u201d at that point.   The appellants  submitted that the EncroChat  material was  inadmissible by reason of the  exclusionary rule in section 56 of the 2016 Act.",
+    "legal_references": [
+      {
+        "text": "section 56",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The prosecution submitted that   i) the EncroChat messages were admissible and fe ll within the exc eption provided  by section 56(1) a nd schedule 3 paragraph 2 of the Act because the messages  were \u201cstored in or by the system\u201d at the time when they were intercepted; and,  in any event,   ii) that the material was not obtained as a result of \u201cinterception related  conduct\u201d  because none of the five classes of such conduct (as contained within section  56(2) of the Act) applied to the present case, alternatively it was not conduct  carried out in the United Kingdom within the scope of section 4(8) of the Act.     17.",
+    "legal_references": [
+      {
+        "text": "section 56(1) a nd schedule 3 paragraph 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section  56(2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The system in this case is a  \u201cpublic te lecommunications system\u201d, as defined in section 261(8), (9) and (13) which  are set out in the Appendix.",
+    "legal_references": [
+      {
+        "text": "section 261(8)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In particular, section 4(3) extends the definition of an act of interception to  include interference with any wireless telegraphy apparatus used for making  transmissions to or from apparatus that is part of the syste m.  Before us it was suggested  that t his would include mobile phone handsets.  This extension would be unnecessary  if the wireless telegraphy apparatus is part of the system.",
+    "legal_references": [
+      {
+        "text": "section 4(3)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 4(3) would not be necessary  at all if the agreed position of the parties before us is right.",
+    "legal_references": [
+      {
+        "text": "Section 4(3)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The key provisions for us are sections 3, 4,  6, 99, an d 56 of, and Schedule 3 to, the 2016 Act.",
+    "legal_references": [
+      {
+        "text": "sections 3, 4",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "an d 56",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Schedule 3",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 2016",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The statutory context of  section 4 is that it defines terms which are used in section 3 and section 56, both of  which are set out so far as relevant in the Appendix.  Section 3 is the offence creating  provision.",
+    "legal_references": [
+      {
+        "text": "section 4",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 3",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 56",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This is subject to Schedule 3 (exceptions). \u201d",
+    "legal_references": [
+      {
+        "text": "Schedule 3",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Parliament has preserved that policy but also provided that it does not extend  to the material described in Schedule 3.",
+    "legal_references": [
+      {
+        "text": "Schedule 3",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Schedule 3 exceptions include, in  paragraph 2:   \u201c(1) Section 56(1)(a) does not prohibit the disclosure of any  content of a communication, or any secondary data ob tained  from a communication, if the interception of that  communication was lawful by virtue of any of the following  provisions \u2014    (a) sections 6(1)(c) \u201d    23. Section 6 defines what \u201clawful authority\u201d means for the purposes of these provisions.   Subsection (1)(c ) includes the following:   \u201c6. Definition of \u201clawful authority\u201d   (1) For the purposes of this Act, a person has lawful authority to  carry out an interception if, and only if \u2014     \u2026\u2026\u2026.   (c) in the case of a communication stored in or by a  telecommunication syst em, the interception \u2014  (i) is carried out in accordance with a targeted equipment interference  warrant under Part 5. \u201d  24.",
+    "legal_references": [
+      {
+        "text": "Schedule 3",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Section 56(1)(a)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Subsection (1)(c )",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 5",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Part 5 of the Act provides for the issue and consequences of a type of warrant called a  Targeted Equipment Interference warrant, defined in section 99.",
+    "legal_references": [
+      {
+        "text": "section 99",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Where the  authorised conduct amounts to interception of communications, its product is  admissi ble in evidence under section 6(1)(c).",
+    "legal_references": [
+      {
+        "text": "section 6(1)(c)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The way in which that policy decision is given  effect in the 2016 Act is by providing for the different treatment of what it describes as  communications \u201cstored in or by a telecommunication system\u201d, a phrase which we have  seen in section 6(1)(c) and which originates in section 4, to which we now turn.",
+    "legal_references": [
+      {
+        "text": "section 6(1)(c)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 4",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "For the meaning of \u201ccontent\u201d in relation to a communication, see  section 261(6).",
+    "legal_references": [
+      {
+        "text": "section 261(6",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The policy of the 2016 Act is that all conduct caught within the section 4  definition should be criminal, unless done lawfully under an appropriate wa rrant and  by an appropriate person.",
+    "legal_references": [
+      {
+        "text": "the 2016 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This includes an act whose effect is to make content of  communications available to a third party both \u201cwhile the communication is being  transmitted\u201d (section 4(4)(a)) and \u201cany time when\u201d it \u201cis stored in or by the syst em\u201d  (section 4(4)(b)).  However, as we have seen, in relation to \u201cstored\u201d communications a  different policy as to secrecy applies.",
+    "legal_references": [
+      {
+        "text": "section 4(4)(a)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 4(4)(b)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It was agreed between the parties before us and before the judge that for the purposes  of section 4(4), a communication at the time of the \u201crelevant act\u201d must be either \u201cbeing  transmitted\u201d or \u201cstored in or by the system (whether before or after its transmission)\u201d.",
+    "legal_references": [
+      {
+        "text": "section 4(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 4(1) says that in either case the communication is \u201cin the course of its  transmission\u201d a t the time of its interception.  We shall return to this agreed position  later in this judgment.",
+    "legal_references": [
+      {
+        "text": "Section 4(1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The prosecution has submitted that the exclusionary regime in section 56 does not, on  a true construction of the whole of the 2016 Act, apply to material obtai ned under a Part  5 warrant issued under section 99 of the 2016 Act.",
+    "legal_references": [
+      {
+        "text": "Part  5",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 99",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "They submit that the exclusionary  regime applies only to material obtained under Part 2 warrants for interception of the  kind which cannot be authorised by a Part 5 warrant.",
+    "legal_references": [
+      {
+        "text": "Part 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 5",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The  defence approach sought to extend  the notion of transmission well beyond  anything which was contemplated by the 2016 Act .",
+    "legal_references": [
+      {
+        "text": "the 2016 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "ii) The Equipment Interference Code of Practice was published pursuant to  Schedule 7 of the 2016 Act and was admissible as evidence in criminal  proceedings.  It addressed the exercise of functions under Part 5 of the 2016  Act  and the authorisation of Targeted Equipment Interference warrants and their  operation.  The judge considered that these provisions from this Code of Practice  were consistent with the conclusions that he had already made in relation to this  issue.",
+    "legal_references": [
+      {
+        "text": "The Equipment Interference Code of Practice",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Schedule 7",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 5",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "this Code of Practice",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "iii) Having considered the provisions of section 99 of the 2016 Act, which contained  the power to make a Targeted Equipment Interference warrant and the scope of  such a warrant, the judge decided that the interceptions were carried out in Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      accordance with  the warrant that had been obtained.",
+    "legal_references": [
+      {
+        "text": "section 99",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Judgment Approved by the court",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": ".  A",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "On the  contrary, before us Mr. Ryder, Q.C., making submissions on behalf of all  appellants, relies on it in support of his submission that the war rant was a request  to the French authorities for the purposes of his argument on sections 9 and 10  of the 2016 Act.   30.",
+    "legal_references": [
+      {
+        "text": "sections 9 and 10",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 2016 Act.   30",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As such  the activity was subject to the provisions of section 9 of the 2016 Act and a Targeted  Interception warrant should have been in place.",
+    "legal_references": [
+      {
+        "text": "section 9 of the",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, on its proper construction,  the judge held that section 9 of the 2016 Act was only applicable to requests for the  interception of material and not to equipm ent interference, therefore it was of no  application to the present case.",
+    "legal_references": [
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The judge also rejected the further alternative contention by the appellants that the  provisions of section 10 and therefore section 56(2)(c) of the 2016 Act were engaged  in the pre sent case.",
+    "legal_references": [
+      {
+        "text": "section 10",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 56(2)(c)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The European Investigation Order was not requesting assistance in  relation to communications but rather seeking \u201cinformation already in the possession  of the executing authority\u201d on the basis that the French authorities were going to  undertake t he operation in any event.",
+    "legal_references": [
+      {
+        "text": "The European Investigation Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The judge ruled that the EncroChat data w ere admissible evidence and that t he  exclusionary provisions of section 56 of the Act did not apply.",
+    "legal_references": [
+      {
+        "text": "section 56",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "There had been detailed  argument about what the position would be were the court to find that the data fell  within section 4(4)(a) of the Act.",
+    "legal_references": [
+      {
+        "text": "section 4(4)(a)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The appellants submitted that there would have  been  an offence under section 3(1) of the Act, that section 56(2)(a) would apply and the  EncroChat material would be inadmissible.",
+    "legal_references": [
+      {
+        "text": "section 56(2)(a)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The prosecution submitted that such an  offence would not have been committed as the interception had not been \u201ccarried out  in the United Kingdom\u201d as required by section 3(1)(b) of the 2016 Act, given that by  section 4(8) this required that the relevant act  be \u201ccarried out by conduct within the  United Kingdom.\u201d",
+    "legal_references": [
+      {
+        "text": "section 3(1)(b)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 4(8)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He ruled that it w as  necessary to pay close attention to the language used in section 4 to define the term  \u201cinterception\u201d and in particular the definition of when interception was to be considered  as having been carried out in the United Kingdom for the purpose of the defin ition set  out in section 4(8)(a). This requires \u201cconduct within the United Kingdom\u201d by which  the relevant act  is \u201ccarried out\u201d.",
+    "legal_references": [
+      {
+        "text": "section 4",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 4(8)(a)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The judge described this as a \u201cbespoke\u201d definition, Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      which he contrasted with the approach taken to the place where conduct occu rs for the  purposes of determining the geographical jurisdiction of the criminal court.  He held  that the relevant conduct in this case, namely the modifying or interference with the  EncroChat system, occurred in France when action was taken there which af fected the  servers which were also there.   The challenge on appeal   33.",
+    "legal_references": [
+      {
+        "text": ".  A",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "C -v- Regina",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "They challenge four rulings by  the judge, complaining that each of these rulings was wrong.  They are:   \u201c(1) The ruling that the EncroChat communications were not  intercepted while they were being transmitted (within s4(4)(a) of  the 2016 Act ), but were intercepted while they were stored  before or after transmission, (within the definition of s4(4)(b).",
+    "legal_references": [
+      {
+        "text": "the 2016 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(2) The  ruling that, in the alternative to (1), s56(2)(a), (relating  to the offence under s3 of the 2016 Act), could not apply,  because the interceptions were not carried out by conduct in the  UK, as defined by s4(8) of the Act.   (3) The ruling that s56(2)(c), rel ating to the restriction on  requesting mutual assistance in s10 of the Act, does not apply,  because the E uropean Investigation Order made no request that  fell within s10(1)(a) or, in the alternative, the request in the EIO  was the exercise of a statutory p ower for the purposes of  s10(2A).   (4) The ruling that s56(2)(b), relating to the prohibition on an  overseas authority to carry out the interception of  communications imposed by s9 of the 2016 Act, did not apply  because the JIT\u2019s activity, while \u2018in accorda nce with the  Targeted Equipment Interference warrant\u2019 was nevertheless not  pursuant to a request by UK authorities to carry out the  interception.\u201d",
+    "legal_references": [
+      {
+        "text": "s9 of the",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Targeted Equipment Interference  warrants and the European Investigation Order were all in force before the  interception started.",
+    "legal_references": [
+      {
+        "text": "The Targeted Equipment Interference",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the European Investigation Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In the case of  the recipient it was after the message had arrived on the machine but before the  recipient was able to view it.  He provided us with references to the evidence to  make this goo d.  iii) The Targeted Equipment Interference warrant was obtained and approved by  the Investigatory Powers Commissioner because the National Crime Agency  was concerned that otherwise there was a risk that it would be complicit in an  offen ce under the Computer Mi suse Act 1990.   35.",
+    "legal_references": [
+      {
+        "text": "the Computer Mi suse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Relying on the agreed position of the parties that section 4(4) should be construed as  meaning that if a communication was \u201cbeing transmitted\u201d it could not be \u201cstored by or  in the system\u201d at the same time, Mr. Ryder submitted that the expert  evidence meant  that the communications were extracted while being transmitted and could not therefore  be \u201cstored\u201d within section 4(4)(b).  He complained that the judge\u2019s ruling does not  define when transmission begins and ends.  He described the approach of the judge as  being that if the communication came from RAM then it was being stored and not  transmitted.",
+    "legal_references": [
+      {
+        "text": "section 4(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As the court there observed, the Directives include material, including  Recitals 22 a nd 27, which seek to define their objective and include some  material which may assist.",
+    "legal_references": [
+      {
+        "text": "Recitals 22 a nd 27",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "By Ground 2, Mr. Ryder submitted that the judge erred in identifying a \u201cbespoke\u201d or  exceptional interpretation of the word \u201cconduct\u201d in section 4(8) of the 2016 Act which  is inconsistent w ith its established meaning in common law and how it should be  interpreted in relation to criminal offences.",
+    "legal_references": [
+      {
+        "text": "Ground 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 4(8)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr. Ryder and Mr. Bowers Q.C., on behalf of C, both made submissions about Gr ound  3, which concerns the application of section 10 of the 2016 Act, which is set out in the  Appendix at paragraph 5.",
+    "legal_references": [
+      {
+        "text": "Gr ound  3",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 10",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The first submission is that the European Investigation Order  was a request for assistance under an EU mutual assistance instrument for assistance in  connection with, or in the form of, the interception of communications.  It is suggested  that this is a broad definition and that the judge was wrong to hold that the European  Investigation Order was not such a request because the French auth orities were going  to implement the interception anyway, and because the request was not for interception  but for its product.  In relation to the exclusion from the requirement for a Part 2 warrant  which appears in sub -section (2A), they submitted that th e Prosecution had first  suggested that the Targeted Equipment Interference warrant was the statutory power  and that this was a concession for the purposes of Ground 3.  They also submitted that  the judge\u2019s ruling that the statutory power was the power to m ake or designate a  European Investigation Order under regulation 7 of the 2017 Regulations involved  circularity and, for that reason, must be wrong.  Mr. Bowers made a supporting  submission, relying in particular on the close way in which the National Crim e Agency  worked with the JIT on this process.",
+    "legal_references": [
+      {
+        "text": "the European Investigation Order",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the European  Investigation Order",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 2017 Regulations",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "By Ground 4 the appellants contend that the prohibition on an overseas authority  carrying out the interception of communications imposed by section 9 of the 2016 Act Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      (Appendix at paragraph 5) did apply because the JIT\u2019s activity, \u201cin accordance with\u201d a  Part 5 warrant, must inevitably have been pursuant to a request by United Kingdom  authorities to carry out the interception.  The request was the warrant with which the  French authorities complied.",
+    "legal_references": [
+      {
+        "text": "Ground 4",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Act Judgment Approved",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "C -v- Regina",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 5",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "They suggest t hat the judge erred in approaching the  question of law under section 9 of the 2016 Act, namely whether the JIT had carried  out the interceptions pursuant to a request from United Kingdom authorities, by giving  particular weight to the suggestion that the J IT would have carried out the interceptions  in the United Kingdom \u201cin any event.\u201d",
+    "legal_references": [
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The section 9 scheme requires a warrant under Part 2, even in  a case where section 10(2A) says that  none is necessary.",
+    "legal_references": [
+      {
+        "text": "Part 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 10(2A)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "His first submission was that the prohibition on disclosure and the deployment of  evidence in section 56( 1) of the 2016 Act does not apply to equipment interference  warrants at all.",
+    "legal_references": [
+      {
+        "text": "section 56( 1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In advancing that submission he also set out his response to Grounds  2-4.  43.",
+    "legal_references": [
+      {
+        "text": "Grounds  2-4.  43",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He submitted that even if the communications were taken by the French while they  were \u201cbeing transmitted \u201d, this did not amount to interception -related conduct as defined  in section 56(2) of the 2016 Act.",
+    "legal_references": [
+      {
+        "text": "section 56(2) of",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He supported this by a review of the 2016 Act and its  Codes of Practice which, he said, showed that the Part 2 regime deals with \u201cinterception  of communica tions\u201d and Part 5 with \u201cequipment interference\u201d.",
+    "legal_references": [
+      {
+        "text": "Codes of Practice",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 5",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He  submitted that this involves a different regime under the legislation, which is outside  the exclusiona ry rule in section 56, and which has no equivalent provision.",
+    "legal_references": [
+      {
+        "text": "exclusiona ry",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 56",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He said that  section 56 contains no reference to Part 5 or to section 99 and clearly relates to the  warrants which may be issued under section 15 of the 2016 Act.",
+    "legal_references": [
+      {
+        "text": "section 56",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 5",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 99",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 15",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He summarised the  two differe nt regimes by describing the section 15 regime as \u201cold school\u201d interception,  which was to be contrasted with interception by equipment interference.",
+    "legal_references": [
+      {
+        "text": "section 15",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The common law was varied by the clear terms of section 4(8) of the 2016 Act which  require:   i) a relevant act;   ii) which is carried out by conduct within the United Kingdom; and   iii) in the case of a public telecommunications system, that it is located in the United  Kingdom, see section 261(8) and (9) at Appendix paragraph 9.  Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      45.",
+    "legal_references": [
+      {
+        "text": "section 4(8)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In relation to Ground 4, dealing with section 9 of the 2016 Act, Mr. Kinnear submitted  that it clearly only applies to Part 2 warra nts for \u201cold school\u201d intercept.",
+    "legal_references": [
+      {
+        "text": "Ground 4",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 2 warra nts",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The requirement  for mutual assistance warrants appears only in section 15 of the 2016 Act (Part 2  warrants) and not in section 99 (Part 5 warrants).",
+    "legal_references": [
+      {
+        "text": "section 15",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 99",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 9 is to be construed as limited  to cases where a warrant under se ction 15 is required.",
+    "legal_references": [
+      {
+        "text": "Section 9",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "se ction 15",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The judge accepted this  submission as his third reason for holding that section 9 did not apply to this case.",
+    "legal_references": [
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In relation to  Ground 3, the operation of section 10 of the 2016 Act, the prosecution  submitted that the judge was right.",
+    "legal_references": [
+      {
+        "text": "Ground 3",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 10",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "They seek to support paragraph 168 of the ruling  which said:   \u201cThe defendants contend that it is important to focus upon the  use of the words \u201cin co nnection with, or in the form of, the  interception of communications\u201d in section 10(1) of the 2016  Act.",
+    "legal_references": [
+      {
+        "text": "paragraph 168",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 10(1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In their submission this formulation contemplates a breadth  to the application of this section which would bring the EIO  within the scope of the applica tion of section 10, on the basis that  the EIO was at the very least a request \u201cin connection with\u201d the  interception of communications.",
+    "legal_references": [
+      {
+        "text": "section 10",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "A perusal of the nature of the questions contained  within section H7 of th e prescribed form, which call for details  of the purpose, duration and technical data involved in a  requested interception, provide some support for this approach.",
+    "legal_references": [
+      {
+        "text": "section H7",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In my view there is force in the prosecution submissions that this  phrase relates to the kin ds of ancillary information where  interception is being requested covered by article 30 of the  Directive (the article of the Directive which deals with the  interception of telecommunications with the technical assistance  of another Member State) and in par ticular article 30(7) as  follows:  Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      \u201c30(7) When issuing an EIO referred to in paragraph 1 or  during the interception, the issuing authority may, where it  has a particular reason to do so, also request a transcription,  decoding, or decrypting of the recording  subject to the  agreement of the executing authority.\u201d \u201d  49.",
+    "legal_references": [
+      {
+        "text": "article 30 of the  Directive",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In the alternative, the judge correctly held that the National Crime Agency issued the  European Investigation Order acting under regulation 7 of the 2017 Regulations and so  section 10(2A) removed the requirement for any additional warrant which would  otherwise have arisen by virtue of section 10(2).   50.",
+    "legal_references": [
+      {
+        "text": "the  European Investigation Order",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "regulation 7",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 10(2A) removed",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 10(2).   50",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Moving finally to Ground 1, Mr. Kinnear relied on paragraph 2 of Schedule 3 to the  Act to permit the admissibility of the material because it had been lawf ully obtained  under section 6(1)(c) because a Targeted Equipment Interference warrant was in place  and the JIT and the National Crime Agency acted in accordance with that warrant.",
+    "legal_references": [
+      {
+        "text": "Schedule 3 to the  Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The critical issue which falls for decision is the issue of the construction of section 4(4)  of the 2016 Act.",
+    "legal_references": [
+      {
+        "text": "section 4(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The judge agreed with this proposition, and  dealt with it as a fallback position, in case he was wrong to find that the communications  were stored in or by the system for the pu rposes of section 4(4)(b).   52.",
+    "legal_references": [
+      {
+        "text": "section 4(4)(b).   52",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is an important part of that submission that the events which occurred in this case did  not involve, and could not have involved, an offence contrary to section 3(1) of the  2016 Act",
+    "legal_references": [
+      {
+        "text": "section 3(1) of",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "because the relevant act (modifying or interfering with the system) was not  carried out by conduct within the United Kingdom, see section 4(2) and (8) of the 2016  Act",
+    "legal_references": [
+      {
+        "text": "section 4(2) and",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This is an argument which arises under Ground 2 but is also essential to the  submission presently under consider ation.",
+    "legal_references": [
+      {
+        "text": "Ground 2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That is because if no offence could be  committed for this reason then admitting the evidence would not disclose that the origin  of the intercepted communication was \u201cinterception -related conduct\u201d.  It would not be  conduct by a person within section  56(3) which was, \u201cor in the absence of any lawful  authority would be, an offence under section 3(1)\u201d, see section 56(2)(a).",
+    "legal_references": [
+      {
+        "text": "section 56(2)(a)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Equally, the  Crown submitted, the EncroChat material does not disclose any breach of section 9 or  10 which otherwise would amount to interception -related conduct because of section  56(2)(b) and (c).   53.",
+    "legal_references": [
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section  56(2)(b)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "We do not need to determine whether the judge was right to uphold the Crown\u2019s  submission that Targeted Equipment Interference warrants, when they relate to Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      communications, fall outside th e exclusionary rule in section 56(1) of the 2016 Act.",
+    "legal_references": [
+      {
+        "text": "Targeted Equipment Interference",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": ".  A",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 56(1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Paragraph 2 of Schedule  3 sets out an exception to the exclusionary rule in section 56(1), and the two provisions  have to be read together.  The submission that that exception in relation to material  which has been lawf ully obtained under section 6(1)(c) is to be treated as a \u201cbelt and  braces\u201d provision is not without difficulty.",
+    "legal_references": [
+      {
+        "text": "Paragraph 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Schedule",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 56(1",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 6(1)(c)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I n view of our conclusion in relation to Ground 1, to which we next turn,  it is unnecessary to decide the issue concerning the scope of the section 56 exclusionary  rule and further we consider that it would be far better for that potentially complex  questio n to be decided in a case where it is truly necessary to the outcome.",
+    "legal_references": [
+      {
+        "text": "Ground 1",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 56",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "There are important  differences between the provisions concerning stored material in section 2(7) of the  Regulation of Investigatory  Powers Act 2000 and in section 4 of the 2016 Act.",
+    "legal_references": [
+      {
+        "text": "section 2(7) of",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the  Regulation of Investigatory  Powers Act 2000",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 4 of the 2016",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The  lack of any limitation on the exception created by section 4(4)(b) in relation to stored  material is significant.",
+    "legal_references": [
+      {
+        "text": "section 4(4)(b)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That change, in our judgment, is relevant to the construction of  section 4 of the 201 6 Ac t.",
+    "legal_references": [
+      {
+        "text": "section 4",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The  legislation has since had to address Council Directive 97/66/EC and Council Directive  2002/58/EC and technical developments both in the systems and in the means used to Judgment Approved by the court for handing down.",
+    "legal_references": [
+      {
+        "text": "Council Directive 97/66/",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Council Directive  2002/58",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The 2016 Act is a new statute , on which there is no relevant  authority and its construction must be approached in that way.",
+    "legal_references": [
+      {
+        "text": "The 2016 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Both parties cited Coulson  in which the Court of Appeal said that section 2(7) of the  2000 Act was \u201cat the heart of [that] app eal\u201d.",
+    "legal_references": [
+      {
+        "text": "section 2(7)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the  2000",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The 2016 Act, as we have said, adopted a framework in which some components are  similar to those in the 2000 Act.",
+    "legal_references": [
+      {
+        "text": "the 2000 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Sectio n 1 of the 2000 Act was the offence creating  provision which criminalised the interception of communications in the course of their  transmission by a telecommunications system.",
+    "legal_references": [
+      {
+        "text": "Sectio n 1 of the 2000 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 17 was the provision which  excluded the product of interception from d isclosure or evidence.",
+    "legal_references": [
+      {
+        "text": "Section 17",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Like section 4 of the  2016 Act, section 2 of the 2000 Act dealt with the meaning and location of  \u201cinterception\u201d.",
+    "legal_references": [
+      {
+        "text": "section 4",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 4(4)  does not repeat this limitation, although Mr. Ryder suggested that transmission only  ends when the recipient actually accesses the communication.",
+    "legal_references": [
+      {
+        "text": "Section 4(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In section 4(4), unlike  section 2(7), all forms o f storage are caught, whether or not they enable the intended  recipient to access the communication.",
+    "legal_references": [
+      {
+        "text": "section 4(4",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 2(7)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, section 2(7) of the 2000 Act is a  \u201cdeeming provision\u201d.",
+    "legal_references": [
+      {
+        "text": "section 2(7)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 2000 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The time when a communication is being transmitted is taken to  include times when that co mmunication is also being stored in a relevant manner; by  contrast, section 4(4) is not a deeming provision.",
+    "legal_references": [
+      {
+        "text": "section 4(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, the scheme of the 2000 Act  so far as warrantry is concerned is entirely different and the word \u201cstored\u201d appears in  the 2016 Act in variou s places which have no equivalent in the 2000 Act and is serving  more purposes than it did in that Act.   60.",
+    "legal_references": [
+      {
+        "text": "the 2000 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Act.   60",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The answer to this appeal is found in the construction of section 4(1) and (4) (4)(b) of  the 2016 Act.",
+    "legal_references": [
+      {
+        "text": "section 4(1) and",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 4(4)(b), read beside section 4(1)(b), mea ns that a message which  is, for example, monitored while it is stored in or by the system by means of which it is  transmitted is intercepted while it is in the course of transmission.",
+    "legal_references": [
+      {
+        "text": "Section 4(4)(b)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 4(1)(b)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It als o explains why he was driven to submit  that a communication would be in the course of transmission forever if, for example, it  were sent to an email address to which the intended recipient no longer had access Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      because he or she had forgotten the password.",
+    "legal_references": [
+      {
+        "text": "Judgment Approved by the",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": ".  A",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That does unnecessary violence to the  expression \u201cbeing transmitted\u201d which is not required by the 2016 Act.   61.",
+    "legal_references": [
+      {
+        "text": "the 2016 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 4(4)(b) extended the types of storage which amount to being in \u201cthe course of  transmission\u201d so as to catch communications which are \u201cstored \u201d for the purposes of the  offence creating provision, to which the distinction between section 4(4)(a) and 4(4)(b)  is immaterial.",
+    "legal_references": [
+      {
+        "text": "Section 4(4)(b)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 4(4)(a)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As a matter of ordinary language, section 4(4)(b) is clear and unambiguous in its  meaning.",
+    "legal_references": [
+      {
+        "text": "section 4(4)(b)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The statutory question for any court in d etermining if section 4(4)(b)  applies is this: was the communication stored in or by the system at the time when it  was intercepted?   63.",
+    "legal_references": [
+      {
+        "text": "section 4(4)(b)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It was within  section 4(4)(b).   64.",
+    "legal_references": [
+      {
+        "text": "section 4(4)(b).   64",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "On receipt by the recipient\u2019s device  it is decrypted in the RAM and it may be that in some cases a nickname is added to that Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      which has been t ransmitted which is stored in the Realm database on that device.",
+    "legal_references": [
+      {
+        "text": ".  A",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That being so, the harvesting was interception but was rendered lawful by the Targeted  Equipment Interference warrants issued under section 99 of the Act.",
+    "legal_references": [
+      {
+        "text": "section 99",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The product of that harvesting was thus rendered  admissible in these proceedings by paragraph 2 of Schedule 3.",
+    "legal_references": [
+      {
+        "text": "paragraph 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Schedule 3",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The 2016 Act does not use technical  terms in this area.",
+    "legal_references": [
+      {
+        "text": "The 2016",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The experts have an important role in explaining how a system  works, but no role whatever in construing an Act of Parliament.  They appear to have  assumed that because a communicatio n appears in the RAM as an essential part of the  process which results in the transmission it did so while \u201cbeing transmitted\u201d.",
+    "legal_references": [
+      {
+        "text": "an Act of Parliament",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "If the EncroChat  material was caught by the section 56 exclusion, it was admissible in evidence by this  route.",
+    "legal_references": [
+      {
+        "text": "section 56",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The communications were lawfully intercepted while stored on the handsets and   are admissible by virtue of paragraph 2 of Schedule 3 to the 2016 Act.",
+    "legal_references": [
+      {
+        "text": "paragraph 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Schedule 3 to the 2016 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      Grounds 3 and 4: sections 10 and 9   71.",
+    "legal_references": [
+      {
+        "text": "Regina      Grounds",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "If sections 9 or 10, or both,  were breached by the National Crime Agency, then that would not affect the path to  admissibility in section 6(1)(c) a nd paragraph 2 of Schedule 3.",
+    "legal_references": [
+      {
+        "text": "section 6(1)(c) a nd paragraph 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Schedule 3",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It might,  however, give rise to an argument that the material should be excluded pursuant to  section 78 of the Police and Crimina l Evidence Act 1984.  It would be a surprising  exercise of that power to exclude evidence which Parliament has provided in clear terms  should be admissible, but we should nevertheless consider these Grounds.",
+    "legal_references": [
+      {
+        "text": "section 78",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Police and Crimina l Evidence Act 1984",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Grounds",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Ground 3: section 10   72. Ground 3 relies on the prohibition in section 10 of the 2016 Act which is said to have  been breached.",
+    "legal_references": [
+      {
+        "text": "section 10",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is said that the United Kingdom authorities made a request for  assistance under an EU mutual assistance instrument in connection with the  interception  of communications when there was no mutual assistance warrant in being  under Chapter 1 of Part 2 authorising the making of that request.",
+    "legal_references": [
+      {
+        "text": "Chapter 1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It appears to us that the European Investigation  Order in th is case was a request for assistance under an EU mutual assistance instrument  which was \u201cin connection with\u201d the interception of communications.  This is because  of the statutory context of section 10(2A) which we describe below.",
+    "legal_references": [
+      {
+        "text": "the European Investigation  Order",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 10(2A)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Therefore, unless  section  10(2A) applies what was done was done unlawfully because no Part 2 mutual  assistance warrant was in place.",
+    "legal_references": [
+      {
+        "text": "section  10(2A",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "If that were so, then the rule in section 56(1) and 56(2)  (c) would apply and the evidence could not be adduced, unless it was admissible under  paragraph 2 of Schedule 3 to the 2016 Act as we have held it was.",
+    "legal_references": [
+      {
+        "text": "section 56(1) and",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "paragraph 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Schedule 3 to the 2016 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The issue of  unlawfulness turns on section 10(2A).",
+    "legal_references": [
+      {
+        "text": "section 10(2A)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The judge held under section 10(2A) of the Act  that section 10(2) did not apply because the request which was made was made in the  exercise of a statutory power.  The judge concluded that the statutory power concerned  was the power of a designated prosecutor to make or validate a European Investigation  Order under regulation 7 of the 2017 Regulations.    73.",
+    "legal_references": [
+      {
+        "text": "a European Investigation",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Regulations.    73",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The 2017 Regulations amended the 2016 Act by the addition of section 10(2A), see  paragraph 9 of Schedule 3 to the 2017 Regulations.",
+    "legal_references": [
+      {
+        "text": "The 2017 Regulations",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "paragraph 9",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Schedule 3 to the",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Regulation 59 designated the  Directive relating to the European Investigation Order as an EU mutual instrument for  the purposes of section 10 of the 2016 Ac t.",
+    "legal_references": [
+      {
+        "text": "Regulation 59",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the European Investigation Order",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 10",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It appears that the purpose of the 2017  Regulations and of section 10(2A) (described as a \u201cconsequential amendment\u201d) was  precisely to incorporate the European Investigation Order system into United Kingdom  domestic law.",
+    "legal_references": [
+      {
+        "text": "the 2017  Regulations",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 10(2A)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Explanatory Memorandum to t he 2017 Regulations says this:   \u201c2.1 The purpose of the Criminal Justice (European  Investigation Order) Regulations 2017 (\u201cthe Regulations\u201d) is to  give effect to Directive 2014/41/EU of the European Parliament  and of the Council of 3 April 2014 regarding th e European  Investigation Order in criminal matters (OJ L 130, 1.5.2014, p.  1) (\u201cthe Directive\u201d). \u201d",
+    "legal_references": [
+      {
+        "text": "The Explanatory Memorandum",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "t he 2017 Regulations",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Criminal Justice (European  Investigation Order) Regulations",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Directive 2014/41/EU",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "th e European  Investigation Order",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "OJ L 130",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It would be inconsistent with that purpose to construe section 10(1) and 10(2A) so  narrowly as to remove from its scope a European Investigation Order of the sort issued  in this case.",
+    "legal_references": [
+      {
+        "text": "section 10(1) and",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "a European Investigation Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In this case, the European Invest igation Order",
+    "legal_references": [
+      {
+        "text": "the European Invest igation Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Just as this statutory context makes it impossible for the Prosecution to argue that the  European Investigation Order was not a \u201crequest\u201d for the purposes of section 10, in  exactly the same way it makes it impossible for the appellants to contend that it was not  \u201cthe exercise of a statutory power\u201d for the purposes of section 10(2A).",
+    "legal_references": [
+      {
+        "text": "the  European Investigation Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 10(2A)  was enacted specifically to include European Investigation Orders.",
+    "legal_references": [
+      {
+        "text": "Section 10(2A)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Ground 4 relies on the prohibition in section 9 of the 2016 Act against requesting  interception without a Part 2 targ eted interception or examination warrant being in  place.",
+    "legal_references": [
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 2 targ eted interception",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "There was no warrant of this kind, and unlike section 10, section 9 contains no  provision dealing with communications which are stored in or by the system.",
+    "legal_references": [
+      {
+        "text": "section 10",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The  appellants therefore contend that ac tivity which was rendered lawful by the clear terms  of section 6(1)(c) and 10(2A) of the Act was rendered unlawful by section 9, which  does not refer to stored communications at all.",
+    "legal_references": [
+      {
+        "text": "section 6(1)(c)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Whether he was right or wrong about this conclusion, he  also ruled against the appellants as a matter of law on the construction of section 9.",
+    "legal_references": [
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He  said at paragraph 165:   \u201c\u2026\u2026it is clear that on its proper construction, section 9 of the  2016 Act  is applicable to requests for the interception of  Targeted Interception material and not Targeted Equipment  Interference material, and it is therefore of no application in the  present circumstances.",
+    "legal_references": [
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, the reference to interception of  communications  in section 9 of the 2016 Act is a cross -reference  to interception of communications governed by Part 2 and  section 15 of the 2016 Act.",
+    "legal_references": [
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 2 and",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 15",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This is reinforced by the reference in  section 9(2) to the need for targeted interception warrants under  Part 2 of the A ct: the clear intention of this section is to prevent  the circumvention of the regulation of Part 2 activity by the  commissioning of overseas authorities to carry it out in the UK  on behalf of the UK authorities.",
+    "legal_references": [
+      {
+        "text": "Part 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the A ct",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As set out above, the powers  created by sec tion 99 of the 2016 Act in relation to Targeted  Equipment Interference material include obtaining assistance in  relation to giving effect to the Targeted Equipment Interference  warrant, and that provision is not limited in its geographical  reach.",
+    "legal_references": [
+      {
+        "text": "sec tion 99 of the 2016 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Targeted  Equipment Interference",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Targeted Equipment Interference",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "To read s ection 9 as applying to conduct covered by a Judgment Approved by the court for handing down.",
+    "legal_references": [
+      {
+        "text": "s ection 9 as applying",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "a Judgment Approved",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "A, B, D & C -v- Regina      Targeted Equipment Interference warrant would cut across the  breadth of the authority given under section 99(5), and would  require the obtaining of a Targeted Interception warrant in  relation to conduct involvin g Targeted Equipment Interference  material.",
+    "legal_references": [
+      {
+        "text": "Targeted Equipment Interference",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "We agree with the judge that section 9 of the 2016 Act should be construed so that it is  restricted to prohibiting the requesting of a foreign state to carry out interception which  would require a Part 2 Targeted Interception warrant if carried out in the United  Kingdom by the United Kingdom authorities, unless such a warrant is in place.",
+    "legal_references": [
+      {
+        "text": "Part 2 Targeted Interception",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The  position which applies if the request is made under an EU mutual assistance instrument  or an international mutual assistance agreement is governed by section 10 so far as the  assistance is in connection with or in the form of the interception of communications.   That provision by necessary implication requires section 9 to be construed so that it  does not apply to cases within section 10.  It governs only a \u201crequest\u201d made by means  other than an EU mutual assistance instrument or an international mutual assistance  agreement.",
+    "legal_references": [
+      {
+        "text": "section 10",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "STATUTORY PROVISIONS FROM INVESTIGATORY POWERS ACT  2016",
+    "legal_references": [
+      {
+        "text": "INVESTIGATORY POWERS ACT",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 4 defines interception and some other terms.",
+    "legal_references": [
+      {
+        "text": "Section 4",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "For the meaning of \u201ccont ent\u201d in relation to a communication, see  section 261(6).",
+    "legal_references": [
+      {
+        "text": "section 261(6",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "A, B, D & C -v- Regina      (6) In this section \u201cwireless telegraphy\u201d and \u201cwireless telegraphy  apparatus\u201d have the same meaning as in the Wireless Telegraphy  Act 2006 (see sections 116 and 117 of that Act).",
+    "legal_references": [
+      {
+        "text": "A, B, D & C",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Wireless Telegraphy  Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "sections 116 and 117",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The key provision for this case is 6(1)(c), which  provides that interception of stored communications (to which s4(4)(b) applies) under  a Part 5 warrant is lawful.",
+    "legal_references": [
+      {
+        "text": "Part 5",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Paragraph 2 of Schedule 3 below renders product within that  category admissible by excluding it from section 56.   6.",
+    "legal_references": [
+      {
+        "text": "Paragraph 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Schedule 3",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 56",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(1) For the purposes of this Act, a person has lawful authority to  carry out an interception if, and only if \u2014  (a) the interception is carried out in accordance with \u2014  (i) a targeted interception warrant  or mutual  assistance warrant under Chapter 1 of Part 2, or   (ii) a bulk interception warrant under Chapter 1 of  Part 6,   (b) the interception is authorised by any of sections 44 to  52, or   (c) in the case of a communication stored in or by a  telecommunicatio n system, the interception \u2014 Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      (i) is carried out in accordance with a targeted  equipment interference warrant under Part 5 or a bulk  equipment interference warrant under Chapter 3 of Part  6,  (ii) is in the exercise of any statutory power that is  exercised for the purpose of obtaining information or  taking possession of any document or other property, or   (iii) is carried out in accordance with a court order  made for that purpose.   (2) \u2026\u2026.   (3)  \u2026\u2026.    5.",
+    "legal_references": [
+      {
+        "text": "Chapter 1 of Part 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Chapter 1 of  Part",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "C -v- Regina",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Chapter 3",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "unless \u2014  (a) a targeted interception warrant has been issued under  Chapter 1 of Part 2 authorising the person to whom it is  addressed to secure the interception of communications sent  by, or intended for, that individual, or   (b) a targeted examination warrant has been issued under  that Chapter authorising the person to whom it  is addressed  to carry out the selection of the content of such  communications for examination.",
+    "legal_references": [
+      {
+        "text": "Chapter 1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(2) A request to which this section appli es may not be made by  or on behalf of a person in the United Kingdom to the competent  authorities of a country or territory outside the United Kingdom  unless a mutual assistance warrant has been issued under  Chapter 1 of Part 2 authorising the making of th e request.   (2A) Subsection (2) does not apply in the case of a request for  assistance in connection with, or in the form of, interception of a  communication stored in or by a telecommunication system if  the request is made \u2014  (a) in the exercise of a statutory power that is exercised for  the purpose of obtaining information or taking possession of  any document or other property, or   (b) in accordance with a court order that is made for that  purpose.",
+    "legal_references": [
+      {
+        "text": "Chapter 1 of Part 2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": ";   \u201cinternational mutual assistance agreement\u201d means an  international agreement which \u2014      (a)    relates to the provision of mutual assistance in  connecti on with, or in the form of, the interception of  communications,       (b)    requires the issue of a warrant, order or equivalent  instrument in cases in which assistance is given, and       (c)    is designated as an international mutual assistance  agreement b y regulations made by the Secretary of State.",
+    "legal_references": [
+      {
+        "text": "international mutual assistance agreement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The rule against admissibility in court proceedings is found in section 56 and  schedule 3 to the Act.",
+    "legal_references": [
+      {
+        "text": "section 56",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "56 Exclusion of matters from legal proceedings etc.   (1) No evidence may be adduced, question asked, assertio n or  disclosure made or other thing done in, for the purposes of or in  connection with any legal proceedings or Inquiries Act  proceedings which (in any manner) \u2014  (a) discloses, in circumstances from which its origin in  interception -related conduct may be in ferred \u2014  (i) any content of an intercepted communication, or   (ii) any secondary data obtained from a communication,  or  (b) tends to suggest that any interception -related conduct  has or may have occurred or may be going to occur.   This is subject to Schedule 3 (exceptions).   (2) \u201cInterception -related conduct \u201d means \u2014  (a) conduct by a person within subsection (3) that is, or in  the absence of any lawful authority would be, an offence  under section 3(1) (offence of unlawful interception);   (b) a breach of the prohibition imposed by section 9  (restriction on requesting interception by overseas  authorities);   (c) a breach of the prohibition imposed by section 10  (restriction on requesting assistance under mutual assistance  agreements etc.);   (d) the making of an ap plication by any person for a  warrant, or the issue of a warrant, under Chapter 1 of this  Part;   (e) the imposition of any requirement on any person to  provide assistance in giving effect to a targeted interception  warrant or mutual assistance warrant.   (3) The persons referred to in subsection (2)(a) are \u2014  (a) any person who is an intercepting authority (see section  18);  (b) any person holding office under the Crown;  Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      (c) any person deemed to be the proper officer of Revenue  and Customs by virtue of section 8( 2) of the Customs and  Excise Management Act 1979;   (d) any person employed by, or for the purposes of, a police  force;   (e) any postal operator or telecommunications operator;   (f) any person employed or engaged for the purposes of the  business of a postal operator or telecommunications  operator.   (4) Any reference in subsection (1) to interception -related  conduct also includes any conduct taking place before the  coming into force of this section and consisting of \u2014  (a) conduct by a person within subsec tion (3) that \u2014  (i) was an offence under section 1(1) or (2) of the  Regulation of Investigatory Powers Act 2000 (\u201cRIPA\u201d),  or      (ii) would have been such an offence in the absence of  any lawful authority (within the meaning of section 1(5)  of RIPA);   (b) cond uct by a person within subsection (3) that \u2014  (i) was an offence under section 1 of the Interception of  Communications Act 1985, or   (ii) would have been such an offence in the absence of subsections (2)  and (3) of that section;   (c) a breach by the Secretary of State of the duty under  section 1(4) of RIPA (restriction on requesting assistance  under mutual assistance agreements);   (d) the making of an application by any person for a  warrant, or the issue of a warrant, under \u2014  (i) Chapter 1 of Part 1 of RIPA, or   (ii) the Interception of Communications Act 1985;  Judgment Approved by the court for handing down.",
+    "legal_references": [
+      {
+        "text": "Inquiries Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Schedule 3 (exceptions",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 9",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 10",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Chapter 1 of this  Part",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section  18",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": ".  A",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 8( 2)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Customs and  Excise Management Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the  Regulation of Investigatory Powers Act 2000",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Interception of  Communications Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Interception of Communications Act 1985",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "A, B, D & C -v- Regina      (e) the imposition of any requirement on any person to  provide assistance in giving effect to a warrant under  Chapter 1 of Part 1 of RIPA.",
+    "legal_references": [
+      {
+        "text": "Chapter 1 of Part 1 of RIPA",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(5) In this section \u2014  \u201cInquiries Act  proceedings \u201d means proceedings of an  inquiry under the Inquiries Act 2005;   \u201cintercepted communication \u201d means any  communication intercepted in the course of its  transmission by means of a postal service or  telecommunication system.   7.",
+    "legal_references": [
+      {
+        "text": "Inquiries Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Inquiries Act 2005",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Schedule 3 to the Act co ntains a number of exceptions to the operation of the  exclusionary rule in section 56(1) in certain classes of proceedings.",
+    "legal_references": [
+      {
+        "text": "Schedule 3",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 56(1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Disclosures of lawfully intercepted communications   2 (1) Section 56(1)(a) does not prohibit the disclosure of any  content of a communicat ion, or any secondary data obtained  from a communication, if the interception of that communication  was lawful by virtue of any of the following provisions \u2014  (a) sections 6(1)(c) and 44 to 52;   (b) sections 1(5)(c), 3 and 4 of the Regulation of  Investigatory  Powers Act 2000;   (c) section 1(2)(b) and (3) of the Interception of  Communications Act 1985.",
+    "legal_references": [
+      {
+        "text": "the Regulation of  Investigatory  Powers Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Interception of  Communications Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(2) Where any disclosure is proposed to be, or has been, made  on the grounds that it is authorised by sub -paragraph (1), section  56(1) does not prohibit the doing  of anything in, or for the  purposes of, so much of any proceedings as relates to the  question whether that disclosure is or was so authorised.",
+    "legal_references": [
+      {
+        "text": "section  56(1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 99 in Part 5 of the Act deals with the kind of warrants which were granted  in this case, a Targeted Equi pment Interference warrant.",
+    "legal_references": [
+      {
+        "text": "Section 99",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 5",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(4) The reference in subsecti ons (2) and (3) to the obtaining of  communications or other information includes doing so by \u2014  (a) monitoring, observing or listening to a person's  communications or other activities;   (b) recording anything which is monitored, observed or  listened to.   (5) A targeted equipment interference warrant also authorises the  following conduct (in addition to the conduct described in the  warrant) \u2014  (a) any conduct which it is necessary to undertake in order  to do what is expressly authorised or required by the warrant,  including conduct for securing the obtaining of  communications, equipment data or other information;  Judgment Approved by the court for handing down.  A, B, D & C -v- Regina      (b) any conduct by any person which is conduct in  pursuance of a requirement imposed by or on behalf of the  person to whom the warrant is addresse d to be provided with  assistance in giving effect to the warrant.   (6) A targeted equipment interference warrant may not, by virtue  of subsection (3), authorise or require a person to engage in  conduct, in relation to a communication other than a stored  communication, which would (unless done with lawful  authority) constitute an offence under section 3(1) (unlawful  interception).",
+    "legal_references": [
+      {
+        "text": "A, B",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(7) Subsection (5)(a) does not authorise a person to engage in  conduct which could not be expressly authorised under the  warrant b ecause of the restriction imposed by subsection (6).",
+    "legal_references": [
+      {
+        "text": "Subsection (5)(a)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In Part 5, section 135 defines, among other things  \u201ccommunications\u201d for the purposes of that Part of the Act.",
+    "legal_references": [
+      {
+        "text": "Part 5",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 135",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 261 contains  \u201ctelecommunications definitions\u201d.",
+    "legal_references": [
+      {
+        "text": "Section 261",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

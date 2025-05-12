@@ -1,0 +1,376 @@
+[
+  {
+    "sentence": "Before:  THE RIGHT HONOURABLE THE LORD BURNETT OF MALDON THE LORD CHIEF JUSTICE and THE HONOURABLE MR JUSTICE OUSELEY  - - - - - - - - - - - - - - - - - - - - -  Between:  |LAURI LOVE|Appellant| |- and -|| |THE GOVERNMENT OF THE UNITED STATES OF AMERICA - and - LIBERTY|Respondent   Interested Party|   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  MR EDWARD FITZGERALD QC AND MR BEN COOPER  (instructed by KAIM TODNER SOLICITORS LTD) for the Appellant MR PETER CALDWELL (instructed by CPS EXTRADITION UNIT) for the Respondent MR ALEX BAILIN QC AND MR AARON WATKINS (instructed by LIBERTY) for the Interested Party   Hearing dates: 29 and 30 November 2017  - - - - - - - - - - - - - - - - - - - - -  Judgment  THE LORD CHIEF JUSTICE AND MR JUSTICE OUSELEY :  This is the judgment of the Court.  Lauri Love appeals against the decision of District Judge Tempia, sitting at Westminster Magistrates\u2019 Court on 16 September 2016, to send his case to the Secretary of State for the Home Department for her decision whether to order his extradition to the United States of America, under Part 2 of the Extradition Act 2003 [\u201cthe 2003 Act\u201d].",
+    "legal_references": [
+      {
+        "text": "Part 2",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Extradition Act 2003",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 2003 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The principal issues before this court are: whether the judge was wrong to hold that the forum bar in section 83A of the 2003 Act, introduced by the Crime and Courts Act 2013, did not prevent Mr Love\u2019s extradition; whether his extradition would be unjust or oppressive by reason of his physical or mental condition, and so required his discharge under section 91 of the 2003 Act; and whether various rights guaranteed by the European Convention of Human Rights [\u201cECHR\u201d] would be breached, notably article 3, in the light of his health and the conditions he would face in the United States, and article 8 in the light of those factors, his home support and treatment, and the possibility of criminal proceedings being taken against him in the UK for the offences for which his extradition is sought.",
+    "legal_references": [
+      {
+        "text": "section 83A of the 2003 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Crime and Courts Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 91",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the European Convention of Human Rights",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "article 3,",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "article 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "These offences are equivalent to offences under the Computer Misuse Act 1990 with maximum sentences of 2 and 5 years, under the Proceeds of Crime Act 2002 with maximum sentences of 14 years, and the common law offence of conspiracy to defraud.",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Proceeds of Crime Act 2002",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Love was arrested on suspicion for offences under the Computer Misuse Act 1990, made no comment in interview and was released on bail.",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "The forum bar is contained in the provisions of section 83A and was inserted into the 2003 Act.",
+    "legal_references": [
+      {
+        "text": "section 83A",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 2003",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 83C governs the content of a certificate for the purposes of section 83B.",
+    "legal_references": [
+      {
+        "text": "Section 83C",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 83B.",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 83D permits a certificate to be questioned but only on appeal, and only on judicial review grounds.",
+    "legal_references": [
+      {
+        "text": "Section 83D",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Sections 76A and 88 of the 2003 Act in combination give priority to domestic prosecutions over extradition for any offence.",
+    "legal_references": [
+      {
+        "text": "Sections 76A",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 83A(2)(a) was not at issue: a substantial measure of Mr Love\u2019s relevant activity was performed in the United Kingdom, using his computers at home.",
+    "legal_references": [
+      {
+        "text": "Section 83A(2)(a)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "She then dealt with section 83A(2)(b), the specific and only factors relevant to the next stage of the decision on the interests of justice.",
+    "legal_references": [
+      {
+        "text": "section 83A(2)(b)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In our judgment, section 83A is clearly intended to provide a safeguard for requested persons, not distinctly to be found in any of the other bars to extradition or grounds for discharge, including section 87 and the wide scope of article 8 ECHR.",
+    "legal_references": [
+      {
+        "text": "section 83A",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 87",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "article 8 ECHR",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The forum bar only arises if extradition would not be in the interests of justice; section 83A(1).",
+    "legal_references": [
+      {
+        "text": "section 83A(1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The matters relevant to an evaluation of \u201cthe interests of justice\u201d for these purposes are found in section 83A(2)(b).",
+    "legal_references": [
+      {
+        "text": "section 83A(2)(b)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Caldwell favoured the approach taken in Celinski v Poland [2015] EWHC 1274 at [18-24], where the Divisional Court concluded, in relation to article 8 cases, that the correct approach for an appellate court was to ask the single question whether or not the district judge made the wrong decision, and to allow the appeal only if the decision was wrong in the way described by Lord Neuberger in Re B (A Child) (FC) [2013] UKSC 33.",
+    "legal_references": [
+      {
+        "text": "article 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "However, if this court concludes that the DJ has not erred in any one of those respects I have just identified, but simply took the view that it would give a different weight to a particular specified matter from that given to it by the judge below, I very much doubt that this court could therefore conclude that the appropriate judge ought to have decided the Forum Bar question before him in the extradition hearing differently: see section 104(3)(a) of the EA.",
+    "legal_references": [
+      {
+        "text": "section 104(3)(a)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EA",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This was very much the approach adopted in relation to article 8 cases by Aikens LJ and Edis J, in Belbin v Regional Court of Lille, France [2015] EWHC 149 (Admin), which, while approved in Celinski, was overtaken by the latter\u2019s simpler approach.",
+    "legal_references": [
+      {
+        "text": "article 8",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EWHC 149",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The statutory appeal power in section 104(3) permits an appeal to be allowed only if the district judge ought to have decided a question before him differently and if, had he decided it as he ought to have done, he would have had to discharge the appellant.",
+    "legal_references": [
+      {
+        "text": "section 104(3)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Application to this case We now deal with the individual factors in section 83A(3): (a) The place where most of the harm or loss took place, here the United States, would usually be a very weighty factor, and we infer that it was correctly treated as such by the judge.",
+    "legal_references": [
+      {
+        "text": "section 83A(3):",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "First, it can certify under section 83B that it has decided formally that D should not be prosecuted in the United Kingdom, for certain specific reasons; if it does so certify, the forum bar cannot apply.",
+    "legal_references": [
+      {
+        "text": "section 83B",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The 2003 Act enables the formal and reasoned views of the prosecutor to be given to the court, and that is how they should be given.",
+    "legal_references": [
+      {
+        "text": "The 2003 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In our judgment, \u201cconnection\u201d goes rather wider than that, without being so elastic that it replicates the full scope of article 8 ECHR.",
+    "legal_references": [
+      {
+        "text": "article 8 ECHR",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In this case the forum bar found in section 83A of the 2003 operates to prevent Mr Love\u2019s extradition to the United States.",
+    "legal_references": [
+      {
+        "text": "section 83A of the 2003",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Bailin\u2019s researches suggested that the forum bar had not been raised successfully under section 83A in any reported case, although he did not know whether any had succeeded at Westminster Magistrates\u2019 Court.",
+    "legal_references": [
+      {
+        "text": "section 83A",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "These reflect the provisions of section 83A, but add the question of whether potential sentences reflect the seriousness of the offending.",
+    "legal_references": [
+      {
+        "text": "section 83A",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Guidelines at [10] imply that where an investigation is already underway into criminal conduct when the related extradition request is received, the CPS should consider whether a prosecution should be brought in the requesting state.",
+    "legal_references": [
+      {
+        "text": "The Guidelines at [10",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Bailin subjected the four reasons in the CPS letter to Kaim Todner of 8 September 2015 to close scrutiny, in order to advance his contention that the 2003 Act required, alternatively that the Court should require, a prosecutor actively to engage with the forum bar process.",
+    "legal_references": [
+      {
+        "text": "the 2003 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It did not go through the various factors in section 83A, or the factors in the Guidance, nor did it adequately reason its position in relation to those which it did consider.",
+    "legal_references": [
+      {
+        "text": "section 83A",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Guidance",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Bailin submitted that this minimal engagement was not what section 83A envisaged.",
+    "legal_references": [
+      {
+        "text": "section 83A",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The 2003 Act spells out the role of the prosecutor in issuing a certificate and its consequences.",
+    "legal_references": [
+      {
+        "text": "The 2003 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Oppression Sections 91(2) and (3) of the 2003 Act require the judge to order the requested person\u2019s discharge if it appears to the judge at the extradition hearing \u201cthat the physical or mental condition of the person is such that it would be unjust or oppressive to extradite him.\u201d",
+    "legal_references": [
+      {
+        "text": "Oppression Sections 91(2) and",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The judge dealt with this alongside Article 3 ECHR.",
+    "legal_references": [
+      {
+        "text": "Article 3 ECHR",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The BOP Program Statement required conditions in them which were healthy and humane.",
+    "legal_references": [
+      {
+        "text": "The BOP Program Statement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The judge accepted that the relevant Sentencing Guidelines permitted departures from the range to which mental health could be relevant, but Mr Love could also receive enhancements to his sentence under them.",
+    "legal_references": [
+      {
+        "text": "Sentencing Guidelines",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In the light of the conclusions to which we have come, consideration of Articles 3 and 8 ECHR is unnecessary.",
+    "legal_references": [
+      {
+        "text": "Articles 3 and 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

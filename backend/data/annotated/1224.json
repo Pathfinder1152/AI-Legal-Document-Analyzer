@@ -1,0 +1,23 @@
+{
+  "file_name": "1224.rtf",
+  "metadata": {
+    "case_number": "IHQ/14/0135",
+    "neutral_citation": "[2014] EWHC 1224 (QB)",
+    "court": "IN THE HIGH COURT OF JUSTICE QUEEN'S BENCH DIVISION",
+    "judges": [
+      "MRS JUSTICE SIMLER DBE"
+    ],
+    "hearing_date": "1 April 2014",
+    "parties": {
+      "Claimant": "SHEPHERD",
+      "Defendants": "FOX WILLIAMS LLP & OTHERS"
+    },
+    "representatives": {
+      "Claimant": "Mr Edmund Cullen QC (instructed by Collyer Bristow)",
+      "Defendants": "Mr Philip Jones QC (instructed by Fox Williams LLP)"
+    },
+    "extracted_at": "2025-04-13T12:52:58.066377Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\1224.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\1224.txt"
+}

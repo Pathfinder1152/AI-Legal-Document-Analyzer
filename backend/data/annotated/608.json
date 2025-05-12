@@ -1,0 +1,30 @@
+{
+  "file_name": "608.rtf",
+  "metadata": {
+    "case_number": "HC08C03346",
+    "neutral_citation": "[2010] EWHC 608 (Ch)",
+    "court": "HIGH COURT",
+    "judges": [
+      "THE HONOURABLE MR. JUSTICE KITCHIN"
+    ],
+    "hearing_date": "1-3, 8, 10 February, 2, 3 March 2010",
+    "parties": {
+      "Claimants": [
+        "(1) TWENTIETH CENTURY FOX FILM CORPORATION",
+        "(2) UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP",
+        "(3) WARNER BROS. ENTERTAINMENT INC.",
+        "(4) PARAMOUNT PICTURES CORPORATION",
+        "(5) DISNEY ENTERPRISES, INC.",
+        "(6) COLUMBIA PICTURES INDUSTRIES, INC."
+      ],
+      "Defendant": "NEWZBIN LIMITED"
+    },
+    "representatives": {
+      "Claimants": "Mr Adrian Speck (instructed by Wiggin LLP)",
+      "Defendant": "Mr David Harris and Ms Jane Lambert (instructed by Kirwans Solicitors)"
+    },
+    "extracted_at": "2025-04-13T12:53:47.972471Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\608.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\608.txt"
+}

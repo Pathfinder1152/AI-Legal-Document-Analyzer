@@ -1,0 +1,23 @@
+{
+  "file_name": "39.pdf",
+  "metadata": {
+    "case_number": " CC-2023-MAN-000069",
+    "neutral_citation": "[2024] EWHC 39 (Comm)",
+    "court": "IN THE HIGH COURT OF JUSTICE BUSINESS AND PROPERTY COURTS IN MANCHESTER CIRCUIT COMMERCIAL COURT (KBD)",
+    "judges": [
+      "His Honour Judge Pearce si tting as a Judge of the High Court"
+    ],
+    "hearing_date": "1 November 2023  ",
+    "parties": {
+      "Claimant": "GOVDATA LIMITED",
+      "Defendant": "INDEED UK OPERATIONS LIMITED"
+    },
+    "representatives": {
+      "Claimant": "Mr IAN SKEATE instructed by  way of direct access",
+      "Defendant": "MS CLAIRE OVERMAN instructed by Lewis Silkin LLP"
+    },
+    "extracted_at": "2025-04-13T12:53:36.875659Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\39.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\39.txt"
+}

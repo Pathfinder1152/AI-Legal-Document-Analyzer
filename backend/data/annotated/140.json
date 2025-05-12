@@ -1,0 +1,26 @@
+{
+  "file_name": "140.rtf",
+  "metadata": {
+    "case_number": "IHQ/06/0833",
+    "neutral_citation": "[2007] EWHC 140 (QB)",
+    "court": "IN THE HIGH COURT OF JUSTICE QUEEN'S BENCH DIVISION",
+    "judges": [
+      "MR JUSTICE TUGENDHAT"
+    ],
+    "hearing_date": "22nd January 2007",
+    "parties": {
+      "Claimant": "L",
+      "Defendant": [
+        "(1)L",
+        "(2) H (a firm)"
+      ]
+    },
+    "representatives": {
+      "Claimant": "Mr David Sherborne (instructed by Family Law in Partnership)",
+      "Defendant": "Miss Lorna Skinner (instructed by Hughes Fowler Carruthers)"
+    },
+    "extracted_at": "2025-04-13T12:53:03.182381Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\140.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\140.txt"
+}

@@ -1,0 +1,123 @@
+[
+  {
+    "sentence": "The Fee Sharing Agreement I am not satisfied that Mr Goymer disclosed this agreement to Mr Alafouzos.",
+    "legal_references": [
+      {
+        "text": "The Fee Sharing Agreement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The principle is stated in Chitty on Contracts 28th Edition para 32-073; see also Panama and South Pacific Telegraph Company v India Rubber Co [1875] L.R. 10 Ch App 515.",
+    "legal_references": [
+      {
+        "text": "Chitty",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Contracts 28th Edition",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "On 26 February 1997 Mr Alafouzos on behalf of Ermis, signed a \"Mandate\" appointing Mr Goymer and Mr Edmondson \"to act exclusively on my behalf, for a period of two years, in relation to the provision of Tax Schemes for the financing of vessels already within my fleet or to be acquired by my companies\".",
+    "legal_references": [
+      {
+        "text": "a \"Mandate",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This authority includes the signing of the memorandum of understanding\".",
+    "legal_references": [
+      {
+        "text": "the memorandum of understanding",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "A Memorandum of Understanding was signed that day by Chevron, Samsung and Mr Goymer on behalf of Ermis.",
+    "legal_references": [
+      {
+        "text": "A Memorandum of Understanding",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Had a tax scheme been concluded which achieved benefits with a net present value of 15% the Defendants would have been due a commission of some $4m under the terms of the Mandate.",
+    "legal_references": [
+      {
+        "text": "Mandate",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The issues which arise are: whether the Claimants are entitled to rescind the Mandate or to recover the sums paid pursuant to it for misrepresentation.",
+    "legal_references": [
+      {
+        "text": "Mandate",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "There are also other issues relating to the Mandate.",
+    "legal_references": [
+      {
+        "text": "Mandate",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "They also allege that it was an implied term of the Mandate that tax schemes reducing the capital cost and contribution were available on reasonable terms and that the consideration for the payments wholly failed because they were not.",
+    "legal_references": [
+      {
+        "text": "Mandate",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Indeed in Paragraph 6(c) of the Re-Amended Reply it is asserted that the \u00a325,000 payment was made \"in recognition\" of Mr Goymer's role in negotiating the construction contract with Samsung and the bareboat charter documentation with Chevron.",
+    "legal_references": [
+      {
+        "text": "Paragraph 6(c)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I cannot accept Mr Goymer's evidence, nor Mr Edmondson's insofar as it was to the same effect, that the Mandate was varied or superseded by any binding oral agreement to pay the Defendants 1% of the value of the vessels.",
+    "legal_references": [
+      {
+        "text": "Mandate",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Even if Mr Alafouzos could maintain a case that the payments were made under the Mandate I do not think that affects the position.",
+    "legal_references": [
+      {
+        "text": "Mandate",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Whether the payments be justified under a broad construction of the provisions of the Mandate or as a \"quantum meruit\" does not matter.",
+    "legal_references": [
+      {
+        "text": "Mandate",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

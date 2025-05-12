@@ -1,0 +1,24 @@
+{
+  "file_name": "1069.rtf",
+  "metadata": {
+    "case_number": "CO/11366/2008",
+    "neutral_citation": "[2009] EWHC 1069 (Admin)",
+    "court": "IN THE HIGH COURT OF JUSTICE QUEEN'S BENCH DIVISION",
+    "judges": [
+      "LORD  JUSTICE  KEENE",
+      "MR  JUSTICE  RODERICK  EVANS"
+    ],
+    "hearing_date": "Friday  1  May  2009",
+    "parties": {
+      "Appellant": "DAVID BURWELL",
+      "Respondent": "DIRECTOR  OF  PUBLIC  PROSECUTIONS"
+    },
+    "representatives": {
+      "Appellant": "Mr H Southey (instructed by Hodge Jones Allen, London NW1 2NB)",
+      "Respondent": "Mr R Hallowes (instructed by Guildford CPS)"
+    },
+    "extracted_at": "2025-04-13T12:52:56.280520Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\1069.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\1069.txt"
+}

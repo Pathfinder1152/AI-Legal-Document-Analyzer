@@ -1,0 +1,313 @@
+[
+  {
+    "sentence": "Neutral Citation Number: [2021] EWFC 18     Case No: FD18P0XXX   IN THE FAMILY COURT         Date: 26 February 2021     Before  :    ELIZABETH ISAACS QC SITTING AS A DEPUTY HIGH COURT JUDGE   - - - - - - - - - - - - - - - - - - - - -  Between :     F    Applicant    - and \u2013                                              M    - and \u2013    X, Y and Z     (by their guardian, Mr T)     (CHILDREN) (AGREED TRANSFER OF RESIDENCE)     Ms Anarkali Musgrave, counsel (via Direct Access)  for the   Applicant    Ms Dorothea Gartland, counsel (via Direct Access) for the 1st  Respondent    Mr Nick Jack, counsel for the Children\u2019s Guardian      1st Respondent       2nd-4th  Respondents               Hearing dates: 15-18 February 2021   - - - - - - - - - - - - - - - - - - - - -  Approved Judgment   I direct that pursuant to CPR PD 39A para 6.1 no official shorthand note shall be taken of this  Judgment and th at copies of this version as handed down may be treated as authentic.       .............................     ELIZABETH ISAACS QC SITTING AS A DEPUTY HIGH COURT JUDGE       This judgment was delivered in private.",
+    "legal_references": [
+      {
+        "text": "CPR PD 39A para 6.1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "On 25 January 2019 the court granted the guardian\u2019s Part 25 application for  there to be a psychological assessment of the family by Dr Martinez.",
+    "legal_references": [
+      {
+        "text": "Part 25",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "At that hearing it was confirmed that M had been summonsed to app ear at Town A  Magistrates Court on 23 April 2019 to answer a charge contrary to s1(1) and (3) of the  Computer Misuse Act 1990.",
+    "legal_references": [
+      {
+        "text": "the  Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "s1(1) and (3) of the  Computer Misuse Act 1990",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "I concluded the fact - finding judgment by saying this about F \u2013  331.",
+    "legal_references": [
+      {
+        "text": "F \u2013",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Ultimately it is for parents to make decisions about  their children acting in their best interests, at least for children  of this age.",
+    "legal_references": [
+      {
+        "text": "Children Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "Parental respo nsibility is defined by s3(1) CA 1989 as \u2013  \u2018all the rights, duties, powers, responsibilities and authority  which by law a parent of a child has in relation to the child and  his property.\u2019   58.",
+    "legal_references": [
+      {
+        "text": "s3(1) CA 1989",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "CA 1989",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "In Re H -B (Contact)   [2015] EWCA Civ 389  at paragraph 74 Munby P (as he then was) endorsed what was  said by McFarlane LJ (as he then was) in Re W (Direct Contact)  [2012] EWCA Civ  999 \u2013  74.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 389",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In conte sted cases where the court is considering whether to make, vary or discharge a  section 8 order, the court shall have regard in particular to the factors in the welfare  checklist set out in s1(3) CA 1989, namely the ascertainable wishes and feelings of  the child concerned (considered in the light of the child\u2019s age and understanding); the  child\u2019s physical, emotional and educational needs; the likely effect on the child of any  change in his or her circumstances; the child\u2019s age, sex, background and any  charac teristics which the court considers relevant; any harm which the child has  suffered or is at risk of suffering; how capable each of the parents are of meeting the  child\u2019s needs; and the range of powers available to the court under the CA 1989.  However, thi s is not an exhaustive or hierarchical list of factors to be considered by  the court; no one factor is more important than another, and the court may consider  other factors as it sees relevant.",
+    "legal_references": [
+      {
+        "text": "section 8",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "s1(3) CA 1989",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the CA 1989",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "CA 1989",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "At all times the court must have regard to the Article 6 and Article 8 rights of the  child and of the parent, but must bear in mind that where there is a tension between  the Article 8 rights of a child, on the one hand, and of th e parent, on the other, the  rights of the child prevail \u2013 see Yousef v The Netherlands  [2003] 1 FLR 210 .  Parental alienation   64.",
+    "legal_references": [
+      {
+        "text": "Article 6",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Article 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In Re S (Parental Alienation: Cult)  [2020] EWCA Civ 568 , Peter Jackson LJ  observed, in relation to the law concerning parental alie nation \u2013  7.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 568",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "We agree with Sir Andrew McFarlane (see [2018] Fam  Law 988) that where behaviour is abusive, protective action  must be considered whether or not the behaviour arises from a  syndrome or diagnosed condition.",
+    "legal_references": [
+      {
+        "text": "Fam  Law 988",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Once orders are required, the court\u2019s powers include  those provided by sections 11A to 11O of the Children Act  1989, and extend to consideration of a more fundamental  revision of the arrangements for the child.",
+    "legal_references": [
+      {
+        "text": "sections 11A to 11O",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Children Act  1989",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Children Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "s 11A to 11O of the Children Act  1989",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "As McFarlane LJ said in Re A (Intractable Contact  Dispute: Human Rights Violations)  [2013] EWCA Civ 1104;  [2014] 1 FLR 1185 at 53:     \u201c53.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 1104",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In Re H -B (Contact)  [2015] EWCA Civ 389  at paragraph 79 Munby P (as he then  was) identified what was needed, to move an intractable case forward, of a mother  who had been found to have alienated children from their  father.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 389",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In Re L (A Child)  [2019] EWHC 867 (Fam)  the President sought to distance himself  from any characterisation of the transfer of residence as being a \u2018judicial weapon of  last resort\u2019  (as previously employed by Thorpe LJ and Coleridge J in Re A  (Residence Order)  [2009] EWCA Civ 1141 , saying \u2013  54.",
+    "legal_references": [
+      {
+        "text": "Re L (A",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Re A  (",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EWCA Civ 1141",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is well established that the court cannot  put a gloss on to the paramountcy principle in CA 1989 s1.",
+    "legal_references": [
+      {
+        "text": "CA 1989 s1",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "CA 1989",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "It is important to note that  the welfare provisions in CA 1989 s1 are precisely the same as  those applyin g in public law children cases where a local  authority may seek the court\u2019s authorisation to remove a child  from parental care either to place them with another relative or  in alternative care arrangements.",
+    "legal_references": [
+      {
+        "text": "CA 1989 s1",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "CA 1989",
+        "match_type": "Regex - Short Form"
+      }
+    ]
+  },
+  {
+    "sentence": "In Re F (A Child) (International Relocation Case)  [2015] EWCA Civ 882  Ryder  LJ confirmed the way in which the welfare balancing exercise applies just as much to  private law cases as it does to public law cases \u2013    28.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 882",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "\u2026The re -crafting of section 8 orders from res idence  and contact into child arrangements orders has inter alia the  benefit of emphasising, absent adverse circumstances and  welfare conclusions, the equality of parental responsibility that  each parent has.",
+    "legal_references": [
+      {
+        "text": "section 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In Re W (Care Plans)  [2013] EWCA Civ 1227, [2014]  2 FLR 431 at [76 - 78] I held that in relation to public law  children proceedings the welfare analysis of realistic options  that is required would be f acilitated by a balancing exercise ELIZABETH ISAACS QC SITTING AS A DEPUTY HIGH  COURT JUDGE   Approved Judgment       first recommended by Thorpe LJ in the different context of a  medical treatment case in Re A (Male Sterilisation)  [2000] 1  FLR 549 at 560.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 1227",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Re A (",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That approach had been identified by my  Lord, McFarlane LJ in Re G (Care Proceeding s: Welfare  Evaluation)  [2013] EWCA Civ 965, [2014] 1 FLR 670 at [54]:   \u201cWhat is required is a balancing exercise in which each  option is evaluated to the degree of detail necessary to  analyse and weigh its own internal positives and negatives",
+    "legal_references": [
+      {
+        "text": "Care Proceeding s:",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EWCA Civ 965",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It was subsequently approved by Sir James Munby P in this  court in Re B -S (Children)  [2013] EWCA Civ 1146, [2014] 1  FLR 1935 at [36] and at [46] where the approach was  described by him in these terms:   \"We emphasise the words 'global, holistic evaluation'.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 1146",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "; whereas previously  she had run happily into the house, now she said she immediately wanted to go home  and would not look at M.   79.",
+    "legal_references": [
+      {
+        "text": "M.   79",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As Dr Berelowitz observed, there is an  unprecedentedly high number of complaints about third parties and other  professionals in this case by F.   115.",
+    "legal_references": [
+      {
+        "text": "F.   115",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "considers that she may also have become quite dependent upon F.   149.",
+    "legal_references": [
+      {
+        "text": "F.   149",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "With  everyone\u2019s agreement I have made a Child Arrangements Order for the children to  live with M.   218.",
+    "legal_references": [
+      {
+        "text": "a Child Arrangements Order",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "M.   218",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Another benefit of this  option, which c annot be overlooked, is that it provokes less opportunity for X to  undermine Y\u2019s and Z\u2019s relationships with M because she will get what she wants,  namely to stay with F.   234.",
+    "legal_references": [
+      {
+        "text": "F.   234",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "file_name": "1142.rtf",
+  "metadata": {
+    "case_number": "A3/2001/0213",
+    "neutral_citation": "[2001] EWCA Civ 1142",
+    "court": "IN THE SUPREME COURT OF JUDICATURE COURT OF APPEAL (CIVIL DIVISION) ON APPEAL FROM QUEEN\u2019S BENCH DIVISION CHANCERY DIVISION",
+    "judges": [
+      "LORD PHILLIPS MR",
+      "LORD JUSTICE ROBERT WALKER",
+      "LORD JUSTICE KEENE"
+    ],
+    "hearing_date": "Wednesday 18th July, 2001",
+    "parties": {
+      "Respondent": "THE RIGHT HONOURABLE PADDY ASHDOWN, MP PC",
+      "Appellant": "TELEGRAPH GROUP LTD"
+    },
+    "representatives": {
+      "Respondent": "Richard Spearman, QC (instructed by Bates Wells & Braithwaite)",
+      "Appellant": "Andrew Nicol, QC and James Mellor (instructed by Olswang)"
+    },
+    "extracted_at": "2025-04-13T12:52:56.921846Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\1142.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\1142.txt"
+}

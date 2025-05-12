@@ -1,0 +1,243 @@
+Neutral Citation Number: [2017] EWHC 3048 (Admin)
+
+Case No: CO/2212/2017
+
+IN THE HIGH COURT OF JUSTICE
+
+QUEEN'S BENCH DIVISION
+
+ADMINISTRATIVE COURT
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Date: 29 November 2017
+
+Before:
+
+SIR WYN WILLIAMS
+
+(sitting as a Judge of the High Court)
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Between:
+
+|Francesco Cimieri|Appellant|
+
+|- and -||
+
+|Court of Agrigento (Italy)|Respondent|
+
+- - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Laura Herbert (instructed by Bark & Co) for the Appellant
+
+Aaron Watkins (instructed by the CPS Extradition Unit) for the Respondent
+
+Hearing date: 18 October 2017
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Judgment Approved
+
+Sir Wyn Williams:
+
+This is an appeal against the decision of District Judge Snow made on 5 May 2017 whereby he directed the Appellant’s extradition to Italy pursuant to a European Arrest Warrant (“EAW”) issued on 16 March 2017 and certified on 31 March 2017.  The EAW is accusatory; it specifies five offences of a continuing nature the first of which began in October 2014.
+
+Before the District Judge a number of bases were advanced in opposition to the Appellant’s extradition.  On appeal two grounds are relied upon.  First, it is contended that the Appellant’s extradition is barred by reason of the absence of a prosecution decision pursuant to section 12A of the Extradition Act 2003 (hereinafter referred to as “the Act” or “the 2003 Act”).  Second, the Appellant contends that his extradition would constitute a disproportionate interference with his rights under Article 8 of the European Convention on Human Rights and, accordingly, is barred by section 21A of the Act.  Permission to appeal has been granted in relation to the first ground; it is for me to determine whether or not to grant permission in relation to the second ground and, if permission is granted, whether the ground succeeds.
+
+Ground 1 – section 12A of the 2003 Act
+
+Section 12A of the Act provides as follows:-
+
+“(1) A person's extradition to a category 1 territory is barred by reason of absence of prosecution decision if (and only if)—
+
+(a) it appears to the appropriate judge that there are reasonable grounds for believing that—
+
+(i) 	the competent authorities in the category 1 territory have not made a decision to charge or have not made a decision to try (or have made neither of those decisions), and
+
+(ii) 	the person's absence from the category 1 territory is not the sole reason for that failure,
+
+and
+
+(b) those representing the category 1 territory do not prove that—
+
+(i) 	the competent authorities in the category 1 territory have made a decision to charge and a decision to try, or
+
+(ii) 	in a case where one of those decisions has not been made (or neither of them has been made), the person's absence from the category 1 territory is the sole reason for that failure.
+
+(2) In this section “to charge” and “to try”, in relation to a person and an extradition offence, mean—
+
+(a) to charge the person with the offence in the category 1 territory, and
+
+(b) to try the person for the offence in the category 1 territory.”
+
+District Judge Snow concluded that there were no reasonable grounds for believing that the relevant authority had not made decisions to charge and try the Appellant. Accordingly, the Appellant’s extradition could not be barred under section 12A. He reached the conclusion that there were no reasonable grounds for believing that there had been no decision to charge or to try on the basis of the information contained within the EAW.
+
+Before the District Judge Ms Herbert accepted that there was nothing within the EAW itself which provided reasonable grounds for believing that the decisions to charge and try had not been made – see paragraph 31 of the judgment of the District Judge. However, she argued before the District Judge that there was admissible extrinsic evidence which provided a proper basis for concluding that there were reasonable grounds for believing one or both of the decisions had not been made. In the words of the District Judge “she attempted to introduce extraneous information in an attempt to undermine the clear statements in the EAW”.
+
+The evidence in question was as follows. First, an application dated 15 December 2016 by the Public Prosecutor’s Office to further extend the “investigative period” for 6 months under Article 406 of the Code of Criminal Procedure together with a notice issued by the Investigative Judge’s Office dated 1 January 2017 directing an extension of time. Second, letters from the Appellant’s Italian lawyers dated respectively 13 February and 7 April 2017 purporting to describe the stage reached in the Italian criminal process as it related to the Appellant; the lawyer suggested that no decisions to charge and try had been made or, at least, suggested that was the proper inference. Third, further information dated 30 March 2017 from the Italian pre-trial investigative judge provided in response to a request for further information made by the CPS.
+
+The District Judge refused to admit any of the extrinsic evidence. His view was that since it was clear from the terms of the EAW that the decisions to charge and try had been made he “should look no further” in deciding the issue under section 12A of the Act. In so deciding the District Judge maintained that he was follow a trilogy of cases in the Divisional Court – as to which see below.
+
+The first crucial issue which arises on this appeal is whether the approach of the District Judge, as summarised above, was correct. The starting point is the trilogy of cases before the Divisional Court relied upon by the District Judge.
+
+In Kandola v Generalstaatwaltschaft Frankfurt, Germany [2015] 1 WLR 5095 the Divisional Court (Aikens LJ and Nicol J) set out a number of principles which should inform a court which has the task of interpreting and applying section 12A of the Act.  They are to be found at paragraphs 26 to 34 of the judgment of the court.  No useful purpose would be served by setting out those paragraphs in full not least because they are very well known.  In relation to paragraph 26 to 29, it suffices that I record that the court explained that the application of the statutory provisions involved a staged process.  The first stage was an inquiry as to whether there were reasonable grounds for believing that at least one of the two decisions specified in section 12A(1)(a) had not been made.
+
+As to this first stage, the relevant paragraphs of the judgment are 30 to 32.  They read as follows:-
+
+“30. At the first stage, it seems to us that the default position will be that the two decisions have been taken. It is only if the requested person raises before the appropriate judge the challenge that no prosecution decision to charge or try has been made, that the appropriate judge (in England and Wales the District Judge) has to decide the point. The phrase “it appears to the appropriate judge” must mean that he is satisfied, on the material before him, that there are “reasonable grounds for believing that” one or both of the two decisions have not been made. The phrase “reasonable grounds for believing” means that, on the objective view of the appropriate judge, there are “reasonable grounds for believing” that one or both of the two decisions have not been made. “Reasonable grounds for believing” involves something less than proof on a balance of probabilities, but more than simple assertion, or a fanciful view or “feeling”.
+
+31. On what evidence is the District Judge to come to a decision that “it appears” to him that there are “reasonable grounds for believing” that at least one of the two decisions has or has not been made by the competent authorities? The exercise will be conducted on two bases. First, it may be clear from the warrant itself, read as a whole, that the appropriate authorities have taken or have not taken the two decisions. If the matter is clear from the terms of the warrant as a whole that the decisions have been taken, then the District Judge should look no further in relation to that point. That is because the District Judge is entitled to rely on the statements made in a warrant by a fellow judicial authority. Although section 12A is not based on either Framework Decision, it seems to us that any statement of the relevant judicial authority on this issue must be treated with a high degree of trust, because the whole basis of the European Arrest Warrant mechanism is “based on a high level of confidence between Member States”: see para (10) of the Preamble to FD 2002.
+
+32. Secondly, however, if a requested person makes a challenge under section 12A and it is unclear from the warrant itself whether decisions have been taken to charge and try, the District Judge must be entitled to consider extraneous evidence. It is up to the requested person to advance sufficiently cogent evidence to raise a case to the standard indicated above. However, we think that extraneous evidence from a requested person should not be permitted to throw doubt on a clear statement in the warrant that the two decisions have, in fact, been made. Furthermore, we suggest that the production of elaborate “expert” evidence from lawyers or others on what, under the relevant domestic law, might constitute a “decision to charge” or a “decision to try” is not to be encouraged, particularly at the “reasonable grounds for believing” stage, or else hearings on this issue will become long, complicated and very costly. It may be necessary in rare cases, but it should not be regarded as the normal practice. We think that this approach is in line with that recommended in Assange’s case [2011] EWHC 2849 (Admin) at [147], although we appreciate that the remarks in Assange’s case concerned section 2 of the 2003 Act, not the new section 12A. We accept the proposition advanced by the Judicial Authority in Mr Kandola's case that at the first stage (i.e. the “reasonable grounds” stage), it is neither appropriate nor necessary for the District Judge to make or direct enquiries of the Judicial Authority as to whether decisions to charge or try the requested person have been made. That is because it is for the requested person to satisfy the District Judge that there are “reasonable grounds for believing” that at least one of the two decisions has not been made. Likewise, it is not appropriate or necessary for the District Judge at this “reasonable grounds for believing” stage to cause any inquiry to be made of the Judicial Authority as to the reason for the absence of either such decision. That is because, at this first stage, it is also for the requested person to show that there are reasonable grounds for believing that the failure to take whichever decision is missing is not solely due to the requested person's absence from the category 1 territory.”
+
+Judgment in Kandola was handed down on 13 March 2015.  On 22 July 2015 the Divisional Court returned to section 12A of the 2003 Act in Puceviciene v Prosecutor General’s Office of the Republic of Lithuania [2016] 1 WLR 4937.  On this occasion the Divisional Court consisted of three judges, namely Lord Thomas of Cwmgiedd CJ, Burnett LJ and Ouseley J.
+
+At paragraphs 13 to 15 of the judgment of the court, Lord Thomas summarised the effect of Kandola as it related to “the first stage of the section 12A inquiry”.  He said:-
+
+“13. When considering whether or not there were “reasonable grounds for believing” that one or more of the relevant decisions had not been made, Aikens LJ pointed out the EAW itself, read as a whole, might be clear that the relevant decisions had been taken. If so the district judge “should look no further in relation to that point”.
+
+14. If it was unclear, the district judge was entitled to consider extraneous evidence, but extraneous evidence from the “requested person should not be permitted to throw doubt on a clear statement in the warrant that the two decisions have, in fact, been made.
+
+15. Aikens LJ specifically discouraged elaborate “expert” evidence from lawyers or others on what under the relevant foreign procedures might constitute a decision to charge and a decision to try, particularly at the stage when “reasonable grounds” were being considered. And at that stage, it was not appropriate for the district judge to make or direct inquiries of the requesting authority about whether such decisions have been made, or if not, why not …”.
+
+Between paragraphs 51 and 63 the court set out, in its own terms, the way in which section 12A should be interpreted and applied.  At paragraph 51 the court said:-
+
+“We reiterate the guidance given in Kandola’s case which we have summarised at paragraphs 13–15 as to the first stage of the inquiry. In many cases it will be clear from the terms of the warrant that the decisions have been made. That is the end of the matter, unless there is evidence which raises an issue as to whether the decisions have been taken.”
+
+In paragraph 52 and in ensuing paragraphs the court provided guidance as to what should occur if there was evidence before the District Judge which raised an issue as to whether one or both of the decisions had been made.  At paragraphs 57 and 58 the court determined:-
+
+“57. The decision for the judge will be a decision on the evidence presented to him. It will be highly fact-sensitive.
+
+58. As was made clear in Kandola’s case, the statement of the judicial authority as to the making of the decisions should be accepted by the judge, unless there is clear evidence of bad faith or impropriety. The judge conducting the extradition hearing should therefore not in general question the statement of the judicial authority without such evidence of bad faith or impropriety. In the light of (1) the principle of mutual confidence and recognition and (2) the fact that the procedural system of the state and the decisions made are being explained by a judicial authority in that state, clear evidence is essential if the statement is to be questioned. Assertion will not do.”
+
+Hot on the heels of Puceviciene came Doci v Court of Brescia, Italy [2016] EWHC 2100 (Admin).  As I have said this was yet another decision of the Divisional Court (Beatson LJ and Ouseley J) and, again, the judgment was that of the court.
+
+It is unnecessary to quote substantial extracts from this decision.  It suffices to say that, certainly in broad terms, the court in Doci expressed itself as following the approach which had begun in Kandola and which (it said) was confirmed in Puceviciene.  That said, the phraseology used in paragraph 48 of Doci is worth noting insofar as it relates to the first stage of the process described in Kandola.  The relevant parts read:-
+
+“… the starting point is that the standard language of the EAW, that the requested person is wanted for the purpose of conducting a criminal prosecution, suffices, unless other parts of the EAW itself create reasonable grounds for believing that one or both of the relevant decisions have not been taken. Otherwise, further material is required….”
+
+There is one further decision of the Divisional Court relating to section 12A which must be considered but which was not, apparently cited to the District Judge.  That is Fenton v Palma de Mallorca (Spain) [2017] EWHC 1161 (Admin).  During the course of a judgment with which Irwin LJ agreed, Haddon-Cave J formulated a number of principles which he considered were to be established on the basis of the decisions in Kandola, Puceviciene and Doci.  At paragraph 16 under the heading Kandola, Haddon-Cave J said:-
+
+“(5) Extraneous evidence must not be permitted to “throw doubt on a clear statement in the warrant that the two decisions have been made” and if extraneous evidence is to be considered it must be “sufficiently cogent” to meet the reasonable grounds test …”.
+
+At paragraph 17 under heading Puceviciene, he said:-
+
+“(9) The provision of expert evidence from lawyers should be “very rare indeed”. It is no part of the function of the extradition court to embark upon an investigation of the legal niceties in the jurisdiction of the requesting judicial authority. It should not seek to resolve apparent conflicts of opinion about the meaning of foreign law. The judicial authority's description of its own law and procedure should, under the scheme of the Framework Decision, be accepted “at face value”. Absent the clearest evidence of impropriety or bad faith, it is not the function of the court to examine the correctness of the decision of the requesting authority or prosecutor…”.
+
+At paragraph 18 under the heading Doci, Haddon-Cave J stated:-
+
+“(2)  A “broad practical and purposive interpretation … applies” to the section 12A bar and, in the absence of other evidence, the standard statements in the EAW should be sufficient to show both decisions have been taken …”
+
+Ms Herbert, on behalf of the Appellant, submits that the proper approach to the interpretation and application of section 12A of the Act is informed, too, by the decision of the Supreme Court in Goluchowski v District Court in Elblag, Poland [2016] 1 WLR 2665.  She acknowledges that section 12A of the Act was not considered in Goluchowski and that the issue for consideration in that case was whether further information supplied by a judicial authority and adduced in evidence could be relied upon so as to remedy any failure of a judicial authority to include within a EAW the particulars and/or statements specified in section 2 of the Act.  Nonetheless, Ms Herbert submits that the reasoning expressed in the judgments of Lord Mance and Lord Neuberger should also be followed when the application of section 12A is under consideration.
+
+Prior to the decision in Goluchowski, the perceived wisdom had been that no extrinsic evidence (whether in the form of further information from the judicial authority or otherwise) was admissible to remedy a failure to specify the particulars or statements required under section 2 of the Act.  However, in Goluchowski the Supreme Court sanctioned a different approach.  In so doing it purported to follow the decision of the European Court of Justice in what is known as the Bob-Dogi case (Case C-241/15).  At paragraph 40 of his judgment, Lord Mance explained:-
+
+“40. In the light of the Bob-Dogi case, it is therefore clear under European Union law that, if information obtained under article 15 [a reference to the Framework Decision 2002] subsequently to the EAW shows that a European arrest warrant was in fact based on an “enforceable judgment” or equivalent judicial decision, even though this was not fully or accurately “evidenced” on its face, the EAW will be valid and enforceable. On the other hand, if subsequently obtained information undermines in a fundamental respect a statement in an EAW which on its face evidences an enforceable judgment or equivalent judicial decision, it could not be right to give effect to the EAW willy-nilly.”
+
+At paragraphs 44 and 45, Lord Mance continued:-
+
+“44. …. the bases on which and the processes by which the judgments became enforceable are made clear by the subsequently obtained information. The Bob-Dogi case … establishes that an EAW could not be treated as invalid or ineffective merely because that full history did not appear in the EAW itself and only became apparent from information subsequently requested. The Bob-Dogi case concerned an EAW which was on its face problematic. It is inconceivable that an EAW which was in terms valid could fall to be treated as invalid in the light of subsequent information which confirmed that it did indeed rest on a valid foundation in terms of enforceable court judgment(s) and/or decision(s). That would be perverse.
+
+45. Accordingly, even if a reference to the activating decisions should strictly have been made in the EAWs alongside the reference to the judgment as enforceable, this cannot as a matter of European law mean that the EAWs should be treated as invalid or incapable of being executed. That being so, I consider that the same position must once again carry through into section 2(6) of the 2003 Act. Section 202 must be understood as enabling the same sort of co-operation and regularisation of formal, rather than substantive, defects appearing in an EAW that article 15 of the Framework Decision contemplates.”
+
+Lord Neuberger gave a short concurring judgment.  He did so because he had been party to an important decision which had suggested that all the necessary particulars and/or statements as specified within section 2 of the Act must be contained within the EAW – see Zakrzweski v District Court in Torun, Poland [2013] 1WLR 324. In that case the leading judgment was given by Lord Sumption and the crucial passage was in the following terms:-
+
+“It follows that the scheme of the Framework Decision and of Part 1 of the 2003 Act is that as a general rule the court of the executing state is bound to take the statements and information in the warrant at face value. The validity of the warrant depends on whether the prescribed particulars are to be found in it, and not on whether they are correct. It cannot be open to a defendant to challenge the validity of a warrant which contains the prescribed particulars by reference to extraneous evidence tending to show that those statements and information are wrong. ”
+
+At paragraphs 51 and 52 of his judgment in Goluchowski, Lord Neuberger explained that part of Lord Sumption’s judgment as follows:
+
+“51. In that case, an EAW had been issued against Mr Zakrzewski based on four convictions by Polish courts for which he had received aggregated sentences of 45 months, as recorded in the EAW. After Mr Zakrzewski had been brought before the District Judge (and the hearing of his case had been adjourned), an order had been made by the Polish court, on his application, replacing the aggregated sentences of 45 months with a cumulative sentence of 22 months. Accordingly, his case on the adjourned hearing before the District Judge and on appeal (which unsurprisingly was described by Lord Sumption JSC, at para 4, as “hardly overburdened with merit”) was that the EAW had been invalidated by the cumulative sentence replacing the aggregated sentences.
+
+52. Read in the light of those facts, it appears to me that the remarks of Lord Sumption JSC quoted in para 37 above were justified. However, Lord Mance JSC is right to suggest that Lord Sumption JSC’s remarks should not be taken as representing some sort of absolute rule that the facts in an EAW must be assumed to be correct by the courts of the executing state in every case, irrespective of the evidence. Nor were they intended to be so read: the first sentence of the quoted passage includes the words “as a general rule”, and the “two safeguards” identified by Lord Sumption JSC in paras 9ff of his judgment make that clear.”
+
+Ms Herbert submits that the District Judge was wrong to exclude the extrinsic evidence which she wished to adduce and which I have identified at paragraph 6 above.  She submits that he was wrong even if one takes account only of the recent cases in the Divisional Court which have considered section 12A of the Act.  He was certainly wrong, however, she submits, if one factors in the approach to the admissibility of extrinsic evidence in the context of section 2 of the Act which was adopted by the Supreme Court in Goluchowski.
+
+I accept that there are passages within Kandola and the cases which follow it which suggest that extrinsic evidence should not be admitted to undermine clear statements in an EAW to the effect that the decisions to charge and try have been made and that if such statements appear in an EAW the court should “look no further”.  I am not surprised that the District Judge adopted the approach which he did. However, it seems to me that upon close analysis all the cases, including Kandola itself, also leave open the possibility that circumstances may arise in which extrinsic evidence is admissible notwithstanding the clear words of an EAW. In my judgment that emerges clearly from the passages of the judgments which I have set out above.
+
+No doubt that is why Mr Watkins, for the Respondent, does not invite me to uphold the strict approach adopted by the District Judge.  He accepts that it would be permissible for a requested person to adduce extrinsic evidence to undermine statements of the judicial authority in an EAW to the effect that decisions to try and charge have been made if that evidence demonstrates, clearly, that the judicial authority has acted in bad faith or with impropriety – see paragraph 58 of Puceviciene.  Much more importantly, in the context of the current case, he accepts, too, that extrinsic evidence may be admissible to undermine clear statements contained within an EAW if that evidence is contained within further information supplied by the judicial authority for the purpose of the extradition proceedings pursuant to a request by the court or by the CPS.
+
+In my judgment, Mr Watkins is correct to make those concessions.  I do not read the judgments in Kandola and the cases which follow it as expressing an inflexible rule that extrinsic evidence from whatever source can never be adduced to undermine clear statements within an EAW to the effect that decisions have been made to charge and try.  In my judgment, such an inflexible rule could not sit easily with the clear terms of section 12A; nor could it be reconciled, easily, with the power to admit evidence which is contained within section 202 of the Act.  That section provides:-
+
+“(1)     A Part 1 warrant may be received in evidence in proceedings under this Act.
+
+(2)     Any other document issued in a category 1 territory may be received in evidence in proceedings under this Act if it is duly authenticated.
+
+(3)     A document issued in a category 2 territory may be received in evidence in proceedings under this Act if it is duly authenticated.
+
+(4)     A document issued in a category 1 or category 2 territory is duly authenticated if (and only if) one of these applies—
+
+(a)	it purports to be signed by a judge, magistrate or other officer of the territory;
+
+(aa)	it purports to be certified, whether by seal or otherwise, by the Ministry or Department of the territory responsible for justice or for foreign affairs;
+
+(b)	it purports to be authenticated by the oath or affirmation of a witness.”
+
+(5)     Subsections (2) and (3) do not prevent a document that is not duly authenticated from being received in evidence in proceedings under this Act.”
+
+In my judgment it would be difficult to reconcile the existence of the strict, inflexible judge-made exclusionary rule as relied upon by the District Judge in this case with the clear words of this section.
+
+It seems to me that the true position is that evidence emanating from the judicial authority i.e. issued by the authority is capable of being admissible in extradition proceedings even if its alleged effect is to undermine clear statements in an EAW to the effect that decisions to charge and try have been made.  Whether or not such evidence is admitted will, no doubt, depend upon a host of factors which will need to be considered on a case-by-case basis.  As the Court emphasised in Puceviciene, conclusions about whether there are reasonable grounds for a belief that decisions to charge and/or try have not been made are “highly fact-sensitive” – see paragraph 57 of the judgment in that case.
+
+In my judgment, the District Judge was wrong to exclude the evidence which had originated from the Respondent simply because he considered himself bound by authority so to do.  Upon close analysis, the trilogy of cases relied upon by the District Judge do not justify the existence of a strict exclusionary rule as articulated by the District Judge.
+
+I turn to deal with the next point which arises. Should the evidence upon which Ms Herbert wished to rely before the District Judge have been admitted?
+
+I do not consider that the District Judge was wrong to exclude the evidence from the appellant’s Italian lawyer contained within letters dated 13 February 2017 and 7 April 2017.  In my judgment such letters do not fall within section 202 of the Act. I do not consider that they were “issued” in Italy for the purposes of section 202(2) of the Act.  If admissible at all, evidence from the Appellant’s Italian lawyer was admissible as expert evidence.  None of the necessary formalities had been undertaken for the admission of such evidence.  In particular there was no appropriate declaration by the lawyer as to his duties as an expert witness. Further, the Divisional Court has made it crystal clear that the admission of expert evidence in cases such as these will be comparatively rare. I am satisfied that there was no proper basis for the admission of this evidence.
+
+I take a different view about the documentary evidence relating to the extension of time for the investigatory process and the further information supplied by the Respondent. In my judgment, this evidence fell squarely within section 202 of the Act and it ought to have been admitted.  I can think of no reason in principle or practice why that evidence should have been excluded in this case.
+
+That does not mean, however, that this appeal must be allowed and the Appellant discharged. My task, now, is to consider whether there are reasonable grounds for believing that the decisions to charge and try have not been made in the light of all the admissible evidence. The fact that the District Judge fell into error in adopting an inflexible approach to the admission of extrinsic evidence does not mean that he was necessarily wrong to conclude that there were no reasonable grounds for believing that the decisions to charge and/or try had not been made.
+
+On any view of the authorities the starting point is the EAW itself.  In my judgment, there is nothing within it which raises any reasonable ground to believe that the decisions to charge and try have not been made.  The EAW begins with the standard statement that the Respondent requests that the Appellant should “be arrested and surrendered for the purposes of conducting a criminal prosecution”.  The decision upon which the EAW is based is described as “Pre-trial custody in prison order of 7 November 2016”.  Box E of the warrant contains a very detailed account of the offences which, it is alleged, the Appellant has committed. It is obvious from the narrative that substantial evidence exists which incriminates the Appellant.  The description of the alleged offences ends with the clear assertion that the Appellant has been charged with the offences specified in the warrant.  Like the District Judge I have no doubt that there are no reasonable grounds for believing that the decisions to charge and/or try had not been made based upon the terms of the EAW.
+
+I turn to the extraneous evidence upon which Ms Herbert sought to rely before the District Judge.  The request for an extension of time and the granting of that request pre-dated the issue of the EAW by many weeks.  I do not consider that a request to extend the period for investigation and the granting of that request, of itself, gives rise to a reasonable ground for a belief that the decisions to charge and/or try have not been made.  It is commonly the case in both common law jurisdictions and civil law jurisdictions that investigations which inevitably begin before decisions to charge and/or try are made then continue after those decisions have been made sometimes up to and during the course of the trial.
+
+I am not persuaded, either, that the further information dated 30 March 2017 provides reasonable grounds for believing that one or other of the decisions have not been made.  The high watermark of Ms Herbert’s reliance upon this information is the phraseology of the last four bullet points.  Ms Herbert submits that the effect of the information provided in these paragraphs is that although criminal action against the Appellant is “very likely” there are reasonable grounds to believe that a decision to try, at the very least, has not been made.
+
+In my judgment, it is wrong to read the further information in isolation. It must be read in conjunction with the EAW which, of course, it was intended to supplement and/or explain.  When the EAW and the further information are considered together I am satisfied that the proper conclusion is that no reasonable grounds exist for a belief that no decision to try has been made.
+
+I have reached the clear conclusion that the evidence relied upon by Ms Herbert and which I have ruled ought to have been admitted in evidence before the District Judge does not provide a proper foundation for a reasonable belief that decisions to charge and/or try have not been made.
+
+It follows that even if the District Judge had admitted the evidence I have just identified he would have reached the same conclusion, namely that there were no reasonable grounds to believe that the decisions to charge and/or try had not been made.  That being so, it follows that his conclusion that section 12A of the 2003 Act was no bar to the Appellant’s extradition was correct.
+
+Following the hearing before the District Judge those instructing Ms Herbert obtained a further “report” from another Italian lawyer, Avvocato Maurizio Mascia.  He is, apparently, a lawyer for one of the other persons accused of being involved in the crimes specified in the EAW.  The report is dated 25 July 2017 but much of the information contained within it could and should have been available at the time of the hearing before the District Judge.  On that basis, alone, much of the information contained in the report of 25 July 2017 should not be admitted before me in support of this appeal.
+
+I accept, however, that there is a specific part of the report which deals with the state of proceedings against the Appellant as at 25 July 2017. Obviously that was not and could not have been available before the District Judge.  In response to the question “In relation to the questions above, what stage is the Appellant’s case currently at” the lawyer writes:-
+
+“It is understood that the undersigned defence counsel is assisting Mr Zocchi Nicola Renato, who, together with three co-defendants other than Cimieri, was summoned before the Court of Agrigento for an immediate trial on 5 July 2017.
+
+The immediate proceedings requested in this case indicate that the Prosecutor believes that there is evidence to prove that the aforementioned defendants are guilty.
+
+The Claimant, after receiving the writ of summons to the immediate trial of Zocchi on 9 May 2017, was only able to see the documents of that file, and not any from the file of the Appellant Cimieri, who was not among the co-defendants summoned for immediate trial.
+
+This circumstance implies that Cimieri’s proceedings are still in the preliminary investigation stage, due to the particular complexity of the investigations or due to the object impossibility to conclude them within the time limit, because the gathered evidence is still not sufficient to support the charges in a trial, therefore the current charges are unfounded pursuant to Art 408, P.1 of the C.P.P.”
+
+It is noteworthy, in my judgment, that the lawyer does not assert unequivocally that the decisions to charge and/or try have not been made. It is equally noteworthy that when asked the direct question “In relation to the Appellant, has the Prosecutor informed the defendants and the Appellant and the co-defendants will be charge and prosecuted” he replies in terms which are at best equivocal.
+
+Given the views expressed by successive Divisional Courts about whether expert evidence should be admitted and given the strict test which needs to be satisfied before fresh evidence can be admitted on appeal (as to which see Fenyvesi’s case [2009] EWHC 231 (Admin)), I am satisfied that this evidence is not admissible. For the avoidance of any doubt, however, I should say that I have reached this conclusion in large measure because even if the evidence was admitted it would not lead to a different result from that which was determined by the District Judge. The report is subject to significant and detailed criticism in the skeleton argument of Mr Watkins. It suffices that I say that all the criticisms advanced by Mr Watkins appear to me to be well founded – see his skeleton at paragraphs 65 to 67 – and they provide a cogent basis for my decision to exclude the evidence.
+
+Ground 2
+
+I can deal with this ground much more succinctly.
+
+Whether or not extradition constitutes a disproportionate interference with the Article 8 rights of an Appellant and/or his family is to be judged in accordance with three comparatively recent cases, namely Norris v Government of the United States of America (No.2) [2010] UKSC 9, HH v Deputy Prosecutor of the Italian Republic, Genoa [2012] UKSC 25, and Celinski and others v Polish Judicial Authorities [2015] EWHC 1274. No useful purpose would be served by citation from those authorities. The principles and guidance laid down in those cases are extremely well known to everyone concerned with this area of law and, in any event, the principles and guidance which are particularly relevant to this case are referred to sufficiently in the skeleton arguments of the parties.
+
+There can be no doubt that District Judge Snow understood and applied the relevant principles before deciding that the Appellant’s extradition would not constitute a disproportionate interference with his rights under Article 8 ECHR – see paragraphs 32 to 51 of his judgement.
+
+The challenge under Article 8 as presented to me relies upon events which have occurred since the decision of the District Judge.  Ms Herbert submits that the most recent evidence demonstrates that the Appellant now suffers from significant disabilities. In May 2017 he underwent an operation to excise haemorrhoids. The operation was not completely successful and the Appellant has ongoing pain and discomfort. Perhaps more significantly the Appellant has developed a moderate depressive illness which handicaps him, significantly, in his every day activities. His mental illness has been exacerbated by the recent death of his father. There is some evidence to support the contention that the Appellant has developed suicidal ideation. Additionally he has to try to care for his aged mother who has taken up residence with him since the death of her husband.
+
+I acknowledge that the Appellant has significant health problems on the basis of the evidence presented to me and, in particular, on the basis of the medical report of Dr Klemperer concerning the Appellant’s mental health. However, there is no reason to suppose that the Italian prison authorities (assuming a remand in custody) will not ensure appropriate medical treatment; indeed I am bound to assume that they will in the absence of cogent evidence to the contrary.
+
+I do not accept that such is the state of the Appellant’s health and such are his family circumstances that it would be disproportionate to direct extradition in this case. In my judgment the impact of extradition does not reach the required degree of severity. In this case there are very powerful factors which support extradition, as the District Judge recognised, and I do consider that the Appellant’s state of health and his current family circumstances tilt the balance in favour of the Appellant’s discharge. A strict application of the principles in Fenyvesi would probably lead to the conclusion that the “fresh evidence” about the Appellant’s current circumstances should not be admitted since it would not lead to a change in the decision as to whether extradition was barred by section 21A of the Act. However, since this is a human rights challenge I think the better course is to admit the evidence so that a proper appraisal of the issues at stake can take place albeit that I have reached the conclusion that extradition would not be a disproportionate interference with the Article 8 rights of the Appellant (or those of his mother if they are engaged).
+
+I am prepared to grant permission to appeal on this ground but, upon analysis, the section 21A ground is not made out.
+
+It follows that this appeal is dismissed.  I add for completeness that at the end of her oral submissions Ms Herbert sought to persuade me to adjourn the appeal so that she could investigate whether she should seek to advance an argument against extradition based upon Article 3 ECHR. She produced an article about prison conditions in support but as I explained at the hearing this was far too flimsy a basis upon which to countenance an application for an adjournment.
+
+Crown copyright©

@@ -1,0 +1,245 @@
+Neutral Citation Number: [2006] EWHC 3033 (Admin)
+
+Case No: CO/8922/2006
+
+IN THE HIGH COURT OF JUSTICE
+
+QUEEN'S BENCH DIVISION
+
+DIVISIONAL COURT
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Date: 07/12/2006
+
+Before :
+
+LORD JUSTICE KEENE
+
+AND
+
+MR. JUSTICE LLOYD JONES
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Between :
+
+|Paul Maxwell-King|Appellant|
+
+|- and -||
+
+|The Government of the United States of America|Respondent|
+
+- - - - - - - - - - - - - - - - - - - - -
+
+(Transcript of the Handed Down Judgment of
+
+WordWave International Ltd
+
+A Merrill Communications Company
+
+190 Fleet Street, London EC4A 2AG
+
+Tel No: 020 7421 4040  Fax No:  020 7831 8838
+
+Official Shorthand Writers to the Court)
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Ms. Clair Dobbin (instructed by Osborn, Abas and Hunt Solicitors) for the Appellant
+
+Ms. Adina Ezekiel (instructed by Crown Prosecution Service, Extradition Department) for the Respondent
+
+Hearing date: 22nd November 2006
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Judgment
+
+MR. JUSTICE LLOYD JONES:
+
+Mr. Paul Maxwell-King (“the Appellant”) appeals pursuant to section 103, Extradition Act 2003 (“the 2003 Act”) against the decision of District Judge Anthony Evans made on 14th August 2006 to send his case to the Secretary of State.
+
+The Government of United States of America (“the Respondent”) has submitted three separate requests for the extradition of the Appellant, his former wife Karen Maxwell-King and Steven Edmondson, respectively, who are jointly accused in the United States in being concerned in the sale of devices designed in order to enable others illegally to obtain access to satellite television signals from “Direct TV”, a United States based company, free of charge.
+
+All three appealed pursuant to section 103 of the 2003 Act against the decisions of District Judge Evans to send the case to the Secretary of State.  However, on the 21st November 2006 the Respondent withdrew its request for the extradition of Mrs. Maxwell-King.  Accordingly, on the 22nd November 2006 the Divisional Court made an order pursuant to section 124(3) of the 2003 Act ordering the discharge of Mrs. Maxwell-King and quashing the order for her extradition. Furthermore, by a consent order dated the 21st November 2006, Mr. Edmondson has withdrawn his appeal.  Accordingly, at this hearing we have been concerned only with the appeal of the Appellant.
+
+The United States of America has been designated a category 2 territory pursuant to section 69 of the 2003 Act.  Accordingly, this application for extradition is governed by Part 2 of the 2003 Act.
+
+The Extradition Proceedings
+
+On the 1st October 1999, United States Magistrate Judge Thomas D. Wilson signed a warrant for the arrest of the Appellant.  On the 14th May 2002 a grand jury returned an indictment charging the Appellant and others with criminal offences against the laws of the United States of America.  On the 21st May 2002 a further warrant for the arrest of the Appellant was issued.  This warrant superseded that issued on the 1st October 1999.  The request for the extradition of the Appellant was supported by an affidavit sworn on the 14th October 2004 by Ernest F. Peluso, the Assistant United States Attorney for the Middle District of Florida.
+
+On the 23rd November 2004 the Secretary of State issued a certificate under section 70 of the 2003 Act in respect of the Appellant.  The Appellant was arrested on the 22nd June 2005 in pursuance to the extradition request.  On the same day the Appellant was brought before a District Judge at Bow Street Magistrates Court in accordance with Part 2 of the Act.  Following a series of adjournments, on the 4th April 2006 the extradition hearing against the Appellant, Mrs. Maxwell-King and Mr. Edmondson commenced.  At the extradition hearing it was submitted on behalf of the Appellant that the contents of the request did not satisfy section 78(2)(c) of the 2003 Act and that the conduct specified in the request did not constitute an extradition offence.  It was further submitted on behalf of the Appellant that extradition to the United States of America was barred by the rule against double jeopardy.  On the 19th July 2006 District Judge Anthony Evans rejected all those submissions.  On the 7th August 2006 District Judge Anthony Evans heard submissions and evidence on the Appellant’s plea that his extradition to the United States was barred by reason of passage of time.  On the 14th August 2006 the District Judge decided that it would not be unjust or oppressive to extradite the Appellant by reason of the passage of time.  On the 14th August 2006 the Appellant’s case was sent to the Secretary of State to await his decision as to whether he should be extradited.
+
+On this appeal the Appellant submits that
+
+The District Judge wrongly decided that his extradition is not barred by reason of the rule against double jeopardy;
+
+The District Judge wrongly decided that the Appellant’s extradition is not barred by reason of the passage of time.
+
+The Alleged Criminal Activities in the United States.
+
+The factual background to this request for extradition, as alleged by the Respondent, is as follows.  In early 1997, United States Immigration and Customs Enforcement (“ICE”) agents in Tampa, Florida received information that Blue Sky Technologies (“BST”), a Tampa based company, was selling unauthorised Direct TV satellite television access cards without permission from Direct TV.  It is alleged that BST manipulated the Direct TV access cards to receive all channels from Direct TV without payment and that BST also pirated programmers used to reprogramme Direct TV satellite television access cards to give the card user free access to all channels offered by Direct TV.
+
+The information provided to ICE linked BST to a number of websites controlled by the Appellant.  The pirated access cards and programmers originated from the United Kingdom.  In April 1999, a United States Parcel Service security supervisor reported to ICE that he regularly received packages for Brenda and David McClamma containing unusual electronic devices.  On examination they were found to contain illegal satellite signal intercept devices and Direct TV cards containing hacked computer chips.  A search of the home of Mr. and Mrs. McClamma in Florida in April 1999 revealed illegally pirated electronic devices designed to intercept US satellite television signals to a value of approximately $778,224.  Mr. and Mrs. McClamma informed agents that they bought the components from the Appellant and BST which was operated by Robert McLaren, his wife Wanda McLaren and Susan Parker-Trudgian.  On the 13th August 1999 Mr. McClamma (acting in co-operation with ICE) telephoned Mr. McLaren.  Mr. McLaren stated that he and the Appellant were involved in the distribution of devices designed to intercept television satellite signals and that he and his wife distributed devices for the Appellant.  A search by ICE agents on the 30th September 1999 of the home addresses of Mr. and Mrs. McLaren and Miss Parker-Trudgian revealed $1,000,000 worth of computer and other electronic equipment designed to intercept US satellite signals.  The agents also discovered invoices which showed that devices were being imported into the United States from the United Kingdom by the Appellant.  During the investigation ICE agents arrested John Dumas who had imported pirated cards form Maxking Interfaces Ltd., a company controlled by the Appellant.  Mr. Dumas informed ICE agents that between 1999 and 2000 he was the Appellant’s primary distributor of various electronic devices, the function of which was to alter card programming devices to intercept satellite televisions.  Mr. Dumas also told the agents that in August 2000 he spoke to Mr. Edmondson, whom the Appellant had identified as the new employee who was to operate the Appellant’s business from England, as the Appellant was considering relocating to Tunisia in order to avoid the United Kingdom authorities.
+
+Extradition Offences.
+
+The indictment returned by a grand jury on the 14th May 2002 charging the Appellant and others with criminal offences against the laws of the United States of America includes counts alleging conspiracy to defraud or to commit an offence against the laws of the United States of America, mail fraud, wire fraud, unlawful importation, sale and distribution of an electronic, mechanical or other device or equipment for a prohibited purpose and the entry of goods by false statements.
+
+Before the District Judge a point was taken that the request for extradition did not disclose extradition offences because the offences specified were not extradition offences within section 78(4)(b) of the 2003 Act.  During the course of the hearing before the District Judge two further charges were added in substitution for the original second charge.  These new charges are
+
+A conspiracy with others to import unauthorised decoders into United States of America.
+
+A conspiracy with others to sell unauthorised decoders in the United States of America.
+
+The District Judge concluded that the offences specified are extradition offences within section 78(4)(b). In the light of the reformulated charges the Appellant no longer seeks to appeal on this ground.
+
+Double Jeopardy.
+
+Section 80 on the 2003 Act provides:
+
+“A person’s extradition to a category 2 territory is barred by reason of the rule against double jeopardy if (and only if) it appears that he would be entitled to be discharged under any rule of law relating to previous acquittal or conviction if he were charged with the extradition offence in the part of the United Kingdom where the judge exercises his jurisdiction.”
+
+The Appellant’s objection on grounds of double jeopardy arises out of criminal proceedings brought against him in England.  These proceedings were a private prosecution brought by Federation Against Copyright Theft Limited (“FACT”).  The chief objective of FACT is in the following terms:
+
+“the protection of the interest of its members against any infringement of their copyright in cinematograph films, video films, laser discs, video CD, Digital Versatile Disc Video, off-air features (television broadcast programmes) and all other forms of audio visual recording including the fraudulent reception of broadcasts programmes in the United Kingdom, and, in so doing, to assist all law enforcement agencies engaged in the investigation of offences that involves such infringements of copyright or alleged breaches of the law relating to dishonest reception of broadcast programmes.”.
+
+The criminal proceedings in England were brought against the Appellant, Mrs. Maxwell-King and Maxking Interfaces Ltd.  The proceedings alleged, inter alia, conduct intended to defraud BSkyB, which supplies all of the programming to cable service providers operating within the United Kingdom, and Sony, the manufacturers of the Play Station games console.
+
+On the 19th November 1998 the Appellant’s home in the United Kingdom was searched, documents were seized and the Appellant was interviewed.
+
+On the 9th September 1999 the Appellant, Mrs. Maxwell-King and Maxking Interfaces Limited were summonsed to appear at Doncaster Magistrates Court.  The charges they faced included offences of making and selling unauthorised decoders contrary to section 297A Copyright, Designs and Patents Act 1988.  Certain of the charges related to devices known as MK12 and MK13 devices.  The Defendants were not committed for trial on those charges, the magistrates accepting a submission that there was no evidence that the MK12 and MK13 devices were in fact decoders. The Defendants were, however, committed to trial on other charges.
+
+The Appellant, Mrs. Maxwell-King and Maxking Interfaces Limited were in due course arraigned at Doncaster Crown Court.  The offences alleged against the Appellant in the indictment included incitement of another to commit an offence contrary to section 3, Computer Misuse Act 1990 by supplying to him devices the use of which could cause an unauthorised modification of a computer, namely a General Instruments (Jerrold) model CATV converter.  Other charges in the indictment alleged the making and selling of unauthorised decoders described as GI chips and SA chips contrary to section 297A Copyright, Designs and Patents Act 1988.
+
+On the 29th July 2000 the Appellant pleaded guilty to three counts of incitement to commit an offence contrary to section 3, Computer Misuse Act 1990.  The remaining counts against him were to remain on the file.  Maxking Interfaces Limited also pleaded guilty to three counts of incitement to commit an offence contrary to section 3 of the 1990 Act.  The counts against Mrs. Maxwell-King were not pursued. The Appellant entered a basis of plea to the effect that he and his company had manufactured and supplied twenty devices which allowed the recipients of an analogue cable service to receive additional upgraded television services for which they had not paid. The basis of plea stated that the supply occurred in September, October and November 1998.  It also stated that the Appellant charged £13.00 plus VAT for each such device, with an additional charge £1.50 for credit card sales and that the total turnover in respect of the three counts on the indictment was in the sum of £600.00.
+
+The Appellant was sentenced to four months imprisonment on each count to run concurrently.  However, the judge certified the case fit for appeal and granted the Appellant bail pending appeal. No criminal penalty was imposed on the company but it was ordered to pay £10,000 towards the costs of the prosecution.
+
+On appeal to the Court of Appeal, Criminal Division, that court on the 23rd November 2000 allowed the appeal against sentence to the extent that it substituted a community service order under which the Appellant was required to perform 150 hours unpaid work on each count concurrent.  Mr. Justice Wright, delivering the judgment of the court, observed that a conviction on a plea of guilty for a first offence of this nature committed on a small scale did not necessarily cross the threshold of seriousness required the imposition of a custodial sentence.  The court had in mind particularly the limited extent of the scheme and the relatively small sum of money that the Appellant earned from it.
+
+In the extradition proceedings the Appellant relied on this domestic prosecution in support of his contention that his extradition to the United States was barred on the ground of double jeopardy.  On behalf of the Appellant it was submitted that there was a significant overlap between the criminal proceedings in England and the proposed criminal proceedings in the United States and between the devices which were the subject of the English proceedings and those which form the basis of the US indictment.  In particular, it is maintained that the Appellant could have been charged in the English proceedings with offences of incitement to commit extra-territorial offences by virtue of the Computer Misuse Act 1990 or with offences of the making and selling of unauthorised decoders contrary to section 297A, Copyright, Designs and Patents Act 1988. The failure of the prosecution to do so, it is said, renders the request for extradition an abuse of process.
+
+In rejecting the Appellant’s case on double jeopardy the District Judge referred to the following specific matters.
+
+The charges against the Appellant in the English proceedings covered the period up to his arrest in November 1998.
+
+That prosecution was brought by FACT whose objectives were limited to the investigation and prosecution of matters relating to the United Kingdom.
+
+Although on the search of the Appellant’s home a number of invoices were found showing sales abroad, the scale of the conspiracy in the United States and those involved in it, were only uncovered as a result of the United States investigations.
+
+The conspiracy in the United States was a wholly different conspiracy with participants in the United States and the United Kingdom whereas the domestic prosecution was limited to sales directly to consumers.
+
+Before the District Judge it had been submitted that the prosecution in the United Kingdom had been intended to punish the totality of the offending behaviour of the Appellant.  The District Judge considered that that statement required qualification.  In his view it was intended to do so in respect of the Appellant’s conduct up to the date of his arrest in November 1998 to the extent that that was known to the investigators.  The Criminal Division of the Court of Appeal had proceeded on the basis that all criminal activity had ceased by November 1998.  However the District Judge considered it clear from the documents submitted by the US authorities that the Appellant’s activities in America had continued beyond that date, through 1999 into 2000. Accordingly, he concluded that the Appellant’s extradition was not barred on grounds of double jeopardy.
+
+Before us, Miss Dobbin on behalf of the Appellant submits that the District Judge applied too narrow a test on his consideration whether to stay the extradition proceedings as an abuse of process.  She submits that had he applied the broader test stated in Fofana and Belise v Deputy Prosecutor Thubin Tribunal de Grande Instance de Meaux, France [2006] EWHC 744 (Admin) he should have concluded that the proceedings were barred by reason of the rule against double jeopardy. In Fofana Auld LJ summarised the applicable principles as follows:
+
+“18. In summary the authorities establish two circumstances in English law that offend the principle of double jeopardy:
+
+Following an acquittal or conviction for an offence which is the same in fact and law- autrefois acquit or convict;
+
+Following a trial for any offence which was founded on “the same or substantially the same facts”, where the court would normally consider it right to stay the prosecution as an abuse of process and/or unless the prosecution can show “special circumstances” why another trial should take place.”
+
+The court considered that the term “double jeopardy” both as a generality and as used in the 2003 Act should be taken to include both the plea in bar and the long established jurisdiction of the English court to stay proceedings as an abuse of process.
+
+In the present case no question of autrefois acquit or autrefois convict arises.  It is, however, necessary to consider whether an English court would stay on grounds of abuse of process the proposed United States proceedings against the Appellant, if such proceedings were brought in England.  To my mind, this issue requires consideration not only of whether the second prosecution arises out of the same or substantially the same facts as the first, but also of whether the charges which it is now sought to pursue should have been pursued at the time of the first prosecution.
+
+I have come to the conclusion that the charges in the proposed US proceedings cannot be regarded as arising out of the same or substantially the same facts as the criminal proceeding in England.  I have come to this conclusion for the following reasons.
+
+First, the subject matter of the proceedings is substantially different.  The US charges are concerned essentially with a conspiracy to defraud which took the form of introducing into the United States and there selling and distributing hardware devices and smart cards to individuals for the purpose of providing them with the means of unlawfully obtaining access to direct to home television signals generated by Direct TV, Direct TV/LA and DISH.   The indictment alleges overt acts in furtherance of the conspiracy between June 1997 and May 2002.  The indictment alleges that the Appellant exported from the United Kingdom and imported into the United States the devices necessary to carry out this conspiracy.  By contrast, the prosecution in the United Kingdom related to a totally different subject matter.  The offences to which the Appellant pleaded guilty, three offences of incitement to commit an offence contrary to section 3, Computer Misuse Act 1990, were limited to the supply of some twenty devices in the United Kingdom between September and November 1998 for the interception of BSkyB signals.  The alleged offences contrary to section 297A Copyright, Designs and Patents Act 1988, which were dismissed by the magistrates, and those which were not pursued in the Crown Court related to the manufacture and supply of unauthorised decoders in the United Kingdom which could be used to receive transmissions by BSky B.  Although the devices referred to in some of those charges were the MK12 and MK13 devices which were also exported to the United States, it is accepted, on behalf of the Appellant, that these were simply generic devices which would have to be further adapted before they could be used to intercept signals in the United States. To my mind, the fact of the introduction of the devices into the United States is a critical and essential part of the United States proceedings which focus on the defrauding of the US satellite providers.
+
+Secondly, it is clear that the prosecution in England did not include the entirety of the activities of the Appellant and the operation of Maxking Interfaces Limited up to the Appellant’s arrest in November 1998, although that may have been the mistaken belief of the authorities in the United Kingdom at the time.
+
+Thirdly, the timescale of the subject matter of the proceedings in England and the United States is different.  The English proceedings are limited to conduct in a period of three months, September to November 1998.  The conspiracy to defraud alleged in the United States indictment is alleged to have been in existence between June 1997 and May 2002 although the last overt act alleged to have been performed by the Appellant pursuant to the conspiracy is alleged to have occurred on or about the 3rd August 2000.
+
+Fourthly, the difference in scale between the activities which form the subject matter of the English proceedings and the proposed United States proceedings is very striking.  The Appellant pleaded guilty at Doncaster Crown Court on the basis that he had supplied twenty devices over a period of three months in 1998 with a total turnover of some £600.00.  By contrast, the search of the home of Mr. and Mrs. McClamma in Florida in April 1999 led to the discovery of approximately $778,224 worth of electronics devices designed to intercept US satellite television signals, which, according to Mr. and Mrs. McClamma, they had bought from the Appellant and BST.
+
+For these reasons, I consider, that the United States proceedings relate to a distinct and discrete activity.  In this regard, the decision of the Divisional Court in Fofana is readily distinguishable.  In that case the defendants were charged in England with offences contrary to the Forgery and Counterfeiting Act 1981 in respect of their dealings with a French company, Serviware.  The Divisional Court concluded that the only significant addition in the extradition request to the conduct which formed the subject of the criminal proceedings in England was the allegation of almost identical conduct against Serviware a year earlier.  The Divisional Court concluded that the fact that the prosecution had chosen to frame a prosecution on only one transaction, notwithstanding that the material in relation to other transactions was available to it, would make it difficult for an English judge to resist an application to stay on grounds of abuse of process a prosecution such as that proposed by the French authorities in the extradition proceedings.  There was such a significant overlap between the proceedings that the extradition proceedings should be stayed as an abuse of process.  The present case, by contrast, concerns wholly distinct activities.  To my mind, the present case resembles very closely, in this regard, the situations under consideration in Boudhiba v Central Examining Court No.5 of the National Court of Justice, Madrid, Spain [2006] EWHC 167 (Admin.) and Bohning v Government of the United States of America [2005] EWHC 2613 (Admin.).
+
+I turn, therefore, to the question whether a prosecution should have been brought in England in 1999 in respect of the activities which now form the subject of the proposed US proceedings.  To my mind, it cannot be said that the proposed proceedings in the United States are an abuse of process because the matters to which it relates should have been the subject of an earlier prosecution in England.  I have come to this conclusion on the following reasons.
+
+The subject matter of the United States proceedings is substantially different from that of the English proceedings.  This has been addressed above.
+
+Although there is a temporal overlap between the activities which formed the subject of the English proceedings and those which form the subject of the United States proceedings, the latter extend substantially beyond the former.  This has been addressed above.
+
+There is a marked difference between the scale of the activities which were prosecuted in England and that of the subject matter of the United States proceedings. This has been addressed above.
+
+I accept that investigations in the United Kingdom and the United States were continuing at the same time.  The Appellant was arrested in the United Kingdom in November 1998.  The English proceedings came before the Crown Court in July 2000.  The first United States warrant for the arrest of the Appellant was issued on the 1st October 1999.  Moreover, it appears that the US prosecutor was aware of the investigations which were taking place in the United Kingdom.  However, the fact that the investigations were proceeding in parallel does not support the contention that the totality of the alleged criminality should have been the subject of the English proceedings.
+
+In her submissions Miss Dobbin, on behalf of the Appellant, placed great emphasis on the fact that the MK 12 and MK 13 decoders which were the subject of the charges pursuant to section 297A, Copyright, Designs and Patents Act 1998 dismissed by the magistrates court in Doncaster, are the same decoders which were exported to the United States.  However, during the course of the hearing before us it became apparent that MK 12 and MK 13 devices are generic devices. In the evidence before the District Judge they are described as “flexible general purpose diagnostic tools that allow us to use any personal computer with a serial port to communicate with both smartcards and smartcard accepting devices in a very economic way.” Miss Dobbin accepted that before these devices could be used to intercept broadcasts in the United States they would require further adaptation.
+
+It is instructive to consider what charges might have been brought in the English proceedings in respect of the activities which are the subject of the proposed United States proceedings.  Miss Dobbin maintains that the Appellant could have been prosecuted in England for making or selling the decoders which were subsequently used to receive transmissions in the United States.  However, the offence under section 297A(1), Copyright, Designs and Patents Act 1998 of making or selling an unauthorised decoder must be read subject to section 297A(4) which defines “decoder” as “any apparatus which is designed or adapted to enable (whether on its own or with any other apparatus) an encrypted transmission to be decoded”.  That subsection defines “transmission” as meaning any programme included in a broadcasting service or information society service “which is provided from a place in the United Kingdom or any other member state”.  It is clear that apparatus designed or adapted to enable a transmission provided from a place in the United States to be decoded would not fall within the ambit of the offence.  So far as the offence of incitement to commit an offence contrary to section 3, Computer Misuse Act 1990 is concerned, I note that section 7(4) of that Act extends the territorial scope of such inchoate offences.  However, while I accept that in theory it might have been possible to bring a prosecution in the United Kingdom in respect of incitement to commit offences in the United States, for the other reasons here stated I am unable to accept that failure to bring such charges in England in 1999 makes the extradition request an abuse of process.
+
+A consideration of particular importance in this regard is the state of knowledge of the United Kingdom authorities in 1999. On behalf of the Appellant great reliance is placed on the fact that the search of the Appellant’s home in England in 1998 revealed documents relating to the export of items to United States.  We have been provided with a helpful table of documents within the committal relating to sales to the United States.  These include documents relating to supplies to Mr. McLaren.  However, these documents show supplies of a very low volume and at very low prices. There is nothing on the face of the documents seized which would suggest a conspiracy in the United States on anything approaching the scale which is now alleged in the United States proceedings. It is clear that the prosecuting authorities in the United Kingdom in 1999 believed that the charges brought represented the totality of the criminal activities of the Appellant. That is apparent, in particular, from the judgment of the Court of Appeal on 23rd November 2000. On the basis of the allegations now pursued in the United States proceedings, it appears that they were mistaken. When the appeal against sentence was allowed by the Court of Appeal in November 2000 it was on the basis that the Appellant’s business activities in this field had ceased in November 1998.  That was clearly nor the case.
+
+It appears from the evidence of Mr. Peluso that the proceedings in the United States have arisen out of the investigations carried out by ICE in the United States and not out of the documents seized by the United Kingdom authorities in England in November 1998 relating to export to the United States. In this regard I note that the Appellant, Mrs. Maxwell-King and Maxking Interfaces Limited had already been committed for trial at Doncaster Crown Court when investigators in Florida carried out the search of the premises of Mr. and Mrs. McLaren and Ms. Parker-Trudgian on 30th September 1999.
+
+In these circumstances, I consider it wholly unrealistic to suggest that the Appellant should have been prosecuted in England in 1999 for incitement to commit offences in the United States and that the failure to do so now renders the extradition request abusive.
+
+For all these reasons, I consider that the proposed proceedings in the United States would not be considered by an English court on a hypothetical application to be an abuse of process by reason of the failure to prosecute the Appellant in England in respect of his activities in the United States.  Accordingly, I would dismiss the appeal on the ground of double jeopardy.
+
+Passage of Time.
+
+Section 82, Extradition Act 2003 provides:
+
+“A person’s extradition to a category 2 territory is barred by reason of the passage of time if (and only if) it appears it would be unjust or oppressive to extradite him by reason of the passage of time since he is alleged to have committed the extradition offence or since he is alleged to have become unlawfully at large (as the case may be).”
+
+In Kakis v Government of Cyprus [1978] 1WLR 779 Lord Diplock addressed the meaning of “unjust” and “oppressive” in the Fugitive Offenders Act 1967.
+
+““Unjust” I regard as directed primarily to the risk of prejudice to the accused in the conduct of the trial itself, “oppressive” as directed to hardship to the accused resulting in changes in his circumstances that have occurred during the period to be taken into consideration; but there is room for overlapping, and between them they would cover all cases where to return him would not be fair.  Delay in the commencement or conduct of extradition proceedings which is brought about by the accused himself by fleeing the country, concealing his whereabouts or evading arrest cannot, in my view, be relied upon as a ground for holding it to be either unjust or oppressive to return him.  Any difficulties that he may encounter in the conduct of his defence in consequence of delay due to such causes are of his own choice and making.  Save in the most exceptional circumstances it would neither be unjust or oppressive that he should be required to accept them.
+
+As respects delay which is not brought about by the acts of the accused himself, however, the question of where responsibility lies for the delay is not generally relevant.  What matters is not so much the cause of the delay as its effect; or rather, the effects of those events which would not have happened before the trial of the accused if it had taken place with ordinary promptitude.” (at pp. 782H-783B.)
+
+These considerations apply equally under section 82 of the 2003 Act.
+
+Miss Dobbin on behalf of the Appellant complains that there has been a substantial delay in pursuing these proceedings in the United States and the request for the Appellant’s extradition.  She points to the fact that the first warrant for his arrest was issued on the 1st October 1999 and that the extradition request was not certified until the 23rd November 2004.
+
+In his decision of the 17th August 2006 the District Judge considered the Appellant’s objections to extradition on ground of the passage of time.  The District Judge’s conclusions may be summarised as follows.
+
+He considered that the period of time to be addressed should begin at the end of May 2002, the date of the last overt act alleged pursuant to the conspiracy, notwithstanding the fact that the last specific act alleged against the Appellant is said to have taken place on the 3rd August 2000.
+
+He considered that the Appellant was in the United States of America in September 1999 as part of his business activities.  Having satisfied himself that the premises of his associates in Florida had been raided by the police he left the United States in a great hurry.  The Appellant was clearly aware that his business activities were regarded as illegal in the United States.
+
+The Appellant’s own evidence disclosed that a short time thereafter he became aware that his activities were regarded by the authorities in the United States as extraditable.
+
+At about this time the Appellant decided to move to Tunisia.
+
+The District Judge considered that the delay in making the extradition request was occasioned by the lack of knowledge of his whereabouts.
+
+The District Judge did not consider that the Appellant would be prejudiced in his trial.  Accordingly his extradition would not be unjust.
+
+The District Judge addressed the personal circumstances of the Appellant and concluded that it would not be oppressive to order his extradition.
+
+Miss Dobbin, on behalf of the Appellant, submits that the District Judge was in error in limiting his consideration to the passage of time since May 2002.  She submits that he should have had regard to the period since the date of last overt act in pursuance of the conspiracy alleged to have been committed by the Appellant i.e. the period since August 2000.  I am unable to accept this submission. The fact that no overt act is alleged to have been committed by the appellant after that date does not mean that he was no longer a party to the conspiracy.  The Appellant’s evidence was that he passed the running of the business to Mr. Steven Edmondson in 2000.  The District Judge concluded that this was not a sale of the business but simply a transfer of the running of the business.  Accordingly, it may well be that the Appellant remained a party to the conspiracy until May 2002, despite the assurances he gave to the United States authorities in September 2000. Nevertheless, under section 82 the court is required to consider whether a person’s extradition would be unjust or oppressive “by reason of the passage of time since he is alleged to have committed the offence”. In circumstances such as the present where an offence is alleged to have been committed continuously over a considerable period of time, I consider that it is not appropriate to limit consideration of the passage of time to the period since the last date at which that person is alleged to have committed the offence. On the contrary it is necessary to have regard to the total passage of time since that person is alleged to have committed the offence. The significance in this regard of different periods of time will vary from case to case, depending on a number of factors including the nature of the offence, the course of investigations, the date of detection and the steps taken to secure the extradition of the alleged offender.
+
+In the present case, I consider that it is appropriate to take into account for this purpose the passage of time since September 2000.  I select that date because by then the requesting authorities could reasonably be expected to bring charges and pursue an extradition request in respect of the alleged conspiracy, even if it continued thereafter. In that month there took place communications between solicitors acting for the Appellant and the prosecuting authorities in the United States which make clear that by that date the prosecuting authorities in the United States were well aware of the activities which form the subject of the proceedings and that it was their intention to seek the extradition of the Appellant in respect thereof.
+
+In the event, the request for the extradition of the Appellant was not made until October 2004. The reason for the delay will be relevant to this issue if it has been brought about by the Appellant himself. The Respondent maintains that efforts were made to locate the Appellant and his wife in the United Kingdom but it was discovered that they had relocated to Tunisia. No further particulars are provided of the efforts made to trace the Appellant and his wife or the dates at which they were made. In particular, it does not appear that any attempt was made to locate the Appellant through his solicitors, although the point is fairly made that they may not have been in a position to provide information as to their client’s whereabouts.
+
+In this regard I note that the grand jury did not return an indictment until 14th May 2002. Moreover, the evidence of Mr. Peluso is that it was in November 2003 that investigators discovered that the Appellant and his wife had returned to England from Tunisia. Nevertheless it was almost another year before the request for extradition was made. In these circumstances I do not consider that responsibility for the delay which has occurred can fairly be attributed to the Appellant.
+
+I turn therefore to consider whether the extradition of the Appellant would be unjust by reason of passage of time.  In his witness statement dated 12th December 2005, the Appellant contends that he would now be hindered in fighting this case in the United States because, as a result of the passage of time and the liquidation of Maxking Interfaces Limited, he no longer has access to the witnesses or the information he would need to fight the case at trial.  By way of example he refers to his inability now to produce e-mail records of conversations with Mr. McLaren and others.  He says that none of the documents relating to his transactions with BST and John Dumas are now available.  Furthermore, he contends that even if he could remember the details of the legal advice he took at the time the lawyer’s notes of the advice would have been destroyed.  He also says that he can no longer remember the names of staff who worked for him who could give evidence about the operation of the business.
+
+There are several reasons why I am unable to accept the submission that the Appellant will suffer prejudice at the trial in the United States as a result of the passage of time.  First, his claims in his witness statement are wholly unparticularised.  No explanation is provided as to when or what circumstances he ceased to have access to relevant documents.  Secondly, certain parts of his evidence are wholly incredible.  I am unable to accept that he can no longer remember the names of the employees who worked for him or that information as to the legal advice he received could no longer be obtained.  Thirdly, it is clear from his own evidence that the Appellant has known since August 2000 that he was at risk of being extradited to the United States to stand trial on charges relating to his activities in exporting electronic devices to the United States.  If it is the case that he no longer has access to documents relating to these activities that is entirely his responsibility.  Fourthly, in any event, no explanation has been provided by the Appellant as to the relevance of such documents to his defence in the United States proceedings.  The Appellant does not deny the supply of the devices to the United States.  Rather, he denies that the supply was illegal.  The Appellant maintains that the MK devices supplied by his company were not already programmed with software required to evade paying subscription charges for satellite television.  He maintains that the readers cannot be programmed and are simply hardware interfaces between a smart card and a computer. In these circumstances, I am unable to see how the non-availability of the material which the Appellant describes in his witness statement would prejudice such a defence.
+
+In considering whether the extradition of the Appellant would be oppressive by reason of the passage of time since he is alleged to have committed the offence, it is necessary to take account, in the present case, of the state of knowledge of the Appellant as to the possibility that his extradition would be sought.  In his witness statement the Appellant states that after his return from the United States in October 1999, following the execution of a search warrant at the home of Mr. and Mrs. McClamma, he was able to obtain a copy of the affidavit in support of the search warrant.  Furthermore, his solicitors made informal enquiries of a prosecuting attorney who confirmed that the offences being investigated were extraditable.  The Appellant was advised that he was believed to be responsible for designing a device to counter signals that broadcasters sent out to prevent unauthorised receipt of signals.  The Appellant states that his solicitors were able to establish that there was an investigation in the United States which included himself and that the United States authorities wanted to extradite him in relation to those investigations.  He also states that on 17th August 2000 his solicitors spoke with the prosecuting attorney, Mr. Peluso who confirmed that an investigation into the Appellant’s business activities was being pursued and that once various steps had been taken with regard to the grand jury and the Department of Justice, an application for his extradition would be made. On the instructions of the Appellant, his solicitors wrote to Mr. Peluso on the 22nd August 2000 confirming that the selling of MK devices to the United States had stopped as of the 17th August 2000.  A further letter dated the 7th September 2000 to Mr. Peluso stated that the Appellant would undertake to stop supplying the MK devices to the United States.
+
+Nowhere in his witness statement does the Appellant maintain that he was led to believe that an application for his extradition would not be made.  However, in his oral evidence before the District Judge, the Appellant stated that he had been told by his solicitors that if he stopped selling the devices he would be immune from prosecution.  The District Judge rejected this claim.  He was clearly right to do so.  If there were any truth in such a claim, it would have featured large in the Appellant’s witness statement.  Moreover, in re-examination before the District Judge the Appellant accepted that after the correspondence with Mr. Peluso referred to above, the Appellant had had a conversation with his solicitor in which he had asked if he was in the clear.   She had replied “No, but if you comply then you have a good chance”.  Accordingly, I conclude that the Appellant was not led to believe that his extradition would not be sought.  On the contrary, he was made aware that his extradition would be requested, although his hopes that such an application might not be pursued, may have increased with the passage of time. Before us, Miss Dobbin submitted that there must come a point when one is entitled to assume that one’s extradition is no longer being sought.  However, I consider that in the circumstances of this case that position had not been reached.
+
+Miss Dobbin also drew attention to a number of changes in the Appellant’s life which have occurred since those communications with the US prosecutor which took place in September 2000.  They have been substantial.  The Appellant has spent substantial periods of time in Tunisia where he has pursued business interests.  His marriage to Mrs. Maxwell-King has been dissolved.  He has been made bankrupt in the United Kingdom.  He has remarried a Tunisian national who is now expecting their child early in 2007.  He has now secured employment with the BBC.  However, to my mind none of these changes in his life would make his extradition to the United States oppressive.  Moreover, at all times since September 2000 the Appellant has been aware that it was the intention of the United States to seek his extradition.
+
+In this regard Miss Dobbin also placed reliance on Article 8, European Convention on Human Rights.  In Bermingham [2006] EWHC 2000 (Admin) Laws LJ observed (at paragraph 118):
+
+“If a person’s proposed extradition for a serious offence will separate him from his family, Article 8(1) is likely to be engaged on the ground that his family life will be interfered with.  The question then will be whether the extradition is nevertheless justified pursuant to Article 8(2).  Assuming compliance with all the relevant requirements of domestic law the issue is likely to be one of proportionality:  is the interference with family life proportionate to the legitimate aim of the proposed extradition?  Now there is a strong public interest in “honouring extradition treaties made with other States” (Ullah, paragraph 24).  It rests in the value of international co-operation pursuant to formal agreed arrangements entered into between sovereign States for the promotion of the administration of criminal justice.  Where a proposed extradition is properly constituted according to the domestic law of the sending State and the relevant bilateral treaty, and its execution is resisted on Article 8 grounds, a wholly exceptional case would, in my judgement, have to be shown to justify a finding that the extradition would on the particular facts be disproportionate to its legitimate aim.”
+
+I would accept that in the particular circumstances of the present case the Appellant’s Article 8 rights are engaged.  However, to my mind there is nothing to support the contention that this is a wholly exceptional case so as to justify a finding that the extradition of the Appellant would be disproportionate to the legitimate aim of the promotion of the administration of criminal justice.
+
+For these reasons, I would dismiss the appeal on the ground of passage of time.
+
+LORD JUSTICE KEENE:
+
+I agree.

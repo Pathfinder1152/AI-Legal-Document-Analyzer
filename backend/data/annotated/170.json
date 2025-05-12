@@ -1,0 +1,21 @@
+{
+  "file_name": "170.rtf",
+  "metadata": {
+    "case_number": "CO/9914/2008",
+    "neutral_citation": "[2009] EWHC 170 (Admin)",
+    "court": "IN THE HIGH COURT OF JUSTICE QUEEN'S BENCH DIVISION DIVISIONAL COURT",
+    "judges": "LORD JUSTICE MAURICE KAY, MR JUSTICE SIMON",
+    "hearing_date": "Friday, 23rd January 2009",
+    "parties": {
+      "Claimant": "GARY MCKINNON",
+      "Defendant": "SECRETARY OF STATE FOR THE HOME DEPARTMENT"
+    },
+    "representatives": {
+      "Claimant": "Edward Fitzgerald QC and Ben Cooper (instructed by Kaim Todner)",
+      "Defendant": "Hugo Keith (instructed by the Treasury Solicitor)"
+    },
+    "extracted_at": "2025-04-13T12:53:03.771478Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\170.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\170.txt"
+}

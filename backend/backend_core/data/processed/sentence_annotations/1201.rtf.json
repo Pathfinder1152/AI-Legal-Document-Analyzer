@@ -1,0 +1,65 @@
+[
+  {
+    "sentence": "1.\tMR JUSTICE JACK:  On 2nd November 2005 District Judge Kenneth Grant, sitting as a Youth Court in Wimbledon, ruled that there was no case to answer by the defendant, David Lennon, and dismissed the charge brought against him under section 3(1) of the Computer Misuse Act 1990.",
+    "legal_references": [
+      "the Computer Misuse Act 1990",
+      "section 3(1)"
+    ]
+  },
+  {
+    "sentence": "3.\tThe relevant parts of section 3 provide: \"(1) A person is guilty of an offence if\u2014  (a) he does any act which causes an unauthorised modification of the contents of any computer; and (b) at the time when he does the act he has the requisite intent and the requisite knowledge.",
+    "legal_references": [
+      "section 3"
+    ]
+  },
+  {
+    "sentence": "4.\tIt is also necessary to refer to the interpretation provisions of section 17.",
+    "legal_references": [
+      "section 17"
+    ]
+  },
+  {
+    "sentence": "Section 17(8) is the relevant provision.",
+    "legal_references": [
+      "Section 17(8)"
+    ]
+  },
+  {
+    "sentence": "So section 17(8)(a) is satisfied.",
+    "legal_references": [
+      "section 17(8)(a)"
+    ]
+  },
+  {
+    "sentence": "Mr Allen submitted that if there was some point at which the sending of emails became unauthorised by reason of their number, then there could be no certainty in the law because that point could not be sufficiently identified.  So, he said, the offence offended against Article 7 of the European Convention on Human Rights (no punishment without law).",
+    "legal_references": [
+      "the European Convention on Human Rights",
+      "Article 7"
+    ]
+  },
+  {
+    "sentence": "Mr Brown relied on Zezev and Yarimaka v Governor of HM Prison Brixton and another [2002] 2 Cr App R 33.",
+    "legal_references": [
+      "another [2002]"
+    ]
+  },
+  {
+    "sentence": ", then such an addition to such data is plainly unauthorised, as defined in section 17(8); intent to modify the contents of the computer as defined in section 3(2) is self\u2011evident and, by so doing, the reliability of the data in the computer is impaired within the meaning of section 3(2)(c).\"",
+    "legal_references": [
+      "section 3(2)",
+      "section 17(8)"
+    ]
+  },
+  {
+    "sentence": "Section 3(4) requires that it be established not only that the modifications caused to D&G's computers should be unauthorised, but that Mr Lennon had knowledge that they were unauthorised.",
+    "legal_references": [
+      "Section 3(4)"
+    ]
+  },
+  {
+    "sentence": "The critical issue is that of \"consent\" as that word is used in section 17(8) of the Act.",
+    "legal_references": [
+      "section 17(8)"
+    ]
+  }
+]

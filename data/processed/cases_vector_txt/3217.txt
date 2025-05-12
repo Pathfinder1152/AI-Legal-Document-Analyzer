@@ -1,0 +1,703 @@
+Neutral Citation Number: [2012] EWHC 3217 (QB)
+
+Case No: HQ11X04220
+
+IN THE HIGH COURT OF JUSTICE
+
+QUEEN'S BENCH DIVISION
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Date: 20/11/2012
+
+Before :
+
+THE HONOURABLE MR JUSTICE TUGENDHAT
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Between :
+
+|PETER ABBEY|Claimant|
+
+|- and -||
+
+|(1) ANDREW GILLIGAN (2) ASSOCIATED NEWSPAPERS LTD|Defendants|
+
+- - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - -
+
+William Bennett & Chloe Strong (instructed by PSB Law LLP) for the Claimant
+
+Desmond Browne QC & Adam Speker (instructed by RPC ) for the Defendants
+
+Hearing dates: 30, 31 October 1 November 2012
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Judgment
+
+Mr Justice Tugendhat :
+
+On 10 November 2011 the Claimant (Mr Abbey) issued a claim form claiming damages for breach of confidence, or misuse of private information, in relation to the obtaining and publication by the Defendants of a number of E-mails (“the E-mails”). Extracts from the E-mails had been published in The Evening Standard (“ES”) over four years earlier, in the issue dated 14 September 2007 (“the Article”). The text of the Article had been posted on its website until August 2011. The E-mails were sent by and to Mr Abbey. Save for one (from which no part or information was published) they contain information relating to the affairs of Complete Leisure Group Ltd (“CLG”).
+
+The background to this litigation is the announcement on 6 July 2005 that London would be the venue for the Olympic Games in 2012. Lord (Sebastian) Coe KBE had headed the bid. He is, as is well known, a winner of Olympic Gold medals, a former Member of Parliament and a very well known figure in public life.
+
+On 17 March 2005 Sebastian Coe Ltd (“SCL”) had been incorporated (under a different name), that is a few months before 6 July 2005. SCL’s principle activity was the provision of speakers, product endorsements and consultancy advice on sports related activities. The directors, so far as relevant to this action, were Lord Coe and Mr A Dix FCA.
+
+On 22 July 2005 CLG was incorporated (under a different name) as a public company. In the Report of the Directors for the year ended 31 December 2006 it is stated that the principle activities of CLG and its subsidiary, SCL, was “the exploitation of the intellectual property and image rights relating to Lord Coe and the provision of consultancy advice on sports related activities”.
+
+On 3 October 2005 Lord Coe was appointed chairman of the London Organising Committee of the Olympic Games (“LOCOG”). The role of LOCOG was to organise and stage the 2012 Olympic Games and Paralympic Games. LOCOG was a private limited company, of which the only two shareholders were the Secretary of State for Culture, Media and Sport and the Mayor of London.
+
+In November 2005 SCL commenced trading.
+
+On 8 November 2005 CLG (at that time named Complete Sports Company Ltd) issued a document stating that it proposed to raise up to £1m by way of subscription by investors for ordinary shares at a price of £1 per share. The document before the court is a draft. It was obtained by the makers of the Programme (referred to below) from an investor. The document stated that the company had reached agreement in principle to acquire SCL, and that it had two other subsidiaries (neither of which is relevant to the present litigation). As at 8 November 2005 Lord Coe, Mr Abbey and Mr Dix each held one third of the 1.2m issued share capital. The document stated that CLG expected to issue to Lord Coe 2.8m shares as consideration for the sale of SCL to it, and, assuming this was done, that the subscription shares were expected to represent approximately 20% of the issued share capital of the company.
+
+As at 2 August 2007 there were 53,158,000 shares in CLG issued to 36 shareholders. There was one original director who resigned on 19 October, having played no part in the trading of the company. The Directors and shareholders of CLG who are named in this judgment are as follows:
+
+|Appointed director|Resigned as director in
+
+2007|Shareholding (‘000)
+
+2 August 2007|
+
+Lord Coe|19 October 2005||32,000|
+
+Mr A Dix FCA|19 October 2005|21 March |4,000|
+
+Mr T Howland|19 October 2005|1 June |50|
+
+Sir Robin Miller|1 March 2006|7 December ||
+
+Mr HP Tillman|5 June 2007||2,650|
+
+Mr AM McKenzie|16 August 2007|||
+
+Berkeley Consultants Ltd|||3,000|
+
+Mr & Mrs Crawhall|||150|
+
+Mr L Davis|||300|
+
+Mr N Greenstone|||250|
+
+The increase in the share capital to this amount followed the issue of a further document dated 29 August 2006. By this document CLG invited subscription for up to 3,333,334 shares at a price of £0.15 per share to raise £500,000.10. It stated that “SCL has a projected turnover of £850,000 for the year ended December 2006”. The document also stated that it had been retained as a consultant to Anschutz Entertainment Group (“AEG”), which operated the O2 (formerly the Dome) in London. In this document it is stated that “The directors … believe that the Chairman, Lord Coe, and the management team are establishing a well-connected international company”. The document before the court is again a draft from an investor. It was sent to Mr Gilligan by Channel 4 on 12 September.
+
+Mr Abbey describes himself in the Particulars of Claim as “a shareholder in and consultant to” CLG. In fact, Berkeley Consultants Ltd (“BCL”) held the shares in which he was interested. In his witness statement he states that he has for many years acted as a consultant to companies. He helps to set up companies, to find investors, to float companies on the market, and generally to assist companies with their business affairs as and when required. Such assistance includes the introduction of lawyers, accountants, brokers and public relations advisers.
+
+He introduced to CLG Halliwells, solicitors, and Adler Shine LLP, chartered accountants and business advisers. Mr Rakesh Patel is a partner in Adler Shine, and had known Mr Abbey for a long time. Mr Abbey also introduced investors, as related below.
+
+Mr Abbey describes in his witness statement how he assisted in the setting up of SCL and CLG. Their registered and business offices were both stated to be at One Great Cumberland Place, London W1. That is the address from which he conducted his business. At one point in his witness statement he stated that he “had been heavily involved raising investments for” CLG. At another point he stated that he acted as consultant for CLG as follows:
+
+“I advised generally and helped to secure investments for the company. Berkeley Consultants Limited also held shares in CLG. I cannot be sure about the dates but I recall holding shares for the same period as I was consultant. Both were from around October 2005 until sometime between July 2006 and July 2007. I had no other role at CLG, I was neither a director nor an employee”.
+
+As noted above, this part of Mr Abbey’s statement contains inaccuracies. He was never a shareholder in CLG, otherwise than through his interest in BCL. And BCL was shown as a shareholder as at 2 August 2007. Mr Abbey does not disclose when that shareholding was disposed of.
+
+The central figure in this litigation is Lord Coe. It is because of his position in public life that the ES published the Article. The Article is headed “Email from Coe investors: we want our money back”. And it is illustrated by a large photograph of Lord Coe.
+
+But neither he nor CLG is a party to the claim. Nor have they been represented. In an e-mail of 29 October 2012 at 16:00, sent to him through the publishers of his recently published autobiography, solicitors for the Defendants stated that the court might enquire what the position of Lord Coe is in relation to this litigation, and asked what Lord Coe would like them to tell the court. At 18:32 they received a reply from his personal assistant, Ms Susie Black, as follows:
+
+“… Peter Abbey is no longer associated with Lord Coe or CLG and has not been for some time. Seb has had no involvement in the privacy claims being pursued by Peter Abbey and no information of relevance to this and he has nothing to add to the comments made by LOCOG at the time, as quoted in the article, concerning the separation between CLG and LOGOG business”.
+
+It follows that nothing in this judgement should be taken as a finding by the court which is adverse to Lord Coe or CLG. The court has to decide lawsuits on the evidence adduced by the parties. The evidence has therefore been adduced by Mr Abbey and the Defendants, and not by Lord Coe or CLG.
+
+There is now no dispute that the E-mails were obtained by the Defendants from another journalist, Mr Howker. Mr Howker is a freelance journalist. In 2007 he had worked as Assistant Producer of a programme entitled “The Olympic Cash Machine” which was commissioned by Channel Four Television as part of its series “Dispatches” (“the Programme”). It was broadcast four days before the Article, that is on 10 September 2007. Mr Howker had obtained them from a source whom he and the Defendants have declined to identify (as is their right). He obtained the E-mails after the time at which the Programme was “locked”, that is to say, at a time when it was too late to alter the Programme before it was broadcast. So there was no mention of the E-mails in the Programme.
+
+THE PROGRAMME
+
+The Programme was introduced by Kate Hoey, MP and former Sports Minister, and the main speaker was Antony Barnett.  The transcript includes the following (with numbering added):
+
+“Kate Hoey: It is very important that people involved in any aspect of the Olympics makes sure that what they do is totally transparent and that the public generally know when they themselves by virtue of other undertakings that they are involved in are benefitting from the Olympics.
+
+Anthony Barnett: Dispatches has learnt that an even higher profile name behind the London Olympics stands to benefit from the games.  The man who led the victorious bid, the  former Olympic gold medal winner Lord Coe, now could make a personal fortune from his newly enhanced status as the man who brought the Olympics back to Britain….
+
+Dispatches has discovered in late 2005 while ministers and officials were faced with spiralling Olympic costs, Lord Coe was setting up a new business venture that would potentially make him a very wealthy man.
+
+On 26 October 2005, just three weeks after Lord Coe was made chairman of LOCOG, he set up a sports and entertainment company later known as the Complete Leisure Group.  This acquired a firm called Sebastian Coe Limited set up  in March 2005 by Lord Coe to earn money from his speaking arrangements, product endorsements, and consultancy advice on sports related activities…
+
+According to an investment document we have obtained Sebastian Coe Limited looks to have been very successful.  In August 2006 it was estimated to be on course to earn £850,000 in its first year of trading. …
+
+The building behind me is the headquarters of Sebastian Coe Limited  but I have just been to the front door and checked the nameplates and there is no sign that such a company exists.  Instead there is a company called Barclay International who we discovered is run by a man called Peter Abbey, a business associate of Coe’s and the major investor in his company.  But Peter Abbey does not live here he lives in Monaco. …
+
+Dispatches has discovered that Peter Abbey has a chequered business history.  He has been linked to a number of corporate collapses and in 1985 he was personally declared bankrupt.  In 1994 again he was in financial difficulties, owing, amongst others Barclays Bank almost half a million pounds.  …
+
+We have been told that it was Abbey that went to a network of investors, several based in Monaco and other tax havens, to raise the money Coe needed to get his Complete Leisure Group off the ground. …
+
+… I wanted to ask him a few simple questions about his relationship with Lord Coe but he wouldn’t talk to me…
+
+Back in London I received a call.  An investor I had spoken to told me that, not long after Lord Coe had been made chairman of the committee organising the London games, he and Peter Abbey hosted a dinner party for investors at Brown’s hotel here in the heart of Mayfair…
+
+With the help of Monaco based Peter Abbey, Lord Coe set about selling millions more shares at £1 a time to private investors.  Just six months after London’s victory Coe had raised almost a million pounds and saw the value of his investment go through the roof…
+
+[An accountant interviewed on the programme suggested that Lord Coe’s shares in COG must be worth 4 to 5 million pounds].
+
+… Lord Coe’s company has not yet produced its latest set of accounts so it’s difficult to get the full picture of what its activities are or indeed what its true value is. But this investment memorandum that we’ve obtained dated 23 August 2006 shows details of the company’s assets and the top of the list is Lord Coe himself.  The document states that the directors of the company believe the chairman Lord Coe and the management team are establishing a well connected international company.  It claims that Sebastian Coe Limited has a projected turnover of £850,000 for the year ended 31 December 2006.  And it also discloses a rather surprising connection.
+
+It appears to reveal that only last year Lord Coe’s firm the Complete Leisure Group was in talks with a group called AEG, the corporation that owns the Millennium Dome, now known as the O2 Centre and run by Phillip Anschluss, the US billionaire.  He donated one million pounds to the Olympic bid and his O2 centre will be hosting the 2012 gymnastics and basketball final….  When we raised this with Lord Coe, his lawyers confirmed that discussions and some exploratory work relating to AEG international sports strategy did indeed take place in a brief period during 2006.  But claimed the documents were inaccurate.
+
+The Complete Leisure Group decided against proceeding and no contract was ever entered into with Anschluss’s firm. There is no suggestion that Lord Coe has acted improperly.  He declined to give Dispatches a statement.  However, through his lawyers he told us that far from seeking to profit from the games, because of his LOCOG role he had actually turned down a number of business opportunities. They said that Peter Abbey is a minority shareholder who now owns less than a 10% shareholding in Lord Coe’s company.  They also claim that Sebastian Coe Limited represents long term consultancies and other contracts that were entered into long before he became chairman of LOCOG.
+
+With regard to the investment in Lord Coe’s company the Complete Leisure Group they said that was mostly pledged before the London bid was successful and stressed that at present he had not made any personal profit from his companies.  They said that Lord Coe has always been totally honest and up front about his private business dealings disclosing them fully to both the Ethics Commission and the House of Lords register of interest….
+
+Kate Hoey … I think it is very important that the people involved with any  aspect of the Olympics is totally transparent.  What the public ought to know is that what is being done is being done in the interest of the games and in the interest of the public”.
+
+THE ARTICLE
+
+The Article was under the by-line of Mr Gilligan, and read as follows (the paragraph numbers are added):
+
+“The company set up to control 2012 chief Sebastian Coe’s business interests appears to be in financial trouble, the Evening Standard can reveal.
+
+Complete Leisure Group (CLG) was established shortly after London won the bid in 2005 to host the Olympics with Lord Coe as the majority shareholder and main asset.
+
+But in emails obtained by the Standard a CLG director tells an investor that large sums have been spent and it is said that some of the investors want their money back.
+
+In an email sent of 20 August one of the company’s directors, Robin Miller, wrote to Lord Coe and another director Peter Abbey calling for “urgent” action because he was being threatened with legal action after CLG failed to file annual accounts as required by company law.
+
+The reasons why the accounts were not filed is explained in another E-mail sent at 10.59 am the following day 21 August.
+
+CLG’s accountant Rakesh Patel of the firm Adler Shine, says that “any auditor, us included, would not be able to give a clean audit report and would need to qualify (the accounts)… as the group (CLG) would not be able to demonstrate that it had sufficient cash resources to pay their debts”.
+
+Mr Patel adds that this would be “more damaging” than the late filing of the accounts.
+
+He also adds that Adler Shine will do no further work until CLG has settled the fees it owes the firm and asks for the current year’s auditing fee in advance.
+
+The Standard has seen another email exchange, also from 20 and 21 August which suggest to Lord Coe’s company is suffering financial difficulties.
+
+Craig Inglis, an investor from the Liberty Hill Group says: “What is going with Seb, it seems to be dragging out more? Can we get these people (other investors) their money back pronto?”
+
+Following a reply from Mr Abbey, Mr Inglis comes back again:  “What you have written is fine but doesn’t explain where and when our money is… If we are to continue, this needs sorting, Peter.  I cannot justify this to anyone any more.”
+
+Mr Abbey responds: “I am not hiding anything… The money, along with another 400,000 was pissed away… and if you want to come in and see me, I will tell you chapter and verse… I am not happy having this in writing for obvious reasons…this is about the worst situation I have had to deal with and we are trying to solve it quietly.  DO NOT circulate this PLEASE!!!”
+
+CLG was set up weeks after London won the Olympic bid to invest in “media and leisure opportunities”.
+
+It consists of Sebastian Coe Ltd – through which Lord Coe is paid for his appearances, media work and consultancies – the Sport magazine publisher, and sports drinks firm Biosynergy Ltd.  While CLG is the umbrella group, it is not clear whether the apparent financial problems apply to each of the companies within it- and whether Lord Coe has lost money.
+
+CLG raised £1 million in investment with the help of Mr Abbey, who now has a 7.8 per cent share in CLG.
+
+Mr Abbey a tax exile based in Monaco, has been linked to a string of business collapses and was declared bankrupt in 1985.
+
+The extent of CLG’s problems came to light days after the Channel 4’S Dispatches documentary examined Lord Coe’s business interests.
+
+Following the programme, Lord Coe who is chairman of the London 2012 Organising Committee, strenuously denied any link between his Olympics role and his earnings of at least £200,000 from speeches, product endorsements, and consultancy funnelled through CLG.
+
+A spokesman Lord Coe said that CLG had been created as a totally separate entity to “ringfence” his private business interests and avoid any conflict with his Olympic role.
+
+The spokesman added: “One of the things we’ve said consistently is that Seb has been absolutely meticulous and scrupulous in separating his business interests from London 2012.”
+
+However, the emails obtained by the Standard show that Susie Black, Lord Coe’s personal assistant at London 2012, has also acted for CLG.
+
+Ms Black is contracted to be employed full-time by London 2012 and is paid as such out of Olympic funds.
+
+She works at London 2012’s offices at Canary Wharf, although she has recently begun maternity leave.  But the Standard can reveal that - with the full knowledge of London 2012 – Ms Black has a CLG email account, has helped schedule Lord Coe’s paid speaking engagements, and has been copied into part of the email exchanges about CLG’s finances.
+
+A spokeswoman for Lord Coe said there was nothing improper in the arrangement and added: “By maintaining an email address at CLG, Seb’s London 2012 PA is in the best position to monitor what comes to Seb at CLG, verify it is consistent with the ethical framework, and pass on messages when necessary given the extraordinary demands placed on his time by his London 2012 duties.”
+
+The spokeswoman explained that Ms Black also sometimes “printed things out” for CLG on London 2012 office printers and may have been involved in scheduling Lord Coe’s private speaking events.
+
+“Lord Coe has one diary.  If it was a CLG meeting she might make (the appointment),” the spokeswoman said.
+
+She could not comment on the affairs of CLG.
+
+A spokesman for Mr Abbey declined to comment.”
+
+THE CLAIM
+
+The claim for breach of confidence, alternatively misuse of private information is on two bases.
+
+The first complaint is in respect of the obtaining by the Defendants of all of the E-mails referred to in the Article, and others which are not referred to. All of them were written on 20 or 21 August 2007, save for one dated 23 August, from which nothing was quoted or referred to in the Article.
+
+The second complaint is in respect of the publication of the e-mail written by Mr Abbey, parts of which are quoted in para 12 of the Article. This was written on 21 August 2007 at 10.05 and has been referred to as E-mail 5. The E-mails referred to in paras 3, 4, 6-8, 10 and 11 were all written to Mr Abbey. Two E-mails written by Mr Abbey are referred to in paras 5 and 11, but the Article quoted nothing from these two E-mails.
+
+Mr Abbey states that the E-mails were taken or copied without his consent, and that has not been disputed.
+
+THE DEFENCE
+
+The Defendants rely on two principal defences: title to sue and public interest. They also contend that the claim is an abuse of the process of the court.
+
+The Defendants’ case on title to sue is that the information is not subject to any duty of confidentiality owed to Mr Abbey personally and he had no reasonable expectation of privacy in respect of any of it. Mr Abbey suffered no loss or damage himself, and he cannot claim damages on behalf of third parties.
+
+The Defendants’ case on public interest is that publication was justifiable in the public interest for the following reasons: (a) it corrected a false picture put out in statements made on behalf of Lord Coe; (b) it contributed to a debate of general public importance on problems which might affect Lord Coe’s running of LOCOG; (c) it warned the public and investors about the dangers of going into business with Mr Abbey; (d) it exposed breaches of the law by CLG and its directors.
+
+The letter from Lord Coe’s lawyers referred to in the Programme at para 15 was written by Messrs Carter-Ruck and dated 5 September 2007 (“the letter of 5 September”). The Defendants’ case is that the E-mails showed that that letter contains a number of statements that are, or might be, untrue and that publication of the Article was justifiable in the public interest for further reasons, as follows:
+
+As late as 20 and 21 August 2007 Mr Abbey had been playing an important part in the management of CLG. He had been corresponding with the solicitors to CLG about unpaid fees (Mr Abbey thought that the amount in question might have been in six figures); with Sir Robin Miller, a non-executive director, about a letter from Companies House warning of a possible prosecution in respect of the failure to file accounts in time; with investors who were demanding an explanation for what had been done with the money they invested; with the auditor and with Mr Patel, both of Adler Shine, about their unpaid fees, and about the late filing of the accounts and the likelihood of those accounts being qualified, and other financial problems. So even if the letter of 5 September was true as at the date on which it was written, the impression given was misleading in that it downplayed Mr Abbey’s role in CLG.
+
+Lord Coe’s duties to LOCOG and his interest in CLG were not kept entirely separate. Susie Black, Lord Coe’s personal assistant had an e-mail address containing CLG’s name, which she used to communicate about CLG business.
+
+CLG was not financially secure, but was unable to pay its debts as they fell due. These debts included the fees due to its lawyers and to its auditors, who could not carry out the work required for the filing of the statutory accounts unless and until those fees were paid. As a result CLG and its directors were in breach of the requirements of the Companies Act as to the filing of accounts, and were unable or unwilling to remedy those breaches;
+
+Mr Abbey was telling investors that CLG’s funds had been dissipated by persons for whose appointment Lord Coe was responsible;
+
+The performance by Lord Coe in his hugely important public role was likely to be affected by the financial problems at CLG;
+
+Lord Coe had unwisely entrusted important parts of his affairs to Mr Abbey, when he was an unsuitable person for performing such a role for a person in the public position of Lord Coe, and that decision reflected upon the wider business judgment of Lord Coe and his suitability for his role at LOCOG.
+
+THE LAW
+
+The law of confidentiality and the law of misuse of private information are separate, although both may apply to the same information. Mr Bennett submits that there is no meaningful distinction between breach of confidence and misuse of private information on the facts of this case.
+
+There is no dispute that a breach of confidence occurs where (i) information has the necessary quality of confidence, (ii) it has been imparted in circumstances importing an obligation of confidence to the claimant and (iii) unauthorised use or disclosure has occurred. An obligation of confidence arises when information comes to the knowledge of a person, in circumstances where he has notice, or is held to have agreed, that the information is confidential.
+
+As to privacy, Mr Bennett’s submissions start with the Human Rights Act 1998 s.6, which requires that the court act compatibly with Convention rights, and in particular with Art 8 and Art 10. These provide:
+
+“Art  8
+
+(1) Everyone has the right to respect for his private and family life, his home and his correspondence.
+
+(2) There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society … for the protection of the rights and freedoms of others.
+
+Article 10
+
+(1) Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers…
+
+(2) The exercise of these freedoms since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society … for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence ...”.
+
+Mr Bennett submits that there are two types of information. First, (what he refers to as primary information), is information contained in an e-mail (or any other form of correspondence), regardless of the nature of the information. He submits that there will be a reasonable expectation of privacy in respect of such information. Second, (what he refers to as secondary information), is information contained in an e-mail, which may give rise to a separate basis of confidentiality or privacy by reason of its nature.
+
+Mr Bennett cites Imerman v Tchenguiz [2011] Fam 116; Phillips v NGN/Mulcaire [2010] EWHC 2952 (Ch), Browne v Associated Newspapers Limited [2008] QB 103.
+
+Mr Browne submits that Mr Bennett’s analysis is contrary to authority. The rationale for a claim for misuse of private information was explained by Lord Hoffmann in Campbell v MGN Ltd [2004] 2 AC 457 at [52] as follows:
+
+“The new approach takes a different view of the underlying value which the law protects. Instead of the cause of action being based on the duty of good faith applicable to confidential personal information and trade secrets alike, it focuses upon the protection of human autonomy and dignity – the right to control the dissemination of information about one’s private life and the right to the esteem and respect of other people.”
+
+He submits that there is a two-stage test as set out in McKennitt v Ash [2008] QB 73 at [11]. As Buxton LJ said
+
+“.....Where the complaint is of the wrongful publication of private information, the court has to decide two things. First, is the information private in the sense that it is in principle protected by article 8? If no, that is the end of the case.
+
+If yes, the second question arises: in all the circumstances, must the interest of the owner of the private information yield to the right of freedom of expression conferred on the publisher by article 10? The latter enquiry is commonly referred to as the balancing exercise....”
+
+In relation to the first question Mr Browne submits that the “touchstone of when information concerns private life so as to engage Article 8 is whether the person concerned has a reasonable expectation of privacy in respect of the information”: Campbell v MGN, per Lord Nicholls at [21] (“Essentially the touchstone of private life is whether in respect of the disclosed facts the person in question had a reasonable expectation of privacy”). The question is a broad one taking into account all the circumstances of the case: see Murray v Express Newspapers [2009] Ch 481 at [36]. The reasonable expectation of privacy must be one possessed by the particular claimant (“the person in question”), in respect of the particular information at issue: Lord Nicholls in Campbell at [21].
+
+He referred to Browne v Associated Newspapers Limited [2008] QB 103 where the Court of Appeal said at [29]-[32], in the context of an argument about misuse of private information:
+
+“29 Nevertheless we accept … that the mere fact that the information was imparted in the course of a relationship of confidence does not satisfy Lord Nicholls's test of “expectation of privacy”. An example would be a husband telling his wife that Oxford or Cambridge won the boat race in a particular year. However, the relationship may be of considerable importance in answering the question whether there was an expectation of privacy. ........
+
+32 That is clear, for example from Lord Nicholls's formulation of the test, namely whether in respect of the disclosed facts the claimant has a reasonable expectation of privacy—our emphasis. As we see it, the test must be applied to each item of information communicated to or learned by the person concerned in the course of the relationship.”
+
+Mr Browne submits that, on the first limb of the test, Mr Abbey has not set out why the information in the E-mails about company matters engages Article 8 and is private to him, and has not identified each item of private information he complains about. It is not sufficient simply to assert that emails are inherently private and therefore so are their contents.
+
+Mr Bennett submits that Mr Browne’s submissions miss the point that the protection of correspondence is necessary if individuals are to express themselves freely. The way that a person expresses himself in an e-mail is information personal to him.
+
+In my judgment Mr Browne’s submissions are clearly correct. There is nothing in the cases subsequent to Browne v Associated Newspapers Limited which are relied on by Mr Bennett which can be taken as differing from the test laid down in McKennitt v Ash and in Browne v Associated Newspapers Limited. But I also accept that in an appropriate case the court could hold that the manner in which a person has expressed himself could give rise to a reasonable expectation of privacy.
+
+Law on title to sue
+
+To establish a claim in breach of confidence, a claimant must demonstrate that he is the proper person to sue: Fraser v Evans [1969] 1 QB 349. In that case the plaintiff was a Public Relations consultant to the Greek government who sought an injunction to stop The Sunday Times publishing extracts from one of his reports to the Greek government. Lord Denning MR (with whom Davies and Widgery LJJ agreed) rejected Mr Fraser’s claim for breach of confidence. The Court of Appeal held that the proper plaintiff was the Greek government, and not its public relations consultant: see Lord Denning MR at 361 and Davies LJ at 363, who said,
+
+“they, the government, might well have the right to ask the court to prevent the publication of the document or the facts therein contained; but the plaintiff in my view has no such right”.
+
+There are cases where a person may sue to protect the rights of others. Examples include where hospitals have sued to prevent publication of patients’ records (Ashworth Security Hospital v MGN Ltd [2002] 1 WLR 2033, [2002] UKHL 29). But even in those cases, it is obvious that the claimant cannot be awarded damages for wrongs suffered by third parties.
+
+Law on public interest
+
+There is no material dispute between the parties on the law relating to public figures and the role of the press. Mr Bennett cited Porubova v. Russia 8237/03 [2009] ECHR 1477 where the court said at para [45]:
+
+"The Court considers that […. as] the head of the regional government and a member of the regional legislature respectively – they inevitably and knowingly laid themselves open to close scrutiny of their every word and deed by both journalists and the public at large ... It emphasises that the right of the public to be informed, which is an essential right in a democratic society, can even extend to aspects of the private life of public figures, particularly where politicians are concerned (see Editions Plon v. France, no. 58148/00, § 53, ECHR 2004 IV [information about the health of the President of France]). By reporting facts – even controversial ones – capable of contributing to a debate in a democratic society relating to politicians in the exercise of their functions, the press exercises its vital role of "watchdog" in a democracy by contributing to "impart[ing] information and ideas on matters of public interest" (see Von Hannover v. Germany, no. 59320/00, § 63, ECHR 2004 VI). The instant case is, in the Court's view, distinguishable from those cases in which publication of the photos or articles had the sole purpose of satisfying the curiosity of a particular readership regarding the details of the individual's private life".
+
+Mr Browne submits that there are cases where a person who might otherwise not be a public figure may be treated as such by reason of an association with someone who undoubtedly is a public figure: Trimingham v Associated Newspapers Ltd [2012] 4 All E.R. 717, and AAA v Associated Newspapers Ltd [2012] EWHC 2103. In Trimingham the claimant had been professionally employed by an MP, as well as forming a personal relationship with him. In AAA Nicola Davies J explained how this principle applied on the facts of that case, at para [118]:
+
+“It is undisputed that there is a public interest in the professional and private life of the claimant's supposed father. His professional position speaks for itself. As to his private life, he is man who has achieved a level of notoriety as result of extramarital adulterous liaisons. Of itself, the fact of an extramarital affair does not render inevitable the publishing of information that, as a result, a child was conceived. However, the claimant is alleged to be the second such child conceived as a result of an extramarital affair of the supposed father. It is said that such information goes to the issue of recklessness on the part of the supposed father, relevant both to his private and professional character, in particular his fitness for public office. I find that the identified issue of recklessness is one which is relevant to the professional and personal character of the supposed father.”
+
+Mr Bennett does not dispute this principle, but he submits that the sphere of Lord Coe’s life which involved CLG was private to him, and different from his public role with LOCOG. Further, he submits that in any event the rights in question in this action are those of Mr Abbey, and his rights are not affected on the facts of this case by his association with Lord Coe.
+
+There is no dispute between the parties that what is, or is not, in the public interest for the purposes of the law of confidentiality and privacy is to be judged objectively, and decided by the court. Mr Browne referred to Ferdinand v MGN [2011] EWHC 2454 (QB) at para [27]. Of course the court will have regard to the evidence of a journalist as to what he considered to be in the public interest, but that evidence is only one factor to be taken into consideration.
+
+In the course of argument I invited the parties to make any submissions that they might wish to make on the analysis of the law on confidentiality and leaks to journalists set out in my judgment in Commissioner of Police of the Metropolis v Times Newspapers Ltd [2011] EWHC 2705 (QB) at paras [94]ff. Neither side took issue with that statement of the law.
+
+As I said in that case, in London Regional Transport v Mayor of London [2003] E.M.L.R. 4 Sedley LJ at [53] considered the case where the recipient of the information is exercising his/her ECHR Art 10 right to impart information in the public interest. He said that both the common law and the Strasbourg law recognise:
+
+"the propriety of suppressing wanton or self-interested disclosure of confidential information; but both correspondingly recognise the legitimacy of disclosure, undertakings notwithstanding, if the public interest in the free flow of information and ideas will be served by it...."
+
+In the LRT case, the issue before the court was whether publication of a report by Deloittes was likely to be a breach of confidence. The effect of the redactions made to the Deloittes' report in that case, together with the principle of the public interest as it applied to the disclosure to the public of the balance of the report, was that it was held that such disclosure was not a breach of confidence. Robert Walker LJ, as he then was, at para 36 of his judgment, cited with approval this passage from Toulson and Phipps on Confidentiality (1996 edn) para 6-11:
+
+"the true principle is not (as dicta in some cases suggest) that the court will permit a breach of confidence whenever it considers that disclosure would serve the public interest more than non-disclosure, but rather that no obligation of confidence exists in contract or in equity, in so far as the subject matter concerns a serious risk of public harm (including but not limited to cases of 'iniquity') and the alleged obligation would prevent disclosure appropriate to prevent such harm." (emphasis added)
+
+That passage is framed by reference to the public interest in preventing harm. But it must apply equally to any other form of public interest that qualifies as a limiting principle to confidentiality or misuse of private information.
+
+And there is no dispute that the court must carry out the balancing exercise as between Art 8 and Art 10, as explained in the words of Lord Steyn in Re S (A Child) [2005] 1 AC 593 at para 17:
+
+"...The interplay between articles 8 and 10 has been illuminated by the opinions in the House of Lords in Campbell v MGN Ltd [2004] 2 AC 457. … What does, … emerge clearly from the opinions are four propositions. First, neither article has as such precedence over the other. Secondly, where the values under the two articles are in conflict, an intense focus on the comparative importance of the' specific rights being claimed in the individual case is necessary. Thirdly, the justifications for interfering with or restricting each right must be taken into account. Finally, the proportionality test must be applied to each. For convenience I will call this the ultimate balancing test."
+
+The Companies Act 1985 s242(1) required the directors of a company to file the company’s annual accounts and a directors’ report, together with an auditors’ report, in respect of each financial year. The period allowed for the delivery of CLG’s accounts for the year ending 31 December 2006 expired on 30 June 2007. The directors had therefore been in default for over six weeks by the time Sir Robin Miller received the warning letter from Companies House referred to in the e-mail summarised in para 4 of the Article. He sent a copy of that e-mail to Lord Coe (who, as a fellow director, was as much concerned as he was with the warning letter from Companies House). By s.242(2) every director in default is guilty of an offence and liable to a fine, and, for continued contravention, to a daily default fine. In addition, by s.242A, where the requirements of s 242(1) are not complied with, the company is liable to a civil penalty.
+
+TITLE TO SUE
+
+On the issue of title to sue it is important to bear in mind who the Defendants are. The Defendants are not persons with whom Mr Abbey had any prior contractual or other legal relationship. If the identity of the source had been discovered, and found to be a person who had been employed by Mr Abbey, or who had some other relationship to him, it is possible that Mr Abbey might have had a claim for substantial damages against that person in contract, under the law of confidentiality, under the Data Protection Act 1998, or on some other basis. I express no view on that. The only claim I am concerned with is one based on the fact that the E-mails came into the hands of Mr Gilligan. By the time of the trial Mr Bennett did not allege that Mr Gilligan had done anything wrong before he received the E-mails from Mr Howker and caused the Article to be published. Mr Abbey had made very serious allegations of wrongdoing against Mr Gilligan, both in pre-action correspondence, and in the Particulars of Claim, but there was no evidence to support these allegations, and they were not persisted in at the trial.
+
+It is not necessary for me to set out in this judgment the contents of the E-mails in question in this action. And, since they were not intended for disclosure to the public, it is desirable that I should not do so, unless that is necessary for the purpose of making clear the reasons for the conclusions I reach in this judgment. Persons who are not a party to this action may have rights in respect of those E-mails. Such persons include the sender or recipient, where that person is not Mr Abbey, CLG, and the persons named in the E-mails. I have not heard representations from any of these persons, other than Mr Abbey.
+
+It appears from the Article that the E-mails dated 20 and 21 August referred to in it all contain information relating to CLG, or to the affairs of persons who had invested in CLG, or were officers of CLG, or were providing advisory services to CLG. None of this information is personal to Mr Abbey. I have considered the full text of each of the E-mails, and that is also the position in relation to those parts of the E-mails which are not referred to or quoted in the Article. The e-mail dated 23 August contains information personal to Mr Abbey, and has nothing to do with CLG or anyone else.
+
+Further, in sending and receiving the E-mails dated 20 and 21 August Mr Abbey was not acting, or purporting to act, as principal. As he puts it in his witness statement, “these e-mail conversations were between directors of a company and me, its consultant…” Mr Bennett submits that it is significant that the E-mails (other than the one from Sir Robin Miller) were exchanged between Mr Abbey and people with whom he had had a relationship which pre-existed CLG. I do not see the significance. The Article refers to and quotes from E-mails which related to CLG’s affairs. The fact that the senders and recipients had had a relationship independently of CLG is irrelevant.
+
+Quite what his role was needs further consideration in the context of the defence of issues of public interest. But on the issue of title to sue, it is plain that he was not acting as principal.
+
+In the present case the Article was published long ago, and has been removed from the website. There is no question of an injunction to restrain publication in the future. And if the information referred to in the Article is personal to anyone other than Mr Abbey, no reason has been shown why in this case Mr Abbey can make a claim for substantial damages in respect of that information.
+
+Accordingly, I find that these particular Defendants, who had no prior relationship to Mr Abbey, could not owe to Mr Abbey any duty or obligation of confidence in respect of these E-mails, or at any rate not a duty the breach of which would give rise to substantial damages. If they owed any duty of confidence to any other person (and I make no findings on that) then it would be a duty owed to CLG, to Lord Coe, or to one of the other persons named in the e-mail, but not Mr Abbey. I find that Mr Abbey had no reasonable expectation of privacy in relation to any information which was not personal to himself.
+
+Mr Abbey complains in respect of the e-mail quoted at para 12 of the Article that the express terms of that e-mail (“DO NOT circulate this PLEASE!!!”) and the strong language (“pissed away … the worst situation I have had to deal with”) give rise to a claim specific to the facts of this e-mail. The request not to circulate cannot of itself give Mr Abbey a title to sue that he would not otherwise have. The language is strong, and it might be relevant to the issue of public interest, as well as title to sue. In so far as title to sue is concerned, while I have accepted that the use of particular language might, in certain circumstances, give rise to a reasonable expectation of privacy, in the present case the facts do not raise the case above the threshold of seriousness which any claim must pass if it is to be upheld by a court.
+
+For these reasons Mr Abbey’s claims relating to the E-mails dated 20 and 21 August 2007, both in confidentiality and misuse of private information, fail at the first hurdle. If there is any duty of confidentiality owed by these Defendants, in respect of any of the information in the E-mails, or in the Article, it is not a duty owed to Mr Abbey (or not one the breach of which would attract substantial damages). Nor could the information in them give rise to an expectation that could reasonably be entertained by Mr Abbey.
+
+THE CASE ON OBTAINING
+
+There may be some cases where merely to look at a document will be a breach of confidence. I express no view on that.
+
+In the present case the E-mails included the one dated 23 August. The material part of this e-mail consists of one and a half lines of text. While I have found that this was confidential, and personal, to Mr Abbey, in my judgment the e-mail was not so clearly private or confidential that it could be said that it was a breach of confidence or misuse of private information for Mr Gilligan to obtain and read it.
+
+A journalist considering whether or not to publish information must, in many cases, have an opportunity to read the information to make that decision. It cannot be right that the court should in such cases too readily find that the obtaining or reading of the information is a breach of confidence. Mr Bennett rightly accepted this in his submissions. Moreover, any damage suffered by Mr Abbey as a result of Mr Gilligan reading this e-mail could be nominal only.
+
+In the case of the E-mails dated 20 and 21 August, the claim in obtaining cannot succeed for the same reason. Further, the claim in obtaining cannot succeed if the case on publishing does not succeed. I shall consider that below.
+
+For the avoidance of doubt, I repeat that in the present case, although some loose language has been used by or behalf of Mr Abbey such as “theft”, there is no evidence that the paper on which the E-mails were printed when obtained by Mr Gilligan was paper stolen from Mr Abbey. The claim in the present case, as presented in court, is in confidentiality and misuse of private information. There is no claim in wrongful interference with property, or any other tort or statutory wrong. In the Particulars of Claim Mr Abbey did allege that Mr Gilligan improperly accessed his e-mail account, or obtained the E-mails from some who had done that. But these allegations of hacking were never supported by any evidence, and have not been pursued.
+
+The only claim in respect of the publication is confined to the e-mail from which para 12 of the Article quotes some words. This e-mail, also referred to as E-mail 9, was sent by Mr Abbey to Mr Inglis on 21 August 2007 under the Subject heading “Seb”.
+
+In case I am wrong about the findings that I have reached on title to sue, I shall consider each of the heads of public interest raised by the Defendants. But I shall not go on to carry out the balancing exercise described in In re S since that could only be done on the hypothetical basis that Mr Abbey had succeeded thus far, that is in establishing some significant interference with his own rights.
+
+THE PUBLIC INTEREST
+
+Relevant paragraphs of the letter of 5 September referred to in the Programme read in full as follows (where TCLG stands for CLG):
+
+“2. … [Lord Coe] engaged in a series of discussion with officials of the … DCMS … to communicate complete information about his current and proposed plans and activities and the set-up of [TCLG] to ensure that no conflicts of interest arise …
+
+7. … Tim Howland, previously the CEO of TCLG resigned in April 2007 because he was unable to pursue business opportunities within TCLG owing to our client’s stance precluding any potential conflicts of interest with the Olympics.
+
+10. Peter Abbey is a paid consultant and minority shareholder in TCLG with a less than 10% shareholding. He is not an officer or director of TCLG and does not play any part in the management of TCLG. TCLG is professionally managed and advised. Most recently the management team has been enhanced by the addition of Harold Tillman, chairman of Jaeger, who joined Sir Robin Miller, formerly Chairman and CEO of Emap as non-executive directors of TCLG”.
+
+The role of Mr Abbey
+
+It is the Defendants’ case that at least as late as 21 August (just over two weeks before the letter of 5 September) Mr Abbey was playing a part in the management of CLG. Moreover, it was a very important part, and there was no other executive managing CLG in August 2007.
+
+In large measure this is not in dispute, as set out in para 12 above. On 1 February 2006 CLG had entered into a Consultancy and Option Agreement with BCL. The services to be provided to CLG included assisting CLG to obtain admission of its share capital to trading on the Alternative Investment Market (“AIM”), assisting CLG to identify likely providers of equity or debt finance of up to £1 million, advice on all financial and fund raising matters, assisting CLG to prepare information memoranda and fund raising plans for equity and/or debt finance and assisting in negotiations of the terms of all funding transactions. The fee was to be £50,000 payable on admission to AIM. The contract also provided that CLG agreed to retain BCL to provide to itself and any subsidiary such further business and financial advice and consultancy services as may be requested, and the fee for these further services was to be £25,000 per annum. BCL also agreed to provide company secretarial assistance for a further fee of £12,500
+
+Mr Browne makes the following submissions in support of that case.
+
+The dates given in para 8 above show that Mr Dix and Mr Howland had resigned, on 21 March and on 1 June respectively. Mr McKenzie was appointed on 16 August. There was no executive director between 1 June and his appointment on 16 August. According to the Chairman’s Statement dated 20 November 2011, and signed by Mr Tillman, he became Executive Chairman, and Mr McKenzie, a business associate of his, became CEO. But there is nothing in the E-mails (nor any other evidence) to indicate that either of them were copied into, or informed of, any of the E-mails of 20 or 21 August.
+
+In E-mail 9, in passages which are not reproduced in the Article, Mr Abbey referred to the fact that Mr Dix and Mr Howland had been “brought in” by Lord Coe, and he expressed criticisms of them in colourful language. And in the e-mail (referred to as E-mail 7) of 21 August at 06.32 from Mr Abbey referred to, but not quoted, in para 11 of the Article, Mr Abbey claimed responsibility for their resignation (“I have now got rid of…”). This claim is not consistent with Mr Abbey playing no part in the management of CLG as at 20 and 21 August 2007.
+
+That claim by Mr Abbey to have “got rid of” Mr Dix and Mr Howland is expressed in terms that are also inconsistent with the explanation given for their resignation by Lord Coe’s solicitors in para 7 of the letter of 5 September 2007.
+
+The contents of the e-mail from Mr Abbey referred to in para 5 of the Article, and the e-mail to him from Mr Patel referred to in paras 6 to 8 of the Article, appear to show that it was Mr Abbey who was making decisions about when and how CLG’s accounts would be filed, and by whom they would be audited. The contents of the e-mail referred to in para 4 of the Article appear to show that Sir Robin Miller expected Mr Abbey to be taking charge of the filing of the accounts. He ends his e-mail with the words: “Please would you let me know where we are on this?” And Mr Patel in his evidence said: “I felt the need to bring that [the prospective qualification of the accounts] to the attention of the directors of the company and, of course, Peter Abbey”.
+
+The contents of the E-mails referred to in paras 10, 11 and 12 of the Article also show that Mr Inglis expected Mr Abbey to deal with the claims by investors for the return of their investments, and Mr Abbey’s responses are consistent only with him being the person who was in fact dealing with those claims. In the e-mail referred to in para 7 he wrote: “we can now move forward getting a new injection of cash to buy out weak holders”. Para 12 of the Article quotes his words: “this is about the worst situation I have had to deal …” (emphasis added).
+
+On 8 February 2006 Mr Abbey had written a letter to Mr Crawhall enclosing a letter from CLG inviting him to purchase subscription shares. Mr Abbey invited Mr Crawhall to call him for further information. The next day Mr Crawhall sent the cheque for the shares which were allotted to him. So it appears that Mr Abbey had been assuming responsibilities for CLG for some time.
+
+In his witness statement Mr Abbey states that at the time he sent and received the E-mails dated 20 and 21 August he was “acting as consultant” for CLG. There is no dispute that Mr Abbey was carrying out the tasks on behalf of CLG which the E-mails appear to show that he was carrying out. As Mr Bennett puts it in his Closing Submissions:
+
+“The Article presents him as carrying out a fire fighting exercise at CLG. It does not criticise his action (he is trying to resolve the auditing problem; he is not shown as having caused it). It is reasonably apparent that he is sorting out the mess caused by other people”.
+
+Mr Bennett’s submission seems to me to be too favourable to Mr Abbey. The Article does contain a clearly implied criticism in paras 5 and 6, to which I shall refer in more detail below.
+
+But whether that is so or not, the submission does not address the point. The point relied on by the Defendants in their defence is whether in the letter of 5 September referred to in the Programme Lord Coe gave a false picture of the role of Mr Abbey. I accept that the Defendants have not shown that para 10 of the 5 September letter made a statement that was false as at that date. But that paragraph cannot be described as candid about Mr Abbey’s role, having regard to what he had been doing on behalf of CLG just two weeks earlier.
+
+In my judgment that finding is enough for the Defendants in this case to satisfy the court that publication of the Article was, in this respect, in the public interest, and so not a breach of confidence or misuse of private information.
+
+Here again I note that there is a difficulty for the court arising out of the fact that the person suing is not the person to whom a relevant duty is owed by these Defendants. If Lord Coe had chosen to sue, which he did not, then I might have been directed to different and broader evidence as to who was carrying out management functions on behalf of CLG, and I might have been asked to consider the terms of any communications that passed between the programme makers and Lord Coe’s solicitors before the letter of 5 September.
+
+Mr Abbey has not sued in libel for any damage to his reputation caused by the description in the Article of what he was doing for CLG on 20 and 21 August. His claim is confined to breach of confidence or misuse of private information.
+
+Separation between Lord Coe’s duties and interests
+
+The e-mail from Sir Robin Miller referred to in para 4 of the Article includes the following in the heading:
+
+“cc: ‘Seb Coe’ Susie.black@completeleisuregroup.com”.
+
+The Article states at para 19 that a spokesman for Lord Coe had said that CLG was a totally separate entity created to ring fence Lord Coe’s private interests from his duties in his Olympic role, or to “separate his business interests from London 2012”, so as to avoid any conflict between them.
+
+In paras 21 to 27 the Article sets out what the Defendants say is to be inferred from the e-mail address of Ms Black, and Lord Coe’s response. In summary, the Defendants submit that the fact that there was an e-mail address of Ms Black on CLG’s e-mail system appears to show that she was dealing on Lord Coe’s behalf with matters which related to CLG, but which did not relate to LOCOG, her and his employer. They note that that is the same e-mail address as the one from which she sent the e-mail quoted in para 15 above.
+
+Mr Bennett submits that the Article makes clear in paras 24 to 27 that Lord Coe was doing nothing improper, and that his roles were being kept separate.
+
+I do not read paras 24 to 27 of the Article as making clear that Lord Coe’s roles were being kept separate. Those paragraphs set out what was being said on Lord Coe’s behalf.
+
+I accept that nothing in the Article establishes that Lord Coe did act in breach of his duty to prevent any conflict between his duty to LOCOG and his interests in CLG. So in publishing the Article the Defendants did not correct a false picture given by Lord Coe in this respect.
+
+On the other hand, in my judgment the Article does contribute to a debate of public importance in raising this topic. There is no dispute that the e-mail address was as the Article describes it.
+
+I do not accept that in relation to this point the Defendants need a public interest defence. They only need it if the information in question is confidential. The extent to which, if at all, an e-mail address is confidential information will depend on all the circumstances. On the facts of the present case Mr Abbey has not demonstrated that there was any confidentiality in the address (it was obviously not confidential by the time Ms Black sent to the Defendants the e-mail referred to in para 15 above). That is one of the difficulties that can arise when the claimant is not the person to whom a duty of confidentiality is owed.
+
+But even if I assume in Mr Abbey’s favour that there was some measure of confidentiality in the fact that Ms Black held an e-mail address on CLG’s system, I cannot assume that the measure of confidentiality was a high one. On the facts of this case in my judgment, if the fact of the e-mail address being on CLG’s system was confidential, then there was a sufficient public interest in it being overridden for the purpose of discussing whether Lord Coe had achieved the separation of his interests from his duties to which he had committed himself.
+
+The solvency of CLG, the use of its funds, and breaches of the law
+
+It is plain from the E-mails referred to in paras 5 to 8 of the Article that in August 2007 CLG was unable to pay its debts, including in particular the debt to its auditors, which it had to settle if it was to be possible for the auditors to embark upon their task of issuing a report in accordance with the requirements of the Companies Acts. The reasons for this situation were not a failure to receive the earnings that had been forecast. The turnover was only a little short of what had been forecast, as appears from the Financial Statements for the year ended 31 December 2006. The difficulties arose from the high level of expenses.
+
+In his witness statement Mr Abbey says this on this topic:
+
+“[Mr Patel] also pointed out that CLG did not have cash in the bank to pay all its debts which might have arisen over the next 12 months. Lots of companies find themselves in the same position, and I knew that CLG was in the process of solving this by raising further funds… In my view the article is misleading as it says that there were concerns as to whether CLG could pay its debts, but in fact the concern was whether there was cash in the bank to pay all the debts which might have been due in the following year, which is an issue of cash flow and whether the company is a going concern”.
+
+Mr Abbey does not explain why, if the concern related only to debts that might have arisen over the next 12 months, the auditors’ outstanding fees had not been paid. Nor does he explain what the raising of further funds involved, or from whom, or when, they were to be raised. He appeared to me to have a very limited understanding of the seriousness of this position.
+
+Mr Bennett first submitted that the situation was not created by Mr Abbey. That may be so. That is not an issue in this action, and I am in no position to judge who might have been responsible for the fact that the financial problems arose. Certainly Mr Abbey blamed Lord Coe and the two directors who had resigned. But whoever was responsible, the situation was on any view a very serious one. I note that Mr Abbey shared that view at the time. He described it on 21 August as “the worst situation I have had to deal with”. That gives a rather different impression from the impression he seeks to convey in his witness statement.
+
+Mr Abbey and Mr Bennett both submitted that the breach of the Companies Acts requirements as to filing of accounts was not a serious matter. Mr Bennett submitted that there was no public interest in disclosing that CLG’s directors were in default of their statutory obligations as to the filing of accounts. That fact would be apparent to anyone who checked with Companies House.
+
+Further, Mr Bennett observed that s.242(4) of the 1985 Act provides that there is a defence for a director who proves that he took all reasonable steps for securing compliance with the requirements of s.242(1). He submitted that I should make no findings in the absence of relevant evidence. The issue of whether any director of the company was guilty of an offence, or not, is not an issue in this action.
+
+Both those submissions are correct so far as they go. However, I could not see the relevance of them. As to s.242(4) there is nothing before the court to suggest that any director had taken any steps to ensure compliance. But there is evidence that Mr Abbey was intentionally taking steps to ensure continuance of their non-compliance. He was dealing with the matter by delaying the filing of the report and accounts until CLG had succeeded in raising further finance.
+
+The evidence for this is, in part, in the E-mails referred to in paras 5 to 7 of the Article. Mr Patel advised that it would be more damaging to the company to file qualified accounts than to delay the filing of the accounts until the company could also file an unqualified auditors’ report. In the e-mail referred to in para 5 of the Article Mr Abbey wrote to Mr Patel:
+
+“We will get an unqualified report so stop worrying/implicit threatening”.
+
+Further, the unreality of Mr Bennett’s submission is demonstrated by what in fact happened. The accounts for the year ending 31 December 2006 were in fact filed, together with an unqualified auditors’ report from Adler Shine LLP, a full three months later, on 21 November 2007, amongst the post balance sheet events mentioned were the issue to Mr Tillman of the 2,658,000 shares referred to in para 8 above for a consideration of 3.7 pence each on 26 June 2007, and the fact that on 26 October 2007 Mr Tillman had provided a personal guarantee in support of the company’s working capital overdraft facility of £150,000 to HSBC Bank Plc. In the notes to the financial statements for year ended 31 December 2007 it is recorded that Mr Tillman had made an interest free loan repayable on demand. The date for that is not given, but I infer that the loan was made after 21 November 2007.
+
+Mr Browne submitted that it is implicit in Mr Abbey’s e-mail to Mr Inglis, where he attributes blame for the financial difficulties of CLG, that he considered that the investors for whom Mr Inglis was speaking had a right to receive information of that kind. So it cannot be argued that only those investors, and not the others, had a right to know that information.
+
+The submission on behalf of Mr Abbey confirms my view that his judgment on such matters is poor. It is, or should be, a serious matter for anyone to face prosecution for a breach of the Companies Act 1985 s.242. For people as prominent as Lord Coe and Sir Robin Miller it is very serious. And CLG was not just any company as far as Lord Coe was concerned. It was, with its subsidiary SCL, a company with which his own personal affairs were most closely tied up.
+
+There can be no doubt that the inability of CLG to pay its professional advisers and other debts as they fell due, and the inability or the unwillingness of its directors to file accounts when they were due, were both matters which could have put seriously in question Lord Coe’s ability properly to carry out his role for LOCOG. On this ground, too, the Defendants ought in my judgment to succeed on their public interest defence, if they need to do so.
+
+Lord Coe’s judgment in entrusting his affairs to Mr Abbey
+
+Mr Abbey has not challenged the accuracy of the statements about his past made in the Programme: see para 18 above at para (7).
+
+In my judgment, where a person assumes a role of national importance, as Lord Coe did, and it is a role which requires a clear separation between it and his private business interests, then the public has an interest in knowing to whom he has entrusted matters relating to his private business interests. The risk to the national interest, and to the work of LOCOG, arising from the situation at CLG was such that, in the present case, I have no doubt that Lord Coe’s decision to entrust matters to Mr Abbey in 2007 did call into question his own private and professional judgment.
+
+In the event, at some time after the Programme and the Article had been published, Lord Coe did succeed in resolving these issues, and there was no harm done to the national interest or to LOCOG. And I make no finding as to whether or not the Programme or the Article contributed to Lord Coe’s decision to take matters in hand as he did. But it was not apparent at the time the Article was published that he had done so, and the public interest must be judged objectively at the time of the disclosure complained of.
+
+WARNINGS TO THE PUBLIC
+
+As noted in para 73 above, the e-mail referred to in para 11 of the Article, but not quoted, was sent by Mr Abbey to Mr Inglis at 06.32. In it Mr Abbey wrote “… we can move forward getting new injection of cash to buy out weak holders”. And as Mr Abbey explained in his statement, CLG was in the process of solving its financial problems by raising further funds (see para 94 above).
+
+In the event, the new injection of cash may have come from Mr Tillman alone, so far as it appears from the papers before me. However, Mr Abbey has not explained, and there is nothing in the papers to demonstrate, whether or not what Mr Abbey was referring to in his e-mail of 21 August was a proposal to raise funds from Mr Tillman alone, or some other proposal, which did, or might have, included raising funds from investors. When funds had been raised on earlier occasions referred to above they had been raised from a number of individual investors.
+
+Mr Bennett submitted that Mr Browne was wrong to have suggested to Mr Abbey that in August or September 2007 there had been a proposal to raise funds from individual investors. He submitted that what was happening was that Mr Tillman was taking over the management of the company and injecting capital, and that Mr Tillman did not need to be warned by the ES.
+
+Mr Browne submits that what is recorded as having happened on 26 June 2007 cannot be the fundraising referred to in the e-mail of 21 August. And in his evidence Mr Patel said, in discussing the E-mails of 21 August, that he “was aware that CLG were in the process of raising additional equity, which, if successful would extend beyond the filing date of the company’s accounts”.
+
+Mr Browne submits that the fact that funds were in fact raised later from Mr Tillman casts no light on matters. After the broadcast of the Programme and the publication of the Article any plans there may have been for raising funds from any other source would have been likely to be frustrated.
+
+I can make no finding as to the identity of those from whom in August 2007 it was proposed to raise further funds for CLG. This is again a difficulty that arises from the fact that the claimant is Mr Abbey, who cannot give disclosure of documents in the possession of individuals other than himself. I prefer to reach no finding as to whether or not it was in the public interest for the Defendants to warn prospective investors of the financial state of CLG, or of the dangers of going into business with Mr Abbey.
+
+OTHER MATTERS
+
+Mr Bennett relies on the words of Lord Goff in A-G v Guardian Newspapers Ltd (No 2) [Spycatcher] [1990] 1 AC 109, 283:
+
+“… a mere allegation of iniquity is not of itself sufficient to justify disclosure in the public interest. Such an allegation will only do so if, following such investigations as are reasonably open to the recipient, and having regard to all the circumstances of the case, the allegation in question can reasonably be regarded as being a credible allegation from an apparently reliable source”.
+
+He submits that Mr Gilligan did not conduct such investigations as were required. Mr Abbey has also raised issues as to the credibility of the source, but there was never any dispute as to the authenticity of the documents, so the identity of the source does not appear to me to be relevant in the present case. Nor has Mr Abbey produced any evidence which appears to me to put an interpretation upon the E-mails which is different from the interpretation put upon them by the Defendants.
+
+As to the alleged inadequacy of the investigation, Mr Abbey gave evidence that the last sentence of the Article is not true, and that he was not contacted by the Defendants before publication. Mr Gilligan has no direct recollection, but believes that the statement in the Article is correct. In my judgment the statement in the Article is probably correct. Mr Patel gave evidence that he was informed in advance that his e-mail was going to be published. He cannot remember who told him, but it was not anyone from the newspaper. The inference I draw is that it was either Mr Abbey or someone whom Mr Gilligan had contacted in seeking to speak to Mr Abbey. In any event, Mr Patel also stated that he called Mr Abbey himself to talk about the forthcoming publication.
+
+A number of other matters were canvassed in evidence. One of these is a dinner referred to in the Programme and in the 5 September letter, but not referred to in the Article.
+
+In his witness statement Mr Abbey gave an explanation of why the initial plan for CLG to be admitted to AIM was not carried out. He said that the plans for CLG had been made before the announcement that the Olympic Games were to be held in London, and at a time when London’s bid was not expected to be successful. After the announcement, and Lord Coe’s appointment to LOCOG in October 2005, it became clear that Lord Coe would not be able to do the work he had expected to do for CLG, and had been doing up to that time. It was for that reason, said Mr Abbey, that the AIM plan was abandoned, and for that reason also that the earnings of CLG would not be as great as had been expected before the announcement. Mr Abbey stated that Lord Coe
+
+“therefore decided to hold a dinner at Brown’s Hotel in February 2006 as an informal meeting for all investors … [at which Lord] Coe explained to the investors that it would not be possible to float CLG on the AIM market until after the Olympics. He also said that those investors who wanted their investment back would have their investments repaid”.
+
+Three other witnesses gave evidence about this dinner, and what Lord Coe said, or did not say, to guests at the dinner. Mr Davis gave evidence for Mr Abbey. Mr Crawhall gave evidence for the Defendants. And a witness statement from Mr Greenstone was admitted for the Defendants, in response to which Mr Abbey made a second witness statement.
+
+There appear to me to be difficulties about Mr Abbey’s account of that dinner. And there is not before the court documents of the kind that might be expected to have been produced if investors were offered the return of their investment. Again this may be because the claimant is Mr Abbey, and not anyone to whom a duty of confidentiality might have been owed.
+
+There is evidence that monies were repaid to some investors. And in the case of two investors and shareholders CLG made non interest bearing loans which had not been repaid when they were due, as is recorded in the Chairman’s Statement for the year ended 31 December 2007. In the notes to the Financial Statements it is said that a loan of £225,000 was made to one shareholder on 21 February 2006, and a loan of £100,000 on 3 April 2006.
+
+It does not appear to be necessary for me to make findings on this point. In all the circumstances I prefer not to do so.
+
+Mr Bennett submits that para 17 of the Article contains a false statement, namely that “The extent of CLG’s problems came to light days after the Channel 4’s Dispatches documentary”. In fact the E-mails were obtained by the Programme makers before the Programme had been broadcast, as is not in dispute. It was the decision of the Programme makers or Channel 4 not to withdraw or alter the Programme.
+
+Mr Gilligan stated that “came to light” was a reference to the publication of the Article itself. As a matter of language, that seems an awkward explanation. But be that as it may, I see no significance in the point. Whether or not the E-mails came to light before or after the Programme, they were not referred to in the Programme.
+
+Further Mr Bennett submits that the Article should have been critical of Dispatches, because the theme of the Programme was that CLG was profitable, whereas the theme of the Article was that it was in financial difficulties. Again, I see nothing in this point. First, as Mr Gilligan explained, there is no contradiction. The problems of CLG arose not from a lack of income, but from the very high expenses. And secondly, what points the Defendants chose to make in the Article was a matter for them. I must make my judgment on the basis of what they did disclose, and not on some other point that they might have made, but did not make.
+
+ABUSE OF PROCESS
+
+The law
+
+Abuse of the process of the court can take many forms. The Defendants submit that this claim is an abuse of the process of the court of one of three types, (although not in this order). Their case is pleaded in the Defence para 2. Paras 2.7, 2.10 and 2.13 amount in substance to an allegation of extortion. Para 2.13 alleges that Mr Abbey deliberately inflated the value of the claim and otherwise deliberately caused the Defendants expense, harassment and commercial prejudice beyond the problems ordinarily encountered in litigation. In the alternative, the Defendants allege that it is disproportionate to litigate these stale matters in 2011 (when the claim form was issued) in order for Mr Abbey, if successful, to obtain minor and/or meaningless remedies in the form of the declaration claimed and a low award of damages. This is a reference to different types of abuse of process.
+
+First, it is an abuse of process for Mr Abbey to commit the resources of the court to an action where so little is at stake that it is not a proportionate procedure by which the merits of a claim can be investigated: Jameel v Dow Jones & Co Inc [2005] QB 946.
+
+Second and third, proceedings may be an abuse of the process of the court for the reasons stated in Broxton v McClelland and Another [1995] EMLR 485 at 497-498 where Simon Brown LJ said:
+
+“The cases appear to suggest two distinct categories of such misuse of process:
+
+(i) The achievement of a collateral advantage beyond the proper scope of the action – a classic instance was Grainger v Hill where the proceedings of which complaint was made had been designed quite improperly to secure for the claimants a ship’s register to which they had no legitimate claim whatever. The difficulty in deciding where precisely falls the boundary of such impermissible collateral advantage is addressed in Bridge LJ’s judgment in Goldsmith v Sperrings Limited at page 503 D/H.
+
+(ii) The conduct of the proceedings themselves not so as to vindicate a right but rather in a manner designed to cause the defendant problems of expense, harassment, commercial prejudice or the like beyond those ordinarily encountered in the course of properly conducted litigation.
+
+(3) Only in the most clear and obvious case will it be appropriate upon preliminary application to strike out proceedings as an abuse of process so as to prevent a plaintiff from bringing an apparently proper cause of action to trial.”
+
+In Speed Seal Products Ltd v Paddington [1985] 1 WLR 1327 the Defendants applied for permission to amend by adding a counterclaim to assert that the action was brought in bad faith for the ulterior motive of damaging the defendants' business, and not for the protection of any legitimate interests of the plaintiffs. Fox LJ, with whom the other members of the court agreed, stated the law as follows at p1334ff:
+
+“… the defendants advance a further argument. They say that there is a tort of abuse of process of the court established by Grainger v. Hill (1838) 4 Bing.N.C. 212. In that case the plaintiff had borrowed £80 from the defendants on the mortgage of a ship which he owned. The debt was repayable on 28 September 1837. The defendants, being apparently apprehensive as to their security, decided in November 1836 (i.e. before the debt was repayable) to possess themselves of the ship's register without which the plaintiff could not go to sea. They therefore called on the plaintiff to pay the debt (which was not due) and threatened to arrest him if he failed to pay. The defendants then made an affidavit of debt and sued out a writ of capias indorsed for bail in the sum of some £95, and sent in two sheriff's officers with the writ to the plaintiff, who was ill in bed and attended by a surgeon. One of the officers then told the plaintiff that they had not come to take him, but to get the ship's register; but that if he failed to deliver the register, either they must take him or leave one of the officers with him. The plaintiff, being unable to procure bail and being alarmed, gave up the register. The plaintiff claimed damages for the loss of voyages which he could not undertake because of the loss of the register, and also the recovery of the register. The plaintiff succeeded at the trial, and there was an appeal to the Exchequer Chamber, which dismissed it. Tindal C.J. said, at p. 221:
+
+“The second ground urged for a nonsuit is, that there was no proof of the suit commenced by the defendants having been terminated. But the answer to this, and to the objection urged in arrest of judgment, namely, the omission to allege want of reasonable and probable cause for the defendants' proceeding, is the same: that this is an action for abusing the process of the law, by applying it to extort property from the plaintiff, and not an action for malicious arrest or malicious prosecution, in order to support which action the termination of the previous proceeding must be proved.”
+
+… the abuse, as I understand it, was that the purpose of the original proceeding was not the recovery of the debt (which was not due) but the extortion of the register….
+
+In Goldsmith v. Sperrings Ltd. [1977] 1 W.L.R. 478 , 489, Lord Denning M.R., in a dissenting judgment, said:
+
+“What may make it” — the legal process — “wrongful is the purpose for which it is used. If it is done in order to exert pressure so as to achieve an end which is improper in itself, then it is a wrong known to the law. This appears distinctly from the case which founded this tort. It is Grainger v. Hill, 4 Bing. N.C. 212.”
+
+And Scarman L.J. said, at p. 498:
+
+“In the instant proceedings the defendants have to show that the plaintiff has an ulterior motive, seeks a collateral advantage for himself beyond what the law offers, is reaching out ‘to effect an object not within the scope of the process’: Grainger v. Hill.”
+
+The Defendants submit that there is here a fourth type of abuse in that Mr Abbey’s claim is in substance a claim for damage to reputation, but on facts such that Mr Abbey would not have wished to bring a libel action, because the disparaging information about him is indisputably true: McKennit v Ash [2008] QB 73 at para [79]. I express no view as to whether this is an example of the second type, or a free standing type of abuse.
+
+This is not a comprehensive list of types of abuse of civil proceedings.
+
+The cases illustrate that, at an interim hearing, it is often possible to establish Jameel abuse, but rarely possible for a defendant to establish abuse of process of the two types mentioned in Broxton. And once the trial has ended, it may be questioned what purpose would be served by the judge making a finding of abuse of process of any of these types.
+
+Abuse of civil process has also been recognised as a tort: Clerk & Lindsell on Torts 19th ed para 16-45ff. The editors state that a legal process, not itself devoid of foundation, may be maliciously employed for some collateral object of extortion or oppression. They cite Grainger v Hill (1838) 4 Bing NC 212 and Speed Seal Products Ltd v Paddington [1985] 1 WLR 1327. But while abuse of process is raised in the Defence in this action, there is no counterclaim.
+
+I have now tried the action and decided to dismiss the claim on its merits. So it may be asked in the present case what more the defence of abuse of process can add. In Fairclough Homes Ltd v Summers [2012] 1 WLR 2004, [2012] UKSC 26 at para [33] the Supreme Court reached the conclusion that the court does have jurisdiction to strike out a statement of case under CPR 3.4(2) for abuse of process even after the trial of an action in circumstances where the court has been able to make a proper assessment of both liability and quantum. However, the court further concluded that, as a matter of principle, it should only do so in very exceptional circumstances.
+
+In Fairclough the court was not concerned with Jameel abuse (that case was not cited), or with the forms of abuse considered in Broxton. In Fairclough the court was concerned with a quite different type of abuse, namely by the claims being advanced on the basis of dishonest evidence (as to an alleged whiplash injury). The claimant’s object was to frustrate a fair trial. While the Defendants make criticisms of Mr Abbey’s evidence, that is not a type of abuse they allege in the present case.
+
+The type of abuse of civil process most commonly alleged in this court in the context of defamation is described in Jameel, where Lord Phillips of Worth Matravers MR said:
+
+"54 An abuse of process is of concern not merely to the parties but to the court. It is no longer the role of the court simply to provide a level playing-field and to referee whatever game the parties choose to play upon it. The court is concerned to ensure that judicial and court resources are appropriately and proportionately used in accordance with the requirements of justice. …
+
+55. … Section 6 [of the Human Rights Act] requires a court, as a public authority, to administer the law in a manner which is compatible with Convention rights, insofar as it is possible to do so. Keeping a proper balance between the Article 10 right of freedom of expression and the protection of individual reputation must, so it seems to us, require the court to bring to a stop as an abuse of process defamation proceedings that are not serving the legitimate purpose of protecting the Claimant's reputation, which includes compensating the Claimant only if that reputation has been unlawfully damaged…
+
+70. … It would be an abuse of process to continue to commit the resources of the English court, including substantial judge and possibly jury time, to an action where so little is now seen to be at stake. Normally where a small claim is brought, it will be dealt with by a proportionate small claims procedure. Such a course is not available in an action for defamation where, although the claim is small, the issues are complex and subject to special procedure under the CPR.
+
+74. Where a defamatory statement has received insignificant publication in this jurisdiction, but there is a threat or a real risk of wider publication, there may well be justification for pursuing proceedings in order to obtain an injunction against republication of the libel. We are not persuaded that such justification exists in the present case.
+
+75. There seems no likelihood that Dow Jones will repeat their article in the form in which it was originally published. It has been removed from the web site and from the archive…
+
+76. In these circumstances, if this litigation were to proceed and to culminate in judgment for the Claimant, it seems to us unlikely that the court would be able, or prepared, to formulate and impose an injunction against repetition of the defamation in terms that would be of value to the Claimant. We do not believe that a desire for this remedy has been what this action has been about, or that the possibility of obtaining an injunction justifies permitting this action to proceed."
+
+In Lait v Evening Standard Limited [2011] EWCA Civ 859 Laws LJ said :
+
+"41… Jameel was also applied by this court in Khader v Aziz [2010] EWCA Civ 716 where it was held (paragraph 32) that the appellant 'would at best recover minimal damages at huge expense to the parties and of court time'.
+
+42. The principle identified in Jameel consists in the need to put a stop to defamation proceedings that do not serve the legitimate purpose of protecting the Claimant's reputation. Such proceedings are an abuse of the process. The focus in the cases has been on the value of the claim to the Claimant; but the principle is not, in my judgment, to be categorised merely as a variety of the de minimis rule tailored for defamation actions. Its engine is not only the overriding objective of the Civil Procedure Rules but also in Lord Phillips' words, 'a need to keep a proper balance…reputation between the Article 10 right of freedom of expression and the protection of individual reputation'….".
+
+This form of abuse is not confined to defamation claims. In Sullivan v Bristol Film Studios Ltd [2012]  EMLR 27 on an interim application the judge had struck out a claim for breach of copyright and wrongs applying the Jameel jurisdiction. Although the claimant claimed £800,000 in damages, the judge considered the claim could only be for £50. In the Court of Appeal Lewison LJ said this, with the agreement of the other members of the court:
+
+“29. Section 15 (2) of the County Courts Act 1994 precludes the county court from hearing actions for libel or slander. Thus to some extent defamation actions are a special case. What is important however is that Lord Phillips recognised that a small claim should normally be dealt with by a proportionate procedure. The mere fact that a claim is small should not automatically result in the court refusing to hear it at all. If I am entitled to recover a debt of £50 I should, in principle, have access to justice to enable me to recover it if my debtor does not pay. It would be an affront to justice if my claim were simply struck out. The real question, to my mind, is whether in any particular case there is a proportionate procedure by which the merits of a claim can be investigated. In my judgment it is only if there is no proportionate procedure by which a claim can be adjudicated that it would be right to strike it out as an abuse of process”.
+
+Etherton LJ noted at para [44] that:
+
+“As that last observation [of Lord Phillips in Jameel at par [70]] indicates, the Court must, in accordance with the Overriding Objective, consider at the earliest opportunity the most efficient, cost effective, proportionate and fair way of resolving the dispute. In the present case, had the Court at the outset been aware of the true value of Mr Soloman's claim, consideration could and should have been given to a transfer to the Patents County Court or to an appropriate county court for (re-) allocation on the small claims track. Unfortunately, up until and at the hearing before the Deputy Judge, Mr Soloman persisted in a grossly inflated value of his claims which ruled out those alternative routes. The consequence was that, by the time of the hearing before the Deputy Judge, considerable costs had already been incurred in the proceedings in the High Court and that fact, together with the increasingly apparent complexity and likely length of the proceedings, amply supported the Deputy Judge's exercise of discretion”.
+
+Mr Browne submits that the ‘chill factor’ and oppression arising from impecunious claimants using CFAs to bring proceedings against the media was recognised by the House of Lords in Campbell v MGN (Costs) [2005] 1 WLR 3394 per Lord Hoffmann at [29]. He cited the words of Eady J in Turcu v News Group Newspapers Ltd [2005] EWHC 799 (QB):
+
+“6. … [the claimant] is able to pursue his claim purely because [his lawyer] has been prepared to act on his behalf on the basis of a conditional fee agreement. This means, of course, that significant costs can be run up for the defendant without any prospect of recovery if they are successful, since one of the matters on which [his lawyer] does apparently have instructions is that his client is without funds. On the other hand, if the defendant is unsuccessful it may be ordered to pay, quite apart from any damages, the costs of the claimant's solicitors including a substantial mark-up in respect of a success fee. The defendant's position is thus wholly unenviable.
+
+7.  Faced with these circumstances, there must be a significant temptation for media defendants to pay up something, to be rid of litigation for purely commercial reasons, and without regard to the true merits of any pleaded defence. This is the so-called "chilling effect" or "ransom factor" inherent in the conditional fee system, which was discussed by the Court of Appeal in King v Telegraph Group Ltd… This is a situation which could not have arisen in the past and is very much a modern development.”
+
+He refers also to Gatley at 37.26, where the difficulties which CFAs create for defendants are discussed, and Redwing Construction v Wishart [2011] EWHC 19 (TCC) where Akenhead J at [2] said:
+
+“2. It is now not infrequently the case that claimants, seeking the enforcement, usually summarily, of adjudication decisions, are securing CFAs and, less commonly, ATE Insurance. It is difficult to avoid an inference, sometimes at least, that this is being done so as to impose greater economic pressure on the defendant to settle early, even in circumstances in which the defendant might have a reasonably arguable defence to the summary enforcement.”
+
+Mr Browne elaborated the point on oppression, stating that it was based primarily on the pre-action conduct of Mr Abbey.
+
+Seeking damages for alleged criminal offences
+
+The first complaint the Defendants make about Mr Abbey’s conduct of the claim is (a) that he demanded substantial damages in these private law civil proceedings when it is elementary there is no means for recovering damages under the statutes cited (Regulation of Investigatory Powers Act (“RIPA”) and the Computer Misuse Act (“CMA”)), and (b) that he sought such damages rather than going to the police with such complaints (which would have been the appropriate course, if he believed there was a case to answer). Mr Browne notes that the allegation of hacking was withdrawn by email of 22 August 2012, although persisted in from the first letter before action, which was written on 5 August 2011. He submits that it should never have been made.
+
+In the letter of 5 August 2011 Mr Abbey asserts (without any basis in logic or fact) that
+
+“The article demonstrates that an employee or agent of the Evening Standard gained unlawful access to our client’s e-mail account or authorised another to do so and took possession of at least six E-mails”.
+
+Accepting, as I do, that the E-mails were originally obtained without the consent of Mr Abbey, and probably by someone who obtained them from his computer or office, then what the article demonstrated was that someone had gained unlawful access to his computer or his E-mails. It did not demonstrate that that person had any relationship to these Defendants, other than as informant. This is effectively conceded in the Reply, where it is pleaded that
+
+“The only way that the emails could have been obtained (as must have been obvious to the Defendant) was by illicit and unlawful means. The Defendants are in receipt of improperly obtained E-mails”
+
+The letter goes on to state that “the unauthorised interception of communications” is an offence under RIPA and CMA, and states that if ANL do not state who provided these E-mails then Mr Abbey would ask the police to investigate. The letter also alleges an offence under the Data Protection Act 1998 s.55 and under the Copyright Designs and Patents Act 1998, none of which have been pursued. The letter then states that Mr Abbey has “effectively lost his business and was forced into bankruptcy” and that “these are damages which he will be seeking against you in due course”. Neither this allegation, nor this claim for special damages, have been pursued.
+
+In his response of 18 August 2011 the Managing Editor of ES stated that, having spoken to the journalist, he was satisfied that no employee or agent of ES gained unlawful access to Mr Abbey’s e-mail account or authorised another to do so. He said that he could not understand why this allegation was being raised four years after the events in question, unless it was in relation to the phone hacking scandal relating to the News of the World which was then a major issue.
+
+On 22 August 2011 solicitors for Mr Abbey asserted, again without any basis in fact, that the ES were protecting a source who had committed an offence under RIPA or CMA and added “Our client reserves his right to seek source disclosure in due course, or to report this matter to the police”. He has in fact neither sought source disclosure, nor, so far as I have been told, reported the matter to the police. Nor is there any basis for saying that the Defendants have been protecting a source who committed an offence. As recorded above, the Defendant’s source was Mr Howker, and there is no evidence that he committed an offence under RIPA or CMA, or at all.
+
+On 16 September 2011 solicitors for Mr Abbey wrote:
+
+“Given your refusal to accept liability in this matter to date we will be sending papers to counsel to draft Particulars of Claim with a view to issuing proceedings as soon as possible. If you have any proposals to make, now is the time to make them. We can confirm that we are now acting for our client on a Conditional Fee Agreement, which provides for a success fee”.
+
+On 10 October 2011 solicitors for Mr Abbey wrote that counsel was also acting on a conditional fee basis which provided for a success fee. On 9 November 2011 they repeated this information by letter, and added that Mr Abbey had taken out After the Event insurance, and they gave some details of the terms of the cover.
+
+On 10 November 2011, when the claim form and Particulars of Claim were served, they alleged a criminal offence, but included no claim for special damages. The allegation was:
+
+“[Mr Gilligan] obtained the E-mails either by: 7.4.1 improperly obtaining the relevant passwords to [Mr Abbey]’s email account and accessing that account via the internet; or 7.4.2 receiving them from someone who had improperly obtained copies of the emails, either in the manner set out immediately above or by other means of securing unauthorised access to [Mr Abbey]’s email account”.
+
+The only damage alleged was damages for “substantial distress and embarrassment as a result of the breaches of confidences” (which were the obtaining and disclosure of the E-mails). The claim form stated, under “Value” the words “Unspecified amount. The Claimant limits his claim to £100,000”. The Court fee had originally been written as £650, but had been amended to a figure written in illegible manuscript, but which exceeds £1000. The Civil Procedure Fees Order 2008 (White Book 2012 Vol 2 para 10-7) provides that £685 is the fee payable to start proceedings in the High Court where the claim “exceeds £50,000 but does not exceed £100,00”. The 2008 Order provides that fees in excess of £1000, namely £1,080, are payable where the claim exceeds £150,000 but does not exceed 200,000”.
+
+On 21 December 2011 Mr Abbey continued to assert through his solicitors that he considered that the Defendants had behaved criminally, and explained:
+
+“The reason our client does not raise these a criminal complaint [sic] in his Particulars of Claim is because this is a complaint more properly made to the police”.
+
+The issue of the proceedings by Mr Abbey was reported in the press and on the internet. For example, on 20 March 2012 the Press Gazette published an article headed “Andrew Gilligan and Associated Newspapers are being sued for e-mail hacking”. The article referred to a report to the same effect in December 2011, and included a quote from Mr Abbey’s solicitors that the claim was still on going.
+
+In his Reply Mr Abbey states that there is no basis for the allegation of extortion, and he relies on it in aggravation of damage.
+
+What Mr Abbey has done in this case by threatening to report the Defendants to the police is not exactly comparable to what was said to be abuse in the cases cited above. These threats were not themselves civil proceedings. And there could be no doubt that, if one person has reasonable grounds to suspect that another has committed a criminal offence, there is nothing wrong in the first person telling the second that he will report the matter to the police.
+
+However, I observe that pressurising or intimidating an opposing party in litigation may be a contempt of court: see A-G v Martin The Times, April 12, 1986 as described in Arlidge Eady & Smith on Contempt 4th ed at paras 11-290 to 11-292 (baseless threats by the solicitor for the defendant to report a barrister conducting a private prosecution to his disciplinary body). I have not been addressed on this case, or on contempt of court, and make no findings about it. But the analogy seems to me to support the submission that making baseless threats to report a defendant to the police in order to induce the defendant to settle a case otherwise than on the basis of its merits can be an abuse of civil process.
+
+What is troubling here is that Mr Abbey repeatedly alleged that the Defendants had committed criminal offences which are serious, and which were of the kind which had led to the demise of the News of the World (followed by reports of payments of very large sums of money to persons whose phones had been hacked), but in circumstances where there was no evidence to support those allegations. The fact he never did report the matter to the police supports the inference I draw that he made the threats for the purpose of obtaining a settlement on terms which he did not expect to achieve on the merits of his claim for breach of confidence.
+
+I find that this was an attempt at extortion, and that it was an abuse of the process of the court to attempt to obtain settlement of this claim by that means.
+
+Exaggerating the worth of the claim
+
+The second complaint the Defendants make about Mr Abbey’s conduct of the claim is that he coupled this allegation with an exaggeration of the worth of his complaint by asserting that he had lost his business and been forced into bankruptcy as a result of the publication of the article and demanded damages on that account, albeit he has never been able to plead any damage. Whilst he sought up to £100,000 in his claim form, he said in a letter dated 15 October 2012 that he would settle for a £3,000 payment to charity. Alternatively, he suggested that the Defendants “declare that they have wrongly invaded [his] privacy.” In that event it appeared that no damages would be payable. Mr Browne submits that it is hard to see this as anything other than a device to trigger the success provisions of the  CFA.
+
+In cross-examination Mr Abbey suggested no other purpose that such a declaration might serve. He stated that the letters written on his behalf by solicitors differed in a number of important respects from the instructions that he had given them. He said he had told them he was not claiming for money. He said that he followed the advice of his solicitors in making a claim for money. He said he had no knowledge of the amendment made to the claim form (that is to the amount of the fee paid) to enable him to claim unlimited damages instead of damages limited to £100,000.
+
+Mr Bennett submits that no inference should be drawn as to whether or not the claim was an abuse of process from the terms on which Mr Abbey was willing to settle the claim on 15 October 2012.
+
+In my judgment I should put on one side the settlement discussions conducted openly in October 2012, and look at the position as it was when the claim was advanced in 2011. In correspondence the claim certainly was exaggerated, in that there was an allegation of loss of business which was never substantiated and was abandoned by the Particulars of Claim (which contained no reference to it). The putting forward of an exaggerated claim for so short a period in these circumstances does not in my judgment amount to an abuse of process. Some room must be allowed for claimants to decide upon what claim they can properly advance, and the court must not too readily infer that the abandonment of a claim supports an inference of abuse of process. That would tend to discourage the abandonment of claims properly made, but then found to be less strong than had at first been supposed.
+
+The reference in the claim form to £100,000, and the amendment of the court fee, take the matter no further. There is no allegation of fact in the claim form or in the Particulars of Claim that could on any view support an award of damages in a figure approaching £50,000. I do not understand why the court fee was amended.
+
+Using the CFA as lever in negotiations
+
+The third complaint the Defendants make about Mr Abbey’s conduct of the claim is that he used as a lever for settlement negotiations the threat that unless the Defendants made settlement offers then (a) proceedings would be issued and publicised to the world at large which would include the allegations of criminality (see the warning to Mr Gilligan contained in his solicitor’s email of 9 November 2011) and (b) that disproportionate costs would be incurred because Mr Abbey, a businessman subject to an IVA who had a “chequered business history”, was using a CFA and had ATE insurance (albeit now limited to £125,000, an amount likely to be significantly less than the costs of the claim).
+
+Point (a) seems to me to be an aspect of the point that I have already accepted to be an abuse of process (para 159 above), and I have had it mind in arriving at that conclusion.
+
+Point (b) is in effect another allegation of extortion.
+
+In cross-examination Mr Abbey confirmed that he had nothing to lose if he lost the case. The base costs on his side were well in excess of £100,000 by the time the trial started. Asked whether, if it was his money at risk, he would have thought it worthwhile to pursue this case, he said he could not comment. Asked why he had not brought the action in 2007, he said had been advised he had no claim. At the time Schillings wrote a letter on his behalf to the Programme makers, and the advice relating to this matter, to which he was referring, was advice given over the telephone, he said, and they made no charge for the advice. He said Schillings had told him that he would not be able to find out who had taken the E-mails because of a privilege of journalists. He said he did not ask Schillings about a claim for damages.
+
+On the point on which Mr Abbey states that Schillings advised him, it appears that nothing has changed. As already noted, Mr Abbey has not in these proceedings sought to find out who had taken the E-mails. When Mr Gilligan made clear in his cross-examination that he would not reveal information which might identify Mr Howker’s informant, Mr Bennett did not press him to do so.
+
+When a litigant gives answers distancing himself from his own lawyers, and attributing to them responsibility for the way a case is conducted, the court is put in a difficult position. The litigant can, of course, remove this difficulty by calling the lawyer to give evidence. Mr Abbey waived privilege on the advice he said he had been given by Schillings. But he did not waive privilege on the advice he had been given by his present solicitors. And he did not call any of his solicitors to give evidence.
+
+The fact that a litigant gives evidence that is uncontradicted does not mean that the court is bound to accept that evidence. In the present case there would be a risk of injustice to the lawyers representing him in this litigation if I were to say that I accepted Mr Abbey’s evidence about what passed between himself and his lawyers. The lawyers cannot choose to give evidence. If they are to give evidence they have to be called by Mr Abbey, and it is Mr Abbey who alone has the right to waive privilege in respect of what passed between him and them.
+
+Objectively, it does appear that the only people who stand to gain from this litigation to any material extent are the lawyers representing Mr Abbey in this litigation. They stand to gain payment for the work they have done, plus an uplift, if he is successful. Of course, they also stand to find themselves unpaid for their work if he is not successful.
+
+However, in my judgment the fact that these lawyers stand to gain in this way is not a sufficient basis for me to find (without having heard them) that they wrote letters, and pleaded claims, contrary to instructions from Mr Abbey, and gave him the advice that he claims they gave him.
+
+I prefer to make no finding as to what passed between Mr Abbey and his present solicitors.
+
+The fact remains that this is an example of a claim funded by a CFA which, as a result, put the Defendants in a position where there was a strong economic incentive to them to settle the claim, even if they took the view, as they appear to have done, that it was wholly without merit.
+
+There is no doubt that in correspondence the solicitors for Mr Abbey invited them to settle for economic reasons on terms more favourable than the merits of the claim justified. However, so long as the existing legal regime for CFAs is in place, it cannot be said that claimants or their lawyers who seek the uplift on fees, or any other benefit that the regime offers to claimants or to their lawyers, are seeking a collateral advantage of the kind referred to in the authorities on abuse cited above. They are simply doing what the current regime on CFAs entitles them to do. So I make no finding of abuse on this basis.
+
+Jameel
+
+By the time that the Particulars of Claim were served the claim was simply for damages for distress and embarrassment, delivery up of the E-mails (whether in hard copy or electronic form) and a declaration that the acts complained of constituted a breach of the claimant’s confidence and/or misuse of his private information. As to the declaration, I take it to be intended to mean a breach by these Defendants. There was no claim for an injunction.
+
+Mr Bennett sets out in his skeleton argument a helpful review of the cases on damages awarded to individual claimants for breaches of personal confidences and for misuse of private information. He also cited cases on damages awarded to claimants in respect of other claims which proceeded solely for the purpose of vindicating the claimant’s rights, including Ashley v Chief Constable of Sussex Police [2008] 1 AC 292 (concerning the death of a man shot by a police officer) and Chester v Afshar [2005] 1 AC 134 (concerning a surgeon’s duty to warn a patient).
+
+The cases on damages for interference with Art 8 rights include Halford v. The United Kingdom - 20605/92 [1997] ECHR 32, where the ECtHR awarded in respect of pecuniary and non-pecuniary damage, £10,600. In that case, at a time when the applicant police officer was suing her own employer, her telephone calls were intercepted on behalf of her employer. These facts are the nearest to the facts alleged present case, although not very near (the information sought included that covered by legal professional privilege). The information relating to sexual activities which was the subject of Mosley v News Group Newspapers Ltd [2008] EMLR 20 is very different, as is well known. Mr Bennett also cited the observations on the need for an effective remedy that I made in Spelman v Express Newspapers Ltd [2012] EWHC 355 (QB).
+
+All the cases cited by Mr Bennett relate to claims brought by individuals to vindicate what were plainly personal rights. The claim in the present case was on any view in respect of the information relating to the affairs of a company. It is artificial for me to have to consider what damages I might have awarded if the claim had succeeded as a claim for misuse of personal confidential information. That would depend upon the basis upon which it would have succeeded (contrary to my finding that it fails). But given the impersonal nature of the information, and assuming that Mr Abbey could claim substantial damages at all, it does not seem to me that it could ever have been realistic to expect an award of damages above £10,000. I express no view as to what the proper award might have been, if I had decided the issues on liability differently.
+
+Jameel abuse is a type of abuse of process upon which the courts have struck out cases before trial on a number of occasions. In the present case the Defendants did not apply to strike out on this basis. As things stand now, in my judgment it is plain that Mr Abbey never did have a realistic prospect of obtaining substantial damages for breach of any duty of confidentiality owed to him, or for misuse of any private information of his. Nor did he ever have a prospect of obtaining a declaration such as he seeks. It would serve no useful purpose.  Accordingly, in my judgment the claim was an abuse of process for the reasons given in Jameel. The costs of the case are out of all reasonable proportion to the benefit that could accrue to Mr Abbey were he to have succeeded.
+
+If the claim had been brought by a claimant who might have had a prospect of obtaining substantial damages, it is possible that even after it had been started there might have been disclosure of documents or information that might have made the claim stronger than it appeared at the time. So it might not have been a case of Jameel abuse if brought by another claimant.
+
+There is nothing I need add at this point on the Defendants’ submission that this is in substance a claim for injury to reputation, which can be advanced, if at all, only by a defamation action.  Although damage to reputation was advanced in correspondence, it was not pursued in the Particulars of Claim.
+
+If I had otherwise been minded to give judgment in favour of Mr Abbey, I would have had to decide whether this was one of those rare cases where justice required that the action be dismissed as an abuse of process, even after the trial. As it is, I do not have to do that, but record my finding on the question of abuse of process in case it should be relevant in the future.
+
+CONCLUSION
+
+For these reasons this claim is dismissed. Mr Abbey could not have any claim for breach of confidence in respect of information relating to his principal, or none that could give rise to any remedy of value to him. There is no case that the Defendants misused any information in respect of which he had reasonable expectation of privacy. If it be necessary to decide the point, I would decide that the publication complained of was in the public interest. And I find that the claim is an abuse of the process of the court.
+
+I repeat the observation in para 16 above that nothing in this judgment should be taken as a finding or observation adverse to Lord Coe. He is not a party to the action and has not been represented in court.

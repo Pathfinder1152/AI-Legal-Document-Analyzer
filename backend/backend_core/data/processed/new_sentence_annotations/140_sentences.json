@@ -1,0 +1,587 @@
+[
+  {
+    "sentence": "On 20th December 2006 the wife brought proceedings in the Family Division of the High Court for, amongst other things, leave to issue an application for substantive financial relief under Part III of the Matrimonial and Family Proceedings Act 1984 (\u201cthe Part III proceedings\u201d) and financial orders for the children of the family pursuant to Schedule 1 of the Children Act 1989 (\u201cthe Sch I proceedings\u201d).",
+    "legal_references": [
+      {
+        "text": "Part III of the Matrimonial and Family Proceedings Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Schedule 1 of the Children Act 1989",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Sch I",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Children Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "In one he granted leave for an application to be made under the 1984 Act and a worldwide freezing order in respect of the husband\u2019s assets, and ordered the husband to inform the wife\u2019s solicitors in writing of all his assets exceeding \u00a35,000 in value.",
+    "legal_references": [
+      {
+        "text": "the 1984 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He refers to his rights under Article 8 of the European Convention on Human Rights (respect for private life), and to the cases interpreting that article.",
+    "legal_references": [
+      {
+        "text": "Article 8 of the European Convention on Human Rights",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "They admit they knew it was password protected and that no divorce, ancillary relief or Children Act proceedings were in existence in this jurisdiction at the time.",
+    "legal_references": [
+      {
+        "text": "Children Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Children Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "The Particulars of Claim then go on to make a claim that the Defendants have contravened, and threaten to contravene, the provisions of Data Protection Act 1998 (\u201cthe 1998 Act\u201d).",
+    "legal_references": [
+      {
+        "text": "The Particulars of Claim",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 1998 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "In his skeleton argument before me Mr Sherborne goes further, arguing that there has been already a breach of Section 55 of the 1998 Act (the section which provides for criminal penalties) and  of the Computer Misuse Act 1990 (\u201cthe 1990 Act\u201d) Section 1, the terms of which are set out below.",
+    "legal_references": [
+      {
+        "text": "Section 55 of the 1998 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 1990 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "In response to this claim the Defendants rely on Section 35 of the 1998 Act (disclosures required by law or made in connection with legal proceedings etc) and the exemption under Section 36 for data processed by an individual only for the purpose of that individual\u2019s personal family or household affairs.",
+    "legal_references": [
+      {
+        "text": "Section 35 of the 1998 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Section 36",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Sherborne took me to some of the correspondence exchanged before the application made to Eady J.  On 3rd November 2006 solicitors for the husband (who, I am told, were already in correspondence with the wife\u2019s solicitors about other matters) wrote to them expressing his concern about the removal of the laptop and stating that an offence may have been committed under the 1990 Act.",
+    "legal_references": [
+      {
+        "text": "the 1990 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The husband\u2019s solicitors wrote again on 10th November complaining of what they alleged was illegal action (referring to the 1998 Act) and stated that: \u201cWe are prepared to retain the copy hard drive once returned (and any other copies printouts or reports destroyed) at these offices on behalf of our client.\u201d",
+    "legal_references": [
+      {
+        "text": "the 1998 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "These were Family Law Act and residence applications which were heard by District Judge Walker and District Judge Black on 9th November and 1st December and by Deputy District Judge Gill on 8th December.",
+    "legal_references": [
+      {
+        "text": "Family Law",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As already noted, on 20th December 2006 she made her application for leave under Part III and her Schedule 1 application for financial orders.",
+    "legal_references": [
+      {
+        "text": "Schedule 1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As already noted, on 11th January 2006, the day before the service of the Defence, the wife applied without notice to Munby J and obtained a freezing order, and leave under part III and Schedule 1 of the Childrens Act.",
+    "legal_references": [
+      {
+        "text": "part III",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Schedule 1 of the Childrens Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Last Thursday 18th January 2007, solicitors for the husband acknowledged that they had received what they said were incomplete papers related to the Freezing Order at approximately 3pm on the previous Friday 12th January.",
+    "legal_references": [
+      {
+        "text": "the Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "They repeated requests which they said they had made previously by letters on 17th January that the husband have an extension of time to provide information directed by Munby J to be given.  They stated that they had now issued the husband\u2019s application to set aside the Freezing Order and enclosed applications in relation to that.",
+    "legal_references": [
+      {
+        "text": "the Freezing Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "At page 246 of the report Waite J summarised the legal background and procedures for discovery in the Family Division, making reference to the Rules of the Supreme Court which then governed civil proceedings in the High Court.",
+    "legal_references": [
+      {
+        "text": "the Rules of the Supreme Court",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He stated that they differ a little from that in other Divisions, in that the principal applicable rules were the Matrimonial Causes Rules 1977, rule 77(4), and that it had by then become standard practice to proceed to discovery by means of questionnaires.",
+    "legal_references": [
+      {
+        "text": "the Matrimonial Causes Rules 1977",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the offence of obtaining unauthorised access to personal data by deception (see now s.55 of the 1998 Act) was first introduced into the Data Protection Act 1984 by the Criminal Justice and Public Order Act 1994, s161.",
+    "legal_references": [
+      {
+        "text": "s.55 of the 1998 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Data Protection Act 1984",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Criminal Justice and Public Order Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Data Protection Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "Niemietz v Germany (1992) 16 EHRR 97 had only recently been decided.",
+    "legal_references": [
+      {
+        "text": "16 EHRR 97",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "Halford v UK (1997) 24 EHRR 523 had not yet been decided, and there have been a host of English and Strasbourg cases, and new English legislation, since then on searches and covert surveillance and evidence gathering.",
+    "legal_references": [
+      {
+        "text": "24 EHRR 523",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "Some six months later Wilson J (as he then was) addressed these issues judicially in T v T (Interception of Documents) [1994] 2 FLR 1083.  In those proceedings, as summarised in the head note, the wife had engaged in a number of activities, including opening and taking letters addressed to the husband and breaking into his office, with the intention of gathering documentation to enable her to ascertain the husband\u2019s true financial position.  In retaliation, the husband engaged in similar activities.",
+    "legal_references": [
+      {
+        "text": "T v T",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The Copyright Designs and Patents Act 1988 section 45(1) provides: \u201ccopyright is not infringed by anything done for the purposes of parliamentary or judicial proceedings\u201d.",
+    "legal_references": [
+      {
+        "text": "The Copyright Designs and Patents Act 1988",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The judge did not decide what the true effect of section 45 was.  He said: \u201cI regard it as sufficiently well arguable that it is not limited to copies made after the issue of the appropriate originating process, and accordingly that whether a copy made before that moment is made for the purposes of proceedings which are in fact commenced thereafter is to be determined by an objective assessment, which no doubt would have regard to the evidence of the copier but would not be limited to that\u201d.",
+    "legal_references": [
+      {
+        "text": "section 45",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As I understand it, that was the view taken by Lloyd J in A v B although he declined to exercise his discretion to order delivery up in that case.",
+    "legal_references": [
+      {
+        "text": "A v B",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Most of them relate to the recent developments in the law relating to the protection of personal information following the coming into force of the Human Rights Act 1998 and the consequent need for the court to have regard to Article 8.",
+    "legal_references": [
+      {
+        "text": "the Human Rights Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Article 8",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Human Rights Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Sherborne also cited to me a number of authorities from Francome v. Mirror Group Newspapers [1984] 1WLR 892 onwards relating to the court\u2019s jurisdiction to restrain the use of confidential material obtained unlawfully or surreptitiously.",
+    "legal_references": [
+      {
+        "text": "1WLR 892",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "One purpose of the exercise, she says, would be to ascertain whether any documents have been deleted and if so they can be recovered (this is the only purpose raised in the Position Statement).",
+    "legal_references": [
+      {
+        "text": "the Position Statement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Sherborne points out that there is provision (now under CPR Part 25.1 (h)) for the court to make a seizure order, formerly known as an Anton Piller order.",
+    "legal_references": [
+      {
+        "text": "CPR Part 25.1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is illuminating to look at the form of search order set out in the practice direction to CPR Part 25.",
+    "legal_references": [
+      {
+        "text": "CPR Part 25",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Without them, a Court could not make a search order consistently with Art 8.",
+    "legal_references": [
+      {
+        "text": "Art 8",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "An order did not have to be a search order, it could have been an order under CPR Part 25.1(1)(c)(i) for the preservation of the laptop.",
+    "legal_references": [
+      {
+        "text": "CPR Part 25.1(1)(c)(i)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "And in A v B the search was complete in the sense that the contents of the document had been read, although unlike the Family Division cases, there was an application for delivery up at a time when, so I understand, further proceedings in the Family Division were contemplated.",
+    "legal_references": [
+      {
+        "text": "A v B",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The similarity between her position as it is, and as it would have been if she had been granted a search order, is that it is one of the provisions listed in Schedule D to the standard form of Search Order that the applicant\u2019s solicitors undertake to retain in their own safe keeping all items obtained as a result of the order until the court directs otherwise.",
+    "legal_references": [
+      {
+        "text": "Schedule D",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Search Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "So far I have been considering the case on the footing that the husband has a sufficiently arguable case based on breach of his rights in privacy and confidence and under the 1998 Act to entitle him to a delivery up order, subject to counterveiling considerations raised by the wife.",
+    "legal_references": [
+      {
+        "text": "the 1998",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 35 of the 1998 Act, which the wife relies on, reads as follows: \u201c(1) Personal data are exempt from the non-disclosure provisions where the disclosure is required by or under any enactment, by any rule of law or by the order of a court.",
+    "legal_references": [
+      {
+        "text": "Section 35",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The wording of the section clearly echoes Article 8(2) of the Convention.",
+    "legal_references": [
+      {
+        "text": "Article 8(2) of",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The section also bears some similarity to Section 45 (1) of the CDPA 1988, considered by Lloyd J in A v B.  Section 35 is pleaded as a defence to the civil claim which is advanced in the Particulars of Claim.",
+    "legal_references": [
+      {
+        "text": "Section 45 (1)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the CDPA 1988",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "A v B.",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Section 35",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Particulars of Claim",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "There is no plea in the Particulars of Claim of a breach of the criminal provisions of the 1998 Act, namely Section 55.",
+    "legal_references": [
+      {
+        "text": "the Particulars of Claim",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 1998",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Section 55",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "|\u00a0\u00a0\u00a0\u00a0(3) A person who contravenes subsection (1) is guilty of an offence.\u201d\u00a0|",
+    "legal_references": [
+      {
+        "text": "subsection (1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is again significant that Section 55 (2) (a) (ii) refers to an order of the court.",
+    "legal_references": [
+      {
+        "text": "Section 55 (2) (",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Breaches of Section 55 of the 1998 Act are at the moment a matter of public concern and discussion.",
+    "legal_references": [
+      {
+        "text": "Section 55",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The wife has her Art 6 rights to a fair trial, which includes the principle of equality of arms.",
+    "legal_references": [
+      {
+        "text": "Art 6 rights",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I have myself recently had occasion to express concern about surreptitious evidence gathering, and to refer to the \u201cGuidance on Illegally Obtained Evidence in Civil and Family Proceedings\u201d issued by the Bar Council in 2003: Hughes v Carratu International [2006] EWHC 1791 (QB) paras 32-36, 44.",
+    "legal_references": [
+      {
+        "text": "the \u201cGuidance on Illegally Obtained Evidence in Civil and Family Proceedings",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As a matter of principle it can make little difference whether the breach of Section 55 (if there be one) has been perpetrated by an enquiry agent who is paid to do it by a wife or husband, or by the wife or husband personally.   It may not be easy to support a wide interpretation of either Section 35 or Section 55 of the 1998 Act, insofar as they provide exemptions or defences arising out of a perceived need to obtain the information for the purposes of pending civil proceedings, in cases where the defendant has not applied to the Court in advance.",
+    "legal_references": [
+      {
+        "text": "Section 55",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "However, like Lloyd J in A v B, I make no decision on the interpretation of these sections.",
+    "legal_references": [
+      {
+        "text": "A v B",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Sherborne in his Skeleton Argument also sets out the Computer Misuse Act 1990 s.1 (\u201cthe 1990 Act\u201d).",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse Act 1990 s.1 (\u201cthe 1990 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "That finding would, on the pleadings as they stand, relate to section 35.",
+    "legal_references": [
+      {
+        "text": "section 35",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is not apparent whether it would apply to either s.55 of the 1998 Act, or to the 1990 Act, since neither is pleaded in terms, although it may be argued that the relevant facts are pleaded.",
+    "legal_references": [
+      {
+        "text": "s.55 of the 1998 Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 1990 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "So far as the criminal law is concerned, discretion to exclude admissible evidence was recognised under Section 78 of the Police and Criminal Evidence Act 1984, and can sometimes lead to a stay for abuse of the process of the court.",
+    "legal_references": [
+      {
+        "text": "Section 78 of",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Police and Criminal Evidence Act 1984",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Whether such discretion to exclude evidence unlawfully obtained exists in civil proceedings is a matter on which the law is developing.  See Jones v. The University of Warwick [2003] EWCA Civ 1511; [2003] 1 WLR 954, where the Court held that the conduct of the party who obtained evidence by trespass was not \u201cso outrageous that the defence should be struck out\u201d (para 28).   In the cases cited to me by Miss Skinner, it does not appear to have been contended that the judge hearing the matrimonial proceedings should have excluded the evidence obtained by the conduct in question in those cases in which the conduct was characterised as reprehensible.",
+    "legal_references": [
+      {
+        "text": "EWCA Civ 1511",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "If, like Lloyd J in A v B he decided not to order delivery up, then the husband would still be able to make submissions on the effect of any illegal action by the wife to the judge trying the substantive dispute (if it is tried).",
+    "legal_references": [
+      {
+        "text": "A v B",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The suggestion of a transfer has come late - as I understand it in the Position Statement put before Munby J on 12th January 2007.",
+    "legal_references": [
+      {
+        "text": "the Position Statement",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Provision is made for the transfer of proceedings between divisions of the High Court by CPR Part 30.5(1).",
+    "legal_references": [
+      {
+        "text": "CPR Part 30.5(1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As it happens, there is in this case no claim of a specialist jurisdiction, such as for breach of copyright, as there was in A v. B.   The application to transfer is premature.",
+    "legal_references": [
+      {
+        "text": "A v. B.",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

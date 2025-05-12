@@ -1,0 +1,29 @@
+{
+  "file_name": "18.pdf",
+  "metadata": {
+    "case_number": "FD18P0XXX",
+    "neutral_citation": "[2021] EWFC 18",
+    "court": "FAMILY COURT",
+    "judges": [
+      "ELIZABETH ISAACS QC SITTING AS A DEPUTY HIGH COURT JUDGE"
+    ],
+    "hearing_date": "15-18 February 2021  ",
+    "parties": {
+      "Applicant": "F",
+      "1st Respondent": "M",
+      "2nd-4th Respondents": [
+        "X",
+        "Y",
+        "Z (by their guardian, Mr T)"
+      ]
+    },
+    "representatives": {
+      "Applicant": "Ms Anarkali Musgrave, counsel (via Direct Access)",
+      "1st Respondent": "Ms Dorothea Gartland, counsel (via Direct Access)",
+      "Children's Guardian": "Mr Nick Jack, counsel"
+    },
+    "extracted_at": "2025-04-13T12:53:16.189819Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\18.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\18.txt"
+}

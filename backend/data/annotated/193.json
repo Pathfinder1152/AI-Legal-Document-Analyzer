@@ -1,0 +1,26 @@
+{
+  "file_name": "193.pdf",
+  "metadata": {
+    "case_number": "AC-2023 -CDF -000025, CO/33/2023",
+    "neutral_citation": "[2024] EWHC 193 (Admin)",
+    "court": "IN THE HIGH COURT OF JUSTICE KING'S BENCH DIVISION ADMINISTRATIVE COURT CARDIFF DISTRICT REGISTRY",
+    "judges": [
+      "THE HONOURABLE MRS JUSTICE FARBEY"
+    ],
+    "hearing_date": "19 January 2024  ",
+    "parties": {
+      "Claimant": "JASON NICHOLAS JUUL",
+      "Defendant": [
+        "(1) CHIEF CONSTABLE OF DYFED -POWYS POLICE",
+        "(2) DIRECTOR OF PUBLIC PROSECUTIONS"
+      ]
+    },
+    "representatives": {
+      "(1) Defendant": "DAVID MESSLING  (instructed by Dyfed -Powys Police Legal Services )",
+      "(2) Defendant": "Connor Evans (Instructed By Crown Prosecution Service )"
+    },
+    "extracted_at": "2025-04-13T12:53:16.534632Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\193.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\193.txt"
+}

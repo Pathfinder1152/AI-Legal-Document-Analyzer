@@ -1,0 +1,29 @@
+{
+  "file_name": "421.pdf",
+  "metadata": {
+    "case_number": "CL -2018 -000648  ",
+    "neutral_citation": " [2023] EWHC 421 (Comm)",
+    "court": "IN THE HIGH COURT OF JUSTICE BUSINESS AND PROPERTY COURTS OF ENGLAND AND WALES COMMERCIAL COURT ( KBD)",
+    "judges": [
+      "MR JUSTICE FOXTON"
+    ],
+    "hearing_date": " 7, 08, 12, 13, 14, 15, 16, 19, 20 and 21 December 2022; 16 and 17 January 2023",
+    "parties": {
+      "Claimant": "lONESTAR COMMUNICATIONS CORPORATION LLC",
+      "Defendant": [
+        "(1) DANIEL KAYE,",
+        "(2) AVISHAI MARZIANO",
+        "(3) CELLCOM TELECOMMUNICATIONS LIMITED",
+        "(4) RAN POLANI",
+        "(5) ORANGE LIBERIA. INC"
+      ]
+    },
+    "representatives": {
+      "Claimant": "Tony Singla KC, Sophie Shaw  and Mohammud Jaamae Ha feez-Baig  (instructed by Freshfield s Bruckhaus Deringer LLP )",
+      "Defendant": "Neil Kitchener KC and Andrew Lodder  (instructed by  Norton Rose Fulbright LLP )"
+    },
+    "extracted_at": "2025-04-13T12:53:45.226679Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\421.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\421.txt"
+}

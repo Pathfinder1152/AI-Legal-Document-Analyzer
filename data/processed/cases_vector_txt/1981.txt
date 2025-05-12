@@ -1,0 +1,1191 @@
+Neutral Citation Number: [2011] EWHC 1981 (Ch)
+
+Case No: HC10C04385
+
+IN THE HIGH COURT OF JUSTICE
+
+CHANCERY DIVISION
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Date: 28 July 2011
+
+Before :
+
+THE HON MR JUSTICE ARNOLD
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Between :
+
+|TWENTIETH CENTURY FOX FILM CORPORATION
+
+UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP
+
+WARNER BROS. ENTERTAINMENT INC
+
+PARAMOUNT PICTURES CORPORATION
+
+DISNEY ENTERPRISES, INC.
+
+COLUMBIA PICTURES INDUSTRIES, INC.|Applicants|
+
+|- and -||
+
+|BRITISH TELECOMMUNICATIONS PLC|Respondent|
+
+- - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Richard Spearman QC and Adrian Speck (instructed by Wiggin LLP) for the Applicants
+
+Antony White QC and Roger Wyand QC (instructed by BT Legal) for the Respondent
+
+Hearing dates: 28-29 June 2011
+
+Further written submissions: 15, 19 July 2011
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Judgment
+
+MR JUSTICE ARNOLD :
+
+Contents
+
+Topic												Paragraphs
+
+Introduction											1-4
+
+Procedure												5-10
+
+The order sought											11-13
+
+The expert evidence										14-17
+
+Factual background										18-74
+
+The problem of online copyright infringement					19-22
+
+Solutions to the problem								23-24
+
+Newzbin1											25-44
+
+Events following the judgment							45-47
+
+Newzbin2											48-58
+
+BT’s services										59-63
+
+Other NZB sites										64
+
+The IWF’s blocking system								65-69
+
+Cleanfeed											70-74
+
+The legal context											75-91
+
+The Human Rights Act 1998								76
+
+The Convention rights									77-78
+
+E-Commerce Directive									79-82
+
+Domestic implementation of the E-Commerce Directive			83
+
+Information Society Directive							84-85
+
+Domestic Implementation of the Information Society Directive		86
+
+The Enforcement Directive								87-90
+
+Domestic implantation of the Enforcement Directive				91
+
+Relevant principles of interpretation							92-95
+
+Interpretation of domestic legislation in the context of European
+
+directives 											93
+
+Interpretation of European directives						94-95
+
+Other European cases										96-97
+
+Jurisdiction												98-177
+
+1. No use of BT’s service to infringe copyright					99-113
+
+Users											100-108
+
+Operators										109-113
+
+2. No actual knowledge								114-158
+
+What must the service provider have “actual knowledge” of?	116-148
+
+In what manner may a service provider be given “actual
+
+knowledge”?									149
+
+What is the scope of the injunction that may be granted?		150-156
+
+The present case									157-158
+
+3. Contrary to Article 12(1) of the E-Commerce Directive			159-160
+
+4. Contrary to Article 15(1) of the E-Commerce Directive			161-162
+
+5. Contrary to Article 10 ECHR							163-177
+
+Discretion												178-201
+
+1. The Studios are not interested in the whole of the Newzbin2
+
+website											179-186
+
+2. Exposure to multiple claims							187-191
+
+3. Efficacy											192-198
+
+4. Proportionality										199-201
+
+A reference to the Court of Justice?							202-203
+
+Conclusion												204
+
+Introduction
+
+This case is about the legal remedies that can be obtained to combat online copyright infringement. The Applicants (“the Studios”) are six well-known film production companies or studios that carry on business in the production and distribution of films and television programmes. The Studios are members of the Motion Picture Association of America Inc, and they bring this application in a representative capacity on behalf of all group companies of the Studios that are owners or exclusive licensees of copyrights in films and television programmes. The Respondent (“BT”) is the largest internet service provider (“ISP”) in the United Kingdom. By this application the Studios seek an injunction against BT pursuant to section 97A of the Copyright, Designs and Patents Act 1988 (“CDPA 1988”). I will set out the precise terms of the order sought below, but in essence it is intended to block or at least impede access by BT’s subscribers to a website currently located at www.newzbin.com (“the Newzbin2 website” or just “Newzbin2”). The Studios have made it clear that this is a test case: if they are successful in obtaining an order against BT, then they intend to seek similar orders against all the other significant ISPs in the UK. The other ISPs were informed of the present application in case they wished to intervene, but have not done so.
+
+The application is a sequel to a successful claim for copyright infringement brought by the Studios against Newzbin Ltd, which formerly operated an almost identical website located at the same uniform resource locator or URL (“the Newzbin1 website” or just “Newzbin1”). As explained in more detail below, Newzbin Ltd was found by Kitchin J to have infringed the Studios’ copyrights on a large scale: Twentieth Century Fox Film Corp v Newzbin Ltd [2010] EWHC 608 (Ch), [2010] FSR 21 (“20C Fox v Newzbin”). He granted an injunction against Newzbin Ltd to restrain further infringements of the Studios’ copyrights. Subsequently the Newzbin1 website ceased operation. Shortly afterwards, however, the Newzbin2 website commenced operation at the same location. It operates in essentially the same manner as the previous website, and thus provides the means for continued large-scale infringement of the Studios’ copyrights. As described in more detail below, the operators of the Newzbin2 website are unknown, but the operation appears to have moved offshore. It is thus effectively beyond the reach of this court.
+
+In these circumstances, the Studios contend that the only way in which they can obtain effective relief to prevent, or at least reduce the scale of, these infringements of their copyrights is by means of an order against BT (and thereafter the other ISPs) of the kind now sought.
+
+Although the Studios are formally the only applicants, the application is supported by the following organisations representing other groups of rightholders, a representative of each of which has made a witness statement in support of the application:
+
+BPI (British Recorded Music Industry) Ltd, which represents the interests of record companies in the UK. It currently has about 400 members who produce about 90% of the sound recordings sold legally in the UK.
+
+International Federation of the Phonographic Industry, which represents the interests of the recording industry worldwide. It has 1,400 members in 66 countries and affiliated associations in 45 countries.
+
+The Association for UK Interactive Entertainment, which represents the interests of almost all major companies involved in the development and publication of video games in the UK.
+
+The Publishers’ Association, which represents the interests of UK book publishers.
+
+Procedure
+
+I was informed by counsel that, so far as they and their professional and lay clients are aware, this is the first occasion on which an effective application for a section 97A order against an ISP has been made. For that reason, it is worth describing the procedure adopted in a little more detail than I otherwise would.
+
+The Motion Picture Association wrote to BT on 23 September 2010 asking whether BT would agree to block access to the Newzbin2 website or alternatively would agree not to oppose an application for a court order to that effect. The letter summarised the conclusions of Kitchin J in 20C Fox v Newzbin and provided evidence about the operation of the Newzbin2 website. On 7 October 2010 BT replied as follows:
+
+“BT does not support or condone copyright infringement. We have a strong commercial interest in seeing legitimate content services flourish online. …
+
+With respect to your requests, BT requires a Court order to block a service otherwise it would face business exposures, including potential legal liabilities, on a number of fronts.
+
+Further, BT cannot commit to take a particular position in court ahead of reviewing the relevant papers and evidence and understanding the full implications for our business.”
+
+The Studios commenced the application on 15 December 2010 by issuing and serving a claim form and an application notice, both seeking an order under section 97A, together with evidence in support. BT wrote the following day to say that it would oppose the application.
+
+At BT’s suggestion, both parties served statements of case: the Studios served Particulars of Claim on 9 February 2011, and BT served a Defence on 8 March 2011. I am not sure that this was essential, but it was a sensible step to take in the circumstances of the present case.
+
+BT served its evidence in answer to the application on 11 April 2011. The Studios served evidence in reply on 20 May 2011. BT served evidence in rebuttal on 6 June 2011. The Studios served a further witness statement on 16 June 2011. The parties’ counsel then prepared sequential skeleton arguments. I found that a helpful course.
+
+The evidence filed by the parties reveals a great deal that is either common ground or at least not seriously disputed. There are, however, certain limited conflicts of evidence. It was agreed between counsel at the outset of the hearing that it was not necessary to direct cross-examination in order to resolve those conflicts. Rather, the court would be entitled to prefer the evidence of one witness to another if there were rational grounds for doing so. If the court was unable to decide whose evidence was to be preferred on a particular point without the benefit of cross-examination, then the Studios as the party bearing the burden of proof would fail on that point. Again, I regard this as a sensible approach.
+
+The order sought
+
+The Studios’ application notice sought an order in the following form:
+
+“The Defendant shall prevent its services being used by users and operators of the website known as NEWZBIN and NEWZBIN2 to infringe copyright.”
+
+Some of the objections raised by BT to the application arose out of this form of order, although it is fair to say that the Studios’ solicitors’ covering letter dated 15 December 2010 stated that they expected that BT would adopt the methods explained in Mr Clark’s first statement in compliance with that order. Furthermore, by letter dated 13 May 2011 the Studios’ solicitors stated that they would be content with BT’s use of the hybrid system currently used to block websites or URLs contained on the IWF block list (as to which, see below) or an equivalent and equally efficacious mechanism.
+
+On the day before the hearing, the Studios produced a revised draft of the order sought. Following discussion during the course of argument, this was further modified by the addition of a provision giving permission to apply. The revised draft now reads as follows:
+
+“1.	The Respondent shall adopt the following technology directed to the website known as Newzbin or Newzbin2 currently accessible at www.newzbin.com and its domains and sub domains. The technology to be adopted is:
+
+(i) 	IP address blocking in respect of each and every IP address from which the said website operates or is available and which is notified in writing to the Respondent by the Applicants or their agents.
+
+(ii) 	DPI based blocking utilising at least summary analysis in respect of each and every URL available at the said website and its domains and sub domains and which is notified in writing to the Respondent by the Applicants or their agents.
+
+2.	For the avoidance of doubt paragraph 1(i) and (ii) is complied with if the Respondent uses the system known as Cleanfeed and does not require the Respondent to adopt DPI based blocking utilising detailed analysis.
+
+3.	Liberty to the parties to apply on notice in the event of any material change of circumstances (including, for the avoidance of doubt, in respect of the costs, consequences for the parties, and effectiveness of the implementation of the above measures as time progresses).”
+
+As I think counsel for the Studios accepted, the drafting of paragraph 1 still leaves a certain amount to be desired; but, as counsel for BT accepted, it is now reasonably clear what it is that the Studios are asking the court to order BT to do. I will explain what this involves below.
+
+The expert evidence
+
+The Studios adduced expert evidence from Andrew Clark, formerly of Detica Ltd and now of Primary Key Associates Ltd. Mr Clark gave evidence before Kitchin J, who described him at [5] as “well qualified” and “careful and objective”. The Studios’ evidence in support of the present application includes Mr Clark’s report prepared for those proceedings, which sets out his qualifications and experience. Surprisingly, Mr Clark’s evidence in this case takes the form of two witness statements rather than experts’ reports complying with CPR rule 35.10 and all of the requirements of Practice Direction 35 paragraphs 3.2 and 3.3, although it is fair to say that some of his evidence is evidence of fact rather than opinion. BT took no point on that, however.
+
+BT adduced expert evidence from Malcolm Hutty, who has been Head of Public Affairs at the London Internet Exchange (“LINX”) since July 2003. LINX is a membership association for internet network operators. Since December 2008 Mr Hutty has been President of EuroISPA, the umbrella interest group representing ISPs in Europe. As I understand it, BT is a member of both LINX and EuroISPA. Prior to working for LINX, Mr Hutty worked as a policy advisor for the Internet Watch Foundation (“IWF”) and a number of other bodies. Mr Hutty produced an expert report which complied with CPR rule 35.10 and all of the requirements of Practice Direction 35 paragraphs 3.2 and 3.3, and a witness statement commenting on the Studios’ reply evidence which did not. In the Studios’ skeleton argument counsel for the Studios submitted that Mr Hutty’s evidence should be given less weight than Mr Clark’s both because he was not properly qualified to give expert evidence and because he was not independent. In response to this BT filed a statement by Mr Hutty setting out his expertise in more detail. In essence, he says that, although his role is mainly concerned with policy issues, it includes giving technical advice and that he has sufficient technical knowledge to give the evidence he gives.
+
+I accept that Mr Hutty has sufficient technical knowledge to give the evidence he gives, but nevertheless it remains the case that he lacks Mr Clark’s technical qualifications and experience. Furthermore, he also lacks Mr Clark’s independence. Both of these points mean that I would be disposed to give his evidence less weight than that of Mr Clark if it were simply a question of deciding whose technical evidence I prefer. On purely technical matters, however, I do not detect much dispute between Mr Clark and Mr Hutty.  What is more important, moreover, is the cogency of their respective analyses. As discussed below, these involve not merely technical considerations, but also other factors, and in particular human behaviour.
+
+A separate point made by counsel for the Studios was that some of Mr Hutty’s evidence was not within the province of expert evidence anyway. I think there is force in this point, but on the other hand this is an area where it is difficult to draw a clear line between evidence that is properly expert evidence and evidence that is not.
+
+Factual background
+
+I have received a considerable volume of evidence on this application. I do not consider that it is necessary to summarise all the evidence in this judgment, although I have taken it all into account. Indeed, the parties were agreed that it was undesirable for me to condescend to too much technical detail in a public judgment. I must nevertheless describe sufficient of the factual background to make my reasons, and the factual bases for them, intelligible.
+
+The problem of online copyright infringement
+
+The problem of online copyright infringement is by now a very well-known one. The nature and scale of the problem so far as sound recordings are concerned were eloquently described by Charleton J of the High Court of Ireland in his judgment in EMI Records (Ireland) Ltd v UPC Communications Ireland Ltd [2010] IEHC 377 at [8]-[21].
+
+The Studios relied on two recent studies of the scale of the problem so far as the film and television industries are concerned. A study by Ipsos MediaCAT dated April 2010 analysing the scale of film and television piracy in the UK in 2009 estimated the overall loss from film piracy at £477 million and the overall loss from television piracy at £58 million. A study by Tera Consultants dated March 2010 concluded that in 2008 the audio and audiovisual industries in the UK lost almost 670 million euros in revenues to physical and digital piracy, with the larger proportion of that lost revenue attributable to digital piracy.
+
+This evidence has not been challenged by BT. Nevertheless, I cannot ignore the analysis of Professor Ian Hargreaves in his recent report commissioned by the Prime Minister, Digital Opportunity: A Review of Intellectual Property and Growth (May 2011). In paragraph 8.9 he stated that:
+
+“… in the Review’s four months of evidence gathering, we have failed to find a single UK survey that is demonstrably statistically robust. For many surveys, methodology is not available for peer review.”
+
+As he explained, there are a number of problems with trying to quantify the scale of online copyright infringement. He went on to summarise the findings of a considerable number of studies both in the UK and elsewhere, and to describe the problems with them. In paragraph 8.17, he attempted to quantify the scale of copyright infringement expressed as a percentage of the economy as a whole using industry estimates, and concluded that “copyright infringement appears to account for just under 0.1 per cent of economic activity”. In paragraph 8.19 he considered a study by Business Action to Stop Counterfeiting and Piracy that estimated the losses from piracy as equivalent to 1.24% of the contribution made by the core copyright industries to the UK economy, and concluded that 1.24% was “at the upper end of probability”. His overall conclusion at paragraph 8.23 was as follows:
+
+“… Certainly … many creative businesses are experiencing turbulence, which translates into fears about the further, future impact of copyright infringement on sales, profitability and sources of investment. However, at the level of the whole economy or even at the level of whole creative business sectors, the measured impacts to date are not as stark as is sometimes suggested by the language used to describe them. That said, copyright infringement is a stubborn fact of the digital landscape which might well get worse and which justifies serious government effort in identifying the right mix of measures to address it. ”
+
+I accept that online copyright infringement is a serious problem for copyright owners such as the Studios and the other rightholders who support this application, but in general it is one whose impact is difficult to quantify with any confidence. As will appear, however, in the present case there is fairly good evidence of the scale of the wrongdoing.
+
+Solutions to the problem
+
+A number of solutions to the problem of online copyright infringement have been proposed. In EMI v UPC at [34]-[49] Charleton J described and assessed three different potential technical solutions, including the CopySense system produced by Audible Magic referred to below. The Digital Economy Act 2010, and similar laws in other countries such as France’s HADOPI (Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet) law, represent another approach. In Digital Britain Professor Hargreaves listed at paragraph 8.24 eight different categories of measures for tackling digital piracy which rightholders had advocated to his Review, one of which was “working with ISPs as gatekeepers to the internet to ensure legitimate businesses do not suffer at the hands of illegal services”. At paragraph 8.45 he concluded that “we need a combination of enforcement, education and a big push to expand the legitimate market for digital content”.
+
+As will become clear, the present application represents an attempt by copyright owners indirectly to enforce their rights in circumstances where direct enforcement has been tried and failed.
+
+Newzbin1
+
+Kitchin J’s judgment in 20C v Newzbin should be read in full by anyone trying to understand this judgment, since his findings about the Newzbin1 website represent the starting point for the present application. I provide the following summary for convenience.
+
+The Newzbin1 website operated as part of an internet system called Usenet. Usenet allows its users to upload and view messages on an electronic equivalent of public bulletin boards. It was developed in the early 1980s and predated the world wide web by some 10 years. It was originally designed to support text content only, but subsequently evolved so as to support non-text (referred to as “binary”) content. Individuals who upload or “post” messages  to the system or who download messages from the system are referred to as Usenet users. The infrastructure for the system is provided by Usenet servers which are interconnected to allow messages to be shared between them. The servers store the content uploaded to them in a hierarchy of newsgroups that are named to reflect their content.
+
+The content posted by users to a newsgroup is generally categorised as text or binary. Text materials essentially comprise alphanumeric characters and are designed to be read by other users without further processing. Binary materials, including films, tend to be substantially larger in size than text materials and require processing in two ways which reflect the fact that Usenet was only designed to deal with text messages of relatively small size. First, they need to be encoded in a text form, and secondly, they need to be split into multiple parts so that they can be posted as a set of individual, but related messages. This has important consequences to users.
+
+Generally, a user needs a system called a news client to post messages to, or download messages from, newsgroups on a server hosted by a service provider with which he has a subscription. A user interacts with his news client in the following way. First, he enters details of his chosen server. He then selects the newsgroups to which he would like ready access and to which he will post or from which he will download messages. Once he has selected one or more newsgroups, he is then in a position to download some or all of the headings of the messages in that newsgroup and, subsequently, to download the body of any particular message. This is generally done by clicking on its heading.
+
+Binary files are frequently split up by a mechanism known as RAR encoding. In summary, a large file of, for example, a film is first split into a series of smaller parts called RAR archive files (typically up to a hundred), each of which is in turn split into fifty or more messages. Each of these messages is posted to the newsgroup separately. As a result, the film is distributed across a significant number, perhaps hundreds or thousands, of messages. If a user wishes to download a copy of a film, he must identify every one of those messages from a list of messages available on the Usenet server to which he has access. The server normally lists these messages in the order in which it has received them with the result that the messages comprising a film posted by one user get mixed up with other messages added to the newsgroup during the time required to complete the original film posting. Each message file must be downloaded into appropriate RAR archive files and then these must be assembled together to form the whole copy.
+
+Newzbin1 was run by Chris Elsworth (known as "Caesium"), Thomas Hurst (known as "Freaky") and Lee Skillen (known as "Kalante"), who were the shareholders in and directors of Newzbin Ltd until shortly before trial, when David Harris acquired their shares and became the sole director. Access to Newzbin1 was restricted to members, and Newzbin Ltd accepted applications for membership only from users who had had an invitation from a current member. Basic members paid no fee, but were not given the ability to download files sourced using Newzbin1. Premium members entered into an agreement with Newzbin Ltd which permitted them to use Newzbin1 to do this for a fee of £0.30 per week. Newzbin Ltd had around 700,000 members, though not all premium. In the year ending 31 December 2009 Newzbin Ltd had a turnover in excess of £1 million and a profit in excess of £360,000.
+
+Newzbin1 described itself as “the most comprehensive Usenet search that exists on the Internet today”. It indexed the contents of Usenet in two forms, “reports” and “files”, and provided tools for searching them. The focus of the site was binary content. It processed and stored information about films, television programmes and other works in three main indices: the RAW index, the Condensed index and the Newzbin index. The Newzbin index was the highest level index and showed entries with reports, which had been created by a team of about 250 “editors” who checked that the subject matter of the report related to a complete set of Usenet messages. The Newzbin index listed the reports by the name of the film or other work in question. The editors also added further descriptive information, such as the overall file size and details of other attributes such as the source, genre and language of the work. In the case of entries relating to films, the reports typically provided the user with a link to an internet address (URL) with other available information on that work. Such URLs might link to the websites of Amazon or the comprehensive motion picture database known as IMDb. The reports often included an information or “NFO” file in which it was common for uploaders of infringing copies of films or television programmes to identify themselves so as to take the credit for creating the copy in question.
+
+A crucial element of Newzbin1 was that it provided a facility for premium members to create "NZB" files. In the case of binary content, each NZB file contained all the information a news client required to fetch all the Usenet messages and reassemble the original binary work from its component parts. Using the Newzbin index view, an NZB file could be retrieved using one of two techniques; first, by clicking the check box in the relevant entry and then clicking the “Create NZB” button at the top of the page; secondly, by simply clicking the “Download Report NZB” icon in the relevant entry. In either case the NZB file was created and delivered to the user's computer.  When the user ran his news client, the final output was a set of files suitable for burning to a DVD and which could be played in a typical DVD player. If a user wished to retrieve such a large group of files directly from Usenet, he would have to identify all the messages they incorporate, download them one at a time and then use a separate software application to assemble them together. This would be an onerous and inconvenient task and take days to accomplish. It could also be extremely frustrating. A user might spend a great deal of time and effort downloading the majority of the messages only to discover that one message, the final piece in the jigsaw, was missing. In that event he would be prevented from reconstituting the work and his days of effort would have been wasted.
+
+Newzbin1 permitted a premium member to search its indices by reference to various categories into which the Usenet messages which it retrieved were grouped. So far as binary content was concerned, there were categories for “Anime” (animated films produced in Japan), “Apps” (application software), “Books” (both audio books and formats for displaying electronic book readers), “Consoles” (video games for dedicated games consoles), “Emulation” (video games playable on a PC using a program which allows the PC to emulate a games console), “Games” (video games playable on a PC), “Misc”, “Movies”, “Music”, “PDA” (software or content files playable on a personal digital assistant or handheld computing device, such as a Blackberry or an iPhone), “Resources” (creative resource material such as fonts and clip art) and “TV”.
+
+A number of these categories were broken down into various sub-categories. Thus the “Movies” category was sub-categorised by “Source” (for example “CAM”, “Screener”, “Telesync", “R5 Retail”, “Blu-Ray”, “DVD” and “HD-DVD”), “Video Fmt” (for example, “DivX”, “XviD”, “Blu-Ray” and “HD-DVD”), “Region”, “Video Genre”, “Audio Fmt”, “Language” and “Subtitles”. Several of the Source sub-categories were indicative of piracy. For example, CAM referred to the use of a handheld cam or video recorder in a cinema to record a film shown there; Screener referred to a copy of a film supplied on a restricted basis to persons within the industry, such as critics, before the film has been released commercially; Telesync referred to a copy of a film made in a cinema using professional camera equipment and a direct connection to the sound source, and sometimes with the frame capture rate of the camera synchronised with that of the film being shown; and so on.
+
+The overwhelming majority of the reports in the Movies category of the Newzbin index related to content which was commercially available and very likely to be protected by copyright. Thus one analysis of about 50,000 reports showed that 97.5% had a valid link to the IMDb site, 0.7% had a valid link to Amazon and a further 1.5% were shown to be commercially available upon further investigation. Only 0.3% were not shown to be commercially available.
+
+Newzbin1 dealt with binary content and text content in different ways and by separate parts of the code. The facilities provided in relation to text content were very rudimentary indeed.
+
+Kitchin J found at [78] that Newzbin Ltd knew that the vast majority of films in the Movies category were commercial and very likely to be protected by copyright and that members who used the NZB facility to download those materials, including the Studios’ films, were infringing copyright.
+
+Newzbin Ltd admitted that one or other of the Studios was the owner of copyright subsisting in six sample films. A witness for the Studios had downloaded unlicensed copies of these films using the Newzbin1 website and its NZB facility.
+
+Kitchin J held at [97] that the Studios had established that their copyrights had been infringed by Newzbin Ltd’s premium members. There were a very substantial number of premium members, and they were primarily interested in films. Although the Studios were unable to identify which particular films individual premium members had copied, because Newzbin Ltd chose not to record details of the NZB files they downloaded, it was overwhelmingly likely that the premium members had downloaded copies of the Studios’ films, including the examples specifically relied on.
+
+Kitchin J also held that Newzbin Ltd had infringed the Studios’ copyrights in three different ways:
+
+It had authorised its premium members to make infringing copies of the Studios’ films because a reasonable member would deduce from its activities that it purported to possess the authority to grant any required permission to copy any film that a member may choose from the Movies category on Newzbin1, and it had sanctioned, approved and countenanced the copying of the Studios' films, including each of the films specifically relied on (see [85]-[102]);
+
+For similar reasons, it had procured the premium members to infringe, had participated in a common design with the premium members to infringe, the Studios’ copyrights. It was immaterial that the Studios were not able to point to specific acts of infringement by particular infringers which Newzbin Ltd might be said to have procured (see [103]- [112]);
+
+Newzbin Ltd had itself infringed the Studios’ copyrights by communicating the copyright works to the public, specifically by making each work available to the public by electronic transmission in such a way that members of the public may access it from a place and at a time chosen by them within section 20(2)(b) CDPA 1988 which implements Article 3(2) of the Information Society Directive (see [113]- [125]).
+
+Kitchin J also held at [128] that the fact that Newzbin Ltd had engaged in a deliberate course of conduct well knowing that the vast majority of the materials in the Movies category were protected by copyright and that the users of the website who downloaded the materials were infringing copyright, was to be taken into account in assessing whether additional damages were required. Although not expressed as a finding of flagrancy, in substance that is what it is.
+
+So far as relief is concerned, Kitchin J concluded at [129] that it was both appropriate and necessary in order to provide the Studios with effective relief to grant an injunction restraining infringement of the copyrights in the Studios’ repertoire both now and in the future. He declined, however, to grant an injunction against Newzbin Ltd pursuant to section 97A (see [130]-[135]).
+
+Kitchin J handed down judgment on 29 March 2010. Following a further hearing on 14 April 2010, Kitchin J granted injunctions in the following form:
+
+“2.	The Defendant shall be restrained (whether acting by its directors, officers, servants, agents or any of them or otherwise howsoever) from infringing copyright in or relating to the following motion pictures and television programmes:
+
+(i)	Those identified in the lists provided to the Defendant on 21 May 2008, 29 May 2009 and 8 April 2010;
+
+(ii)	Those identified in any other written list provided in electronic form to the Defendant or its solicitors hereafter;
+
+(iii)	Those identified in any list that is made available on-line at any URL of which the Defendant or its solicitors are notified in writing hereafter.
+
+3.	The Defendant shall ensure that users of its Newzbin Website or any other service its provides cannot, by use of the said website or service, infringe copyright in or relating to the following motion pictures and television programmes, episodes and series:
+
+(i)	Those identified in the lists provided to the Defendant on 21 May 2008, 29 May 2009 and 8 April 2010;
+
+(ii)	Those identified in any other written list provided in electronic form to the Defendant or its solicitors hereafter;
+
+(iii)	Those identified in any list that is made available on-line at any URL of which the Defendant or its solicitors are notified in writing hereafter.”
+
+In addition Kitchin J made orders for an inquiry as to damages, for Newzbin Ltd to pay the Studios’ costs assessed on the indemnity basis and for Newzbin Ltd to pay the sum of £230,000 by 28 April 2010 on account of those costs.
+
+Events following the judgment
+
+On 26 April 2010 Mr Harris informed Newzbin Ltd’s creditors of his intention to seek their approval for a creditors’ voluntary liquidation. Newzbin Ltd subsequently entered into voluntary liquidation. Due to concerns regarding the affairs of Newzbin Ltd in the months leading up to the voluntary liquidation, the Studios presented a petition for the compulsory winding up of Newzbin Ltd on 14 May 2010. The petition was withdrawn following assurances as to the investigations to be undertaken by the liquidator.
+
+The costs which Kitchin J ordered Newzbin Ltd to pay have not been paid. There is very little likelihood that the Studios will recover any of their costs, let alone damages.
+
+The Newzbin1 website was still operating on 17 May 2010, but ceased to operate shortly thereafter.  The cessation of the Newzbin1 website coincided with stories of the theft of the source code for the Newzbin1 website appearing on certain websites. Rumours subsequently circulated on the internet concerning a threatened “reincarnation” of the Newzbin1 website, “Newzbin2”.
+
+Newzbin2
+
+On or around 28 May 2010 the Newzbin2 website began operating. The Newzbin2 website is very similar to the Newzbin1 website.  Currently, when the Newzbin2 website is accessed, the first screen reveals listings of content available using the site. This feature is new to the Newzbin2 website. Apart from this, and the fact that the name “NEWZBIN” is now followed by the numeral 2, the design and manner of operation of the Newzbin2 website is substantially the same as that of the Newzbin1 website. Content can only be obtained using the Newzbin2 website by members who have purchased premium credit.  As with the previous Newzbin1 operation, premium credit is sold in blocks of weeks, with the minimum purchase being an 8 week block. The Newzbin2 website has the same categories of content available as Newzbin1. It also has the same sub-categories of content in the “Movies” and “TV” categories, including “CAM”, “Screener” and so on.
+
+Evidence adduced at the 20C Fox v Newzbin trial indicated that the Newzbin1 Website had a substantial UK user base. The same appears likely to be the case with the Newzbin2 website. Users are required to pay for membership in pounds sterling, the site uses English as the only language and the site’s terms and conditions refer to UK legislation such as the Computer Misuse Act 1990, the Data Protection Act 1998 and the Contracts (Rights of Third Parties) Act 1999.
+
+The Studios have adduced evidence to show that the vast majority of the content accessible via the Newzbin2 website is commercially available and thus highly likely to be protected by copyright. An analysis by Detica of 34,510 records found in the “Movies” category in early September 2010 found that 32,547 (94.3%) related to commercially available content. A trainee employed by the Studios’ solicitors checked a sample of the remaining 1,963 records (5.7%), and found that they all related to content that was commercially available from Amazon’s UK website.
+
+In addition, similar analyses were carried out of samples of records from “TV”, “Music”, “Books”, “Games” and “Consoles” categories:
+
+In the case of “TV”, 704 of the 750 results analysed were found to relate to TV shows that have been broadcast.  A further 36 shows were found to be likely to be protected by copyright. These were predominantly sports broadcasts. Accordingly, 99% of the records analysed were found to relate to commercially available content or content that was otherwise likely to be copyright protected.
+
+In the case of “Music”, 564 of the 750 records that were analysed were found to relate to commercially available content. Of the remaining 186 records, 112 were found to relate to content otherwise likely to be protected by copyright e.g. compilations of tracks by well-known artists. Accordingly, 676 of the 750 records analysed (90%) were found to relate to commercially available content or content that was otherwise likely to be copyright protected.
+
+In the case of “Books”, 201 of the 268 records that were analysed relate to commercially available content.  Of the remaining 67 records, 48 were found to relate to content that is otherwise likely to be protected by copyright e.g. titles by commercially published authors. Accordingly, 249 of the 268 records analysed (93%) were found to relate to commercially available content or content that was otherwise likely to be copyright protected.
+
+In the case of “Games”, 114 out of 128 records that were analysed were found to relate to commercially available content.  Of the remaining 14 records, 4 were found to relate to content that is otherwise likely to be protected by copyright.  Accordingly, 118 of the 128 records analysed (92%) were found to relate to commercially available content or content that was otherwise likely to be copyright protected.
+
+In the case of “Consoles”, 254 out of 278 records that were analysed were found to relate to commercially available content.  Of the remaining 24 records, 10 were found to relate to content that is otherwise likely to be protected by copyright.  Accordingly, 264 of the 278 records analysed (94%) were found to relate to commercially available content or content that was otherwise likely to be copyright protected.
+
+The evidence of the representatives of each of the trade organisations referred to in paragraph 4 above is that none of their members have granted the operators of the Newzbin2 website a licence. Each says that their organisation welcomed the judgment of Kitchin J and is concerned that Newzbin2 appears to be circumventing it.
+
+As with Newzbin1, the main focus of Newzbin2 is film and television programmes. As at 11 November 2010 the relative proportions of content contained in each of the categories on the Newzbin2 website were as follows:
+
+Anime: 9,017 reports (4.89%);
+
+Apps: 3,477 reports (1.88%);
+
+Books: 6,576 reports (3.56%);
+
+Consoles: 5,495 reports (2.98%);
+
+Games: 2,321 reports (1.26%);
+
+Movies: 34,841 reports (18.88%);
+
+Music: 26,118 reports (14.15%);
+
+TV: 95,115 reports (51.55%);
+
+Other categories: 1,559 reports (0.84%).
+
+In December 2010 one of the Studios’ witnesses downloaded the following 12 sample films using the Newzbin2 website. The copyright in these films is owned (wholly or jointly) by, or exclusively licensed to, the following Studios:
+
+Film|Studio|
+
+“Knight and Day”|Twentieth Century Fox Film Corporation|
+
+“Wall Street: Money Never Sleeps”|Twentieth Century Fox Film Corporation|
+
+“Despicable Me”|Universal City Studios LLLP|
+
+“Nanny McPhee and the Big Bang”|Universal City Studios LLLP|
+
+“Harry Potter and the Deathly Hallows: Part 1”|Warner Bros. Entertainment Inc|
+
+“Inception”|Warner Bros. Entertainment Inc |
+
+“Dinner for Schmucks”|Paramount Pictures Corporation|
+
+“3D Jackass”|Paramount Pictures Corporation|
+
+“Alice in Wonderland”|Disney Enterprises, Inc.|
+
+“The Sorcerer’s Apprentice”|Disney Enterprises, Inc.|
+
+“Takers”|Columbia Pictures Industries, Inc.|
+
+“The Other Guys”|Columbia Pictures Industries, Inc.|
+
+It appears to be quite hard to find any content on Newzbin2 that is not protected by copyright. BT’s best shot was to point to a reference to the 1891 Lancashire census, but the Studios’ evidence strongly suggests that, although the underlying information is in the public domain, the item in question is likely to be protected by copyright and/or database right.
+
+The Newzbin2 website is operated by unidentified individuals acting under pseudonyms. The operators refer to themselves as “Team R Dogs” (which appears to be a reference to the film “Reservoir Dogs”) and use pseudonyms such as “Mr White”, “Mr Black” and “Mr Pink”. “Mr White”, the spokesman of Team R Dogs, has been quoted in an interview on a blog and in a post on the Newbzin2 website as saying:
+
+“Team R Dogs are a small team of digital highwaymen who, thank you, prefer to remain behind their face-masks. … we have no association with WCIS Ltd who own the domain … we sought to buy the domain but in the end we were offered a lease on the name. Nor do we have any association with the Newzbin1 team…”
+
+“Newzbin2 is using its own assets which are nothing to do with Newzbin1. The domain is not an asset of Newzbin1 since they sold it to a 3rd party. The code maybe Newzbin's but let the liquidator come after us for that.”
+
+On 21 June 2010, an investigator from the Federation Against Copyright Theft (“FACT”) made a covert payment to the Newzbin2 website.  This showed that the recipient of payments made to the Newzbin2 website is Kthxbai Ltd (i.e. OK thanks bye). Kthxbai Ltd was incorporated on 21 December 2009. Mr Harris is the sole director and shareholder of Kthxbai Ltd, but Mr Harris denies any involvement in the operation of the Newzbin2 website.
+
+According to statements made by “Mr White” in interviews on blogs, the operators of Newzbin2 have made various plans to avoid enforcement action by the Studios. They have already taken steps to protect themselves from potential actions that the Studios might take against them in the UK. The servers used to host the Newzbin2 website are not located in the UK (as was the case with the servers of the Newzbin1 website) and are currently located in Sweden. The domain name www.newzbin.com is registered to a company in the Seychelles.
+
+BT’s services
+
+BT has the largest number of internet subscribers in the UK of any ISP, over 5.3 million. Its retail market share of the digital subscriber line (DSL) and local loop unbundling (LLU) markets is around 35%.
+
+BT’s retail customers may use BT’s broadband service to access the internet and access particular websites. In so far as BT’s customers communicate with third party websites, they will send and receive data over the internet. BT facilitates this communication through its service. BT neither initiates that communication nor receives the actual content of the data packet in a permanent form. In so far as BT’s servers and routers receive a data packet and send it on, that equipment will hold transient copies of the data packet for a very short period of time. Those packets are neither stored nor cached by BT. It is the customer (or other user) who decides which internet websites to access and what data to send and receive over the internet. BT has no knowledge of the content of any particular communication. It does not monitor those communications.
+
+It is probable that a substantial number of BT subscribers were members of Newzbin1 and are members of Newzbin2. Indeed, on 2 February 2011 the Studios’ solicitors sent BT copies of selected postings to the Newzbin2 website stating “these postings identify individuals who are BT subscribers (and in one case even a BT employee) and also users of the Newzbin2 website”. It would be more accurate to state that the postings are by individuals who state that they are BT subscribers and appear to be Newzbin2 members. As is common in internet discussion fora, these individuals identify themselves by means of self-chosen IDs. For the most part, the IDs do not appear to be real names, although they may be based on real names or at least nicknames e.g. “kenachir”, “leesez” and “23johnw”. In at least one case (“markfisher”), however, the ID appears to correspond to a real name, although this may not in fact be the case.
+
+Even when a BT subscriber accesses a copyright work using Newzbin2, BT never holds in one place all of the data packets of any communications with Newzbin’s or third party websites which would amount to a media file that contains that material. The end user is only able to re-assemble all the relevant data on his or her personal computer, and it is at that point that the media file will be capable of being “played.”
+
+It should be emphasised that BT does not provide any services to the operators of the Newzbin2 website, and in particular it does not “host” the website.
+
+Other NZB sites
+
+BT’s evidence is that NZB files are used by a range of software and communications providers and do not appear to be proprietary to Newzbin. Furthermore, NZB files for binary content are available from many other websites.
+
+The IWF’s blocking system
+
+The IWF describes itself on the home page of its website as follows:
+
+“Who we are
+
+The IWF has been combating child sexual abuse content on the internet since 1996”
+
+If one clicks on the “Who we are” link, one is taken to the following page:
+
+“About the Internet Watch Foundation (IWF)
+
+The IWF was established in 1996 by the internet industry to provide the UK internet Hotline for the public and IT professionals to report criminal online content in a secure and confidential way. The Hotline service can be used anonymously to report content within our remit. We work in partnership with the online industry, law enforcement, government, and international partners to minimise the availability of this content, specifically:
+
+child sexual abuse images hosted anywhere in the world
+
+criminally obscene adult content hosted in the UK
+
+non-photographic child sexual abuse images hosted in the UK.
+
+Self-regulation
+
+We are an independent self-regulatory body, funded by the EU and the wider online industry, including internet service providers, mobile operators and manufacturers, content providers, filtering companies, search providers, trade associations, and the financial sector. Our self-regulatory partnership approach is widely recognised as a model of good practice in combating the abuse of technology for the dissemination of criminal content.
+
+Sharing Good Practice
+
+We work with UK government to influence initiatives developed to combat online abuse and this dialogue goes beyond the UK and Europe to promote greater awareness of global issues, trends and responsibilities. We work internationally with INHOPE Hotlines and other relevant organisations to encourage united global responses to the problem and wider adoption of good practice in combating child sexual abuse images on the internet.
+
+Success
+
+We help internet service providers and hosting companies to combat the abuse of their networks through our ‘notice and takedown’ service which alerts them to content within our remit so they can remove it from their networks. We also provide unique data to law enforcement partners in the UK and abroad to assist investigations into the distributors. As a result of this approach the content we deal with has been virtually eradicated from UK networks. As sexually abusive images of children are primarily hosted abroad, we facilitate the industry-led initiative to protect users from inadvertent exposure to this content by blocking access to it through our provision of a dynamic list of child sexual abuse web pages.
+
+Tactics
+
+There are a number of tactics carried out by the IWF on a national and, where relevant, international basis which minimise the availability of child sexual abuse content online:
+
+Reporting mechanism for the public to report any inadvertent exposure to potentially criminal child sexual abuse content.
+
+‘Notice and takedown’ system to swiftly remove child sexual abuse content at source in the UK.
+
+Targeted assessment and monitoring system to remove child sexual abuse content in newsgroups.
+
+Provision of a child sexual abuse URL list to internet service providers, mobile operators, search providers and filtering providers to help disrupt access to child sexual abuse content which is hosted outside the UK and not yet taken down.
+
+Working with domain name registries and registrars to deregister domain names dedicated to the distribution of child sexual abuse content.”
+
+The blocking system broadly works as follows. Based on reports from members of the public, police and other agencies, the IWF produces a list of URLs, updated twice daily, that contain images of child abuse. The URLs may be for whole domains, but more commonly they are for subdomains or specific pages. This list is supplied in encrypted form to most ISPs, including BT, who then implement automated measures to prevent, or at least disrupt, access to these URLs. I will describe these measures in outline below. In addition to the blocking system, the IWF operates a notice and takedown system to remove such images from websites hosted in the UK.
+
+It is a curious feature of BT’s evidence in this case that it emphasises that the blocking system is only intended to prevent “inadvertent” access to the URLs, and hence images, in question and that the only effective remedy is removal of the images at source. It is true that a careful reading of some parts of the IWF website supports this, as can be seen from the second page quoted above. Other parts of the website convey a somewhat different message, however. For example, a page headed “IWF Facilitation of the Blocking Initiative” includes the following passage:
+
+“Every URL on the list depicts indecent images of children, advertisements for or links to such content. The list typically contains 500 URLs at any one time and is updated twice a day to ensure all entries are live. As well as making the internet a safer place for everyone, this initiative can help to diminish the re-victimisation of children by restricting opportunities to view their sexual abuse and may disrupt the accessibility and supply of images to those who seek them out.
+
+Unfortunately, blocking cannot put an end to offenders abusing children nor can it effectively deny determined criminals who are actively seeking such material.”
+
+I read this passage as acknowledging that blocking is ineffective against “determined criminals who are actively seeking such material”, but nevertheless helps to “disrupt the accessibility and supply of images to those who seek them out”.
+
+Furthermore, I do not think that a more cursory visitor to the site would necessarily pick up the careful wording of some of the passages quoted. On the contrary, the overall impression conveyed is that the IWF “combats” the availability of images of child sexual abuse on the internet i.e. prevents, or at least restricts, access to them.
+
+Moreover, this is precisely how BT itself has portrayed its implementation of the blocking system described below, or at least has been reported as doing so, on several occasions. It is sufficient to refer by way of example to a BBC News report dating from 30 July 2004, shortly after BT’s Cleanfeed system was launched:
+
+“BT says it is blocking up to 20,000 attempts each day to access child porn.
+
+…
+
+BT said in its first three weeks its new system, which bars access to particular sites, registered nearly 250,000 attempts to view web pages containing images of child pornography.
+
+That represents an average of about 10,000 requests each day.
+
+Anyone trying to access such a site would be presented with a message ‘Website not found’.
+
+…
+
+[The chief executive of BT retail] said the company had no way of telling how many users were navigating to such sites by accident.
+
+…
+
+A BT spokesman added ‘It could be that one dedicated pervert is making hundreds of attempts to get on websites each day’.”
+
+Other examples are more recent in date.
+
+Cleanfeed
+
+In essence, what the Studios seek by their revised form of order is that BT should implement the same measures with regard to the Newzbin2 website as it already operates with regard to URLs reported to it by the IWF. It is therefore necessary to describe that system in outline.
+
+Three methods of attempting to block access to websites that can be employed by ISPs such as BT are as follows:
+
+DNS name blocking. The Domain Name System (DNS) is the system that associates a domain name (such as www.newzbin.com, colloquially known as a web address) with the Internet Protocol (IP) address (such as 85.112.165.70) that ISPs use to route traffic to the web server that is operating the website in question. ISPs operate DNS servers that their customers’ computers automatically call upon to look up IP addresses corresponding to DNS names. The customers’ computers request these lookups so that they can address their communications to the website in question using its IP address, which is the necessary form of address for their communications to be delivered. DNS name blocking involves an ISP removing or modifying its records of the IP address(es) for a particular DNS name, so that when the ISP’s DNS server is asked by a customer’s computer for the IP address corresponding to the DNS name, the ISP’s system either returns no IP address or points the customer to an IP address defined by the ISP that in actuality does not correspond to the DNS name.
+
+IP address blocking using routers. This is implemented in network devices ISPs operate known as border gateway (edge) routers that send customer communications to their destinations based on the destination IP addresses of the communications.  An ISP can configure its routers to discard communications destined for the IP address of the website in question or route them to an IP address defined by the ISP that is different from the actual IP address of the website.  This method thus blocks a customer’s communications to a website even if the customer’s computer uses the correct IP address for the website.
+
+DPI-based URL blocking using ACLs on network management systems. This mechanism involves configuring the ISP’s network management system to monitor traffic by means of Deep Packet Inspection (DPI) and reset or block a customer’s connection to specific Uniform Resource Locators (URLs) as defined in the network management system’s Access Control Lists. A URL is an IP address, which usually consists of the access protocol (e.g. http), the domain name and the resource (i.e. the page). This mechanism can also be used to implement IP address blocking as an alternative to the router method described above.  DPI-based URL blocking is necessary in cases where a website to be blocked shares an IP address with other websites which are not to be blocked. Further, this mechanism is necessary to block access to only a portion of a website.  For example, blocking only the URL “www.example.com/home.html” would block access to the specific page named “home.html” on the website “www.example.com” while leaving the remainder of the site accessible.
+
+DPI may take place at three levels. There may be: (i) a minimal analysis; (ii) summary analysis; or (iii) detailed, invasive analysis of the contents of a data packet.
+
+In 2004 BT launched a system known as Cleanfeed with the aim of disrupting access by its subscribers to URLs listed on the IWF list. Cleanfeed is a hybrid system of IP address blocking and DPI-based URL blocking which operates as a two-stage mechanism to filter specific internet traffic. It involves the first two levels of DPI analysis, but not the third. It is not necessary or appropriate to describe how it operates in any more detail than I have given above.
+
+Subsequently, other ISPs have adopted similar systems. These are frequently referred to as “Cleanfeed” systems as well.
+
+The legal context
+
+The legal context for the present application consists primarily of (a) domestic and European human rights legislation and (b) three European Union directives relevant to copyright enforcement and the domestic implementing legislation. I shall set out the relevant provisions here. I shall also have occasion to make reference to certain other legislative provisions later in this judgment.
+
+The Human Rights Act 1998
+
+Section 3(1) of the Human Rights Act 1998 (“HRA 1998”) requires that “So far as possible, primary legislation and subordinate legislation must be read and given effect in a way which is compatible with human rights.” Section 6(1) provides that “It is unlawful for a public authority to act in a way which is incompatible with a Convention right”, and section 6(2)(a) defines “public authority” as including a court. Section 12 of the HRA 1988 includes the following provisions:
+
+“12.(1) This section applies if a court is considering whether to grant any relief which, if granted, might affect the exercise of the Convention right to freedom of expression.
+
+…
+
+(3)	No such relief is to be granted so as to restrain publication before trial unless the court is satisfied that the applicant is likely to establish that publication should not be allowed.
+
+(4) 	The court must have particular regard to the importance of the Convention right to freedom of expression …”
+
+The Convention rights
+
+The Convention rights that are relevant in the present case are those guaranteed by Article 10 of, and Article 1 of the First Protocol to, the European Convention on Human Rights. Article 10 provides:
+
+“1.	Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. This Article shall not prevent States from requiring the licensing of broadcasting, television or cinema enterprises.
+
+2.	The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.”
+
+Article 1 of the First Protocol provides:
+
+“Every natural or legal person is entitled to the peaceful enjoyment of his possessions.  No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.  The preceding provisions shall not, however, in any way impair the right of a state to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.”
+
+E-Commerce Directive
+
+European Parliament and Council Directive 2000/31/EC of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (“the E-Commerce Directive”) contains no less than 65 recitals which explain its purpose and guide its interpretation. My attention was drawn to all or part of recitals (3), (4), (7), (8), (10), (17), (20), (40), (41), (42)-(48), (50) and (60). Of these, I consider the most relevant to be the following:
+
+“(7) 	In order to ensure legal certainty and consumer confidence, this Directive must lay down a clear and general framework to cover certain legal aspects of electronic commerce in the internal market.
+
+(8) 	The objective of this Directive is to create a legal framework to ensure the free movement of information society services between Member States and not to harmonise the field of criminal law as such.
+
+….
+
+(17) 	The definition of information society services already exists in Community law in Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on information society services and in Directive 98/84/EC of the European Parliament and of the Council of 20 November 1998 on the legal protection of services based on, or consisting of, conditional access; this definition covers any service normally provided for remuneration, at a distance, by means of electronic equipment for the processing (including digital compression) and storage of data, and at the individual request of a recipient of a service; those services referred to in the indicative list in Annex V to Directive 98/34/EC which do not imply data processing and storage are not covered by this definition.
+
+…
+
+(20) 	The definition of ‘recipient of a service’ covers all types of usage of information society services, both by persons who provide information on open networks such as the Internet and by persons who seek information on the Internet for private or professional reasons.
+
+…
+
+(40) 	Both existing and emerging disparities in Member States' legislation and case-law concerning liability of service providers acting as intermediaries prevent the smooth functioning of the internal market, in particular by impairing the development of cross-border services and producing distortions of competition; service providers have a duty to act, under certain circumstances, with a view to preventing or stopping illegal activities; this Directive should constitute the appropriate basis for the development of rapid and reliable procedures for removing and disabling access to illegal information; such mechanisms could be developed on the basis of voluntary agreements between all parties concerned and should be encouraged by Member States; it is in the interest of all parties involved in the provision of information society services to adopt and implement such procedures; the provisions of this Directive relating to liability should not preclude the development and effective operation, by the different interested parties, of technical systems of protection and identification and of technical surveillance instruments made possible by digital technology within the limits laid down by Directives 95/46/EC and 97/66/EC.
+
+….
+
+(42) 	The exemptions from liability established in this Directive cover only cases where the activity of the information society service provider is limited to the technical process of operating and giving access to a communication network over which information made available by third parties is transmitted or temporarily stored, for the sole purpose of making the transmission more efficient; this activity is of a mere technical, automatic and passive nature, which implies that the information society service provider has neither knowledge of nor control over the information which is transmitted or stored.
+
+…
+
+(45) 	The limitations of the liability of intermediary service providers established in this Directive do not affect the possibility of injunctions of different kinds; such injunctions can in particular consist of orders by courts or administrative authorities requiring the termination or prevention of any infringement, including the removal of illegal information or the disabling of access to it.
+
+(46) 	In order to benefit from a limitation of liability, the provider of an information society service, consisting of the storage of information, upon obtaining actual knowledge or awareness of illegal activities has to act expeditiously to remove or to disable access to the information concerned; the removal or disabling of access has to be undertaken in the observance of the principle of freedom of expression and of procedures established for this purpose at national level; this Directive does not affect Member States' possibility of establishing specific requirements which must be fulfilled expeditiously prior to the removal or disabling of information.
+
+(47) 	Member States are prevented from imposing a monitoring obligation on service providers only with respect to obligations of a general nature; this does not concern monitoring obligations in a specific case and, in particular, does not affect orders by national authorities in accordance with national legislation.
+
+(48) 	This Directive does not affect the possibility for Member States of requiring service providers, who host information provided by recipients of their service, to apply duties of care, which can reasonably be expected from them and which are specified by national law, in order to detect and prevent certain types of illegal activities.
+
+…
+
+(50) 	It is important that the proposed directive on the harmonisation of certain aspects of copyright and related rights in the information society and this Directive come into force within a similar time scale with a view to establishing a clear framework of rules relevant to the issue of liability of intermediaries for copyright and relating rights infringements at Community level.”
+
+Article 2 of the E-Commerce Directive contains definitions of a number of terms, including the following:
+
+“(a) 	‘information society services’: services within the meaning of Article 1(2) of Directive 98/34/EC as amended by Directive 98/48/EC;
+
+(b) 	‘service provider’: any natural or legal person providing an information society service;
+
+…
+
+(d) 	‘recipient of the service’: any natural or legal person who, for professional ends or otherwise, uses an information society service, in particular for the purposes of seeking information or making it accessible.”
+
+Article 1(2) of Directive 98/34/EC as amended by Directive 98/48/EC  contains the following definition:
+
+“‘service’: any Information Society service, that is to say, any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services.
+
+For the purposes of this definition:
+
+‘at a distance’: means that the service is provided without the parties being simultaneously present,
+
+‘by electronic means’:  means that the service is sent initially and received at its destination by means of electronic equipment for the processing (including digital compression) and storage of data and entirely transmitted, conveyed and received by wire, by radio, by optical means or by other electromagnetic means,
+
+-	‘at the individual request of a recipient of the service’: means that the service is provided through the transmission of data on individual request. ”
+
+Articles 12, 13, 14, 15, 18(1) and 20 of the E-Commerce Directive provide:
+
+“Article 12
+
+‘Mere conduit’
+
+1. 	Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, or the provision of access to a communication network, Member States shall ensure that the service provider is not liable for the information transmitted, on condition that the provider:
+
+(a) 	does not initiate the transmission;
+
+(b) 	does not select the receiver of the transmission; and
+
+(c) 	does not select or modify the information contained in the transmission.
+
+2. 	The acts of transmission and of provision of access referred to in paragraph 1 include the automatic, intermediate and transient storage of the information transmitted in so far as this takes place for the sole purpose of carrying out the transmission in the communication network, and provided that the information is not stored for any period longer than is reasonably necessary for the transmission.
+
+3. 	This Article shall not affect the possibility for a court or administrative authority, in accordance with Member States' legal systems, of requiring the service provider to terminate or prevent an infringement.
+
+Article 13
+
+‘Caching’
+
+1.	Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, Member States shall ensure that the service provider is not liable for the automatic, intermediate and temporary storage of that information, performed for the sole purpose of making more efficient the information’s onward transmission to other recipients of the service upon their request, on condition that:
+
+(a) 	the provider does not modify the information;
+
+(b) 	the provider complies with conditions on access to the information;
+
+(c) 	the provider complies with rules regarding the updating of the information, specified in a manner widely recognised and used by industry;
+
+(d) 	the provider does not interfere with the lawful use of technology, widely recognised and used by industry, to obtain data on the use of the information; and
+
+(e) 	the provider acts expeditiously to remove or disable access to the information it has stored upon obtaining actual knowledge of the fact that the information at the initial source of the transmission has been removed from the network, or access to it has been disabled, or that a court or an administrative authority has ordered such removal or disablement.
+
+2.	This Article shall not affect the possibility for a court or administrative authority, in accordance with Member States’ legal systems, of requiring the service provider to terminate or prevent an infringement.
+
+Article 14
+
+Hosting
+
+1. 	Where an information society service is provided that consists of the storage of information provided by a recipient of the service, Member States shall ensure that the service provider is not liable for the information stored at the request of a recipient of the service, on condition that:
+
+(a) 	the provider does not have actual knowledge of illegal activity or information and, as regards claims for damages, is not aware of facts or circumstances from which the illegal activity or information is apparent; or
+
+(b) 	the provider, upon obtaining such knowledge or awareness, acts expeditiously to remove or to disable access to the information.
+
+2. 	Paragraph 1 shall not apply when the recipient of the service is acting under the authority or the control of the provider.
+
+3. 	This Article shall not affect the possibility for a court or administrative authority, in accordance with Member States' legal systems, of requiring the service provider to terminate or prevent an infringement, nor does it affect the possibility for Member States of establishing procedures governing the removal or disabling of access to information
+
+Article 15
+
+No general obligation to monitor
+
+1. 	Member States shall not impose a general obligation on providers, when providing the services covered by Articles 12, 13 and 14, to monitor the information which they transmit or store, nor a general obligation actively to seek facts or circumstances indicating illegal activity.
+
+2. 	Member States may establish obligations for information society service providers promptly to inform the competent public authorities of alleged illegal activities undertaken or information provided by recipients of their service or obligations to communicate to the competent authorities, at their request, information enabling the identification of recipients of their service with whom they have storage agreements.
+
+…
+
+Article 18
+
+Court actions
+
+1. 	Member States shall ensure that court actions available under national law concerning information society services' activities allow for the rapid adoption of measures, including interim measures, designed to terminate any alleged infringement and to prevent any further impairment of the interests involved.
+
+…
+
+Article 20
+
+Sanctions
+
+Member States shall determine the sanctions applicable to infringements of national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are enforced. The sanctions they provide for shall be effective, proportionate and dissuasive.”
+
+Domestic implementation of the E-Commerce Directive
+
+The E-Commerce Directive was transposed into domestic law by the Electronic Commerce (EC Directive) Regulations 2002, SI 2002/2013 (“the 2002 Regulations”). In particular, Articles 12-14 of the E-Commerce Directive are implemented by regulations 17-20 of the 2002 Regulations. There is little difference between the wording of the respective provisions, however, and it was not suggested by either side that they bore different meanings. Regulation 22 of the 2002 Regulations provides:
+
+“Notice for the purposes of actual knowledge
+
+In determining whether a service provider has actual knowledge for the purposes of regulations 18(b)(v) and 19(a)(i), a court shall take into account all matters which appear to it in the particular circumstances to be relevant and, among other things, shall have regard to—
+
+(a)	whether a service provider has received a notice through a means of contact made available in accordance with regulation 6(1)(c), and
+
+(b)	the extent to which any notice includes—
+
+(i)	the full name and address of the sender of the notice;
+
+(ii)	details of the location of the information in question; and
+
+(iii)	details of the unlawful nature of the activity or information in question.”
+
+Information Society Directive
+
+European Parliament and Council Directive 2001/29/EC of 22 May 2001 on the harmonisation of certain aspects of copyright and related rights in the information society (“the Information Society Directive”) contains 61 recitals.  My attention was drawn to all or part of recitals (2)-(4), (7)-(16) and (58)- (60). Of these, I consider the most relevant to be the following:
+
+“(4)	A harmonised legal framework on copyright and related rights, through increased legal certainty and while providing for a high level of protection of intellectual property, will foster substantial investment in creativity and innovation, including network infrastructure, and lead in turn to growth and increased competitiveness of European industry, both in the area of content provision and information technology and more generally across a wide range of industrial and cultural sectors. This will safeguard employment and encourage new job creation.
+
+…
+
+(9) 	Any harmonisation of copyright and related rights must take as a basis a high level of protection, since such rights are crucial to intellectual creation. Their protection helps to ensure the maintenance and development of creativity in the interests of authors, performers, producers, consumers, culture, industry and the public at large. Intellectual property has therefore been recognised as an integral part of property.
+
+(10) 	If authors or performers are to continue their creative and artistic work, they have to receive an appropriate reward for the use of their work, as must producers in order to be able to finance this work. The investment required to produce products such as phonograms, films or multimedia products, and services such as ‘on-demand’ services, is considerable. Adequate legal protection of intellectual property rights is necessary in order to guarantee the availability of such a reward and provide the opportunity for satisfactory returns on this investment.
+
+(11) 	A rigorous, effective system for the protection of copyright and related rights is one of the main ways of ensuring that European cultural creativity and production receive the necessary resources and of safeguarding the independence and dignity of artistic creators and performers.
+
+(12) 	Adequate protection of copyright works and subject-matter of related rights is also of great importance from a cultural standpoint. Article 151 of the Treaty requires the Community to take cultural aspects into account in its action.
+
+(13) 	A common search for, and consistent application at European level of, technical measures to protect works and other subject-matter and to provide the necessary information on rights are essential insofar as the ultimate aim of these measures is to give effect to the principles and guarantees laid down in law.
+
+…
+
+(16) 	Liability for activities in the network environment concerns not only copyright and related rights but also other areas, such as defamation, misleading advertising, or infringement of trademarks, and is addressed horizontally in Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the internal market (‘Directive on electronic commerce’), which clarifies and harmonises various legal issues relating to information society services including electronic commerce. This Directive should be implemented within a timescale similar to that for the implementation of the Directive on electronic commerce, since that Directive provides a harmonised framework of principles and provisions relevant inter alia to important parts of this Directive. This Directive is without prejudice to provisions relating to liability in that Directive.
+
+…
+
+(22) 	The objective of proper support for the dissemination of culture must not be achieved by sacrificing strict protection of rights or by tolerating illegal forms of distribution of counterfeited or pirated works.
+
+…
+
+(58) 	Member States should provide for effective sanctions and remedies for infringements of rights and obligations as set out in this Directive. They should take all the measures necessary to ensure that those sanctions and remedies are applied. The sanctions thus provided for should be effective, proportionate and dissuasive and should include the possibility of seeking damages and/or injunctive relief and, where appropriate, of applying for seizure of infringing material.
+
+(59) 	In the digital environment, in particular, the services of intermediaries may increasingly be used by third parties for infringing activities. In many cases such intermediaries are best placed to bring such infringing activities to an end. Therefore, without prejudice to any other sanctions and remedies available, rightholders should have the possibility of applying for an injunction against an intermediary who carries a third party's infringement of a protected work or other subject-matter in a network. This possibility should be available even where the acts carried out by the intermediary are exempted under Article 5. The conditions and modalities relating to such injunctions should be left to the national law of the Member States.
+
+(60) 	The protection provided under this Directive should be without prejudice to national or Community legal provisions in other areas, such as industrial property, data protection, conditional access, access to public documents, and the rule of media exploitation chronology, which may affect the protection of copyright or related rights.”
+
+Article 8 provides as follows:
+
+“Sanctions and remedies
+
+1. 	Member States shall provide appropriate sanctions and remedies in respect of infringements of the rights and obligations set out in this Directive and shall take all the measures necessary to ensure that those sanctions and remedies are applied. The sanctions thus provided for shall be effective, proportionate and dissuasive.
+
+2. 	Each Member State shall take the measures necessary to ensure that rightholders whose interests are affected by an infringing activity carried out on its territory can bring an action for damages and/or apply for an injunction and, where appropriate, for the seizure of infringing material as well as of devices, products or components referred to in Article 6(2).
+
+3. 	Member States shall ensure that rightholders are in a position to apply for an injunction against intermediaries whose services are used by a third party to infringe a copyright or related right.”
+
+Domestic implementation of the Information Society Directive
+
+The Information Society Directive was transposed into domestic law by the Copyright and Related Rights Regulations 2003, SI 2003/2498 (“the 2003 Regulations”). In particular, Article 8(3) was implemented by Regulation 27, which inserted sections 97A and 191JA into Parts I and II respectively of the CDPA 1988. These are as follows:
+
+“97A 	Injunctions against service providers
+
+(1) 	The High Court (in Scotland, the Court of Session) shall have power to grant an injunction against a service provider, where that service provider has actual knowledge of another person using their service to infringe copyright.
+
+(2) 	In determining whether a service provider has actual knowledge for the purpose of this section, a Court shall take into account all matters which appear to it in the particular circumstances to be relevant and, amongst other things, shall have regard to –
+
+(a) 	whether a service provider has received a notice through a means of contact made available in accordance with regulation 6(1)(c) of the Electronic Commerce (EC Directive) Regulations 2002 (SI 2002/2013); and
+
+(b)	 the extent to which any notice includes –
+
+(i) 	the full name and address of the sender of the notice;
+
+(ii) 	details of the infringement in question.
+
+(3)	In this section ‘service provider’ has the meaning given to it by regulation 2 of the Electronic Commerce (EC Directive) Regulations 2002.
+
+191JA 	Injunctions against service providers
+
+(1) 	The High Court (in Scotland, the Court of Session) shall have power to grant an injunction against a service provider, where that service provider has actual knowledge of another person using their service to infringe a performer’s property right.
+
+(2) 	In determining whether a service provider has actual knowledge for the purpose of this section, a Court shall take into account all matters which appear to it in the particular circumstances to be relevant and, amongst other things, shall have regard to –
+
+(a) 	whether a service provider has received a notice through a means of contact made available in accordance with regulation 6(1)(c) of the Electronic Commerce (EC Directive) Regulations 2002 (SI 2002/2013); and
+
+(b)	 the extent to which any notice includes –
+
+(i) 	the full name and address of the sender of the notice;
+
+(ii) 	details of the infringement in question.
+
+(3)	In this section ‘service provider’ has the meaning given to it by regulation 2 of the Electronic Commerce (EC Directive) Regulations 2002.
+
+(4)	Section 177 applies in respect of this section as it applies in respect of Part I.”
+
+The Enforcement Directive
+
+European Parliament and Council Directive 2004/48/EC of 29 April 2004 on the enforcement of intellectual property rights (“the Enforcement Directive”) contains a mere 32 recitals. I was referred to recitals (22)-(24). These read as follows:
+
+“(22) 	It is also essential to provide for provisional measures for the immediate termination of infringements, without awaiting a decision on the substance of the case, while observing the rights of the defence, ensuring the proportionality of the provisional measures as appropriate to the characteristics of the case in question and providing the guarantees needed to cover the costs and the injury caused to the defendant by an unjustified request. Such measures are particularly justified where any delay would cause irreparable harm to the holder of an intellectual property right.
+
+(23) 	Without prejudice to any other measures, procedures and remedies available, rightholders should have the possibility of applying for an injunction against an intermediary whose services are being used by a third party to infringe the rightholder’s industrial property right. The conditions and procedures relating to such injunctions should be left to the national law of the Member States. As far as infringements of copyright and related rights are concerned, a comprehensive level of harmonisation is already provided for in Directive 2001/29/EC. Article 8(3) of Directive 2001/29/EC should therefore not be affected by this Directive.
+
+(24) 	Depending on the particular case, and if justified by the circumstances, the measures, procedures and remedies to be provided for should include prohibitory measures aimed at preventing further infringements of intellectual property rights. Moreover there should be corrective measures, where appropriate at the expense of the infringer, such as the recall and definitive removal from the channels of commerce, or destruction, of the infringing goods and, in appropriate cases, of the materials and implements principally used in the creation or manufacture of these goods. These corrective measures should take account of the interests of third parties including, in particular, consumers and private parties acting in good faith.”
+
+Article 2(3) provides:
+
+“This Directive shall not affect:
+
+(a)	the Community provisions governing the substantive law on intellectual property, Directive 95/46/EC, Directive 1999/93/EC or Directive 2000/31/EC, in general, and Articles 12 to 15 of Directive 2000/31/EC in particular;
+
+…”
+
+Article 3 provides:
+
+“General obligation
+
+1. 	Member States shall provide for the measures, procedures and remedies necessary to ensure the enforcement of the intellectual property rights covered by this Directive. Those measures, procedures and remedies shall be fair and equitable and shall not be unnecessarily complicated or costly, or entail unreasonable time-limits or unwarranted delays.
+
+2. 	Those measures, procedures and remedies shall also be effective, proportionate and dissuasive and shall be applied in such a manner as to avoid the creation of barriers to legitimate trade and to provide for safeguards against their abuse.”
+
+Article 11 provides:
+
+“Injunctions
+
+Member States shall ensure that, where a judicial decision is taken finding an infringement of an intellectual property right, the judicial authorities may issue against the infringer an injunction aimed at prohibiting the continuation of the infringement. Where provided for by national law, non-compliance with an injunction shall, where appropriate, be subject to a recurring penalty payment, with a view to ensuring compliance. Member States shall also ensure that rightholders are in a position to apply for an injunction against intermediaries whose services are used by a third party to infringe an intellectual property right, without prejudice to Article 8(3) of Directive 2001/29/EC.”
+
+Domestic implementation of the Enforcement Directive
+
+The Enforcement Directive was transposed into domestic law primarily by the Intellectual Property (Enforcement, etc.) Regulations 2006, SI 2006/1028. The UK did not take any specific steps to implement the last sentence of Article 11, but instead relied upon its pre-existing law as being in compliance with that provision. This is despite the fact that Article 8(3) of the Information Society Directive had been specifically implemented in the manner described above.
+
+Relevant principles of interpretation
+
+As discussed below, the application gives rise to a number of issues of interpretation of the legislation set out above. The following principles of interpretation are particularly relevant to these issues.
+
+Interpretation of domestic legislation in the context of European directives
+
+It is well established that domestic legislation, and in particular legislation specifically enacted or amended to implement a European directive, must be construed so far as is possible in conformity with, and to achieve the result intended by, the directive: Case C-106/89 Marleasing SA v La Comercial Internacional de Alimentación SA [1990] ECR I-4135 at [8]; Litster v Forth Dry Dock and Engineering Co Ltd [1990] 1 AC 546, HL at 558C-H (Lord Templeman) and 576E-577D (Lord Oliver of Aylmerton); Cases C-397/01 to C-403/01 Pfeiffer v Deutsches Rotes Kreuz, Kreisverband Waldshut eV  [2004] ECR I-8835 at [113]-[117]; and R (IDT Card Services Ireland Ltd) v Commissioners for Her Majesty’s Revenue and Customs [2006] EWCA Civ 29, [2006] STC 1252 at [73]-[92] (Arden LJ). This is a strong duty of interpretation. Indeed, at the end of the passage in her judgment in IDT that I have referred to, Arden LJ suggests that there is little difference between the Court’s duty under the Marleasing principle and its duty under section 3 of the Human Rights Act 1998 to interpret domestic legislation as far as possible in a manner which is compatible with Convention rights under the European Convention on Human Rights. As held by the House of Lords in Ghaidan v Godin-Mendoza [2004] UKHL 30, [2004] 2 AC 557, this is (to adopt the words of Lord Nicholls of Birkenhead at [30]) an interpretative obligation of “an unusual and far-reaching character” which “may require a court to depart from the unambiguous meaning the legislation would otherwise bear”.
+
+Interpretation of European directives
+
+A European directive falls to be interpreted according to principles of interpretation of European Union legislation developed by the Court of Justice of the European Union. The basic rule of interpretation, which has been frequently reiterated by the European Court of Justice, is that stated in Case C-306/05 Sociedad General de Autores y Editores de España v Rafael Hoteles SA [2006] ECR I-11519 at [34]:
+
+“According to settled case-law, in interpreting a provision of Community law it is necessary to consider not only its wording, but also the context in which it occurs and the objectives pursued by the rules of which it is part (see, in particular, Case C-156/98 Germany v Commission [2000] ECR I-6857, paragraph 50, and Case C-53/05 Commission v Portugal [2006] ECR I-6215, paragraph 20)”.
+
+As is well known, in applying this rule the ECJ routinely refers to the recitals of the measure as well as its operative provisions, and frequently refers to pre-legislative materials such as the Explanatory Memoranda which accompany the Commission’s legislative proposals.
+
+Other European cases
+
+Counsel for the Studios helpfully referred me to a series of other cases in which similar applications had been considered elsewhere in Europe. In chronological order, and with one addition supplied by counsel for BT, these are as follows:
+
+IFPI Danmark v Tele 2 A/S (Copenhagen City Court, 25 October 2006): order granted on application of the Danish branch of IFPI requiring ISP to block access to www.allofmymp3.com, it appears by DNS blocking;
+
+SABAM v Tiscali SA (Brussels Court of First Instance, 29 June 2007): order granted on application of Belgian collecting society requiring ISP to filter and block infringing content;
+
+IFPI Danmark v DMT2 A/S (Frederiksberg Court, 29 October 2008) upheld sub nom Sonofon A/S v IFPI (High Court of Eastern Denmark, 26 November 2008) and sub nom Telenor v IFPI (Danish Supreme Court, 27 May 2010): order granted on application of the Danish branch of IFPI requiring ISP to block access to www.thepiratebay.org (“the Pirate Bay”);
+
+Bergamo Public Prosecutor’s Officer v Kolmisappi (Italian Supreme Court of Cessation, 29 Sept 2009): order requiring ISPs to block access to the Pirate Bay as part of preventative seizure in criminal proceedings;
+
+Columbia Pictures Industries Inc v Portlane AB (Swedish Court of Appeal, 4 May 2010): order granted on the application of the Studios requiring ISP to block access to a tracker website associated with the Pirate Bay;
+
+Nordic Records Norway AS v Telenor ASA (Borgarting Court of Appeal, 9 February 2010): application for preliminary injunction by various rightholders requiring ISP to cease contributing to infringements committed through the Pirate Bay refused, Article 8(3) of the Information Society Directive not having been specifically implemented;
+
+Stichting Bescherming Rechten Entertainment Industrie Nederland (BREIN) v. Ziggo BV (District Court of the Hague, 19 July 2010): interim injunction to block access to the Pirate Bay refused;
+
+EMI v UPC (cited above): application by rightholders against ISP for blocking injunction refused since no equivalent of section 97A CDPA 1988 implementing Article 8(3) of the Information Society Directive;
+
+Constantin Film v UPC (Commercial Court of Austria, 13 May 2011): order granted on application of two film companies requiring ISP to block www.kino.te using IP blocking.
+
+Apart from the second and eighth cases, aspects of which are considered below, I do not propose further to increase the length of what is already a lengthy judgment by discussing these cases individually, although I have considered them with interest. The main conclusion I draw from them is that, so far, no uniform approach has emerged among European courts to such applications. I do not find this surprising given that Member States have implemented Article 8(3) of Information Society Directive in different ways and given that the Court of Justice has only provided relevant guidance recently. I will return to this point below.
+
+Jurisdiction
+
+BT accepts that it is a “service provider” within the meaning of section 97A of the CDPA 1988. BT contends, however, that the court has no jurisdiction to make the order sought by the Studios for five different reasons.
+
+1.	No use of BT’s service to infringe copyright
+
+As noted above, section 97A implements Article 8(3) of the Information Society Directive, which requires Member States to ensure that “rights holders are in a position to apply for an injunction against intermediaries whose services are used by a third party to infringe a copyright or related right”. It is common ground that, so far as is relevant to the present case, BT acts as a “mere conduit” within Article 12 of the E-Commerce Directive and regulation 17 of the 2002 Regulations. As noted above, it is probable that a substantial number of BT’s subscribers use Newbin2 to obtain infringing copies of the Studios’ films and television programmes. The Studios contend that both the users and the operators of Newzbin2 are using BT’s service to infringe the Studios’ copyrights (and third party copyrights in other types of works). BT disputes that either the users or the operators use its service to infringe copyright.
+
+Users. The question here is whether, when a BT subscriber who is a member of Newzbin2 visits the Newzbin2 website, downloads an NZB file and then downloads an infringing copy of a film or a television programme, that subscriber is using BT’s service to infringe copyright. BT contends that the subscriber is not using its service, but the service provided by Newzbin2. In my view this is a false dichotomy. It is common ground that the subscriber uses the Newzbin2 website to infringe, but it does not necessarily follow that the subscriber is not using BT’s service to infringe. The subscriber may be using both services to infringe.
+
+Counsel for BT argued that the position was analogous to obtaining pirate video cassettes or DVDs by mail order, as follows. It is not the sending of the request to the supplier, or the receipt of the cassette or DVD by post from the supplier, which amounts to an infringement. The infringement occurs using the services of the supplier, not the postal service through which the request is sent and the cassette delivered. The position would be the same if the infringing article was a book, and it would make no difference if the supplier arranged for 100 sub-suppliers to each send one page of the book to the customers who then compiled and bound the book themselves upon receipt.
+
+He also sought to gain support from section 17 of the Digital Economy Act 2010, sub-sections (1) and (2) of which provide:
+
+“(1) 	The Secretary of State may by regulations make provision about the granting by a court of a blocking injunction in respect of a location on the internet which the court is satisfied has been, is being or is likely to be used for or in connection with an activity that infringes copyright.
+
+(2) 	‘Blocking injunction’ means an injunction that requires a service provider to prevent its service being used to gain access to the location.”
+
+He submitted that these sub-sections distinguish between the location which is used to infringe copyright, and the service provider’s service which is used to gain access to the location which is used to infringe copyright.
+
+In my judgment this issue depends on the true construction of the words “intermediaries whose services are used by a third party to infringe a copyright or related right” in Article 8(3), since the corresponding words in section 97A must be interpreted in the same way. I do not consider that it is legitimate to attempt to construe those words by reference to later national legislation such as the Digital Economy Act 2010. Furthermore, I am doubtful that analogies of the kind advanced by counsel for BT are helpful in this context. In my view, it is important to consider the nature of the infringing act and its relationship with the service in question. In the present case, the infringing acts by the users consist of making digital copies of the Studios’ films and television programmes on their computers. Each of those digital copies is made by assembling thousands of packets received via BT’s service. No complete copy is necessarily made on BT network equipment at any single point in time, but transient copies of all the packets that in aggregate make up a complete copy will be made on BT network equipment. Does that amount to use of BT’s service to infringe copyright?
+
+Guidance on this question is provided by the judgment of the Court of Justice in Case C-557/07 LSG-Gesellschaft zur Wahrnehmung von Leistungsschutzrechten GmbH v Tele2 Telecommunication GmbH [2009] ECR I-1227. In that case LSG was a collecting society which enforced the rights of recorded music producers in their sound recordings and the rights of the recording artists in respect of the exploitation of those recordings in Austria, in particular the right to reproduce and distribute the recordings and the right to make them available to the public.  Tele2 was an internet access provider which assigned to its clients IP addresses, which were usually dynamic rather than static. Tele2 was able to identify individual clients on the basis of the IP address and the period or date when it was assigned.  The rightholders were suffering financial loss as a result of the creation of file‑sharing systems which make it possible for participants to exchange copies of recordings. In order to be able to bring civil proceedings against the perpetrators, LSG applied for an order requiring Tele2 to disclose the names and addresses of persons to whom it had provided an Internet access service and whose IP addresses, together with the day and time of the connection, were known.
+
+The Oberster Gerichtshof (Austrian Supreme Court) referred two questions to the Court of Justice, the first of which was as follows:
+
+“Is the term ‘intermediary’ in Article 5(1)(a) and Article 8(3) of Directive [2001/29] to be interpreted as including an access provider who merely provides a user with access to the network by allocating him a dynamic IP address but does not himself provide him with any services such as email, FTP or file‑sharing services and does not exercise any control, whether de iure or de facto, over the services which the user makes use of?”
+
+Tele2 argued that it was not an “intermediary” for reasons which the Court of Justice summarised at [38] as follows:
+
+“Tele2 maintains, inter alia, that intermediaries must be in a position to bring copyright infringements to an end. Internet access providers, on the other hand, in as much as they exercise no control, whether de iure or de facto, over the services accessed by the user, are not capable of bringing such infringements to an end and, accordingly, are not ‘intermediaries’ within the meaning of Directive 2001/29.”
+
+The Court of Justice rejected this argument for the following reasons:
+
+“42.	… under Article 8(3) of Directive 2001/29, Member States are to ensure that rightholders are in a position to apply for an injunction against intermediaries whose services are used by a third party to infringe a copyright or related right.
+
+43.      	Access providers who merely enable clients to access the Internet, even without offering other services or exercising any control, whether de iure or de facto, over the services which users make use of, provide a service capable of being used by a third party to infringe a copyright or related right, inasmuch as those access providers supply the user with the connection enabling him to infringe such rights.
+
+44.      	Moreover, according to Recital 59 in the preamble to Directive 2001/29, rightholders should have the possibility of applying for an injunction against an intermediary who ‘carries a third party’s infringement of a protected work or other subject-matter in a network’. It is common ground that access providers, in granting access to the Internet, make it possible for such unauthorised material to be transmitted between a subscriber to that service and a third party.
+
+45.      	That interpretation is borne out by the aim of Directive 2001/29 which, as is apparent in particular from Article 1(1) thereof, seeks to ensure the legal protection of copyright and related rights in the framework of the internal market. The protection sought by Directive 2001/29 would be substantially diminished if ‘intermediaries’, within the meaning of Article 8(3) of that directive, were to be construed as not covering access providers, which alone are in possession of the data making it possible to identify the users who have infringed those rights.
+
+46      	In view of the foregoing, the answer to the first question is that access providers which merely provide users with Internet access, without offering other services such as email, FTP or file‑sharing services or exercising any control, whether de iure or de facto, over the services which users make use of, must be regarded as ‘intermediaries’ within the meaning of Article 8(3) of Directive 2001/29.”
+
+Counsel for the Studios submitted that it was clear from this reasoning, and in particular [43]-[44], that the users in the present case do use BT’s service to infringe the Studio’s copyrights within the meaning of Article 8(3). Counsel for BT submitted that the Court of Justice was concerned in those paragraphs with the situation of an ISP which provided access to users who transmitted material in infringement of copyright or related rights, whereas the present case was concerned with an ISP which provided access to users who merely received such material. I do not accept that the present case can be distinguished from LSG v Tele2 in this way. There is nothing in [43]-[44] to suggest that the Court of Justice considered that it mattered whether the users were transmitting or receiving copyright materials. Given that the case concerned file-sharing, the users could have been doing either or both. The language used by the Court in the last sentence of [44], which refers to unauthorised material “transmitted between a subscriber to that service and a third party [emphasis added]”, is apt to cover both activities. Furthermore, I do not accept the implicit characterisation of the BT subscribers who are members of Newzbin2 as mere passive recipients of infringing material. On the contrary, they actively download the material in the manner described above. I therefore conclude that the users do use BT’s service to infringe the Studios’ copyrights. This conclusion is consistent with that of Charleton J regarding users of peer-to-peer (“P2P”) software and UPC’s service in EMI v UPC at [99].
+
+Operators. The question here is whether, when a BT subscriber who is a member of Newzbin2 visits the Newzbin2 website, downloads an NZB file and then downloads an infringing copy of a film or a television programme, the operators of the Newzbin2 website are using BT’s service to infringe copyright.
+
+Counsel for BT pointed out that section 97A(3) provides that “service provider” has the meaning given to it by regulation 2 of the 2002 Regulations, which  defines “service provider” as “any person providing an information society service”, and provides that “information society services” has the meaning set out in Article 2(a) of the E-Commerce Directive. Article 2(a) of the E-Commerce Directive provides that “information society services” means services within the meaning of Article 1(2) of Directive 98/34/EC as amended by Directive 98/48/EC. I have set this definition out above.
+
+Counsel for BT submitted that it was apparent from this definition that a service such as BT’s is provided at the individual request of recipients of the service, that is to say, through the transmission of data on individual request.  In this case, he said, the request in question is made by the BT subscriber, not by the operators of the Newzbin2 website. Accordingly, he argued that the operators of the Newzbin2 website do not use BT’s service at all, let alone to infringe copyright.
+
+He also submitted that this conclusion was supported by Article 12(1) of the E-Commerce Directive, which refers to a service that consists of “the transmission in a communication network of information provided by a recipient of the service, or the provision of access to a communication network”. He argued that this referred to two different alternatives, and that the second protected BT in respect of information provided to the recipient of the service, not the first.
+
+I do not accept this argument for the following reasons. I accept that an information society service is provided to BT’s subscribers, and that they are the recipients of the service who request the transmission of data. In my view, it does not follow that the operators of the Newzbin2 website do not use the service to infringe copyright. Again, it is important to consider the nature of the infringing act and its relationship with the service in question. In the present case Kitchin J’s judgment in 20C Fox v Newzbin establishes that the operators of the Newzbin2 website infringe the Studios’ copyrights in three ways. First, they authorise the users’ infringements. Secondly, they are jointly liable for the users’ infringements. Thirdly, they infringe by making available. The first two ways are different forms of accessory liability for acts committed by the users. Once it is concluded, as I have, that the users are using BT’s service to infringe copyright, then it follows that the operators are too. As for the third way, this consists of “the making available to the public of the work by electronic transmission in such a way that members of the public may access it from a place and a time individually chosen by them”. The operators make the works available in such a way that users can access them over BT’s network (among others). In my judgment that is sufficient to constitute use of BT’s service to infringe. I do not consider that Article 12(1) of the E-Commerce Directive is relevant to this issue.
+
+2.	No actual knowledge
+
+Recital (59) of the Information Society Directive states that “The conditions and modalities relating to such injunctions should be left to the national law of Member States”. In implementing Article 8(3), the UK has chosen in section 97A of CDPA 1988 to impose a condition that the service provider “has actual knowledge of another person using their service to infringe copyright”. BT disputes that it has such “actual knowledge”.
+
+This gives rise to three questions of interpretation. First, what must the service provider have “actual knowledge” of? Secondly, in what manner may a service provider be given “actual knowledge” of something which it did not know before? Thirdly, if some actual knowledge is proved, what is the scope of the injunction that may be granted?  The differences between the parties are mainly with regard to the first and third questions, but it is also necessary to touch on the second question.
+
+What must the service provider have “actual knowledge” of? The Studios contend that it is sufficient if the service provider has actual knowledge of use of its service for infringing activity. BT contends that the service provider must have actual knowledge of use of its service to commit a particular infringement of a particular copyright work by a particular identified or identifiable individual.
+
+Counsel for the Studios advanced three main arguments in support of the Studios’ interpretation. First, he pointed to the requirement imposed by Article 20 of the E-Commerce Directive, Article 8(1) of the Information Society Directive and Article 3(2) of the Enforcement Directive that the sanctions provided by Member States be “effective, proportionate and dissuasive”. He submitted that it was not open to Member States to impose “conditions and modalities” relating to Article 8(3) which undermined the effectiveness and dissuasiveness of the sanction provided for by that provision. Accordingly, he argued, while it was permissible for the UK to impose a requirement of “actual knowledge”, that requirement should not be interpreted in a manner which unduly constrained the availability of injunctions against service providers.
+
+Secondly, he suggested that the inspiration for the requirement of “actual knowledge” had come from Articles 13(1)(e) and 14(1)(a) of the E-Commerce Directive. Furthermore, he argued that those provisions, and in particular the reference in Article 14(1)(a) to “illegal activity or information”, supported the Studios’ interpretation.
+
+Thirdly, he relied on the reference to “details of the unlawful nature of the activity or information in question” in regulation 22(b)(iii) of the 2002 Regulations, which deals with actual knowledge under regulations 18(b)(iv) and 19(a)(i) corresponding to Articles 13(1)(e) and 14(1)(a) of the E-Commerce Directive. He submitted that the different wording in section 97A(2)(b)(ii), which refers to “details of the infringement in question”, was not intended to limit the scope of section 97A, but was to the same effect.
+
+Counsel for BT relied on six main arguments in support of BT’s interpretation. First, he submitted that a number of other provisions in the CDPA 1988, in particular sections 22-24 and 26, imposed a requirement for knowledge and that, in enacting section 97A, Parliament was to be taken to be aware of the manner in which “knowledge” in the predecessors to sections 22-24 and 26 had been interpreted by the courts. He particularly relied on the judgment of Scott J (as he then was) in Columbia Film Industries Inc v Robinson [1987] 1 Ch 38 as showing that actual knowledge of a particular infringement was required.
+
+Secondly, he relied upon the wording of section 191JA(1), and in particular the words “to infringe a performer’s property right”, as supporting this conclusion.
+
+Thirdly, he relied on the reference in section 97A(2)(b)(ii) to “details of the infringement in question” as supporting this conclusion.
+
+Fourthly, he again relied on section 17 of the Digital Economy Act 2010. This contains no requirement of “actual knowledge”. He submitted that it was hard to see why Parliament thought that this new provision was necessary if section 97A of the CDPA 1988 already allowed a “blocking injunction” to be granted where a website has been, is being or is likely to be used to infringe copyright.
+
+Fifthly, he relied on the observations of Eady J and Stadlen J respectively concerning the requirement for “actual knowledge of unlawful activity or information” in regulation 19(a)(i) of the 2002 Regulations in two defamation cases, Bunt v Tilley [2006] EWHC 407 (QB), [2007] 1 WLR 1243 and Kaschke v Gray [2010] EWHC 690 (QB), [2011] WLR 452 as supporting this conclusion.
+
+Sixthly, he argued that actual knowledge of a specific infringement by a specific individual was required because the primary remedy available against an ISP under section 97A was an order requiring the ISP to terminate the subscription of the individual in question.
+
+It is convenient to begin with counsel for BT’s first argument. There is a line of cases dealing with the requirement for “knowledge” for secondary infringement under the Copyright Acts 1911 and 1956. The first is Van Dusen v Kritz [1936] 2 KB 176. This was a case on section 2(2) of the 1911 Act, which provided that “Copyright in a work shall also be deemed to be infringed by any person who .... (c) by way of trade exhibits in public .... any work which to his knowledge infringes copyright. ...”. The plaintiff was the owner of copyright in fashion illustrations for men's clothes. In 1935, the defendant, a tailor, caused to be exhibited in his shop, show-cards displaying a man in morning-dress. He also put up posters at railway stations displaying a man in evening-dress. On October 16 the plaintiff wrote to the defendant complaining that the posters and show-cards infringed the plaintiff’s copyright. On October 18 the plaintiff supplied the defendant's solicitor with copies of the work said to be infringed. The defendant at once removed the show-cards from his premises, and took steps to find out whether or not he was infringing the plaintiff's copyright. On October 23 he wrote to the plaintiff saying that, although he did not admit any infringement of the plaintiff's copyright, he thought it best to remove any cause of complaint by discontinuing the exhibition. On the same day the plaintiff issued a writ claiming from the defendant damages for infringement of copyright. Goddard J held that, where the defendant acquired the work without any knowledge that it infringed copyright, no "knowledge" within the meaning of the subsection could be imputed to the defendant until he had had a reasonable opportunity to investigate the plaintiff’s claim that it infringed. On the evidence, the time when the defendant acquired that knowledge was October 23. Therefore, at the time the writ was issued, there was no exhibition by way of trade of any work which, to the defendant's knowledge, infringed the plaintiff's copyright. Accordingly the action failed.
+
+Infabrics Ltd v Jaytex Shirt Co Ltd [1978] FSR 451 was a case under section 5(2) of the 1956 Act, which provided that “Copyright in a … work is infringed by any person who … imports an article … if to his knowledge the making of that article constituted an infringement of that copyright, or would have constituted such an infringement if the article had been made in the place into which it is so imported”. The defendants had imported shirts from Hong Kong bearing a design similar to one they had previously been shown by the plaintiffs. The plaintiffs sent a letter before action on 21 February 1976. It was common ground that, in the light of Van Dusen v Kritz, knowledge could be imputed to the defendants by 5 March 1975, 14 days after receipt of the letter. One of the issues was whether the defendants had had the requisite knowledge prior to receipt of the letter. Having cited Van Dusen v Kritz, Whitford J adopted the approach of Harvey J in Albert v Hoffnung & Co Ltd (1921) 22 SR (NSW) 75 at 81 that “‘Knowledge’ means … notice of facts such as would suggest to a reasonable man that a breach of copyright law was being committed”.  On that basis, he held on the facts that the defendants had not had the requisite knowledge prior to receipt of the letter.
+
+Hoover plc v George Hulme (Stockport) Ltd [1982] FSR 565 was a case under section 5(3) of the 1956 Act, which provided that “Copyright in a … work is infringed by any person who … (a) sells, lets for hire, or by way of trade offers or exposes for sale or hire any article … if to his knowledge the making of that article constituted an infringement of that copyright, or (in the case of an imported article) would have constituted such an infringement if the article had been made in the place into which it was imported”. The plaintiffs brought a claim for copyright infringement in respect of the defendants’ sales of spare parts for the plaintiffs’ vacuum cleaners based on manufacturing drawings. Whitford J again cited a passage from Van Dusen v Kritz and a passage from RCA Corporation v Custom Cleared Sales Pty Ltd [1978] FSR 576 in which the Court of Appeal of New South Wales held that “the knowledge which has to be proved is actual but not constructive”. The court apparently considered this conclusion to be consistent with Van Dusen v Kritz and Albert v Hoffnung if the latter was properly understood, saying “the true position is that the court is not concerned with the knowledge of a reasonable man but is concerned with reasonable inferences to be drawn from a concrete situation as disclosed in the evidence as it affects the particular person whose knowledge is in issue”. Whitford J went on to hold that the defendants did not have the requisite knowledge at the date of the writ because, although the plaintiffs had sent the defendants a letter before action which was followed by meetings to discuss the matter, the plaintiffs had failed to make it clear which parts were alleged to infringe which drawings and had not allowed the defendants a reasonable time to investigate their claims.
+
+Sillitoe v McGraw-Hill Book Company (UK) Ltd [1983] FSR 545 was another case under section 5(2) and (3) of the 1956 Act. The defendants had imported and distributed a series of “study notes” for students which the plaintiffs alleged infringed the copyrights in the works under discussion. Having considered Van Dusen v Kritz, Albert v Hoffnung, RCA v Custom and Infabric v Jaytex, His Honour Judge Mervyn Davies QC sitting as a High Court Judge held that the defendants had been “fixed with knowledge” 14 days after letters before action sent by the plaintiffs, that being a reasonable time in which to consider their position.
+
+Against this background I can turn to CPI v Robinson. That was a case under section 16(3) of the 1956 Act, which was in essentially the same terms as section 5(3), but applied to inter alia cinematograph films. The case concerned infringing video cassettes. Scott J held at 67-68:
+
+“The question, therefore, is whether Mr. Robinson had knowledge that the tapes being sold or let on hire at the Mill Street shop were pirate tapes.
+
+There is some useful judicial authority on the meaning of ‘knowledge’ for the purposes of subsection (3). In Infabrics Ltd. v. Jaytex Shirt Co. Ltd. [1978] F.S.R. 451, 464-465, Whitford J. cited with approval a dictum from the judgment of Harvey J. in an Australian case, Albert v. Hoffnung & Co. Ltd. (1921) 22 S.R. (N.S.W.) 75 . Harvey J. said, at p. 81:
+
+‘“Knowledge” in the section cannot mean in my opinion any more than notice of facts such as would suggest to a reasonable man that a breach of the copyright law was being committed ... In my opinion knowledge means notice, which would put a reasonable man on inquiry.’
+
+In another Australian case, R.C.A. Corporation v. Custom Cleared Sales Pty. Ltd. [1978] F.S.R. 576, it was held by the New South Wales Federal Court of Appeal that the requisite knowledge was actual knowledge and that constructive knowledge was not sufficient.
+
+I accept that actual knowledge is necessary, but subject to this proviso. In this area of jurisprudence, as in many others, a person who deliberately refrains from inquiry and shuts his eyes to that which is obvious, cannot be heard to say that he lacked the requisite knowledge.
+
+…
+
+In these circumstances, I conclude that Mr. Robinson knew throughout the period that he and the company were proprietors of the Mill Street shop and that a large proportion of the stock must be pirate tapes. I do not accept that he ever made or caused to be made any check of the tapes with a view to weeding out those that were pirates. Any checks that were made had as their purpose the weeding out of those of poor quality.
+
+If a check had been made by Mr. Robinson in order to identify those tapes that were pirates he would, in my view, by reason of his professional expertise, have had a good degree of success. I do not doubt that there would have been some pirates that he would not have identified but he would, I think, have identified most of them.
+
+The question for decision is whether this general knowledge on Mr. Robinson's part, coupled with his ability to have made a reasonably successful check, coupled with his unconcern as to whether or not the shop was selling or hiring pirate tapes, is sufficient to fix him with the requisite knowledge for the purposes of section 16 (3). In my judgment, it is not.
+
+The subsection is contemplating a specific knowledge about the circumstances in which a specific article was made. A general knowledge of the sort which Mr. Robinson possessed is consistent with a specific video tape being a pirate tape. It is also consistent with a specific tape being legitimate. Unless a defendant has some degree of specific knowledge about a specific tape, his general knowledge that a tape is quite likely to be a pirate does not, in my judgment, fix him with knowledge sufficient for the purposes of section 16 (3), that the tape was made in breach of copyright.”
+
+As noted above, counsel for BT relied on this decision in support of his submission that actual knowledge of a particular infringement was required. I do not accept that it does support that submission for the following reasons.
+
+First, CPI v Robinson was a decision under the 1956 Act. When Parliament approved regulation 27 of the 2003 Regulations, which were made by the Secretary of State under section 2(2) of the European Communities Act 1972, so as to introduce section 97A, it was approving an amendment to the CDPA 1988, not the 1956 Act. In those circumstances I do not see why Parliament should be taken to have implicitly adopted Scott J’s interpretation of section 16(3) of the 1956 Act. That is all the more so given that, by 2003, there was a separate line of authority in relation to the requirement of “knowledge or reason to believe” under sections 22-24 and 26 of the CDPA 1988: see in particular LA Gear Inc v Hi-Tec Sports plc [1992] FSR 121 and ZYX Music GmbH v King [1995] EMLR 319.
+
+Secondly, I agree with counsel for the Studios that it is much more likely that the requirement for “actual knowledge” was transplanted from Articles 13 and 14 of the E-Commerce Directive, and the corresponding provisions of the 2002 Regulations. Indeed, section 97A(2) is closely modelled on regulation 22 of the 2002 Regulations, although differing in certain respects.
+
+Thirdly, there are in any event clear differences between section 97A of the CDPA 1988 and section 16(3) of the 1956 Act and the other provisions which were under consideration in this line of cases. Section 16(3) required proof of knowledge that “the making of that article constituted an infringement of that copyright [emphasis added]”. In those circumstances it is not surprising that Scott J held that it contemplated “specific knowledge about the circumstances in which a specific article was made”. By contrast, the wording of section 97A is much more general and open-ended.
+
+Finally, although this goes more to the second question, it should be noted that Scott J did not purport to decide that a defendant could not be “fixed with knowledge” by a suitable communication from the copyright owner and a reasonable opportunity to investigate.
+
+Turning to counsel for BT’s second argument based on section 191JA of the CDPA 1988, I do not find this persuasive for the following reasons. First, although counsel for BT suggested that there was a distinction between the wording of this provision and that of other provisions in Part II referring to “performers’ rights”, in fact almost all of the substantive provisions in Part II refer to “a performer’s rights” or “a performer’s property rights” or “a performers’ non-property rights” as the case may be. This is an aspect of the rather cumbersome way in which Part II is drafted so to as avoid use of the word “copyright”: see Performers’ Rights (4th ed) at §1.86. In these circumstances I do not consider that the phraseology employed in section 191JA is particularly significant. Secondly, the wording “to infringe a performer’s property rights” naturally covers infringement of one or more performers’ property rights. Similarly, the wording “to infringe copyright” naturally covers infringement of one or more copyrights. Even if this requires identification of the copyright(s) or performers’ property right(s) which are being infringed, it does not follow that it requires identification of a specific infringing act, still less a specific infringer.
+
+In my view counsel for BT’s third argument is his strongest. Section 97A(2)(b)(ii) certainly suggests that it should be possible to provide “details of the infringement in question”. Furthermore, this wording is different to the wording of regulation 22(2)(b)(iii), and it does not say “details of the infringing activity in question”.  On the other hand, it does not specify what “details” are to be provided. Furthermore, section 97A(2) does not make provision of such details mandatory, or even any details, it merely requires the court to “have regard to” “the extent to which” any notice includes such details.
+
+As for section 17 of the Digital Economy Act 2010, I do not consider that this provides any assistance with regard to the interpretation of the requirement for actual knowledge in section 97A. It is a later, purely domestic provision with a different genesis and a different reach. It does not require proof of actual knowledge on the part of the service provider, it extends to “locations” that are merely being used “in connection with an activity that infringes copyright” and it extends to the grant of an injunction that specifically “requires the service provider to prevent its service being used to gain access” to such locations.
+
+Turning to the two defamation cases, Bunt v Tilley was a case in which the claimant brought proceedings for libel against the six defendants. He alleged that the first to third defendants had posted defamatory messages on websites hosted by third parties and that they had done so by means of the services provided by the fourth to sixth defendants, their respective ISPs. It was not alleged that the fourth to sixth defendants had any role other than that of affording access to the internet to the first to third defendants. The fourth to sixth defendants applied for orders striking out or granting summary judgment on the claims against them, contending that they were not publishers of the messages at common law. The claimant appeared in person. Eady J struck out the claims against the fourth to sixth defendants. He held at [23] that, to be liable for a defamatory publication, a defendant must be knowingly involved in the process of publication of the relevant words, and it was not enough that the defendant merely played a passive instrumental role in the process. He went on to hold at [36] that there no realistic prospect of the claimant establishing that any of the fourth to sixth defendants had knowingly participated in the relevant publications. He also held that more generally as a matter of law that an ISP which performed no more than a passive role in facilitating postings on the internet could not be deemed to be a publisher at common law.
+
+Eady J went on at [38]ff to address various alternative arguments raised by the fourth to sixth defendants. In view of his previous conclusions, this part of his judgment was obiter. At [68]-[73] he considered regulation 19 of the 2002 Regulations, which was relied on by the sixth defendant (BT as it happens). Having set out regulations 6(1)(c) and 22, he held at [72]:
+
+“In the light of these provisions it is submitted by [counsel for BT] that the requirements of regulation 6(1)(c) are satisfied, since the claimant was able to send an e-mail to BT on 1 May 2005. Also, his purported notice would fail to satisfy the factors identified in regulation 22(1)(b)(ii) and (iii) for the reasons considered above. None of that information was included. As I have already observed, in order to be able to characterise something as ‘unlawful’ a person would need to know something of the strength or weakness of available defences.”
+
+Counsel for BT relied on the last sentence of this paragraph. I agree with counsel for the Studios that this does not assist BT. First, it was an obiter observation in a case involving an unrepresented claimant. Secondly, Eady J was considering substantive liability for defamation. Thirdly, given the defamation context, it is understandable why Eady J said what he did, since words may be defamatory without being unlawful, most obviously where the statement is justified. Fourthly, Eady J was not considering section 97A or Article 8(3), which were not in issue before him.
+
+Similar comments apply to the observations of Stadlen J in Kaschke v Gray at [93]-[100].
+
+As for the sixth argument advanced by counsel for BT, I regard this as really being about the scope of the injunction that may be granted pursuant to section 97A, and I will consider it in that context.
+
+I have already commented on the second and third points made by counsel for the Studios. As for his first argument, I consider that has some force. Nevertheless, it is difficult to place too much weight on this argument given his acceptance that it was permissible for the UK to impose a requirement of “actual knowledge”.
+
+In my judgment what is decisive is the context, purpose and wording of section 97A(1). So far as the context is concerned, as noted above, section 97A implements Article 8(3) of the Information Society Directive. The Information Society Directive was promulgated at the same time as the E-Commerce Directive, and the recitals to both Directives make it clear that they were intended to be complementary and to be transposed into national law at the same time: see recital (50) of the E-Commerce Directive and recital (16) of the Information Society Directive. Against that background, it is significant that service providers lose the protection against liability conferred by Articles 13 and 14 of the E-Commerce Directive once they have actual knowledge of the matters specified in those articles. By contrast, a service provider does not lose the protection of Article 12(1) of the E-Commerce Directive even if it has actual knowledge of another person using its service to infringe copyright. This suggests that the requirement for actual knowledge should not be interpreted too restrictively.
+
+Turning to the purpose, given that section 97A implements Article 8(3), illumination is provided by recital (59) of the Information Society Directive, and in particular the following statements:
+
+“In the digital environment … the services of intermediaries may increasingly be used by third parties for infringing activities. In many cases such intermediaries are best placed to bring such infringing activities to an end. Therefore … rightholders should have the possibility of applying for an injunction against an intermediary who carries a third party's infringement of a protected work or other subject-matter in a network.”
+
+As these indicate, the purpose of Article 8(3), and hence section 97A, is to enable an injunction to be granted against a service provider which “carries” an infringement because service providers are best placed to bring “infringing activities” to an end. This again suggests that the requirement for actual knowledge should not be interpreted too restrictively.
+
+As for the wording of section 97A(1), this requires “actual knowledge of another person using their service to infringe copyright”. Although both sides split this into two separate elements in the course of argument, it is a single composite requirement. Furthermore, it seems to me that the focus of the composite requirement is knowledge of the use of the service to infringe, rather than upon the infringements committed thereby. In any event, the sub-section simply does not say “to commit a particular infringing act in relation to a particular copyright work”. As I have already observed, the wording is much more general and open-ended than that. Furthermore, it does not require that the “other person” be identified or even identifiable. One can know that someone is infringing copyright without knowing who that person is or even being able to find out who that person is.
+
+Accordingly, I consider that what must be shown is that the service provider has actual knowledge of one or more persons using its service to infringe copyright. The more information the service provider has about the infringing activity, the more likely it is that the service provider will have actual knowledge. Thus it may well be relevant to consider whether or to what extent the service provider has knowledge of particular copyright works (or at least classes of copyright works) being involved, of particular restricted acts (or at least types of restricted act) being committed and of particular persons (or at least groups of persons) committing those acts; but it is not essential to prove actual knowledge of a specific infringement of a specific copyright work by a specific individual.
+
+In what manner may a service provider be given “actual knowledge”? It is clear from section 97A(2) that, in considering whether a service provider has actual knowledge, it is relevant to consider whether the service provider has been given notice of the infringement. There was little dispute between counsel in the end that a service provider may be given actual knowledge of infringement by receipt of a sufficiently detailed notice and a reasonable opportunity to investigate the position.
+
+What is the scope of the injunction that may be granted? Counsel for the Studios submitted that, once it was shown that a service provider had actual knowledge that its service was being use to infringe copyright, then a broad injunction could be granted pursuant to section 97A. Counsel for BT submitted that the scope of the injunction was limited to the particular infringements of which the service provider had actual knowledge. Both counsel recognised that the answer given by the Court of Justice of the European Union to question (10) in Case C-324/09 L’Oréal SA v eBay International AG was likely to bear closely on this question. Although they addressed me on the answer proposed by Advocate General Jääskinen in his Opinion dated 9 December 2010, it was agreed that both parties would make written submissions on the Court’s judgment after it became available on 12 July 2011.
+
+Before turning to the judgment of the Court of Justice in that case, it is convenient first to consider 20C Fox v Newzbin. As related above, Kitchin J granted an injunction against Newzbin Ltd restraining it from infringing copyrights in the Studios’ repertoire. He declined, however, to grant an injunction pursuant to section 97A restraining Newzbin Ltd “from including in its indices or databases entries identifying any material posted to or distributed through any Usenet group in infringement of copyright”. He expressed his reasons for this as follows at [135]:
+
+“… I do not believe it would be appropriate to grant an injunction of the breadth sought by the claimants for a number of reasons. First, it is apparent from the terms of Directive 2001/29/EC that it is contemplating the grant of an injunction upon the application of rights holders, yet the claimants are seeking an injunction to restrain activities in relation to all binary and all text materials in respect of which they own no rights and about which I have heard little or no evidence. Second, I do not accept that the defendant has actual knowledge of other persons using its service to infringe all such rights. Therefore I am not persuaded I have the jurisdiction to grant such an injunction in any event. Third, the rights of all other rights holders are wholly undefined and consequently the scope of the injunction would be very uncertain. In my judgment the scope of any injunction under section 97A(2) [sic] should extend no further than that to which I have already concluded the claimants are entitled, namely an injunction to restrain the defendant from infringing the claimants' copyrights in relation to their repertoire of films.”
+
+As I read this paragraph, the first and third reasons given by Kitchin J are discretionary reasons for refusing the injunction. I will consider those below. The second reason, however, goes to the extent of the court’s jurisdiction. I accept that it supports BT’s position on this issue. On the other hand, Kitchin J’s conclusion on the point was not necessary to his decision in view of the other reasons he gave. Furthermore, his conclusion was a limited one: he was not persuaded that he had jurisdiction to grant the injunction, he did not positively conclude that he did not have jurisdiction. Still further, it appears that he received very limited argument on the point. In particular, it does not appear that he was referred to L’Oréal v eBay.
+
+Turning to L’Oréal v eBay, it is important to be clear as to the legislative context of that case. As discussed above, Article 8(3) of the Information Society Directive was specifically implemented by the UK in the form of sections 97A and 191JA of the CDPA 1988. Subsequently, the European Community legislature extended the protection afforded to copyrights and related rights by Article 8(3) of the Information Society Directive to other intellectual property rights, such as registered trade marks, by the third sentence of Article 11 of the Enforcement Directive. Despite the fact that the UK had specifically implemented Article 8(3) of the Information Society Directive, it did not specifically implement Article 11 of the Enforcement Directive.
+
+Confronted with this problem in L’Oréal v eBay [2009] EWHC 1094 (Ch), [2009] RPC 21, I concluded at [447]-[454] that the court had power under section 37(1) of the Supreme Court Act 1981 (now known as the Senior Courts Act 1981) to grant an injunction against an intermediary whose service had been used by third parties to infringe an intellectual property right, such as a registered trade mark, to the extent that this is what Article 11 of the Information Society Directive required. The question, therefore, was what scope of injunction the third sentence of Article 11 required Member States to make available. Having considered that question at [455]-[465], I concluded that it was a matter upon which the guidance of the Court of Justice was required. Accordingly, I referred the following question to the Court, which is question 10 of the questions referred in that case:
+
+“Where the services of an intermediary such as an operator of a website have been used by a third party to infringe a registered trade mark, does Article 11 of European Parliament and Council Directive 2004/48 of 29 April 2004 on the enforcement of intellectual property rights (“the Enforcement Directive”) require Member States to ensure that the trade mark proprietor can obtain an injunction against the intermediary to prevent further infringements of the said trade mark, as opposed to continuation of that specific act of infringement, and if so what is the scope of the injunction that shall be made available?”
+
+The Court of Justice considered this question in its judgment at [125]-[144]. At [128]-[130] the Court held that the injunction referred to in the third sentence of Article 11 could not be equated with the injunction aimed at prohibiting the continuation of the infringement referred to in the first sentence. At [131]-[134] the Court held that consideration of the objective pursued by the Enforcement Directive, and of Article 18 of the E-Commerce Directive and recital (24) of the Enforcement Directive led to the conclusion that the jurisdiction conferred by the third sentence of Article 11 was not limited to bringing infringements to an end but extended to preventing further infringements. At [135]-[138] the Court held that the rules relating to the conditions to be met and the procedure to be followed to obtain injunctions under the third sentence of Article 11 were a matter for national law, but that the rules must be both designed and applied in such a manner that the measures were effective and dissuasive, and observed the limitations of the Enforcement Directive and the sources of law to which it referred. The Court continued:
+
+“139.    First, it follows from Article 15(1) of Directive 2000/31, in conjunction with Article 2(3) of Directive 2004/48, that the measures required of the online service provider concerned cannot consist in an active monitoring of all the data of each of its customers in order to prevent any future infringement of intellectual property rights via that provider’s website. Furthermore, a general monitoring obligation would be incompatible with Article 3 of Directive 2004/48, which states that the measures referred to by the directive must be fair and proportionate and must not be excessively costly.
+
+140.    	Second, as is also clear from Article 3 of Directive 2004/48, the court issuing the injunction must ensure that the measures laid down do not create barriers to legitimate trade. That implies that, in a case such as that before the referring court, which concerns possible infringements of trade marks in the context of a service provided by the operator of an online marketplace, the injunction obtained against that operator cannot have as its object or effect a general and permanent prohibition on the selling, on that marketplace, of goods bearing those trade marks.
+
+141.    	Despite the limitations described in the preceding paragraphs, injunctions which are both effective and proportionate may be issued against providers such as operators of online marketplaces. As the Advocate General stated at point 182 of his Opinion, if the operator of the online marketplace does not decide, on its own initiative, to suspend the perpetrator of the infringement of intellectual property rights in order to prevent further infringements of that kind by the same seller in respect of the same trade marks, it may be ordered, by means of an injunction, to do so.
+
+142.    	Furthermore, in order to ensure that there is a right to an effective remedy against persons who have used an online service to infringe intellectual property rights, the operator of an online marketplace may be ordered to take measures to make it easier to identify its customer-sellers. In that regard, as L’Oréal has rightly submitted in its written observations and as follows from Article 6 of Directive 2000/31, although it is certainly necessary to respect the protection of personal data, the fact remains that when the infringer is operating in the course of trade and not in a private matter, that person must be clearly identifiable.
+
+143.    	The measures that are described (non-exhaustively) in the preceding paragraphs, as well as any other measure which may be imposed in the form of an injunction under the third sentence of Article 11 of Directive 2004/48, must strike a fair balance between the various rights and interests mentioned above (see, by analogy, Promusicae, paragraphs 65 to 68).
+
+144.    	In view of the foregoing, the answer to the tenth question is that the third sentence of Article 11 of Directive 2004/48 must be interpreted as requiring the Member States to ensure that the national courts with jurisdiction in relation to the protection of intellectual property rights are able to order the operator of an online marketplace to take measures which contribute, not only to bringing to an end infringements of those rights by users of that marketplace, but also to preventing further infringements of that kind. Those injunctions must be effective, proportionate, dissuasive and must not create barriers to legitimate trade.”
+
+The UK’s implementation of Article 8(3) of Information Society Directive means that the particular problem which confronted me in L’Oréal v eBay does not arise here. Although subject to the condition that actual knowledge must be proved, section 97A confers on the court a specific and broad jurisdiction to grant an injunction against service providers. On its face, the jurisdiction is not confined to granting an injunction prohibiting the continuation of infringements of which the service provider has actual knowledge. In any event, section 97A must be interpreted and applied consistently with the Court of Justice’s guidance in L’Oréal v eBay. In my judgment the Court’s reasoning demonstrates that the jurisdiction is not confined to the prevention of the continuation, or even repetition, of infringements of which the service provider has actual knowledge. On the contrary, an injunction may be granted requiring the service provider “to take measures which contribute to … preventing further infringements of that kind”. Although such measures may consist of an order suspending the subscriber’s account or an order for disclosure of the subscriber’s identity, the Court of Justice makes it clear at [143] that these examples are not exhaustive, and that other kinds of measures may also be ordered.
+
+The present case. Turning to the present case, counsel for the Studios accepted that he could not show that BT had actual knowledge of a particular infringement of a particular copyright work by a particular individual, but he nevertheless submitted that BT had actual knowledge of users and the operators of Newzbin2 using its service to infringe the Studios’ copyrights. Counsel for BT expressly accepted that BT had actual knowledge of all the facts and matters stated in Kitchin J’s judgment in 20C Fox v Newzbin. Furthermore, I did not understand him to dispute that BT had actual knowledge of the facts and matters concerning Newzbin2 revealed by the Studios’ evidence in support of the present application as summarised in paragraphs 48-58 and 61-62 above. In my judgment it follows that BT has actual knowledge of other persons using its service to infringe copyright: it knows that the users and operators of Newbin2 infringe copyright on a large scale, and in particular infringe the copyrights of the Studios in large numbers of their films and television programmes, it knows that the users of Newzbin2 include BT subscribers, and it knows that those users use its service to receive infringing copies of copyright works made available to them by Newzbin2. For the reasons given above, that knowledge satisfies the requirements of section 97A(1). Furthermore, I would add that BT also has some actual knowledge regarding individual BT subscribers who use Newzbin2, in particular from the information enclosed with the Studios’ solicitors’ letter dated 2 February 2011. (Indeed, in principle it ought to be possible for BT to ascertain the identities of those persons by means of a Norwich Pharmacal order (or local equivalent) directed against the ISP which hosts Newzbin2.)
+
+Accordingly, I conclude that, subject to the three points discussed below, there is jurisdiction to grant an injunction against BT pursuant to section 97A and that the scope of that jurisdiction is sufficient to enable me to make the order sought by the Studios.
+
+3.	Contrary to Article 12(1) of the E-Commerce Directive
+
+Counsel for BT submitted that the court had no jurisdiction to make the order sought by the Studios because the making of such an order would contravene Article 12(1) of the E-Commerce Directive. As noted above, it is common ground that, so far as is relevant to this case, BT acts as a “mere conduit”. Accordingly, it is common ground that it is protected from liability for infringement of copyright by Article 12(1). Article 12(3) provides that this protection does not “affect the possibility for a court ... of requiring a service provider to terminate or prevent an infringement”. Counsel for BT drew a contrast between the wording of Article 12(3) and that of Article 14(3). As he pointed out, the latter also allows “Member States [to establish] procedures governing the removal or disabling of access to information”. He argued that the order sought by the Studios was designed to disable access to information, which is a type of measure that could be imposed under Article 14(3) but not Article 12(3).
+
+I do not accept this argument for the following reasons. First, Article 12(1) places no limit on the type of injunction that may be granted “requiring a service provider to terminate or prevent an infringement”.  Secondly, the part of Article 14(3) relied on by counsel for BT is not concerned with court orders, but with administrative procedures established by Member States, such as a “notice and takedown” procedure operated by an administrative body. Indeed, the part of Article 14(3) that relates to court orders has the same wording as Article 12(3). Thirdly, Article 14(3) must be read in the context of Article 14 as a whole. Article 14 is concerned with service providers who act as “hosts”, that is to say, they store information provided by a recipient of the service. In those circumstances, it is understandable why Article 14(3) refers to the establishment of procedures for the removal or disabling of access to such information. This does not justify a restrictive interpretation of Article 12(3). Fourthly, recital (45) of the E-Commerce Directive says that injunctions against intermediary service providers can consist of “orders by courts … requiring the termination or prevention of any infringement, including the removal of illegal information or the disabling of access to it”.  This makes it clear that Article 12(3) should be interpreted as extending to orders requiring service providers to disable access to illegal information. Fifthly, this interpretation also receives some support from Article 18(1) of the E-Commerce Directive.
+
+4.	Contrary to Article 15(1) of the E-Commerce Directive
+
+Counsel for BT submitted that the court had no jurisdiction to make the order sought by the Studios because the making of such an order would contravene Article 15(1) of the E-Commerce Directive. Article 15(1) prohibits Member States from imposing “a general obligation on providers … to monitor the information which they transmit”. Counsel for BT argued that the order sought by the Studios would contravene this prohibition because it amounted to a general obligation to monitor the information they transmitted. Counsel for the Studios accepted that the order required BT to monitor traffic on its service and disrupt traffic between BT’s users and the Newzbin2 website, but submitted it did not involve monitoring the information transmitted, alternatively it did not involve a general obligation to monitor, but rather a specific and limited one.
+
+In my judgment the submission of counsel for the Studios is supported both by recital (47) of the E-Commerce Directive and by the judgment of the Court of Justice in L’Oréal v eBay. Recital (47) makes it clear that Article 15(1) does not “concern monitoring obligations in a specific case and, in particular, does not affect orders by national authorities in accordance with national legislation”. In L’Oréal v eBay the Court of Justice at [139] equated “a general obligation to monitor” with “an active monitoring of all the data of each of [a website’s] customers in order to prevent any future infringement via that provider’s website”. Furthermore, it went on at [141]-[144] to make it clear that Article 15(1) does not prevent courts from making orders requiring intermediaries “to take measures which contribute … to preventing further infringements”. The order sought by the Studios does not require BT to engage in active monitoring of the kind described by the Court of Justice at [139], but simply to block (or at least impede) access to the Newzbin2 website by automated means that do not involve detailed inspection of the data of any of BT’s subscribers. To the extent that this amounts to monitoring, it is specific rather than general. Furthermore, it would be imposed by a case-specific order made under national legislation which implements Article 8(3) of the Information Society Directive.
+
+5.	Contrary to Article 10 ECHR
+
+Counsel for BT submitted that section 97A did not provide an adequate legal basis for the order sought by the Studios. Although he did not articulate it in precisely this way, the essence of the submission is that the order sought would be contrary to Article 10 ECHR because it is not “prescribed by law”.
+
+Before considering this argument, it is convenient to begin with the position with regard to Convention rights adopted by counsel for the Studios in his skeleton argument before the argument was advanced by counsel for BT. This may be summarised in the following propositions. First, the Studios’ copyrights are property rights protected by Article 1 of the First Protocol. Secondly, the right of freedom of expression under Article 10(1) is engaged by the present application. As counsel for the Studios accepted during the course of argument, this particularly applies with regard to BT’s subscribers’ right to receive information. Thirdly, the Studios’ copyrights are “rights of others” within Article 10(2). Fourthly, the approach laid down by Lord Steyn where both Article 8 and Article 10 ECHR rights are involved in Re S [2004] UKHL 47, [2005] 1 AC 593 at [17] is also applicable where a balance falls to be struck between Article 1 of the First Protocol and Article 10. That approach is as follows: (i) neither Article as such has precedence over the other; (ii) where the values under the two Articles are in conflict, an intense focus on the comparative importance of the specific rights being claimed in the individual case is necessary; (iii) the justifications for interfering with or restricting each right must be taken into account; (iv) finally, the proportionality test – or "ultimate balancing test" - must be applied to each. Fifthly, in the case of copyright, the balance between Article 1 of the First Protocol and Article 10 is primarily struck by the provisions of the CDPA 1988, and in particular the exceptions and limitations contained in Chapter III of Part I, but nevertheless the court is bound, so far as possible, to apply the CDPA 1988 in a manner which accommodates freedom of expression: see Ashdown v Telegraph Group Ltd [2001] EWCA Civ 1142, [2002] Ch 149 and Case C-275/06 Productores de Musica de España (Promusicae) v Telefonica de España SAU [2008] ECR I-271. Sixthly, the fact that the outcome of the balancing exercise may involve an interference with use of the internet does not in itself give rise to any special considerations: see KU v Finland (2009) 48 EHRR 52 at [49].
+
+None of these propositions was challenged by counsel for BT. Instead, he relied upon the reasoning of Advocate General Villalón in his Opinion dated 14 April 2011 in Case C-70/10 Scarlet Extended SA v Société belge des auteurs compositeurs et éditeurs (Sabam). At the time of the hearing, this Opinion was only available in French, Spanish and Latvian, but I was provided with an unofficial translation. In addition, I was helpfully provided with a translation of the key first instance decision in the national proceedings, which clarifies the factual circumstances of the case. Since these are not very clear from the Advocate General’s opinion, it is necessary to begin by setting them out.
+
+On 24 June 2004 SABAM, which is a Belgian collecting society, commenced proceedings against Tiscali SA, a Belgian ISP which later changed its name to Scarlet Extended SA (“Scarlet”), seeking an order that Scarlet stop infringements of copyrights in musical compositions in SABAM’s repertoire committed by unauthorised exchanges of digital music files using P2P software. In a judgment dated 26 November 2004 the Brussels Tribunal de Première Instance (Court of First Instance) held that (i) SABAM had standing to bring a claim for injunctive relief against Scarlet as an intermediary, (ii) infringement of the copyrights in musical compositions in SABAM’s repertoire occurred with the unauthorised exchange of digital music files using P2P software through Scarlet’s network, (iii) in principle this required the court to order the prevention of such activities, but (iv) the court did not have enough information concerning the feasibility of technical measures that could be implemented by Scarlet to prevent copyright infringements by users of its service. Accordingly, an opinion from a court-appointed expert was ordered on the latter point.
+
+For reasons that are not wholly clear, the expert’s report was not delivered until 3 January 2007. In his report he identified 11 solutions for filtering P2P, of which seven were applicable to Scarlet’s network. Of those seven, the expert concluded that only one, CopySense by Audible Magic, sought to identify the protected music content in P2P flows and hence tried to respond specifically to the problem. That solution, however, was targeted to the education industry and was not designed for the volume traffic of an ISP such as Scarlet. Recourse to this technique by an ISP would entail high acquisition and operating costs, but the technique might only be viable for 2-3 years given the increasing use of encryption in P2P exchanges. Pausing there, none of the judgments in Scarlet v SABAM that I have seen contains a technical description of CopySense. A description of it is given, however, by Charleton J in EMI v UPC at [43]-[49]. My understanding is that it involves DPI with detailed, invasive analysis of the contents of data packets.
+
+Following the delivery of the expert’s report and further submissions from the parties, the Brussels Court of First Instance gave a further judgment on 29 June 2007. In this judgment, the Court summarised the expert’s conclusions as set out above. It went on, however, to record that SABAM had submitted evidence that CopySense had been adopted by MySpace, that Microsoft had announced its intention to use it, that “a leading Asian ISP” had installed it on its network to evaluate it in 2005 and found that the technology could be used to filter copyright protected content and that an Iometrix study had demonstrated the capacity of CopySense to deal with very large traffic volume. It also recorded that the expert had admitted that he had not examined the feasibility of encryption in P2P networks. It also recorded that Scarlet had not contested these points. The Court concluded that “future potential encryption cannot today be an obstacle to injunctive measures since this one is currently technically possible and capable of producing a result, as it is in the case before this court”, that “the average cost of implementing these measures does not appear excessive” on the basis of 150,000 users and an amortisation period of three years and that “it results from the above considerations that today there exist possible effective technical measures to prevent the copyright infringements found in the 26 November 2004 judgment”.
+
+The Court went on to consider a series of legal arguments raised by Scarlet against the relief sought, namely that (i) it would constitute a general obligation to monitor contrary to Article 15 of the E-Commerce Directive, (ii) it would be contrary to Article 12 of the E-Commerce Directive, and (iii) it would violate fundamental rights, in particular the rights to privacy, confidentiality of correspondence and freedom of expression. The Court rejected each of these arguments.
+
+Finally, the Court allowed Scarlet a period of six months to comply with this injunction (this period was subsequently extended to 31 October 2008), set a daily penalty of 2,500 euros for non-compliance thereafter and held that Scarlet should bear the cost of compliance.
+
+It is important to note that, although it is clear from the Court’s judgment that it was expecting Scarlet to implement CopySense on its network and that it was not looking further ahead than the following three years, the order it actually made was in the following terms:
+
+“Order [Scarlet] to stop the copyrights found in the 26 November 2004 judgment by making impossible any form of sending or receipt by its clients, by means of ‘peer to peer’ software, of electronic files containing musical works that are part of the SABAM repertoire, under penalty of euros 2,500 per day where Scarlet does not respect this judgment after a 6 month deadline from notification.”
+
+Although it is not referred to in the Court’s judgment, it appears that from the Advocate General’s Opinion that the jurisdiction on which the Court based this order was that conferred by Article 87(1) of the Belgian Law of 30 June 1994 on Copyright and Rights, as amended by the Law of 10 May 2007 transposing Article 8(3) of the Information Society Directive and Article 11 of the Enforcement Directive. That provision is in almost identical terms to Article 8(3).
+
+Scarlet appealed to Brussels Cour d’Appel (Court of Appeal), which decided to refer questions to the Court of Justice. I have not seen the judgment of the Court of Appeal, and so I do not know the precise reasons for the reference. The questions referred, however, were as follows:
+
+“1.	Do Directives 2001/29 and 2004/48, in conjunction with Directives 95/46, 2000/31 and 2002/58, construed in particular in the light of Articles 8 and 10 of the European Convention on the Protection of Human Rights and Fundamental Freedoms, permit Member States to authorise a national court, before which substantive proceedings have been brought and on the basis merely of a statutory provision stating that: 'They [the national courts] may also issue an injunction against intermediaries whose services are used by a third party to infringe a copyright or related right', to order an Internet Service Provider (ISP) to introduce, for all its customers, in abstracto and as a preventive measure, exclusively at the cost of that ISP and for an unlimited period, a system for filtering all electronic communications, both incoming and outgoing, passing via its services, in particular those involving the use of peer-to-peer software, in order to identify on its network the sharing of electronic files containing a musical, cinematographic or audio-visual work in respect of which the applicant claims to hold rights, and subsequently to block the transfer of such files, either at the point at which they are requested or at which they are sent?
+
+2.	If the answer to the question in paragraph 1 is in the affirmative, do those directives require a national court, called upon to give a ruling on an application for an injunction against an intermediary whose services are used by a third party to infringe a copyright, to apply the principle of proportionality when deciding on the effectiveness and dissuasive effect of the measure sought?”
+
+As I understand the position, the part of the first question from the words “to order” onwards represents the Court of Appeal’s characterisation of the actual order made by the Court of First Instance (and not the Court of First Instance’s reasons for making that order).
+
+The Advocate General’s opinion was that the answer to the first question was no, and accordingly there was no need to answer the second question. His reasoning may be summarised as follows:
+
+He began at [29]-[34] by reformulating the question in terms of Articles 7, 8, 11 and 52(1) of the European Union’s Charter of Fundamental Rights rather than Articles 8 and 10 ECHR. It does not appear to me that this makes any substantive difference to his reasoning, particularly since he went on to cite and apply the jurisprudence of the European Court of Human Rights.
+
+He proceeded at [46]-[52] to consider the filtering and blocking system which the order required the ISP to implement. It is important to note that his analysis was entirely based on the nature of the order as described in the first question. Indeed, in relation to the filtering mechanism, he stated at [49] that “neither the referring court nor SABAM has provided the slightest indication of the concrete methods by which this monitoring could or should be performed”, and in relation to the blocking mechanism, he stated at [52] that “it is impossible to describe the practical modus operandi of the filtering system or the blocking mechanism which the measure sought would impose”. It appears from this that the order for the reference made by the Court of Appeal did not include details of CopySense.
+
+He next considered the characteristics of the injunction at [53]-[65], observing that it (a) was for an unlimited period, (b) covered all communications passing through the ISP’s network, (c) applied to transmissions sent from any Scarlet subscriber to another web user and from other web users to Scarlet subscribers, (d) was purely preventative and (e) was at the cost of the ISP, although its economic impact had not been and could not be estimated in any way. Furthermore, he took the view that, although the present dispute was between SABAM and Scarlet, the solution was doubtless intended to be applied on a widespread basis, across all ISPs and to other major players involved in the internet, not merely in Belgium but beyond. He concluded from these points at [66] that the measure was “general in all respects, whether personal, spatial or temporal”.
+
+He then proceeded at [73]-[87] to consider the impact of the measure on (a) personal data protection (Article 8 of the Charter), (b) privacy of electronic communications (Article 7 of the Charter) and (c) freedom of expression (Article 11 of the Charter), and concluded that it was likely to have a negative effect on the enjoyment of these rights and freedoms.
+
+Next he considered the conditions for limiting those rights and freedoms prescribed by Article 52(1) of the Charter, and in particular the condition relating to the “quality of the law”, at [88]-[100]. In this connection, he cited the jurisprudence of the European Court of Human Rights which establishes that the requirement in provisions such as Article 10(2) that restrictions on fundamental rights be “prescribed by law” implies not only that the measure in question must have a legal basis, but also that it must satisfy certain criteria regarding “the quality of the law”. In particular, the law must be sufficiently clear and foreseeable as to the meaning and nature of the applicable measures and must define with adequate clarity the scope and conditions of the exercise of the power to limit rights guaranteed by the Convention.
+
+Finally, he considered whether the national legislation in issue satisfied the condition relating to the “the quality of the law” imposed by Article 52(1) of the Charter at [101]-[114], and concluded that it did not. In short, the legislation did not provide an adequate basis for an order of the kind described in the first question. It may be noted that this part of the Opinion does not specifically refer to Article 8(3) of the Information Society Directive, although it does refer generally to “the national statutory provisions designed to transpose Directives 2001/29 and 2004/48”.
+
+At the time of writing this judgment, the judgment of the Court of Justice on this reference is still awaited, and it seems unlikely that it will be delivered until later this year or early next year. Furthermore, the Advocate General pointed out in footnote 33 to his Opinion that an identical question to the first question had been referred to the Court of Justice in Case C-360/10 Belgische Vereniging van Auteurs, Componisten en Uitgevers (SABAM) v NETLOG NV, a case involving a social networking platform. The hearing in that case was held shortly after the hearing before me. Thus the full picture may not become clear until the Court of Justice delivers its judgment in that case.
+
+Even if it is assumed that the Court of Justice will entirely endorse the Opinion of the Advocate General in Scarlet v SABAM, I consider that the present case is clearly distinguishable from that case. Quite simply, the Studios are not seeking an order that BT “introduce, for all its customers, in abstracto and as a preventive measure, exclusively at the cost of that ISP and for an unlimited period, a system for filtering all electronic communications, both incoming and outgoing, passing via its services, in particular those involving the use of peer-to-peer software, in order to identify on its network the sharing of electronic files containing a musical, cinematographic or audio-visual work in respect of which the applicant claims to hold rights, and subsequently to block the transfer of such files, either at the point at which they are requested or at which they are sent”. On the contrary, the order sought by the Studios is clear and precise; it merely requires BT to implement an existing technical solution which BT already employs for a different purpose; implementing that solution is accepted by BT to be technically feasible; the cost is not suggested by BT to be excessive; and provision has been made to enable the order to be varied or discharged in the event of a future change in circumstances. In my view, the order falls well within the range of orders which was foreseeable by ISPs on the basis of section 97A, and still more Article 8(3) of the Information Society Directive. I therefore conclude that the order is one “prescribed by law” within Article 10(2) ECHR, and hence is not contrary to Article 10 ECHR. I will consider the question of proportionality below.
+
+Discretion
+
+BT contends that, even if the court has jurisdiction to make the order sought by the Studios, it should decline to do so in the exercise of its discretion for three reasons. I shall also consider a fourth potential reason that was not in terms advanced by counsel for BT, although it underlay some of his submissions on the other points.
+
+1.	The Studios are not interested in the whole of the Newzbin2 website
+
+It can be seen from the figures quoted in paragraph 53 above that films and television programmes comprise about 70% of the material accessible via Newzbin2, while about 30% of that material consists of other types of content. Furthermore, while the Studios own or control the copyrights in a large proportion of the films and television programmes indexed by Newzbin2, it is clear that other rightholders are also substantially affected by it. Counsel for BT submitted that in these circumstances it would be wrong in principle to grant an injunction which extended beyond the films and television programmes in which the Studios have rights, and to require BT to prevent its subscribers visiting any part of the Newzbin2 website for any purpose.
+
+Counsel for BT relied on two authorities in support of this submission. The first is CPI v Robinson. In a passage reported at [1986] 3 All ER 338 at 364-5 which is not included in the Chancery law report, Scott J said this:
+
+“In the circumstances, I have no doubt but that the plaintiffs have established in this case that they are entitled to the protection of an injunction.
+
+Counsel, however, has sought on the plaintiffs' behalf an injunction of a very great breadth. He has sought an injunction restraining the defendants from knowingly infringing copyright in any film for the time belonging to any of the plaintiffs (meaning any member of the MPAA besides the named plaintiffs) or in respect of which any of them is for the time being the exclusive licensee.
+
+It would be impossible for the defendants to know what films were covered by an injunction in that form. In my judgment it would be wrong in principle to grant an injunction the scope of which the defendants subject to it could not know and could not discover. Experience in this litigation has underlined the very great difficulty that is often experienced in ascertaining in whom copyright or exclusive rights in a particular film are for the time being vested.
+
+I am prepared to grant an injunction protecting the copyright or exclusive rights of any of the present plaintiffs in the films in respect of which their respective titles have been established in this action. I am not prepared to extend this protection to companies who are not plaintiffs, that is to say to future MPAA members. Nor am I prepared to extend this protection to cover other films. I am, however, willing to give the present plaintiffs or any of them liberty to apply from time to time on notice to the defendants to extend the injunction to other films. In order to obtain that extension, I contemplate that the applicant would have to satisfy the court, first, that it had copyright or exclusive rights in the film or films in question and, second, either that it had applied to the defendants for suitable undertakings which had not been given, or that for some reason undertakings by the defendants would not be sufficient. The costs of any such application would of course depend on the circumstances of that application.”
+
+This passage does not support counsel for BT’s submission. It is not addressing the question of whether an injunction may be granted which protects third party rightholders, but rather the breadth of the injunction to which the plaintiffs themselves were entitled. As can be seen, Scott J was concerned about the fact that the plaintiffs had encountered great difficulty in proving ownership of (or an exclusive licence under) the copyrights they had asserted in the proceedings. Accordingly, in the exercise of his discretion, he granted an injunction limited to the copyrights proved at trial with liberty to apply to extend it. CPI v Robinson is not even authority for the proposition that a claimant in a copyright action cannot obtain an injunction extending beyond the specific copyrights proved to have been infringed. On the contrary, as counsel for BT accepted, it is commonplace for rightholders such as Phonographic Performance Ltd to be granted injunctions covering the entire repertoire controlled by them even though infringements of only a small number of copyrights have been proved. Furthermore, the copyrights are typically identified only by reference to the trade marks under which the copyright recordings have been released: see Phonographic Performance Ltd v Maitra [1998] 1 WLR 870 and Independiente Ltd v Music Trading Online (UK) Ltd [2003] EWHC 470 (Ch). As can be seen from paragraph 43 above, in 20C Fox v Newzbin Kitchin J granted an injunction which not only covered the Studios’ existing repertoire, but also future additions to the repertoire notified to Newzbin Ltd.
+
+The second authority is 20C Fox v Newzbin itself. Counsel for BT relied on the fact that Kitchin J refused to grant an injunction extending beyond the Studios’ copyrights in their repertoire for the reasons he gave at [135] (quoted in paragraph 151 above). As discussed above, he gave three reasons for this refusal, one going to jurisdiction and two going to discretion. I have already considered the question of jurisdiction above. So far as the discretionary reasons are concerned, it seems to me that the third reason given by Kitchin J, namely that “the scope of the injunction would be very uncertain”, was decisive. The order sought by the Studios on the present application is quite different, and does not suffer from that vice. Turning to the first reason, key to this was that Kitchin J had heard “little or no evidence” about third party rights. By contrast, in the present case I have received evidence (a) that third party rights are being infringed and (b) that third party rightholders support the application.
+
+I do not read Kitchin J as having said that, if the court has jurisdiction to grant an injunction which protects third party rightholders in addition to the applicant rightholders, nevertheless it would be wrong in principle to grant such an injunction. Furthermore, as noted above, it is clear that the matter was not argued before Kitchin J in any depth. In particular, it seems clear that Kitchin J was not referred to any of the relevant jurisprudence under the Human Rights Act 1998. As counsel for the Studios pointed out, it is now well-established that, where the court is aware from the evidence that the Convention rights of persons other than the parties are engaged, then it is not merely entitled, but obliged, to take them into account. This is particularly well-established in the privacy context, where the courts now routinely take into account, and where appropriate protect, the Article 8 ECHR rights of third parties which are engaged: see e.g. ETK v News Group Newspapers Ltd [2011] EWCA Civ 439, [2011] EMLR 22 at [14]-[21].
+
+Counsel for BT sought to distinguish cases such as ETK on the basis that the applicants there were entitled to the whole of the relief claimed, and the Article 8 rights of third parties merely provided further support for the making of the order. I am not convinced that that is an accurate reading of those cases, but in any event I do not consider that it provides a real point of distinction from the present case.
+
+In my judgment, subject to the points that remain to be considered, the Studios have established their entitlement to an injunction under section 97A. It appears from the evidence that the Studios form the biggest single group of rightholders interested in obtaining such relief. In any event, it is clear that the Studios’ rights are being infringed on a massive scale. In those circumstances, I consider that they have a sufficient interest to justify the making of the order sought. It is true that the order sought will also benefit other rightholders, but I do not regard this as a reason for refusing the order. On the contrary, I consider that it supports the making of the order. So far as the groups of rightholders referred to in paragraph 4 above are concerned, they all support the application. It is immaterial that they have not formally joined in the application. So far as other rightholders are concerned, their rights under Article 1 of the First Protocol are also engaged and there is no reason to believe that they would not be equally supportive of the application.
+
+Finally, I recognise that the order would potentially prevent BT subscribers from making use of Newzbin2 for non-infringing uses. On the evidence, however, the incidence of such uses is de minimis.
+
+2.	Exposure to multiple claims
+
+Counsel for BT submitted that, if the present application succeeded, there would be nothing to stop countless other applicants coming forward to demand that BT block access to websites alleged to contain unlawful material, and that the court should exercise its discretion to refuse the application for that reason. In this connection he prayed in aid the comments of Advocate General Villalón in Scarlet v SABAM at [61].
+
+I accept that it is likely that, if the present application is successful, the Studios are likely to seek similar orders against other ISPs relating to Newzbin2. I do not accept that is a matter that is, or should be, of any concern to BT. On the contrary, as counsel for BT understandably said, BT would be concerned if an order was made against BT, but not against its competitors. If such orders are made, it will be unnecessary for other rightholders to seek orders against ISPs relating to Newzbin2.
+
+Turning to other websites that provide access to infringing copies of copyright material, I accept that it is likely that rightholders will wish to obtain similar orders relating to those. It should be borne in mind, however, that in this case the Studios started from the point that they had already obtained judgment against Newzbin Ltd. Even so, the Studios have had to obtain and put before the Court a substantial quantity of evidence in support of the present application. In addition, the application involved the preparation by counsel for the Studios of a lengthy and detailed skeleton argument, a two-day hearing and written submissions following the hearing. Thus this will have been a costly application for the Studios to bring.  I recognise, of course, that some of this effort and expenditure is attributable to the present application being a test case, and that subsequent applications ought to require less effort and less expenditure, but on the other hand subsequent applicants will have to prove things that the Studios had already established in 20C Fox v Newzbin. Furthermore, although I cannot prejudge later arguments in this case, it is not inevitable that future applicants will recover all their costs even if successful: compare the practice in respect of Norwich Pharmacal orders, as to which see Totalise plc v Motley Fool Ltd [2001] EWCA Civ 1897, [2002] 1 WLR 1233. For these reasons, even if the present application is successful, I think it is clear that rightholders will not undertake future applications lightly. On the contrary, I consider it probable that they will concentrate their resources on seeking relief in respect of the more egregious infringers. I therefore do not anticipate a flood of such applications.
+
+In my judgment the fact there may be further applications in future is not a sufficient reason to refuse the present application. BT is concerned that the order sought, if replicated numerous times, would undermine the IWF blocking system and/or put strain on BT’s network and/or impose substantial compliance costs on BT. In my view BT’s evidence does not establish that the making of the present order on its own would have any of these effects. Whether the making of further orders would have those effects can be addressed in evidence as and when they are applied for, in the light of experience gained as a result of the present order assuming it is granted.
+
+Counsel for BT also suggested that applications would be made in respect of websites alleged to contain defamatory allegations or private information. In my view applications in respect of websites of those kinds would be likely to raise separate issues to the present application, as well as common ones, and would require separate consideration. Even if the present application succeeds, it does not automatically follow that applications in respect of such websites would succeed.
+
+3.	Efficacy
+
+Counsel for BT argued that, even if the order sought by the Studios were made, it would be ineffective. It is common ground that, if the order were to be implemented by BT, it would be possible for BT subscribers to circumvent the blocking required by the order. Indeed, the evidence shows the operators of Newzbin2 have already made plans to assist users to circumvent such blocking. There are at least two, and possibly more, technical measures which users could adopt to achieve this. It is common ground that it is neither necessary nor appropriate for me to describe those measures in this judgment, and accordingly I shall not do so.
+
+Mr Hutty’s opinion in summary is that users of Newzbin2 would be able to, and would, circumvent the blocking. Mr Clark’s opinion in summary is that, while some users would do this, others would not. Counsel for BT submitted that Mr Hutty’s opinion was to be preferred, because Mr Hutty took into account the level of technical expertise required by users to download infringing content using Newbzin2. Mr Hutty’s opinion is that the level of technical expertise required to circumvent the blocking is little greater. In my judgment Mr Hutty makes a valid point that, in considering the likely efficacy of the order, it is material to consider the technical expertise of those affected by it. Furthermore, his assessment of the comparative level of technical expertise required to use Newzbin2 and to circumvent the blocking appears reasonable. Nevertheless, I am not persuaded that it follows that the order would be ineffective, for the following reasons.
+
+First, it seems likely that circumvention will require many users to acquire additional expertise beyond that they presently possess. Even assuming that they all have the ability to acquire such expertise, it does not follow that they will all wish to expend the time and effort required.
+
+Secondly, evidence filed by the Studios suggests that circumvention measures are likely to lead to slower performance and lower quality downloads, at least unless users are prepared to pay for a certain service provided by a different provider. Again, it is not necessarily the case that all users will be prepared to do this. This is not merely a question of money: there is also a potential security issue with using such services.
+
+Thirdly, it is important not to overlook the question of economics. As I have explained above, Newzbin2 members have to pay a subscription to use it to access content. They will also need to have a Usenet service. For the reasons Mr Hutty himself explains, they will commonly need to use a paid service. Thus they are not getting infringing content for free even as matters stand.  If, in addition to paying for (a) a Usenet service and (b) Newzbin2, the users have to pay for (c) an additional service for circumvention purposes, then the cost differential between using Newzbin2 and using a lawful service (such as a DVD rental service) will narrow still further. This is particularly true for less active users. The smaller the cost differential, the more likely it is that at least some users will be prepared to pay a little extra to obtain material from a legitimate service.
+
+Fourthly, I agree with counsel for the Studios that the words of Kenneth Parker J in R (on the application of British Telecommunications plc) v Secretary of State for Business, Innovation and Skills [2011] EWHC 1021 (Admin) at [232] are equally applicable here:
+
+“It is not disputed that technical means of avoiding detection are available, for those knowledgeable and skilful enough to employ them. However, the central difficulty of this argument is that it rests upon assumptions about human behaviour. Experts can seek to establish a profile of those who engage in P2P file sharing, and their various reasons for doing so, and may then attempt to predict how these users may be likely to respond if confronted with the kind of regime that the DEA enacts. In theory, some may cease or substantially curtail their unlawful activities, substituting or not, for example, lawful downloading of music; others may simply seek other means to continue their unlawful activities, using whatever technical means are open. The final outcome is uncertain because it is notoriously difficult accurately to predict human behaviour…”
+
+As it happens, the Studios’ evidence is that when a similar kind of order was made by an Italian court blocking access to the Pirate Bay, use of the site appears to have been markedly reduced. It is fair to observe that, as BT’s evidence points out, diverted traffic may not have been picked up by the monitoring results relied on; but there is no hard evidence of a substantial quantity of diverted traffic.
+
+Finally, I agree with counsel for the Studios that the order would be justified even if it only prevented access to Newzbin2 by a minority of users.
+
+4.	Proportionality
+
+A point which underlies some of the submissions made by counsel for BT, although it was not relied upon by him as a free-standing ground of objection to the proposed order, is the question of proportionality. As set out above, counsel for the Studios accepted that the proposed order engaged the Article 10 ECHR rights of BT’s subscribers, and accordingly that it was incumbent on the Studios to satisfy the court that the interference with those rights was proportionate having regard to the Studios’ rights protected by Article 1 of the First Protocol. The requirement for proportionality is also laid down by the judgments of the Court of Justice in Promusicae and L’Oréal v eBay.
+
+In general, I am satisfied that the order sought by the Studios is a proportionate one. It is necessary and appropriate to protect the Article 1 First Protocol rights of the Studios and other copyright owners. Those interests clearly outweigh the Article 10 rights of the users of Newzbin2, and even more clearly outweigh the Article 10 rights of the operators of Newzbin2. They also outweigh BT’s own Article 10 rights to the extent that they are engaged. The order is a narrow and targeted one, and it contains safeguards in the event of any change of circumstances. The cost of implementation to BT would be modest and proportionate.
+
+A specific issue which arose in this connection is that counsel for BT submitted that, if the court was minded to grant an order, the order should require the Studios to identify individual URLs corresponding to the individual NZBs files indexed by Newzbin2 which relate to infringing copies of individual copyright works. Notwithstanding the reference in the Studios’ draft order to “and its domains and sub domains”, counsel for the Studios opposed this. In my judgment such a requirement would not be proportionate or practicable since it would require the Studios to expend considerable effort and cost in notifying long lists of URLs to BT on a daily basis. The position might be different if Newzbin2 had a substantial proportion of non-infringing content, but that is not the case.
+
+A reference to the Court of Justice?
+
+Counsel for BT suggested during the hearing that it might be necessary to refer questions of interpretation of European law to the Court of Justice in order to determine this application. Counsel for the Studios resisted a reference, while recognising that the question might depend on the Court’s judgment in L’Oréal v eBay. Following that judgment, he submitted that no reference was necessary. I accept that submission. In my view the principles of European law to be applied are now sufficiently clear to enable me to determine this application without recourse to a reference. For the sake of clarity, it should be appreciated that one of the key issues I have considered, namely the interpretation of the requirement of “actual knowledge” in section 97A is primarily a matter of domestic law, albeit within the framework created, and the constraints imposed, by European law.
+
+It is worth recording that counsel for the Studios submitted that, in the event that I concluded that a reference was required, an interim injunction should be granted in the meantime. It was common ground between counsel that the test to be applied in that event was the normal American Cyanamid test subject to the modification required by section 12(3) of the HRA 1988 as interpreted by the House of Lords in Cream Holdings Ltd v Banerjee [2004] UKHL 44, [2005] 1 AC 253, namely that the Studios would have to show that they were more likely than not to succeed.
+
+Conclusion
+
+For the reasons given above, I will make an order substantially in the form sought by the Studios. I will hear counsel on the precise wording of the order, as well as any other matters arising.

@@ -1,0 +1,325 @@
+[
+  {
+    "sentence": "The claimant (who is now aged 54) applies under section 18 of the Serious Crime Act  2007 and CPR Part 8 for an order discharging a Serious Crime Prevention Order  (\u201cSCPO\u201d) made by HHJ Richards in the Crown Court at Swansea on 17 May 2022.",
+    "legal_references": [
+      {
+        "text": "section 18 of the Serious Crime Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "CPR Part 8",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "a Serious Crime Prevention Order",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Serious Crime Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "section 18 of the Serious Crime Act  2007",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "The imposition, variation and discharge of SCPOs is governed by Part 1 of the Serious  Crime Act 2007 (\u201cthe Act\u201d).",
+    "legal_references": [
+      {
+        "text": "Part 1 of the Serious  Crime Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "By virtue of section 19(5), the Crown Court may impose:   \u201c(a)  such prohibitions, restrictions or requirements; and   (b)  such other terms;   as the court considers appropriate for the purpose of protecting  the public by preventing, restricting or disrupting involvement  by the person concerned in serious crime in England and Wales.\u201d   5.",
+    "legal_references": [
+      {
+        "text": "section 19(5)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "6. Section 16 of the Act makes provision for the duration of orders:",
+    "legal_references": [
+      {
+        "text": "Section 16",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The test to be applied on variation or replacement involves the same  considerations as on imposition (see section 21(2)).",
+    "legal_references": [
+      {
+        "text": "section 21(2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Article 5 of  the Serious Crime Act 2007 (Appeals under Section 24) Order 2008/1863 provides:   \u201c(1)  The Court of Appeal has all the powers of the Crown Court.   (2)  The Court of Appeal may \u2014  (a)  make a serious crime prevention order;   (b)  affirm, set aside or vary any order or judgment made or given  by the Crown Court;   (c)  refer any issue for determination by the Crown Court;   (d)  order a new hearing in the Crown Court;   (e)  make an order for costs in accordance with Part 3;   (f)  make an order for the payment of interest on those costs.   (3)  The Court of Appeal may exercise its powers in relation to  the whole or part of an order of the Crown Court.\u201d   10.",
+    "legal_references": [
+      {
+        "text": "Article 5 of  the",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Section 24) Order 2008/1863",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Part 3",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Serious Crime Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "A person who without \u201creasonable excuse\u201d fails to comply with a SCPO commits an  offence punishable by up to five years\u2019 imprisonment (section 25).",
+    "legal_references": [
+      {
+        "text": "SCPO",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The facts of the 2012 offence  are summarised in R v Jason Place  [2017] EWCA Crim 884 which (despite the use of  an alias) relates to the claimant.",
+    "legal_references": [
+      {
+        "text": "R v Jason",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "EWCA Crim 884",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Considering R v Liddle and Hayes  [1999] 3 All ER  816 CA he found the offence serious, the offending persistent,  sophisticated and made up of malicious allegations designed to  do damage and to hurt.",
+    "legal_references": [
+      {
+        "text": "R v Liddle",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Any  SCPO would not be enforceable and would be a disproportionate interference with his  huma n rights.    27.",
+    "legal_references": [
+      {
+        "text": "huma n rights",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I have considered the terms of the proposed Serious  Crime Prevention Order, with one exception to which I will  return, I am satisfied that there are reasonable grounds to believe  that the order would protect the public by preventing, restricting  or disrupting involvement by the Defendant in serious crime in  England and Wales.",
+    "legal_references": [
+      {
+        "text": "Serious  Crime Prevention Order",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I do not consider that Paragraph 3.4 is  necessary to protect the public\u2026",
+    "legal_references": [
+      {
+        "text": "Paragraph 3.4",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I should explain that Paragraph 3.4 (mentioned by the judge) would have required the  claimant to notify the relevant authorities in advance of any foreign travel.",
+    "legal_references": [
+      {
+        "text": "Paragraph 3.4",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "On 5 December 2022, as part of his post -sentence supervision, the claimant underwent  an interview with the Probation Service and sent the first defendant an email under  clause 3 of the SCPO in which he provided two residential addresses.",
+    "legal_references": [
+      {
+        "text": "SCPO",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In relation to where the claimant lives, clauses 3 and 7 of the SCPO provide as follows:   \u201c3 Notification of Premises/Travel both within and outside the  UK  3.1 On the date of the coming into force of this Order, the  Offender shall notify the [relevant authorities] of the full postal  addresses and any postal codes of all premises, including  business premises, which he may own, possess the keys to,  occupy (whet her as a tenant or not) or control, specifying in that  notice which of the premises is his home address.",
+    "legal_references": [
+      {
+        "text": "SCPO",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "THE HONOURABLE MRS JUSTICE FARBEY   Approved Judgment       7.2 In the case of a change of a name or address or the acquisition  of a temporary address, the Offender must specify the new name  or address.\u201d",
+    "legal_references": [
+      {
+        "text": "Judgment       7.2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He is not prohibited from living in Belarus or Russia: he  will comply with the SCPO provided that he gives the required notifications as set out   in clauses 3 and 7.    40.",
+    "legal_references": [
+      {
+        "text": "clauses 3",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is unenforceable, as the  jurisdiction to enforce it does not extend abroad ( R v (KBR Inc) v Director of the Serious  Fraud Office  [2021] UKSC 2, [2022] A.C. 519, paras 21 -22).",
+    "legal_references": [
+      {
+        "text": "R v (",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "A.C. 519",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The claimant submits  that the ineffective and unenforceable nature of the SCPO means that it cannot serve  the purpose of the 2007 Act which is to protect the public.",
+    "legal_references": [
+      {
+        "text": "SCPO",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the 2007 Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "His more recent convictio ns  relate to breaches of the SCPO which are not \u201cserious\u201d offences in the sense required  (see section 2 of the Act).",
+    "legal_references": [
+      {
+        "text": "SCPO",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The claimant submits that, in the changed circumstances, the SCPO has become a  punitive and not a protective measure, contrary to the purpose s of the Act.",
+    "legal_references": [
+      {
+        "text": "SCPO",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The SCPO  is unjustified and unlawful not only under the Act but also under the protection afforded  to basic rights by the common law (including Magna Carta) and under the Human  Rights Act 1998.  In terms of his human rights, he relies princip ally on article 8 of the  European Convention on Human Rights which provides a qualified right to respect for  priva te and family life.   He relies on the right to respect for private life because the  requirements of the SCPO are intrusive.",
+    "legal_references": [
+      {
+        "text": "SCPO",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Magna Carta",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Human  Rights Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "article 8",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the  European Convention on Human Rights",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "H e cannot  now ask this court to remove the SCPO on the grounds that the judge was wrong to  impose it.",
+    "legal_references": [
+      {
+        "text": "SCPO",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This court will treat the SCPO as lawfully made and as compatible with the claimant\u2019s  human rights and common law rights at the time it was made.",
+    "legal_references": [
+      {
+        "text": "SCPO",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The claimant relies on KBR  to submit that the starting point for a consideration of the  scope of the Serious Crime Act 2007 is the presumption in domestic law in this  jurisdiction that legislation is generally not intended to have extra -territorial effect  (KBR , above, para 21).",
+    "legal_references": [
+      {
+        "text": "KBR",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Serious Crime Act 2007",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "KBR , above",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Serious Crime Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 5(2) of the Act enables \u201cprohibitions, restrictions or requirements in relation to  places other than England and Wales\u201d which may suggest that Parliament expressly  empowered the courts to impose restrictions of a sort that relate to places other  than the  United Kingdom.  In the absence of full argument, I reach no final conclusions in  relation to these various matters.      69.",
+    "legal_references": [
+      {
+        "text": "Section 5(2)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Neither the Human Rights Act nor the common law (including Magna Carta) requires  a different outcome.",
+    "legal_references": [
+      {
+        "text": "the Human Rights Act",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Magna Carta",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Human Rights Act",
+        "match_type": "Regex - Known Act"
+      }
+    ]
+  }
+]

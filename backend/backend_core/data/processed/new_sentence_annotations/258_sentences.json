@@ -1,0 +1,148 @@
+[
+  {
+    "sentence": "- - - -  MR T OWEN QC and MR A BAILIN appeared on behalf of THE APPLICANT  MISS S WHITEHOUSE appeared on behalf of THE CROWN  - - - - - - -  J U D G M E N T     Wednesday, 1 February 2006  THE LORD CHIEF JUSTICE:    1.\tOn 14 September 2005, in the Crown Court at Southwark, before His Honour Judge Rivlin QC, the applicant pleaded guilty to the unlawful and unauthorised interception of electronic mail communications to a public company, contrary to section 1(2) of the Regulation of Investigatory Powers Act 2000 (\"the Act\").",
+    "legal_references": [
+      {
+        "text": "section 1(2)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Regulation of Investigatory Powers Act 2000",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Conviction  4.\tSection 1 of the Act provides:  \"(1) It shall be an offence for a person intentionally and without lawful authority to intercept, at any place in the United Kingdom, any communication in the course of its transmission by means of --  (a)\ta public postal service; or  (b)\ta public telecommunication system.",
+    "legal_references": [
+      {
+        "text": "Conviction  4.\tSection 1 of the Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(5) Conduct has lawful authority for the purposes of this section if, and only if --  (a)\tit is authorised by or under section 3 or 4;  (b)\tit takes place in accordance with a warrant under section 5 ('an interception warrant'); or  (c)\tit is in exercise, in relation to any stored communication, of any statutory power that is exercised (apart from this section) for the purpose of obtaining information or of taking possession of any document or other property.  (6) The circumstances in which a person makes an interception of a communication in the course of its transmission by means of a private telecommunication system are such that his conduct is excluded from criminal liability under subsection (2) if --  (a)\the is a person with a right to control the operation or the use of the system; or  (b)\the has the express or implied consent of such a person to make the interception.\"",
+    "legal_references": [
+      {
+        "text": "section 3",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "subsection (2)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The relevant passage dealt with the following sentence from section 17 of the Computer Misuse Act 1990:  \"Access of any kind by any person to any programme or data held in a computer is unauthorised if --  (a)\the is not himself entitled to control access of the kind in question to the programme or data.\"  Lord Hobhouse commented:  \"the word 'control' in this context clearly means authorise and forbid .... it is plain that [the subsection] is not using the word 'control' in a physical sense of the ability to operate or manipulate the computer.\"  15.\tThe judge applied the same reasoning to the word \"control\" in section 1(6)(a) of the Act.  He held that \"right to control\" meant more than merely \"the right to access or to operate the system\".  It meant the right to authorise or forbid the operation or the use of the system.",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "section 17 of the Computer Misuse Act 1990",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "The Grounds of Appeal  18.",
+    "legal_references": [
+      {
+        "text": "The Grounds of Appeal",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Some of his skeleton argument and grounds of appeal are off target for they are directed to what the controller may do without attracting criminal liability, whereas the issue is what section 1(6)(a) means when it speaks of \"control\".  As to this the applicant's case appeared, only by implication, from the following paragraph in his Grounds of Appeal:  \"The effect of the judge's definition was wholly to undermine the legislative intent.",
+    "legal_references": [
+      {
+        "text": "section 1(6)(a)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This fact is underlined by section 6(1)(b) which extends protection to a person who has the express or implied consent to make the interception of the person with the right to control.",
+    "legal_references": [
+      {
+        "text": "section 6(1)(b)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The objective of section 1 of the Act is not in doubt.",
+    "legal_references": [
+      {
+        "text": "section 1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "On 22 April 1992 Ms Alison Halford complained to the European Commission of Human Rights that an interception of calls made from her office and home telephones amounted to an unjustified interference with her rights to respect for her private life, contrary to Article 8 of the European Convention on Fundamental Rights and Human Freedoms.",
+    "legal_references": [
+      {
+        "text": "Article 8 of the European Convention on Fundamental Rights and Human Freedoms",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "(See Halford v United Kingdom (1997) 24 EHRR 523, paragraph 48.)  25.\tThe European Court went on to note at paragraph 51 that:  \"there is no .... provision in domestic law to regulate interceptions of telephone calls on [private telecommunications systems].  It cannot therefore be said that the interference was \"in accordance with the law\" for the purposes of Article 8(2) of the Convention, since the domestic law did not provide adequate protection to Ms Halford against interference by the police with her right to respect for her private life and correspondence.\"",
+    "legal_references": [
+      {
+        "text": "Article 8(2) of",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "24 EHRR 523",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "26.\tIt would undermine the object of section 1 if anyone with unrestricted ability to operate and use a telecommunications system was exempt from criminal liability for intercepting communications.",
+    "legal_references": [
+      {
+        "text": "section 1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "This result would not, however, follow if the judge's narrower interpretation of \"right to control\" is adopted.  Mr Owen submitted that the civil remedy available under section 1(3) would suffice to protect privacy rights in such circumstances.",
+    "legal_references": [
+      {
+        "text": "section 1(3)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The crime that section 1 of the Act proscribes is the obtaining of private information by intercepting it in the course of electronic transmission.",
+    "legal_references": [
+      {
+        "text": "section 1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "We think that material factors when weighing the seriousness of an offence under section 1 must be the nature of the material obtained by the interception and the object of obtaining it.",
+    "legal_references": [
+      {
+        "text": "section 1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]

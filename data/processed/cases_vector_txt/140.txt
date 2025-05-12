@@ -1,0 +1,437 @@
+Case No: IHQ/06/0833
+
+Neutral Citation Number: [2007] EWHC 140 (QB)
+
+IN THE HIGH COURT OF JUSTICE
+
+QUEEN'S BENCH DIVISION
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Date: 1st February 2007
+
+Before :
+
+MR JUSTICE TUGENDHAT
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Between :
+
+|L|Claimant|
+
+|- and -||
+
+|(1) L
+
+(2) H (a firm)|Defendants|
+
+- - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Mr David Sherborne (instructed by Family Law in Partnership) for the Claimant
+
+Miss Lorna Skinner (instructed by Hughes Fowler Carruthers) for the Defendants
+
+Hearing dates: 22nd January 2007
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Judgment
+
+Mr Justice Tugendhat :
+
+The hearing of this matter was in private. This judgment has been anonymised and is to be delivered in open court
+
+It is frequent in matrimonial disputes for one party (in this case the wife) to suspect that the other party is about to destroy documents, or conceal information which is, or may be, relevant to the proceedings, and to do so with a view to preventing her from obtaining from the court the financial provision to which she claims to be entitled.  While the law provides for court orders to be made for the preservation and obtaining of evidence for the purpose of future legal proceedings, claimants, or potential claimants, sometimes resort to measures of self help, by copying, seizing, or attempting to access digital copies of documents.  The other party in such a case, in this case the husband has rights, including privacy, confidentiality and legal professional privilege, in relation to relevant documents.  The rights of privacy and confidentiality (but not any right to privilege) may be overridden by the competing public interest that any trial should be conducted on full evidence where the documents are relevant.  But unless a document or information is relevant to the actual or intended proceedings in question, the rights of privacy and confidentiality will not be overridden at the instance of the potential or actual claimant, here the wife.  These measures of self help therefore give rise to legal difficulties.
+
+The difficulties that measures of self help give rise to in this context include the danger that the husband’s rights will be overridden, when they would not be overridden if the matter had been the subject of an application for a preservation or search order made to the court.   Rights of confidentiality, and legal professional privilege, have long been protected by the common law.  Measures of self help could in the past involve the commission of civil wrongs, such as trespass, breach of confidence and breach of copyright.  In the last 20 years or so the legal protection of information has been greatly increased. This has in large measure been in response to the development of computers and their use for word processing and sending of electronic messages. The amount of information that can be stored on a laptop is vast, and techniques for copying are quick and simple for experts. So the potential fruits of self help are of a different order from those of former days.  These developments have given rise to the question of the extent to which measures of self help are also in breach of the criminal provisions of the law designed to protect the databases contained in digital form in computers.
+
+The present proceedings
+
+On 16th November 2006 the husband issued proceedings by a Claim Form naming both the wife and her solicitors as Defendants. I shall refer to the Claimant as “the husband”, to the First Defendant as “the wife”, and to the Second Defendant as “the wife’s solicitors”. The relief claimed is delivery up of all copies of the hard drive of the husband’s Sony laptop computer (“the laptop”) made or taken by the Defendants or anyone acting on their behalf.  There is also a claim for an injunction to restrain the Defendants from communicating or using or disclosing any contents of the hard drive, or any copy of it, containing private or confidential information relating to the husband, his personal or private life, his financial or business affairs (including any legally professionally privileged material), and those of any of his business associates.
+
+On 14th November the matter had come before Eady J. He heard counsel for the wife and her solicitors and accepted undertakings from them.  By that time the Defendants accepted that they had two copies of the hard drive, but stated that neither of them had yet had access to the contents.  They undertook not to communicate or to disclose the contents of the hard drive and not to “take any steps whatsoever to access the said hard drive or copy of the hard drive or read the same”.  On those undertakings, by consent, the husband’s application for delivery up and other interim relief was adjourned to a date to be fixed (22nd January 2007, in the event).
+
+The application notice was issued that day.  The first order sought was a non-disclosure injunction, substantially in the terms of the undertaking already given by the Defendants.  I need not set it out in detail in this judgment, since its terms are not in substance in dispute before me.
+
+The second order sought is the one which has been the subject of the main dispute before me.  It is that the Defendants deliver up, or cause to be delivered up, to the husband’s solicitors to be held by them (ie as opposed to by the wife’s solicitors) any and all copies of the hard drive of the laptop which are in their possession, control or power.
+
+Also sought is an order that the Defendants identify by a witness statement the precise hardware and software taken or copied by the Defendants or anyone acting for or on their behalf, and the names and addresses of each and every person to whom the said hard drive or any copies was given shown or otherwise disclosed. There has been little argument before me on those points.
+
+In addition ancillary orders are sought, including one that no use be made by the Defendants of any of the documents referred to in the course of the hearing before me save for the purpose of this application.
+
+Also in dispute is the wife’s application that the proceedings be transferred to the Family Division.
+
+Particulars of Claim were served on 4th December 2006 and a Defence was served last week, on 16th January 2007.  Since those documents have been served, it is convenient to take the main contentions of the parties from them.
+
+Much is common ground.   The husband is a business man.  He and the wife are both of Swedish nationality.  They were married in June 1990 and have four children.  They lived together in England for about 10 years until 10th October 2006, when the husband left the family home. The Swedish court pronounced a decree absolute dissolving the marriage on 5th December 2006.  There are ongoing financial proceedings before the courts in Sweden.  The husband suggests that the wife may have been advised that Swedish law may be less favourable to her than English law. But he contends that Sweden is the jurisdiction seised of the matter, and the only proper jurisdiction for the hearing of disputes between himself and the wife.
+
+The chronology of the divorce proceedings is a little complicated.  The parties issued joint proceedings in Sweden on 3rd May 2006.  But on 19th May 2006 the wife petitioned for divorce in England.  On 22nd May 2006 the Swedish proceedings were withdrawn, but they were reinstated, following the husband’s appeal, on 31st August 2006.  Swedish law provides for a cooling off period, so that the proceedings did not advance until 3rd November 2006.  Meanwhile, on 27th July 2006 the wife’s petition in England was dismissed. Each party makes allegations of deception against the other relating to the withdrawal of the Swedish proceedings and to the issue of the English proceedings.  I do not need to set out the allegations or facts in any detail.
+
+On 20th December 2006 the wife brought proceedings in the Family Division of the High Court for, amongst other things, leave to issue an application for substantive financial relief under Part III of the Matrimonial and Family Proceedings Act 1984 (“the Part III proceedings”) and financial orders for the children of the family pursuant to Schedule 1 of the Children Act 1989 (“the Sch I proceedings”).
+
+On 11 January 2007 Munby J made two orders. In one he granted leave for an application to be made under the 1984 Act and a worldwide freezing order in respect of the husband’s assets, and ordered the husband to inform the wife’s solicitors in writing of all his assets exceeding £5,000 in value.  The other order is referred to below.
+
+In the Defence it is alleged that the inclusion of the wife’s solicitors as the Second Defendants to the proceedings is an abuse of the process of the court.  However, no application is before me on that basis.  I am not asked to strike them out as parties.
+
+There is no dispute that the husband purchased the laptop in February 2006.  It is the husband’s contention that the laptop was his own personal property and was installed in his own office in the family home, configured to be used, and actually used, only by himself.  He said it was always password protected and he did not provide or disclose his password to his wife or children.  They had computers of their own.  He used the laptop for his personal and work purposes, and he kept his emails on Microsoft Outlook software which stored them on the computer.   All the computers were connected to a server kept in an outbuilding, upon which the data was all backed up.
+
+The wife admits that the laptop was configured to be used only by the husband.  But she says it was in fact used with his consent by herself and the children and that it was not password protected until the summer of 2006.  She accepts that it was password protected from then on.  She accepts that it held his own e-mail account.
+
+There is no dispute that on 2nd November 2006, the husband’s laptop was removed from his office at the family home by a computer expert engaged by the wife, a company I shall refer to as D.  The husband claims that this was illicit.  The wife contends that it was lawful.  So far as property in the laptop is concerned, her case is that it was the joint property of her husband (they were still married at that point) and herself, or that she was permitted by her husband to access or copy the contents of the computer or authorise her agents to do so.
+
+There is no dispute that some three weeks previously (very shortly before he left home on 10 October) the husband had thrown out a number of documents which had been kept at his home, which was also his office. The wife claims that this is what led to her action on 2nd November. She claims that he acted surreptitiously and she feared that he was destroying evidence that might assist her case. The husband says that he acted openly and innocently. In any event, he contends, there were no proceedings in existence or in contemplation in which any such documents might have been evidence. The only proceedings in existence were in Sweden, for which, he says, no documents are required. His case is that that is the only jurisdiction in which proceedings could take place. So, he says, there was no basis for the fears the wife claims she had.
+
+The husband contends that nobody was authorised to remove or access the contents of the computer.  He first learnt about it (and contends that he would not otherwise have learnt about it) when he was informed by the family housekeeper that the laptop had been removed. That was on 3rd November 2006.
+
+The wife admits that D made two copies of the hard drive and returned the laptop to the family home on 3rd November 2006.  At that point one copy of the hard drive was retained by D, she says, and one was sent to her solicitors.  By the time the Defence was served, she and her solicitors state that both copies of the hard drive were in the possession of her solicitors, (the Defence, is the Defence of both Defendants).  As to whether he would have come to hear of it and how, the wife contends that she would be under a legal obligation to disclose the existence of the copies made of the hard drive in any application made for financial provision.  Whether the wife would have been entitled to withhold this information until such a time has not been canvassed before me and I express no view upon it.
+
+As appears from the dates given above, no such application had been made by 3rd November, although the wife contends that such proceedings were in her contemplation.   In addition to the claim of right based on joint property and authorisation, referred to above, the wife seeks to justify her conduct in engaging D on the basis of other legal defences referred to below.
+
+Although it has no direct relevance to matters before me, it is to be noted that on 7th November 2006, following his discovery that the laptop had been removed, the husband instructed agents on his behalf to enter the outbuildings of the family home, and to remove the network server, fearing that the wife might have that copied or removed as well.  The wife complains of the husband’s act of self help, and says it has considerably exacerbated the ill feelings and mistrust between them, with corresponding distress and harm to the children.
+
+In his Particulars of Claim the husband sets out a summary description of the contents of the laptop.  The Defendants neither admit nor deny the accuracy of this, on the ground they have as yet had no access to the hard drive.  The husband’s case is that it contains numerous documents and communications to or from his personal e-mail account which include information or material relating or referring to the following:
+
+Confidential advice, discussions, instructions or other material (or drafts of the same) obtained from or by or given to his Swedish lawyers, all or the majority of which are covered by legal professional privilege;
+
+Confidential advice, discussions, or other material (or drafts of the same) obtained from or by or given to his English matrimonial solicitors, all or the majority of which are covered by legal professional privilege;
+
+Confidential advice, instructions or other material (or drafts of the same) obtained or by or given to his English private client solicitors, (a different firm, whom he identifies), all or the majority of which are covered by legal professional privilege;
+
+The husband’s personal life, his correspondence with friends, confidants and his children about personal or private matters, including (amongst other things) highly intimate feelings and statements about the wife, the breakdown of their relationship, their divorce and medical matters relating to other individuals;
+
+The husband’s personal financial and business affairs (such as internal prospectuses, business plans or strategy documents or other company documents belonging to the subsidiaries of some public limited companies on whose Boards of Directors the husband sits);
+
+The personal or business affairs of friends, colleagues and associates.
+
+It is the husband’s case that such information and material is self evidently private or confidential and that the husband has a reasonable expectation of privacy in relation to it.  He refers to his rights under Article 8 of the European Convention on Human Rights (respect for private life), and to the cases interpreting that article.
+
+The husband contends that by taking and copying the laptop the wife and the solicitors have unlawfully infringed, or threatened unlawfully to infringe, his rights in privacy and confidence.  He alleges that they knew, and alternatively ought to have known, that the laptop contained, or was likely to contain, information of that kind. He stresses the fact that on 2nd November 2006 there were no proceedings in existence in this jurisdiction and that all proceedings were being dealt with at that time in Sweden.
+
+The wife and her solicitors assert that what was done was lawful.  They refer to the undertakings they have given to the court and complain that the husband has declined to identify which documents he objects to them seeing and where they are to be located on the copy hard drive.  They state (in para 13.3 of the Defence):
+
+“Their intention is not to examine copies of the hard drive themselves but to have them examined by an independent expert, either pursuant to jointly agreed instructions or to an order of the court in order to protect the Claimant’s position and ensure that only relevant information is extracted for use in proceedings”.
+
+They go on to state (in para 14 of the Defence) that, whilst no admission is made as to the content of the hard drive of the laptop,
+
+“It is admitted that the copies were taken in the hope that the hard drive contained evidence relating to the Claimant’s financial position”.
+
+They also contend that there was a real risk that if they had given prior warning of the removal and copying of the laptop that would have resulted in the husband taking steps to retrieve it and destroy any relevant financial evidence upon it.  They admit they knew it was password protected and that no divorce, ancillary relief or Children Act proceedings were in existence in this jurisdiction at the time.  However, they say that such proceedings were contemplated.
+
+The Particulars of Claim then go on to make a claim that the Defendants have contravened, and threaten to contravene, the provisions of Data Protection Act 1998 (“the 1998 Act”).  As pleaded, the claim is that the Defendants have become, or are threatening to become, data controllers, that the information is or includes personal or sensitive personal data, that the husband is the data subject, and that by copying, and retaining copies of, the hard drive the Defendants are in breach of the data protection principles.  It is said that the data has not been processed fairly or lawfully or in accordance with the husband’s rights as the data subject.
+
+In his skeleton argument before me Mr Sherborne goes further, arguing that there has been already a breach of Section 55 of the 1998 Act (the section which provides for criminal penalties) and  of the Computer Misuse Act 1990 (“the 1990 Act”) Section 1, the terms of which are set out below.
+
+In response to this claim the Defendants rely on Section 35 of the 1998 Act (disclosures required by law or made in connection with legal proceedings etc) and the exemption under Section 36 for data processed by an individual only for the purpose of that individual’s personal family or household affairs.  It is pleaded in the Defence (para 17) that
+
+“the contents of the hard drive of the laptop were copied for the purpose of preserving evidence as to the Claimant’s financial position which may otherwise be destroyed by him, thereby assuring the proper administration of justice in contemplated Family Division Proceedings which have now been issued”.
+
+In support of this plea there follow ten lengthy paragraphs of particulars setting out the allegations of erratic, aggressive and violent behaviour which the wife makes against the husband. She sets out words which she alleges he uttered to the effect that she would get nothing on a divorce.  It is pleaded that (as noted above) on 8th 9th and 10th October he shredded personal and financial documents which included files kept in relation to business with which he is connected overseas.  It is claimed that he took this action surreptitiously while the wife was out of the house.  She also relies on events that occurred on 13th October 2006.  Two men arrived at the family home without prior notification.  They were let in by the housekeeper.  The wife says that, when contacted by her on the telephone, the husband explained that he had employed the men for the purpose of checking and ensuring that the telephones in the house had not been bugged.  She also relies on the subsequent removal of the network server by the husband on 7th November 2006 as continuing to found her fears.
+
+The Defence concludes:
+
+“21. … The Defendants will contend that the Court should … exercise its discretion to make orders/accept undertakings for the purpose of ensuring the copies of the hard drive of the laptop are safeguarded and are used only for the purposes of proceedings between the Claimant and the First Defendant.  The Defendants are content for the undertakings already given to remain in place until further order”.
+
+In the witness statement made after the service of the Defence the husband addresses some of the matters raised in it.  He maintains with added detail his reasons for saying that the laptop is his and his alone.  He expresses his horror and distress at the discovery that his laptop containing a number of highly personal and private documents should have been copied.  He states that the documents he destroyed in October were related to a business closed in 1997 and which he had been keeping only to meet the requirements of document retention under US law.  He rejects the suggestion that he shredded or destroyed documents to avoid giving disclosure in this jurisdiction.
+
+There are other matters which each side rely on and I do not find it necessary to recite.
+
+Mr Sherborne took me to some of the correspondence exchanged before the application made to Eady J.  On 3rd November 2006 solicitors for the husband (who, I am told, were already in correspondence with the wife’s solicitors about other matters) wrote to them expressing his concern about the removal of the laptop and stating that an offence may have been committed under the 1990 Act.  On 8th November the wife’s solicitors stated that they had advised the wife that it would be a sensible precaution to obtain a copy of the hard drive in the family laptop as this was virtually the only repository for documentary information left in the home.  They said that they had given this advice when told that the husband had shredded some documents and they knew he had recently changed the password.  The letter includes the words:
+
+“We have not yet received a report in respect of the contents of the hard drive”.
+
+The letter then goes on to complain about the husband’s removal of the server.
+
+Mr Sherborne submits that that passage in the letter demonstrates that the Defendants had instructed D to make a report on the contents of the hard drive that must have required D and the Defendants to read the files to which D had obtained access.
+
+On 9 November there was an exchange of correspondence between solicitors.  The husband’s solicitors stated that the laptop contained a substantial amount of business and personal information, including but not limited to legally privileged information and asked for information and an undertaking.  The undertaking sought was that the wife and the wife’s solicitors would not use, communicate or disclose to any third party any information obtained from the laptop.  No such undertaking was offered.  The wife’s solicitors did confirm that they held a copy of the hard drive, that they had not accessed any of the information on it, and therefore were not aware until informed that the laptop contained legally professionally privileged information.  They said that the advice to act as she had had been given by leading Counsel.  They said:
+
+“We can tell you that we will not access or read any legally professionally privileged information. Presumably, it is relatively easy for your client to let you know where the information would be located then we can ensure that we do not access it”.
+
+They said that if the husband would describe the contents of the hard drive they would be happy not to access it at all until they heard further from the husband’s solicitors.  They said that so far as other confidential information is concerned, the wife was mindful that such information should not be disclosed to anyone but her legal team.
+
+The husband’s solicitors wrote again on 10th November complaining of what they alleged was illegal action (referring to the 1998 Act) and stated that:
+
+“We are prepared to retain the copy hard drive once returned (and any other copies printouts or reports destroyed) at these offices on behalf of our client.”
+
+They added that if the information and undertakings sought in the earlier letter were not provided they would apply to the court.
+
+In reply, the wife’s solicitors again declined to offer undertakings, but stated that they were holding the laptop pending agreement as to the way forward and were happy to take no action in relation to the hard drive until there had been an opportunity to resolve the issues of its contents.  They asked for information as to the contents and as to the husband’s financial position.
+
+Meanwhile, on 9th November 2006 the wife did commence proceedings in England.  These were Family Law Act and residence applications which were heard by District Judge Walker and District Judge Black on 9th November and 1st December and by Deputy District Judge Gill on 8th December.  As already noted, on 20th December 2006 she made her application for leave under Part III and her Schedule 1 application for financial orders.
+
+As already noted, on 11th January 2006, the day before the service of the Defence, the wife applied without notice to Munby J and obtained a freezing order, and leave under part III and Schedule 1 of the Childrens Act.  The order made by Munby J giving leave to the wife to issue her application for substantive financial relief under Part III included the following recital:
+
+“And upon the Honourable Mr Justice Munby directing that the Judge in the Queens Bench Division proceedings … listed for hearing on 22 January 2007 be invited to consider whether it would be appropriate to transfer those proceedings to the Family Division and thereby consolidate all proceedings under the Family Division”.
+
+Munby J directed that the matter he was hearing be listed for a one hour at risk hearing on 1st February 2007, where consideration was to be given to a number of issues. These include whether the hard drive of the laptop computer currently in the possession of the wife’s solicitors should be examined by an independent computer expert.  Such a direction had been sought in a Position Statement prepared by Leading Counsel. The wife was represented by junior counsel at that hearing and before Eady J.  Miss Skinner, who appears before me for the wife, did not appear at the previous hearings. The Position Statement shows that what had been sought was:
+
+“A direction that a copy of the hard drive of the lap-top computer, used by both the husband and the wife in the FMH, should be examined by an independent expert to recreate what it is understand [sic] the husband has “wiped off” the computer excluding all privileged material”.
+
+Last Thursday 18th January 2007, solicitors for the husband acknowledged that they had received what they said were incomplete papers related to the Freezing Order at approximately 3pm on the previous Friday 12th January.  They repeated requests which they said they had made previously by letters on 17th January that the husband have an extension of time to provide information directed by Munby J to be given.  They stated that they had now issued the husband’s application to set aside the Freezing Order and enclosed applications in relation to that.  They gave notice that they had placed themselves on the record limited to the specific purposes of applying to dismiss or set aside or stay the wife’s applications which they describe as misconceived. Those are returnable on 20th February for one day. It is the husband’s case that the English court has no jurisdiction.
+
+I am, of course, in no position to take any view one way or the other as to the prospects of the wife being permitted to continue in her applications in the English court or of the husband in his applications to dismiss them.  The wife’s proceedings are plainly in being as things stand, but there is a possibility that they will not continue in being.  The hearing at which the various matters outstanding will be determined is not likely to be either 1st or 20th February.  Both parties agree on that.  When it will be depends on the availability of time in the Family Division, which, as is well known, suffers from considerable pressure of work.
+
+Disclosure in proceedings in Family Division
+
+Miss Skinner has submitted that the conduct of the wife, and the advice given to her, should be understood in the light of the approach of judges in the Family Division to the obtaining of the other party’s documents by surreptitious means.
+
+The first was Hildebrand v Hildebrand [1992] 1FLR 244.  In that case Waite J heard applications for discovery by each side.  The husband in that case was the applicant in the financial proceedings.  At page 246 of the report Waite J summarised the legal background and procedures for discovery in the Family Division, making reference to the Rules of the Supreme Court which then governed civil proceedings in the High Court.  He stated that they differ a little from that in other Divisions, in that the principal applicable rules were the Matrimonial Causes Rules 1977, rule 77(4), and that it had by then become standard practice to proceed to discovery by means of questionnaires.  These, he said, partook of the character both of the request of discovery and of an interrogatory. He noted that in appropriate circumstances the court was exercising an inquisitorial jurisdiction.  He added, at page 247f;
+
+“underlying the whole basis of the exercise of the Court’s discretion under the amended section 25 of the 1973 Act is the duty of both sides to provide the court with information about all the circumstances of the case, including amongst other things, the particular matters specified in section 25.  That was very clearly stated by the House of Lords in Livesey (formerly Jenkins) v Jenkins [1985] AC 424….436 and 823…”
+
+In Hildebrand the husband had been to the wife’s flat at Wallace Court surreptitiously on five occasions.  He had taken photocopies of so many documents obtained by him in the course of those visits (but returned after photocopying) that the photocopies themselves would now “fill a crate”, as the judge was told (see page 250 e to f).  The issues which Waite J had to decide in that case were listed by him at page 250h to 251b.  The first issue was: “what must the husband now disclose of the box file copies and the Wallace Court copies?”  At page 252d the Judge held that the husband must disclose all of the documents in both categories.
+
+The issues in that case were entirely related to disclosure.  There was no application in that case by the wife for delivery up of the documents, or for any relief to which she might have been entitled arising out of the visits by the husband to her flat.  She did not, for example, issue proceedings claiming in trespass to land, or wrongful interference with goods, or breach of copyright or confidence or anything of that nature.  No such issues were before Waite J. Nor was there any discussion in these, or in any of the other cases cited to me by Miss Skinner of whether, or in what circumstances, a party who obtains the other side’s documents by such means is entitled to read them.
+
+Next Miss Skinner referred me to a publication in the September 1994 issue of Family Law at page 504.    Headed “Conduct of the Big Money Case” the article was an abridged version of an address given extra-judicially in December 1993 by Sir Nicholas Wilson.  At page 505 he raised the question “when do you advise a wife that it is appropriate for her to “borrow” her husband’s financial documents in order to photocopy them for your use in the case?”  After expressing hesitation about advising on a course which is essentially underhand he expressed the following view:
+
+“My feeling is that, if the wife gives an account of her husband which includes any past financial dishonesty, whether to herself or to a third party, or accounts any threat or statement by him such as reasonably leads the conclusion that he is not likely within the divorce proceedings to give a full account of his financial position, it is permissible to advise her to take photocopies of such documents as she can obtain without the use of force.  When a wife has taken photocopies of documents, whether of legal advice or other advice, the second difficult question is to identify the stage at which they should be disclosed to the other side.  Here, views seem to run the whole gamut from an obligation to disclose forthwith after copying, to a right to keep the documents up one’s sleeves until cross examination at the substantive hearing. …”.
+
+Again it is to be noted that those observations are directed to what can and should be done within divorce proceedings. Sir Nicholas Wilson clearly expressed the view that force should not be used, but he was not addressing the question as to what rights the husband might have if he discovered that the wife had taken photocopies of the documents before she had an opportunity to read their contents or deploy them in any way in the divorce proceedings.
+
+Sir Nicholas did express views as to the stage at which there should be disclosure to the other side. But I did not understand Miss Skinner to be submitting that this article is the best source of law on this subject. 1994 is a long time ago in this field of the law. For example, the offence of obtaining unauthorised access to personal data by deception (see now s.55 of the 1998 Act) was first introduced into the Data Protection Act 1984 by the Criminal Justice and Public Order Act 1994, s161. Niemietz v Germany (1992) 16 EHRR 97 had only recently been decided. Halford v UK (1997) 24 EHRR 523 had not yet been decided, and there have been a host of English and Strasbourg cases, and new English legislation, since then on searches and covert surveillance and evidence gathering.
+
+Some six months later Wilson J (as he then was) addressed these issues judicially in T v T (Interception of Documents) [1994] 2 FLR 1083.  In those proceedings, as summarised in the head note, the wife had engaged in a number of activities, including opening and taking letters addressed to the husband and breaking into his office, with the intention of gathering documentation to enable her to ascertain the husband’s true financial position.  In retaliation, the husband engaged in similar activities.  On the hearing of the wife’s application for relief, it was submitted by the husband that it would be inequitable not to take into account the wife’s conduct during the litigation, and that accordingly there should be a reduction in the amount of financial relief awarded to her.
+
+In the judgment Wilson J sets out the conduct of the wife in more detail.  She had secretly photocopied financial documents kept by the husband in the home, she used force in order to obtain the documents, for example by breaking the door or window of the husband’s office.  She scoured the dustbin for documents of which the husband was seeking to dispose.  She opened letters addressed to him.  She misappropriated certain letters.  One included an attendance note from the husband’s solicitors.  On one occasion she entered the husband’s office while he was there and snatched his diary.  She ran off with it, read it and returned it.  The husband became so angry that he damaged her car.
+
+40.	Wilson J said this at page 1085b-e:
+
+“The first question, which is not straightforward, is to what extent the wife’s activities in relation to documents were reprehensible.  The fact is that the husband had not made a full and frank presentation to the court of his financial resources and that a few of the documents taken by the wife (like the diaries, scrutinised by her and then called for) have enabled this to be made clear.  The wife anticipated – and I find that she reasonably anticipated – at the outset of the litigation that the husband would seek to reduce the level of her reward by understating his resources in breach of his duty to the court.  On balance, I consider that in those circumstances it was reasonable for the wife to take photocopies of such of the husband’s documents as she could locate without the use of force and, for that matter, to scour the dustbins.  But the wife went far beyond that.  She (a) used force to obtain documents; (b) intercepted the husband’s mail; and (c) kept original documents.
+
+Wilson J went on to describe these activities as “reprehensible” (1085f) and to consider in what way that conduct was relevant to, or should be reflected in the proceedings and orders in the case.  He decided that the wife’s activities in relation to documents should not be brought in to any reckoning of the substantive award, but should have some relevance in respect of costs.
+
+Again it is to be noted that in that case the husband was not raising any issue or claim, as it appears he might have done, for trespass, interference with goods, or breach of copyright. Nor did the judge advert to the apparently criminal nature of some of these activities, in particular, the breaking of doors and a window and the misappropriation of letters. Nor is there any mention of the fact, as it appears to be, that the wife’s activities included obtaining information that was protected by legal professional privilege.
+
+I am not of course supposing that Wilson J was likely to have overlooked any of this.  The point is that he was not being asked to make any findings or orders as to the husband’s rights arising out of these matters, otherwise than in connection with the financial award and the award of costs in the proceedings themselves.
+
+Another case to which Miss Skinner referred me was the more recent decision of Baron J in K v K (Financial Capital Relief; and Management of Difficult Cases) [2005] EWHC 1070 (Fam): [2005] 2 FLR 1137.  That was an application by the wife for full ancillary relief arising upon the breakdown of her marriage.  In that case, the wife copied a number of the husband’s documents.  She rummaged through dustbins and took documents from her husband’s pockets.  When she was no longer living in the formal matrimonial home, she had the locks on his study changed and obtained access to more documents (see para 16).  At para 20 Baron J commented:
+
+“This case is an object lesson for all.  If a husband does not give proper disclosure, makes threats and causes problems/delays, then the result will be a wife who feels that she has no alternative but to litigate with “all guns blazing” – taking documents, taping telephone calls, employing private detectives and the like.  This strategy will make a husband feel beleaguered so that he becomes more defensive and difficult.  It is a vicious circle”.
+
+It appears that a similar vicious circle may have developed in the present case (although I make no finding as to what gave rise to it, if it has). Again, in that case the Judge did not have to rule on any claims by the husband arising out of the wife’s conduct such as interference with goods, breach of confidence and the like.  Baron J did not approve or in terms condemn the conduct of the wife.
+
+Amongst the cases to which Miss Skinner referred me, the one which has most relevance to the case before me, is A v B (unreported 31 July 2000, Lloyd J).  In that case an application was made in the course of proceedings between the parties in the Family Division, and was transferred to the Chancery Division because an issue arose as to copyright. That, of course, is of interest in connection with the wife’s application that this matter be transferred to the Family Division.
+
+The document in question was a personal diary kept by the wife.  The husband was able to gain access to the diary after the wife had told him that she wanted a divorce.  He read certain passages from it, took the diary to a local shop at which photocopying facilities were available, and took copies of two pages from it.  He then returned the original to where it was kept.  Before long he revealed to the wife that he had seen the diary and had made the copies.  He retained, and at the time of the judgment still retained, two pairs of copies and a further copy of one page.  Lloyd J (as he then was) observes that at one stage they were relevant to allegations made in the proceedings actually instituted.
+
+In the proceedings in the Chancery Division the wife applied for an order for the delivery up to her of those retained copies, as being made in breach of copyright and of confidence.  The application was for summary judgment on the basis of affidavit evidence only.  The nature of the action was thus similar to the present proceedings in so far as there was a claim in confidence.  I am not however hearing an application for summary judgment.
+
+The husband contended that not all the information in the diary was of a confidential nature.  He submitted, as Miss Skinner submits before me, that an applicant for an order for delivery up has to show that what the other party has done amounts to a breach in relation to some information which is confidential.  At para 8 of his judgment Lloyd J came to this conclusion:
+
+“It seems to me that the relevance of the need to specify what the information which is confidential is and accordingly be protected may arise in relation to a situation of this kind, as it certainly does in a commercial situation.  But it is relevant mainly and perhaps only, to a claim for an injunction.  So far as an order for delivery up is concerned, the court must be satisfied that the material includes something which is confidential, but it would be a defence that on the same page there is also a statement of something which is in the public domain”.
+
+He went on to state his finding that the diary pages did contain statements which were private and confidential in nature.  He then turned to the husband’s submission that the confidential nature of the material did not justify an order for delivery up, if the material is or may be needed to be put in evidence.
+
+Lloyd J first turned to the copyright claim.  He declined to order summary judgment for delivery up in respect of that claim.  The Copyright Designs and Patents Act 1988 section 45(1) provides:
+
+“copyright is not infringed by anything done for the purposes of parliamentary or judicial proceedings”.
+
+Lloyd J considered that the evidence justified him proceeding on the basis that the husband would seek to show that he made the original photocopies at a time when the wife had already said that she wanted the divorce and that he foresaw that they might be useful as evidence.  The judge did not decide what the true effect of section 45 was.  He said:
+
+“I regard it as sufficiently well arguable that it is not limited to copies made after the issue of the appropriate originating process, and accordingly that whether a copy made before that moment is made for the purposes of proceedings which are in fact commenced thereafter is to be determined by an objective assessment, which no doubt would have regard to the evidence of the copier but would not be limited to that”.
+
+Having declined to order summary judgment on the copyright claim on that basis, Lloyd J turned to the claim in breach of confidence.  Again Lloyd J declined to order summary delivery up.  He held that the jurisdiction he was being invited to exercise was an equitable one.  He required the husband to lodge all copies which were in his custody power or possession with his solicitors.  Miss Skinner draws attention to the fact that it is with his own solicitors that the documents were to be lodged. The documents were to be subject to an undertaking which would ensure that they were only used for the purposes of proceedings pending between the parties.  Lloyd J added:
+
+“It seems to me that …… though the applicant is not entitled to have the documents back as of right, she is entitled to have them safeguarded and their use controlled in this way”.
+
+One difference between that case and the present case is that the husband had in fact read the diary, and in particular the passages which he had copied.  There are two other points of distinction.  One is that it was not alleged that any of the material was subject to legal professional privilege and finally the judge held, as noted, that the information in question was relevant to the proceedings at one point.
+
+The Legal Principles Relied Upon for the Husband
+
+Before considering the legal principles it is convenient to divide into different categories the documents or information that are claimed to be in question in the proceedings before me.  The first category is information protected by legal professional privilege, that is communications between the husband and his lawyers whether in England or in Sweden.  The second category is information which is confidential, not protected by legal professional privilege, and potentially relevant to the English proceedings (assuming those proceedings continue, and are not struck out).  There is in addition a third category, which is unlike any of the information which appears to have been considered in the cases cited by Miss Skinner.  Information about the personal and business affairs of friends colleagues associates and companies is said to include information which is not potentially relevant to the proceedings commenced in England by the wife, even if those proceedings are not struck out or dismissed.  In addition there are or may be categories of information relating to the husband himself which are likewise not relevant to the pending proceedings, and will not be relevant even if those proceedings are not dismissed. If there are irrelevant documents (as the husband claims) the reason is, of course, that the wife took and had copied the whole hard drive, and did not select for photocopying just what she thought might be useful documents or extracts.
+
+In the course of his submissions Mr Sherborne at one point proposed to put before me a Confidential Schedule containing examples of documents which are to be found on the laptop hard drive.  Before he did so, he made clear that he proposed to do so only on the basis that neither Miss Skinner nor those instructing her would be entitled to see it.  So far as concerned any documents that were protected by legal professional privilege, Miss Skinner did not oppose that course in principle. However, she did not accept that there are in fact any such documents. And she did not accept that such a Confidential Schedule could be put before me on that basis in relation to any other information.
+
+At that stage of the proceedings, I intimated that my preliminary view (but not a concluded or final view) was that the husband had established a sufficiently arguable case as to the confidential nature of the contents of the laptop, including the presence of documents protected by legal professional privilege, so as to enable the relief he sought to be granted in principle (subject to other considerations).  If that were so, it might not be necessary for me to decide whether the proposal to put before me a Confidential Schedule which was not to be seen by anyone on the other side was a course that could properly and effectively be adopted.
+
+After hearing my preliminary view as stated, Mr Sherborne did not pursue that proposal and I did not see the Confidential Schedule.   The preliminary view I expressed is now my concluded view for the purposes of this application.  I am persuaded that there is a sufficiently arguable case that the hard drive contains information of all the three categories I have just referred to, so as to justify a delivery up order in respect of the copies of the whole hard drive, subject to countervailing considerations advanced by the wife.
+
+It is right to say, that if and in so far as there are documents or information protected by legal professional privilege Miss Skinnner accepts that in principle the husband is entitled to delivery up of them. That is in accordance with a line of authorities including Lord Ashburton v Pape [1913] 2Ch 469 and Goddard v. Nationwide Building Society [1987] 1 QB 670, 679–680, 683.
+
+Mr Sherborne submits that the court will, or at least may, order the delivery up of documents which contain confidential information which is or may be relevant to the proceedings, even though they are not the subject of legal professional privilege.  As I understand it, that was the view taken by Lloyd J in A v B although he declined to exercise his discretion to order delivery up in that case.
+
+Mr Sherborne cited to me a long list of authorities on this point.  Most of them relate to the recent developments in the law relating to the protection of personal information following the coming into force of the Human Rights Act 1998 and the consequent need for the court to have regard to Article 8. As is well known, that provides that “everyone has the right to respect for his private and family life his home and his correspondence”.  He cites Toulson and Phipps on Confidentiality, 2nd ed, (2006) para 9-010 where it is stated that:
+
+“Where a successful plaintiff seeks an order for delivery up of material containing confidential information it will usually be granted especially if the defendant cannot be relied on to destroy it”.
+
+Mr Sherborne also cited to me a number of authorities from Francome v. Mirror Group Newspapers [1984] 1WLR 892 onwards relating to the court’s jurisdiction to restrain the use of confidential material obtained unlawfully or surreptitiously.
+
+I do not find it necessary to consider in any detail these numerous authorities.   The main reason for this is that the contents of the documents in question are not before me.  For this and other reasons, in these interlocutory proceedings I am unable to form a view as to whether the wife has in fact behaved unlawfully, whether in breach of the civil or the criminal law.  That is a matter which will have to be resolved at trial, if there is a trial of this action. However, I do find that the husband has a real prospect of establishing that the wife has acted unlawfully, and I shall consider the implications of that below.
+
+Safeguarding the Documents and Information
+
+There is no dispute between the parties that the hard drive of the laptop and all copies of it must be safeguarded pending the trial of this action, and of any issue that might arise in the proceedings in the Family Division.  But there is a significant difference between the parties as to how it should be done.
+
+It is the husband’s case that, whether or not there was ever any danger of destruction of the hard drive (which he denies), the fact is that it is now clearly safe. That is so, whether it is in the hands of his solicitors or the wife’s solicitors.  But it is his contention is that it, and all copies, should be in the hands of his solicitors, and not the wife’s. From now on the ordinary procedure of disclosure should take place.
+
+The ordinary procedure for disclosure is by law an exercise conducted by a litigant and his solicitor.  It is for them to decide what is or is not subject to the obligation of disclosure, and what is or is not subject to any privilege or disclosure, such as oppression.  If there is a point on oppression it will be for the litigant to raise it and the court to adjudicate upon it.  But if documents are irrelevant, then they will not be disclosed at all.  If the other party questions the extent of disclosure, then there are procedures by which this can be done.  For example, in an appropriate case, the court could require a party who says he has searched the contents of his hard drive, also to search those parts of it which may still contain remains of documents that have been deleted. But in the last resort what a litigant says about his own disclosure is normally final. No third party normally comes in to inspect the documents.
+
+The proposal for the wife is radically different.  Miss Skinner does not propose that the wife’s solicitors go through the documents themselves (although it appears that that might have been contemplated at an earlier stage, when they commissioned a report from D). What she submits is the proper course is that the hard drive be made available to an independent third party which may be one, or more than one, person.  One purpose of the exercise, she says, would be to ascertain whether any documents have been deleted and if so they can be recovered (this is the only purpose raised in the Position Statement).  The second purpose would be for an independent third party to examine what is relevant and what ought to be disclosed.  In paras 12 and 13 of her witness statement of 14 November 2006, Ms Hughes, of the wife’s solicitors, put it this way:
+
+“ The Proposed Defendants intend to have a copy of the hard drive examined by an independent expert – either pursuant to jointly agreed instructions or to an order of the court – to ensure that only relevant information is extracted for use in the proceedings… The intention is to apply for an order that an independent expert examine the hard drive and extract any information which is relevant to financial proceedings between the parties”.
+
+I asked Miss Skinner whether she had any authority which supported her submission that the process of disclosure in matrimonial proceedings could be or should be conducted in this way.  She said she had no such authority.  But she enlarged upon her submissions stating, on instructions (but not on the basis of anything in the witness statements) that the wife fears that if the husband’s solicitors advise him that he has to disclose documents he may withdraw their instructions. The wife is then concerned as to what her position would be, and the fact that she might have to make further applications to the court in that event.  There is no doubt that in some proceedings, including matrimonial proceedings, litigants do withdraw their instructions from solicitors from whom they are receiving advice they do not wish to follow. But on the evidence before me I see no basis for any realistic fear that that is the position, or is likely to be the position, in the present case.
+
+Mr Sherborne submits that the course proposed on behalf of the wife is lacking any foundation in law, and would give rise to the most serious difficulties.  The third party would have to read through the documents which he says contain the information which is confidential and private and in respect of which not only the husband but also other parties have rights.  The task of the third party he submits would be impossible in the absence of any method or criteria for identifying what was disclosable and what was not.
+
+Mr Sherborne points out that there is provision (now under CPR Part 25.1 (h)) for the court to make a seizure order, formerly known as an Anton Piller order. That is an order requiring a party to admit another party to premises for the purpose of preserving and searching for evidence. In this case the laptop was in fact on the premises occupied by the wife, but a search order could no doubt be adapted to require a person to permit another party to access his hard drive. But the wife did not choose to apply to the Court for such an order, or even for a preservation order in relation to evidence, although she did apply for a freezing order in relation to the husband’s assets.
+
+It is illuminating to look at the form of search order set out in the practice direction to CPR Part 25.  It contains provision for the solicitors for one party to search the documents of the opposing party, effectively for the purpose of carrying out the exercise of finding what is disclosable and separating it from what is not disclosable.  The form contains numerous safeguards for the party whose documents are being searched. Without them, a Court could not make a search order consistently with Art 8. There is provision for the party to whom the order is directed to have an opportunity to seek legal advice and to ask the court to vary or discharge the order before it is executed.  The court will normally require the appointment of a supervising solicitor, who is an independent third party.  There is provision for the person whose documents are to be searched to gather together documents he believes may be incriminating or privileged.  The applicant for such an order must give undertakings to the court.
+
+Perhaps most important, is that it has long been recognised that such orders are extremely intrusive and should only be granted if and to the extent that they are necessary and proportionate. In Lock v Beswick [1989] 1 WLR 1268, at 1261, Hoffmann J said this:
+
+“Even in cases in which the plaintiff has strong evidence that an employee has taken what is undoubtedly specific confidential information, such as a list of customers, the court must employ a graduated response. To borrow a useful concept from the jurisprudence of the European Community, there must be proportionality between the perceived threat to the plaintiff's rights and the remedy granted. The fact that there is overwhelming evidence that the defendant has behaved wrongfully in his commercial relationships does not necessarily justify an Anton Piller order. People whose commercial morality allows them to take a list of the customers with whom they were in contact while employed will not necessarily disobey an order of the court requiring them to deliver it up. Not everyone who is misusing confidential information will destroy documents in the face of a court order requiring him to preserve them.”
+
+That was a case between employer and employee. Such cases sometimes display features which are also found in matrimonial disputes. In both types of case the parties may be individuals whose previous relationship has been very close, and who have occupied the same premises (in the one for work, in the other for the rest of their lives). Because they have shared premises, they may have opportunities to use surreptitious means of obtaining evidence that are less likely to be available to other litigants. When the relationship breaks down, it is followed by acute mistrust, and the parties have a more than usual tendency to accuse one another of using litigation for collateral purposes. The observations of Hoffmann J may be relevant in some matrimonial disputes, mutatis mutandis.
+
+Mr Sherborne submits that the wife’s own case, as set out in paragraph 14 of the Defence (see above), shows that, on the basis of the case pleaded, she could never have obtained a search order from the court permitting her to do what she in fact did. Indeed he submits it would not even be possible for the wife to surmount the much lower threshold required for a successful application for specific disclosure.  He refers to the fact that the highest she can put her case is that copies were taken “in the hope” that the drive contained evidence.
+
+In the course of submissions I asked Miss Skinner why no order was sought from the court in respect of the laptop.  An order did not have to be a search order, it could have been an order under CPR Part 25.1(1)(c)(i) for the preservation of the laptop.  A much lower threshold of evidence would be sufficient to obtain such a less intrusive order.  Miss Skinner replied on instructions, as I understood it, that such applications would unnecessarily overburden the Family Division.  I do not find this response convincing.  The wife was shortly to apply for a freezing and other orders and I see no reason why she should not at the same time, or earlier, have applied, if thought fit, for an order preserving the laptop.
+
+For this purpose I would be prepared to assume that the fact that the husband had destroyed some documents in October shortly before he left on 10th October would have been sufficient evidence to support a reasonable fear of further destruction as a matter of principle.  But even making that assumption in her favour, I have difficulty applying that to the laptop.  The husband left the laptop in the house.  There is no evidence that he destroyed documents on the laptop.  The wife’s evidence is that she hopes that there is still evidence to be found on it.  It might be thought that if she was concerned about safeguarding it before an application could be made to the court, all that would have been necessary would have been to put it in a safe place pending the application, assuming (which is far from clear) that she had reasonable grounds to fear that the husband or his agents might come back to retrieve it by force.  Even if there was evidence sufficient to obtain a preservation order, I can see no basis at all for suggesting, and Miss Skinner did not suggest, that there was sufficient evidence to cross the very high threshold necessary in order to obtain a search order.
+
+I find it a matter for considerable concern that parties to litigation should conduct searches which lack any of the safeguards built into a search order issued by the court, and all the more so if they do that in circumstances where they could not reasonably expect to obtain any such order from the court.   In the cases cited to me by Miss Skinner relating to matrimonial disputes, those in the Family Division (that is all of them except A v B) were all cases where the court was in effect considering an accomplished fact. And in A v B the search was complete in the sense that the contents of the document had been read, although unlike the Family Division cases, there was an application for delivery up at a time when, so I understand, further proceedings in the Family Division were contemplated.
+
+In this case the matter comes before me while, as it were, the ball is still in the air, and before there is an accomplished fact.  The wife has secured the laptop.  And if that were all she had done there would be little point in the husband complaining.  He would not in practice have opposed a simple preservation order, just as he did not choose to oppose some of the other without notice interim orders that were sought against him by the wife, the ouster order and those in respect of the  children, notwithstanding that he maintains that none of these orders is necessary or appropriate.
+
+What the wife is seeking to do here is to preserve the situation as it is now, that is to say, where she has, through her solicitors, custody of copies of the laptop hard drive. This is a situation which she could only have obtained by an application to the court if she had been able to persuade the Court that she should be granted a search order.  The similarity between her position as it is, and as it would have been if she had been granted a search order, is that it is one of the provisions listed in Schedule D to the standard form of Search Order that the applicant’s solicitors undertake to retain in their own safe keeping all items obtained as a result of the order until the court directs otherwise. There are many differences between the two positions, to some of which I shall refer below.
+
+Thus the argument is that the wife is seeking to retain a position which she has occupied by self help, when, on the evidence available, she could not have got herself into that position by an application to the Court, and in any case could not have got herself into that position without submitting to conditions which by law are necessary to protect the rights of the husband. This seems to me a powerful argument, which I accept.
+
+So long as the laptop and all copies are preserved by other means, the wife should not be permitted that advantage.  The husband, of course, proposes that the laptop and all copies be preserved by other sufficient means, namely by his own solicitor.
+
+The Lawfulness of the wife’s actions.
+
+So far I have been considering the case on the footing that the husband has a sufficiently arguable case based on breach of his rights in privacy and confidence and under the 1998 Act to entitle him to a delivery up order, subject to counterveiling considerations raised by the wife.
+
+I have also proceeded on the footing that I could not and do not reach any conclusion in this application as to whether the wife’s defences, which she submits make her actions lawful, will succeed or not. However, since I find that the husband has a real prospect of defeating those defences at trial, I must consider the implications of that possibility.
+
+As to the ownership of the laptop, this issue seems to me to be of little help to either party. The husband is not claiming for wrongful interference with goods. Even if (as the wife contends and the husband denies) the wife had had his permission to use and access the laptop at any stage in the past, it appears from her own case that she had not had access to it for some months (since he changed the password). In any event she was not and is not seeking access to it for the purpose of looking for any documents of her own or any documents saved there by the children.  What she claims to be looking for are documents saved by the husband which she says the husband might be threatening to conceal from her or to destroy.  A defence of joint property or of past authorisation seems difficult to reconcile with this case that she is now presenting.
+
+Section 35 of the 1998 Act, which the wife relies on, reads as follows:
+
+“(1) Personal data are exempt from the non-disclosure provisions where the disclosure is required by or under any enactment, by any rule of law or by the order of a court.
+
+(2) Personal data are exempt from the non-disclosure provisions where the disclosure is necessary
+
+(a) for the purpose of or in connection with any legal  proceedings (including prospective legal proceedings) or
+
+(b) for the purpose of obtaining legal advice,
+
+or is otherwise necessary for the purpose of establishing, exercising or defending legal rights”.
+
+The wording of the section clearly echoes Article 8(2) of the Convention.  It is significant that the section refers to an order of a court. It envisages an application to the Court in appropriate cases. The section also bears some similarity to Section 45 (1) of the CDPA 1988, considered by Lloyd J in A v B.
+
+Section 35 is pleaded as a defence to the civil claim which is advanced in the Particulars of Claim.  There is no plea in the Particulars of Claim of a breach of the criminal provisions of the 1998 Act, namely Section 55.  But Mr Sherborne does set it out in his Skeleton Argument. It reads as follows:
+
+“Unlawful obtaining etc of personal data|   55. -(1) A person must not knowingly or recklessly, without the consent of the data controller -
+
+|
+
+|&nbsp;&nbsp;&nbsp;&nbsp;(a) obtain or disclose personal data or the information contained in personal data, or|
+
+|&nbsp;&nbsp;&nbsp;&nbsp;(b) procure the disclosure to another person of the information contained in personal data.|
+
+|    (2) Subsection (1) does not apply to a person who shows- |
+
+|&nbsp;&nbsp;&nbsp;&nbsp;(a) that the obtaining, disclosing or procuring-
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) was necessary for the purpose of preventing or detecting crime, or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) was required or authorized by or under any enactment, by any rule of law or by the order of a court,|
+
+|&nbsp;&nbsp;&nbsp;&nbsp;(b) that he acted in the reasonable belief that he had in law the right to obtain or disclose the information or, as the case may be, to procure the disclosue of the information to the other person.|
+
+|&nbsp;&nbsp;&nbsp;&nbsp;(c) that he acted in the reasonable belief that he would have had the consent of the data controller if the data controller had known of the obtaining, disclosing or procuring and the circumstances of it, or |
+
+|&nbsp;&nbsp;&nbsp;&nbsp;(d) that in the particular circumstances the obtaining, disclosing or procuring was justified as being in the public interest.|
+
+|    (3) A person who contravenes subsection (1) is guilty of an offence.” |
+
+It is again significant that Section 55 (2) (a) (ii) refers to an order of the court. Those who claim that it is right that they should be able to obtain and disclose other people’s personal data have the opportunity to apply to the Court for an order to that effect.
+
+Breaches of Section 55 of the 1998 Act are at the moment a matter of public concern and discussion.  In May 2006 the Information Commissioner presented to Parliament his report “What Price Privacy? The Unlawful Trade in Confidential Personal Information” (London: The Stationary Office HC 1056).  That report is of course about the trade in personal information.  At 1.8 it is recorded that buyers of personal information obtained apparently illegally include “estranged couples seeking details of their partner’s whereabouts or finances”. The Report recommends increasing the penalty for offences to a term of imprisonment in addition to the present maximum penalty, which is a fine.
+
+The law is not one-sided in these matters. The destruction or concealment of evidence is itself an interference with the administration of justice and a contempt of court, punishable with imprisonment. And as Miss Skinner points out, it is not only the husband’s Convention rights that may be engaged. The wife has her Art 6 rights to a fair trial, which includes the principle of equality of arms.
+
+It is a matter for Parliament and the courts to strike the balance between the public interest in protecting privacy and the public interest in ensuring fair trials and the protection of the rights of spouses, in particular by ensuring that evidence is not destroyed and concealed. But whatever the right balance, it is not in the public interest that the law be flouted.
+
+I have myself recently had occasion to express concern about surreptitious evidence gathering, and to refer to the “Guidance on Illegally Obtained Evidence in Civil and Family Proceedings” issued by the Bar Council in 2003: Hughes v Carratu International [2006] EWHC 1791 (QB) paras 32-36, 44.
+
+As a matter of principle it can make little difference whether the breach of Section 55 (if there be one) has been perpetrated by an enquiry agent who is paid to do it by a wife or husband, or by the wife or husband personally.
+
+It may not be easy to support a wide interpretation of either Section 35 or Section 55 of the 1998 Act, insofar as they provide exemptions or defences arising out of a perceived need to obtain the information for the purposes of pending civil proceedings, in cases where the defendant has not applied to the Court in advance. There have been a number of convictions of enquiry agents, referred to in the Information Commissioner’s Report.  However, like Lloyd J in A v B, I make no decision on the interpretation of these sections.
+
+Mr Sherborne in his Skeleton Argument also sets out the Computer Misuse Act 1990 s.1 (“the 1990 Act”). Similar considerations apply to that as to the 1998 Act as apply to the 1998 Act. It reads:
+
+Unauthorised access to computer material.|    1. -(1) A person is guilty of an offence if-
+
+|
+
+|&nbsp;&nbsp;&nbsp;&nbsp;(a) he causes a computer to perform any function with intent to secure access to any program or data held in any computer;|
+
+|&nbsp;&nbsp;&nbsp;&nbsp;(b) the access he intends to secure is unauthorised; and|
+
+|&nbsp;&nbsp;&nbsp;&nbsp;(c) he knows at the time when he causes the computer to perform the function that that is the case.|
+
+|    (2) The intent a person has to have to commit an offence under this section need not be directed at-
+
+|
+
+|&nbsp;&nbsp;&nbsp;&nbsp;(a) any particular program or data;|
+
+|&nbsp;&nbsp;&nbsp;&nbsp;(b) a program or data of any particular kind; or|
+
+|&nbsp;&nbsp;&nbsp;&nbsp;(c) a program or data held in any particular computer.|
+
+|    (3) A person guilty of an offence under this section shall be liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale or to both.
+
+|
+
+So it seems to me that if the case were to go to trial there is a real prospect that it might be found that the wife had acted unlawfully, or had attempted to do so.  That finding would, on the pleadings as they stand, relate to section 35. It is not apparent whether it would apply to either s.55 of the 1998 Act, or to the 1990 Act, since neither is pleaded in terms, although it may be argued that the relevant facts are pleaded. Whether they are or could be pleaded as relevant to the relief claimed is not a point I need to consider.
+
+The question would then arise, as to what effect would that finding of illegality have on the ability of the wife to put the evidence so obtained before the judge hearing the Family Division proceedings.
+
+The approach of English law at one time was that if evidence was admissible, it would be admitted, almost regardless of the manner in which it had been obtained.  So far as the criminal law is concerned, discretion to exclude admissible evidence was recognised under Section 78 of the Police and Criminal Evidence Act 1984, and can sometimes lead to a stay for abuse of the process of the court.  Whether such discretion to exclude evidence unlawfully obtained exists in civil proceedings is a matter on which the law is developing.  See Jones v. The University of Warwick [2003] EWCA Civ 1511; [2003] 1 WLR 954, where the Court held that the conduct of the party who obtained evidence by trespass was not “so outrageous that the defence should be struck out” (para 28).
+
+In the cases cited to me by Miss Skinner, it does not appear to have been contended that the judge hearing the matrimonial proceedings should have excluded the evidence obtained by the conduct in question in those cases in which the conduct was characterised as reprehensible.  This is not surprising, given the understanding of the law of evidence as it has traditionally been.  Whether such an argument could be successfully advanced in the future may be another matter.  But it seems to me that I must approach the present case on the footing that the judge trying the proceedings in the Family Division does not have any discretion to exclude the admissible evidence, even if it is found in the present proceedings to have been obtained unlawfully.
+
+On this footing, it might possibly make a difference whether the copies of the hard drive remain in the custody of the wife’s solicitors or whether they are in the custody of the husband’s solicitors.  When I asked Miss Skinner about this, she was not able to say that it would make no difference at all. In my judgment, as the law stands, there is a real possibility that the judge who tries this action might find that the wife has acted unlawfully, and might choose to exercise his discretion to order the delivery up of the copies of the hard drive (assuming the wife’s solicitors still hold them) in circumstances where that would make it impossible for the wife to adduce in the matrimonial proceedings any evidence there might be on the copy hard disks. Whether the judge would be minded to do that or not would depend not just on his understanding of the law of evidence, but also on all the other circumstances of the case. If, like Lloyd J in A v B he decided not to order delivery up, then the husband would still be able to make submissions on the effect of any illegal action by the wife to the judge trying the substantive dispute (if it is tried).
+
+In the meantime there might be some possible advantage to the wife if she has, through her solicitors, possession of the copies.  Indeed, it is on that supposition that her resistance to the order sought by the husband (for the copies to be delivered to his own solicitors) must be based. There would be no point otherwise.
+
+I conclude that the balance of justice in the period before any judgment is delivered in this action requires that the copies be held in the custody of the husband’s solicitors, pending resolution of the issues in this case. If that happens, then the husband and his solicitors will be under the obligations which any litigant in the Family Division is under, in particular the obligation to give disclosure of relevant material at the appropriate time (if the proceedings are not dismissed). Disclosable documents may in principle include documents that have been deleted from the hard drive but are still recoverable from it. The wife will be able to make any application for disclosure in the Family Division that she could have made if the laptop had always been secure and she had not taken any of the contested steps which she did take in early November 2006.
+
+Transfer to the Family Division
+
+This application is made on behalf of the wife, although there is no formal notice. It is more complicated than it may at first appear.  What is to be transferred? – is it the whole action including the interlocutory matter before me, or is it all matters, other than the interlocutory matter listed before me on 22nd January 2007?  And if transfer is to be made to the Family Division, is it envisaged that it will be heard by the judge who is hearing the substantive matrimonial disputes between the parties (assuming that the husband’s dismissal applications fail), or by another judge?
+
+This application has been listed in the Queens Bench Division for 22nd January for some considerable time, and much work had been done to prepare for it, on both sides. It is a complaint on the part of the husband that the listing has been delayed to this date to suit the convenience of Leading Counsel for the wife, who formerly appeared for her. In the event he has not appeared. The suggestion of a transfer has come late - as I understand it in the Position Statement put before Munby J on 12th January 2007.
+
+Provision is made for the transfer of proceedings between divisions of the High Court by CPR Part 30.5(1).  This simply provides that the Court may order such transfer.  The overriding objective applies.
+
+Court time, and some preparation time for myself has also been set aside for this hearing. I would be reluctant to see the time and costs incurred in the preparation for this hearing wasted, as they would be, if I directed the whole matter to be transferred to the Family Division.  I would nevertheless make the transfer order if I thought that it was in the interest of justice to do so.  I bear in mind the overriding objective.
+
+The principle reason why it was submitted for the wife that a transfer is in the interest of justice is that it is said that it is the Family Division that is best placed to determine issues arising in relation to Hildebrand documents.  It is said that this is a concept unknown in the Queens Bench Division.  I do not consider the concept is unknown in this Division, even if the name of the case is not cited.  As I understand the principle, it is the application to Family Proceedings of the principle referred to above, namely that in civil proceedings it has hitherto generally been considered that admissible evidence must be admitted however it has been obtained, and if it has been obtained by reprehensible means, then that should be visited upon the wrongdoer, if at all, in orders for costs, or in some other way.
+
+For similar reasons to those expressed above, I consider it uncertain that this would be tried by the judge in the Family Division who will be trying the financial and other matrimonial disputes between the parties.  For reasons which I hope I have adequately set out, as the law stands it seems to me that a judge, who tries this case (in whatever Division), may have powers to order delivery up of the copies and prevent evidence being adduced which is otherwise admissible, and so prevent evidence being admitted, in the event he should find that the wife has acted unlawfully and that such an order would be just and equitable in all the circumstances.  It is not clear that the judge trying the financial and other matrimonial disputes would have that power, even if he thought that were the just and equitable outcome.
+
+In addition, it seems to me that the issues in this case are separate from the issues in the matrimonial proceedings.  While they could be tried together, it is not obvious to me that that is likely to be a convenient course.  Rather, I would expect the husband at least to invite the court to hear the issues arising in this action first, and then proceed to try the issues arising in the matrimonial proceedings. However, listing is a matter which I recognise would be a matter for the Judge of the Family Division.
+
+If the issues arising in this action are to be tried, it does not seem to me that there is any advantage to them being tried by a judge of the Family Division, nor do I see any disadvantage.  It seems to me that judges in all Divisions would be equally well qualified to adjudicate upon the issues in the case before me.  As it happens, there is in this case no claim of a specialist jurisdiction, such as for breach of copyright, as there was in A v. B.
+
+The application to transfer is premature. It assumes that there will be a substantive hearing in the Family Division of other proceedings with which these proceedings can be consolidated. I cannot prejudge the outcome of the husband’s dismissal applications. If they succeed, and if I have in the meantime ordered a transfer of these proceedings, there will be nothing pending in the Family Division with which these proceedings can be consolidated.
+
+The power to transfer is a jurisdiction which can be exercised at any time, and if, when the matter comes before a Judge of the Family Division at any time, it appears that there is substantial reason for a transfer, then there is nothing to preclude a further application to this Division for a transfer.
+
+For the reasons I have given I decline to transfer any part of this case to the Family Division.
+
+Conclusion
+
+Accordingly I shall grant an order substantially in the terms sought by the husband.  There are parts of that order on which I have not heard argument, and there may be drafting and other subsidiary points in relation to parts of the order upon which I have heard arguments.  If, having received this judgment, the parties are unable to agree a form of order then I will hear further argument on the form of the order.

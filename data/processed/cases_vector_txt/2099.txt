@@ -1,0 +1,2007 @@
+Neutral Citation Number: [2019] EWHC 2099 (QB)
+
+IN THE HIGH COURT OF JUSTICE No. HQ18M00961
+
+QUEEN’S BENCH DIVISION
+
+MEDIA AND COMMUNICATIONS LIST
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Date: 31st July 2019
+
+Before:
+
+RICHARD SPEARMAN Q.C.
+
+(sitting as a Deputy Judge of the Queen’s Bench Division)
+
+B E T W E E N :
+
+WARRICK FENTIMAN
+
+Claimant
+
+- and -
+
+RICHARD MARSH
+
+Defendant
+
+_____________________
+
+Mr Jeremy Reed (instructed by Kingsley Napley LLP) appeared on behalf of the Claimant.
+
+The Defendant did not appear and was not represented.
+
+Hearing date: 22 July 2019
+
+__________
+
+J U D G M E N T
+
+RICHARD SPEARMAN Q.C.:
+
+Introduction
+
+1. This is the trial of a claim for libel, brought by Warrick (“Rick”) Fentiman in respect of
+
+4 publications which are said to be defamatory of him. Mr Fentiman was represented at
+
+1
+
+the trial, as he has been throughout these proceedings, by Jeremy Reed. I am grateful to
+
+Mr Reed for the balanced and sensible way in which he presented his client’s claim.
+
+This included ensuring that I had in mind those parts of the Defence of the Defendant,
+
+Richard Marsh, which remained in existence – a large part of Mr Marsh’s Defence
+
+having been struck out by Order of HH Judge Parkes QC (sitting as a Judge of the High
+
+Court) dated 21 June 2019 – and which provided the only indication of Mr Marsh’s
+
+stance in answer to the claim, because Mr Marsh did not appear and was not
+
+represented at the trial.
+
+2. It appears from an exchange of emails between Mr Marsh and Mr Fentiman’s solicitors
+
+that Mr Marsh was notified on 19 July 2019 of the time and venue of the trial. The trial
+
+began at 2pm on 22 July 2019, and, in the absence of Mr Marsh – and, thus, of any rival
+
+evidence, submissions or cross-examination of Mr Fentiman’s witnesses – concluded
+
+that same afternoon. In an email dated 17 July 2019, Mr Marsh stated: “Please
+
+apologise to the Judge on my behalf for my absence, and explain that I am no longer
+
+resident in the UK, and have no funds whatever to finance a flight to the UK to attend
+
+court”.
+
+3. Although 4 publications were sued on, it appeared to me that the claim faced potential
+
+difficulties in respect of one of them because (a) that publication made no reference to
+
+Mr Fentiman by name and (b) no reference innuendo had been pleaded in the
+
+Particulars of Claim in respect of that publication and (c) if, in order to plead the case
+
+correctly, it was necessary for Mr Fentiman to seek permission to amend the Particulars
+
+of Claim, an application for permission to amend would need to surmount the hurdles
+
+which stand in the way of applications which are made so late in the day, to say nothing
+
+of having to be made without notice to Mr Marsh in the circumstances of the present
+
+case. Ironically, Mr Marsh’s non-appearance may well have operated to his advantage
+
+in this context. If Mr Marsh had been present and represented, his advisers might not
+
+have questioned the form of the pleaded case, and, even if they had done so, the
+
+argument that an amendment would cause prejudice to him might have been hard to
+
+sustain. Having considered these issues overnight, Mr Reed informed me that Mr
+
+Fentiman had come to the conclusion that an application for permission to amend was
+
+probably required, but had decided not to make any such application. It was explained
+
+that this was on the basis that the other 3 publications sued on covered very similar
+
+ground to the 4th publication, with the result that the exclusion of the 4th publication
+
+would be unlikely to have any, or any material, impact upon the quantum of damages.
+
+4. As a result of Mr Reed’s successful application before HH Judge Parkes QC to strike
+
+out parts of the Defence and for summary judgment in respect of various aspects of the
+
+claim, and as the judge stated in Fentiman v Marsh [2019] EWHC 1563 (QB) at [61],
+
+the issues for trial have been narrowed, in respect of each of the (now 3) publications
+
+complained of, to (1) meaning, (2) whether the publication caused serious harm (see
+
+section 1(1) of the Defamation Act 2013: “A statement is not defamatory unless its
+
+publication has caused or is likely to cause serious harm to the reputation of the
+
+2
+
+claimant”), and (3) if Mr Fentiman succeeds on those issues, the measure of damages.
+
+In addition, I am fortunate to be able to rely on HH Judge Parkes QC’s exposition of the
+
+background and aspects of the claim, which I state below substantially in his words.
+
+Background
+
+5. Mr Fentiman is the Chief Executive Officer of Specialist Hygiene Solutions Limited
+
+(“SHS”), which trades under the name “Hygiene Solutions”. Among its products are
+
+a system known as “Deprox” which carries out “surface bio-decontamination” for
+
+healthcare and commercial purposes, and an automated UV light disinfection system
+
+known as “Ultra-V”. Both systems are supplied to NHS hospitals.
+
+6. Mr Marsh has a history of making serious allegations against SHS and its directors.
+
+He did not attend the hearing of Mr Fentiman’s application before HH Judge Parkes
+
+QC, who was informed (in similar fashion to what occurred in advance of the trial
+
+before me) that Mr Marsh had sent an email to Mr Fentiman’s solicitors saying he was
+
+no longer resident in the United Kingdom and would not be able to attend the hearing.
+
+7. The brief history behind the allegations on which Mr Fentiman now sues is as
+
+follows.
+
+8. SHS issued proceedings against Mr Marsh on 25 August 2015 in respect of allegations
+
+of defamation and breach of contract and confidence. Those proceedings were
+
+compromised by a consent order in Tomlin form on terms which included an
+
+undertaking by Mr Marsh not to publish any further information (whether public or
+
+private, true or false, defamatory, disparaging or otherwise) of or concerning SHS, its
+
+employees, directors, servants or agents, or its Deprox product. That undertaking was
+
+in remarkably wide terms, but Mr Marsh was advised by solicitors Birketts LLP.
+
+9. In spite of that undertaking, between about 2016 and 2018 Mr Marsh published a
+
+large number of allegations on websites with the domain names deproxfraud.info, ultra
+
+vfraud.info and deprox-fraud.blogspot.co.uk, on YouTube, via Dropbox and Twitter,
+
+and on Facebook, by email, and by letter to delegates at a conference on Infection
+
+Prevention Control. In broad terms, the published statements alleged that SHS’s
+
+products, including Deprox, were ineffective and/or dangerous, and made a number
+
+of allegations of dishonesty and criminality against Mr Fentiman and other directors.
+
+10. Those allegations were alleged to be in breach of Mr Marsh’s undertaking to the
+
+court. By notice dated 13 March 2018, SHS applied to commit Mr Marsh to prison for
+
+contempt of court. In the course of the hearing of the application, Mr Marsh pleaded
+
+guilty to contempt in respect of 17 specimen counts, as they were described. At the
+
+same time, he admitted that all the other publications complained of in the committal
+
+application had been published by him in breach of his undertaking to the court. Mr
+
+Marsh also apologised for his breaches of the undertaking. Mr Marsh was sentenced on
+
+3
+
+30 April 2019 to be committed to HM Prison Pentonville for 8 months, suspended
+
+for 2 years provided that the undertaking was not breached during that period.
+
+The allegations which are now complained of in the present claim
+
+11. As set out above, Mr Fentiman relies on 3 further statements as being defamatory of
+
+him. Each of them relates to a cyber-attack on Mr Marsh’s various internet platforms,
+
+which Mr Marsh alleges had previously taken place. Mr Fentiman does not know
+
+whether any such attack did, in fact, take place. Accordingly, he is in no position to
+
+deny that it did. Even if it did, however, Mr Fentiman’s case is that he (and, for that
+
+matter, as far as he knows, SHS) had nothing whatsoever to do with it. Mr Marsh’s
+
+defences of truth and to the effect that there was a public interest in publishing
+
+allegations to the contrary effect have gone due to the Order of HH Judge Parkes QC.
+
+12. In the Particulars of Claim, the deproxfraud.info blogsite is termed “the First Blogsite”
+
+and the ultra vfraud.info blogsite is termed “the Second Blogsite”. The 3 publications
+
+complained of are termed “the First Post”, “the Second Post”, and “the Third Post”.
+
+13. The First Post was made on the Second Blogsite on 2 October 2017. Mr Fentiman
+
+complains of the following words:
+
+Hack backfires!
+
+The illegal and cowardly cyberattack on whistleblower site
+
+deproxfraud.info and on the personal Facebook and LinkedIn
+
+pages of Richard Marsh have only served to draw the attention
+
+of the NHS, Public Health England and the Health and Safety
+
+Executive to the grubby and unethical activities of Rick
+
+Fentiman and his minions at Hygiene Solutions Ltd.
+
+14. The pleaded meaning of the First Post is that Mr Fentiman was responsible for
+
+carrying out an illegal cyber-attack on the First Blogsite and on Mr Marsh’s Facebook
+
+and LinkedIn pages.
+
+15. The Second Post was made on 3 October 2017 on Twitter and Linkedln. Mr Fentiman
+
+complains of the following words:
+
+Deproxfraud.info is back! The site was fully restored this
+
+morning, following last week’s hacker attack by Hygiene
+
+Solutions Ltd.
+
+16. These words were accompanied by a photograph of Mr Fentiman, which is pleaded to
+
+have been altered by Mr Marsh “to give the impression that [Mr Fentiman] is the evil
+
+emperor from the Star Wars movies”.
+
+17. The basis of this allegation is that the photograph depicts Mr Fentiman wearing a
+
+hood and with bright red “bulls-eyes” for eyes. Further, the word “HACKER”
+
+4
+
+appears prominently in large font and in red type across his upper forehead. For
+
+readers unfamiliar with the Star Wars movies, I consider that the photograph
+
+nevertheless suggests a demonic element to the “HACKER” who is pictured.
+
+18. The pleaded meaning of the Second Post is that Mr Fentiman is a hacker, who carried
+
+out an unlawful hack and cyber-attack on Mr Marsh the previous week, the effect
+
+of which in part had been to take down the First Blogsite.
+
+19. The Third Post was made on 13 October 2017 on the First Blogsite. Mr Fentiman
+
+complains of the following words:
+
+Legal action taken re cyber-attack
+
+Legal action is being taken against the directors of Hygiene Solutions
+
+Ltd in connection with flagrant breaches of the Computer Misuse Act
+
+1990. See:
+
+https://www.legislation.gov.uk/ukpga/1990/18/crossheading/
+
+compute
+
+20. The pleaded meaning of the Third Post is that criminal charges were being brought
+
+against the directors of SHS, including Mr Fentiman, for carrying out a cyber-attack
+
+on Mr Marsh.
+
+Mr Marsh’s pleaded Defence
+
+21. With regard to the First Blogsite, Mr Marsh pleads (so far as material) that (a) this site
+
+has a built in analyser that counts the number of times that it is accessed each day and
+
+(b) between 1 October 2017 and 15 March 2018 (the day after the claim form in these
+
+proceedings was issued) this site received approximately 7,200 visits.
+
+22. This information is relevant to the Third Post, which was posted on the First Blogsite.
+
+However, it says nothing about the number of times that the Third Post was accessed
+
+(save that, if it is right, the Third Post cannot have been accessed on more occasions
+
+than the First Blogsite was accessed, namely 7,200 times in the period pleaded). Nor
+
+does it state the number of people who accessed the First Blogsite (because it may be,
+
+and indeed it is probably likely, that at least some people accessed it on more than one
+
+occasion). Further, the Third Post was not removed until some months after 15 March
+
+2018. This information therefore only covers some of the period for which the Third
+
+Post was available to be accessed.
+
+23. However, Mr Marsh also pleads that the First Blogsite records the number of visits to
+
+each specific post, and that the exact number of visits to the Third Post amounted to 188
+
+in total. This figure is unverified by any documents. However, it is based on the
+
+following profile of visits: 101 in October 2017; 8 in November 2017; 0 in December
+
+2017; 66 in January 2018; 7 in February 2018; 6 in March 2018; 0 in April 2018.
+
+5
+
+24. The “spike” of 66 visits in January 2018 coincides with the date of the 4th publication
+
+(on Facebook), which Mr Fentiman is no longer pursuing. This provides some grounds
+
+(which are necessarily limited and imperfect) for thinking that these alleged figures may
+
+be right. If they are dependable, they suggest that the Third Post was accessed on
+
+relatively few occasions during the period which Mr Marsh has chosen to identify, and
+
+may not have been accessed at all thereafter.
+
+25. With regard to the First Post, Mr Marsh pleads that this was on the Second Blogsite,
+
+which was much smaller than the First Blogsite and attracted fewer viewers. He
+
+suggests that on a “generous estimate” the First Post may have attracted approximately
+
+half the number of views as the Third Post attracted, that is to say about 100 views.
+
+26. With regard to the publication of the Second Post on LinkedIn, Mr Marsh pleads that
+
+there are no statistics available as the Second Post was merely a link to external content,
+
+but that statistics are available for another publication containing negative content
+
+concerning Hygiene Solutions that he published on 11 October 2017 (8 days after the
+
+Second Post was published), and that this was clicked on a total of 184 times between
+
+that date and April 2018. He pleads that there are “no grounds to claim that the Second
+
+Post would have attracted significantly more than this level of engagement on
+
+LinkedIn”. He also pleads – supported by what he says are relevant screen shots – that
+
+the Second Post “received no likes, no comments and no shares” and that “This
+
+indicates a very low level of interest and engagement”.
+
+27. As to the publication of the Second Post on Twitter, Mr Marsh pleads that he has 108
+
+Twitter followers, that Twitter keeps a record of all engagements with posts, and that
+
+the Second Post received 46 engagements, comprising: 20 link clicks, 14 detail
+
+expands, 6 profile clicks, 3 re-tweets, 2 media engagements, and 1 like.
+
+28. With regard to the photograph contained in the Second Post, Mr Marsh pleads that there
+
+is no basis for the claim that this has been altered “to give the impression that [Mr
+
+Fentiman] is the evil emperor from the Star Wars movies”. He pleads: “The image
+
+depicts [Mr Fentiman] wearing a hood. A hood is a very common article of clothing
+
+and has no obvious negative connotations – it is often associated with monastic
+
+orders – see below [followed by a cartoon featuring monks].”
+
+29. With regard to the meanings pleaded in the Particulars of Claim, Mr Marsh’s case is
+
+that (1) the pleaded meaning of the First Post is “substantially true” (i.e. that Mr
+
+Fentiman probably was responsible for carrying out an illegal cyber-attack on the First
+
+Blogsite and on Mr Marsh’s Facebook and LinkedIn pages), (2) the pleaded meaning
+
+of the Second Post is also “substantially true” (i.e. that Mr Fentiman is a hacker), and
+
+(3) the Third Post did not mean that “criminal charges were being brought” but instead
+
+the words “legal action is being taken” meant (as was in fact true) that Mr Marsh “had
+
+discussed the hacking issue with lawyers, and researched the relevant case law
+
+extensively preparatory to bringing a criminal charge”.
+
+6
+
+30. The Defence contains a quantity of material which Mr Reed relied upon in aggravation
+
+of damages. This material includes claims (a) that the reason why Mr Fentiman has not
+
+sued Mr Marsh in respect of numerous other very serious allegations contained in other
+
+posts is that those allegations are substantially true and (b) that Mr Fentiman “is a liar
+
+… has no hesitation in committing a crime if he thinks that he can get away with it … is
+
+motivated by greed and financial gain without any regard for the effects of his actions
+
+on individuals or society at large … is dishonest … would not hesitate to take illegal
+
+actions to destroy the websites that were damning him and his business – because he
+
+has no social conscience or moral compass … [and] is the only possible party that
+
+meets all these conditions [i.e. the conditions which it is said that the hacker of Mr
+
+Marsh’s sites must have met]”.
+
+The evidence of the witnesses
+
+31. In his witness statement dated 21 November 2018, Mr Fentiman states:
+
+“… I will not attempt to quantify the harm caused by any particular post in this
+
+witness statement. I do believe that the posts about which I complain in this
+
+claim were harmful to my reputation.
+
+I suspect that Mr Marsh has no money (which is what he has said), and so
+
+what I really seek in this action is vindication by virtue of the action
+
+succeeding and by virtue of the size of the damage award – albeit in the
+
+expectation that I will never recover any of my legal costs, let alone any
+
+damages awarded. This might be considered as some measure of the upset that
+
+these particular allegations have caused me. I believe that the allegations that I
+
+complain of in this claim are allegations of a nature which are seriously
+
+harmful to my reputation. I also believe that unless I take action, Mr Marsh’s
+
+conduct is likely to continue.
+
+Furthermore, I find it aggravating that the Defendant is using his defence of
+
+this claim as a platform for repeating the multiple other outrageous allegations
+
+that he has made against me and SHS.
+
+… The seriously defamatory allegations about which I complain have no truth
+
+in them whatsoever, and I hope that the court will vindicate my reputation.”
+
+32. In his witness statement dated 3 July 2019, Tautvydas Karitonas, the Head of Product
+
+Development at SHS, states:
+
+“… As I have been at SHS since 2014, I know what it was like to work for the
+
+business before and after the Defendant’s allegations. I also worked with the
+
+Defendant at SHS and was very upset about the allegations he made against
+
+SHS’s products after he had left. However, as my role at SHS is to ensure the
+
+product efficacy and to develop the products, I was able to reassure myself that
+
+these allegations about SHS’s products were not factually correct. We had
+
+evidence that the allegations were not true. However, I did not have any
+
+evidence that the Claimant did not hack the Defendant’s systems.
+
+Prior to the hacking allegations being published, there was a lot happening at
+
+SHS due to the Defendant’s other allegations and it was a difficult
+
+7
+
+environment to work in. However, from working with the Claimant, I
+
+understood him to always be truthful and do the right thing. I saw the Claimant
+
+as a role model, as somebody I looked up to and learned from.
+
+When the hacking allegations were published, the focus shifted as the
+
+allegations were now directed at the Claimant as an individual and his conduct,
+
+and not at SHS’s products or matters relating to SHS’s products. I was worried
+
+that the Claimant had cracked under the pressure in trying to deal with the
+
+product allegations in the proper and lawful manner, as he had been doing. I
+
+had seen first-hand the immense pressure that the Claimant had been under.
+
+SHS was his business and he assumed all of the responsibility for it. The
+
+Claimant had spent a good deal of time trying to deal with the Defendant’s
+
+product allegations, yet they remained online. I believed that it was possible
+
+that the Claimant had taken an easy way out to bring the Defendant’s blogsites
+
+down and hacked the Defendant’s systems. I think it is only natural that this
+
+crossed my mind given the allegations. I was confused. I thought I knew the
+
+Claimant and his character, and I respected him, but having seen the hacking
+
+allegations I was no longer sure about him.
+
+Before the cyber-attack, the Defendant posted on a routine basis and it seemed
+
+nothing would stop his posts. I thought maybe the Claimant had decided to
+
+take matters into his own hands, being fed up with having the false allegations
+
+out there on the internet, and dealt with this problem by choosing to hack the
+
+Defendant’s systems in a desperate attempt to support SHS. This was a
+
+stressful time.
+
+I did not speak to anybody about the hacking allegations about the Claimant. I
+
+decided it would be inappropriate, given my role, and because, as much as I
+
+have come to know the Claimant by working for SHS, he is my manager and
+
+the owner of SHS. However, I do recall the Claimant bringing up the
+
+allegations generally and explaining it was more of the Defendant’s
+
+“nonsense” and other team members making clear the hacking allegations
+
+were crazy, absurd and just another attack but on a personal level.
+
+The hacking allegations did have a professional impact on me. I have always
+
+been ambitious and career driven and I was worried about my professional
+
+reputation. If I decided to leave SHS, I was worried what opportunities there
+
+would be out there for me and I was concerned that my CV would be tainted
+
+by the allegations … I did not want to miss out on the opportunity to work
+
+somewhere because I had been tainted by working for SHS.
+
+… SHS operates in a small, closed and niche industry. The allegations,
+
+including the hacking allegations, would likely be known to the industry and to
+
+SHS’s competitors. I would be extremely surprised if SHS’s competitors were
+
+not aware of all of the allegations, and if they were not following them. I was
+
+worried that the allegations would have a longer term impact on SHS and the
+
+Claimant, and me professionally, due to circulation within this closed
+
+industry.”
+
+33. The evidence of Eleanor Barnes, a Client Support Executive Assistant at SHS, was to
+
+the like effect. In her witness statement dated 4 July 2019 she said:
+
+“In late September 2017, I became aware that the Defendant’s blog was no
+
+8
+
+longer online. A couple of weeks later I became aware that the blog was back
+
+online, and I saw that the Defendant made posts claiming that he was the
+
+victim of a cyber-attack and that the Claimant was the perpetrator of that
+
+attack.
+
+I have been shown what I am told have been referred to as the First Post, the
+
+Second Post, and the Third Post, in this claim. I recall seeing the First Post and
+
+the Second Post, but I do not recall seeing the Third Post. I particularly
+
+remember the Second Post as it contained a photograph of the Claimant’s face.
+
+The First and Second Posts made me feel a little bit unnerved and uneasy. The
+
+allegations were scary.
+
+… The hacking allegations were different to the other allegations levied at
+
+SHS as they concerned the Claimant’s character and integrity, not just the
+
+products which the employees had faith in.
+
+I took the hacking allegations seriously and wondered whether the Claimant
+
+had carried out the cyber-attack. The Defendant had been busy posting
+
+continuously about SHS for the preceding year and the allegations of hacking
+
+made me question why he would have chosen to stop now. I wondered what
+
+the Claimant had to hide as he had always said he would go down the
+
+professional and legal route to deal with the Defendant’s allegations. So as a
+
+result of the allegation of hacking that the Defendant had made against the
+
+Claimant, I thought that perhaps the other allegations might be true after all.
+
+The allegation that the Claimant had carried out the cyber-attack made sense to
+
+me, as I knew that the Defendant’s blog which made the allegations against the
+
+Claimant and SHS had disappeared from the internet, and I thought the only
+
+possibilities were that the Defendant had taken it down himself, or that the
+
+Claimant for SHS had taken it down. I could not think why the Defendant
+
+would have taken it down himself, and when the Defendant accused the
+
+Claimant and SHS that seemed to make sense to me.
+
+In the office, the Claimant would often speak to me and I did wonder whether
+
+he had hacked the Defendant’s accounts because he was trying to cover up
+
+serious faults within SHS’s products. Whilst I don’t think that I behaved
+
+differently towards the Claimant following the hacking allegations, I did feel
+
+differently towards him and tried to keep him at arms-length. I was worried
+
+that the allegations were true, or might be true. I was careful what I said
+
+around him, and I listened carefully to the Claimant for anything he said which
+
+might confirm that the hacking allegations were true.
+
+… The Defendant’s blog and the Defendant’s hacking allegations were
+
+discussed amongst the other employees of SHS, both at work and at social
+
+events. I know this because I heard it. The employees I spoke to, and heard
+
+speaking, knew that the Defendant’s posts had been removed and the blame
+
+pointed at the Claimant …
+
+I know these posts alleging hacking made me question whether the allegations
+
+levied by the Defendant about SHS’s products were in fact true.
+
+… By the time of the hacking allegations in October 2017, I had been working
+
+at SHS for about two and a half years and I had a good working relationship
+
+9
+
+with the Claimant. Despite this, the hacking allegations made me feel uneasy
+
+and I was unsure whether I wanted to continue working for SHS. By this point,
+
+I thought I knew the Claimant, but was always questioning whether I really did
+
+– which was not a nice feeling …”
+
+34. Finally, very similar evidence was given by Tom Lister, Head of Sales at SHS in a
+
+witness statement dated 5 July 2019. This included the following:
+
+“Impact of the Hacking Allegations on Myself
+
+12. As explained above, I had confidence in SHS’s products and, accordingly,
+
+could simply dismiss these allegations but the hacking allegations were
+
+different as they concerned the Claimant’s ethics as an individual. I did
+
+seriously question whether the hacking allegations were true and the
+
+Claimant had done something unethical to remove the other allegations
+
+that the Defendant had put on the internet.
+
+13. It was credible, as far as I was concerned, that the Claimant could have
+
+carried out the cyber-attack - he had a motive given the amount of pressure
+
+he had been under, and given his commitment to removing the allegations.
+
+To add to this, I later became aware that the Defendant claimed to have
+
+evidence that the cyber-attack was carried out in Kings Lynn, which is
+
+where SHS and the Claimant is based. To my mind, this strengthened the
+
+Defendant’s position.
+
+14. I was particularly concerned about these allegations because hacking is
+
+serious and if somebody is found guilty of hacking in this way (i.e. as a
+
+corporate cover-up) then it could have hit the headlines. I knew that if
+
+these allegations were true, it could be the end of SHS. I believed a lot of
+
+people would have seen these hacking allegations, either by reading them
+
+themselves or having heard them passed on by word of mouth, and I
+
+needed to think seriously about my own career.
+
+15. Shortly after the hacking allegations were made by the Defendant, I was in
+
+a room with the Claimant and his brother, Mark Fentiman. We discussed
+
+the allegations and the Claimant, and Mark, assured me that these
+
+allegations were also false. I had no way of proving whether that was
+
+correct, but I decided to stand by the Claimant and the company.
+
+Impact of the Hacking Allegations on others in SHS
+
+16. I am part of the management team and other employees at SHS knew that I
+
+was standing by the Claimant. I do not recall any specific conversations
+
+with other employees about the hacking allegations but I did pick up on
+
+murmuring throughout the business after the hacking allegations had been
+
+made by the Defendant. I remember feeling that the dynamics of the team
+
+had changed and there was an ill-ease within the workplace.
+
+17. SHS is an SME and not a listed company. The Claimant is the figurehead
+
+and CEO of the business and, therefore, without him the future of the
+
+business was seriously questionable as far as I was concerned. I was
+
+worried about my job – I would be out of work if SHS did not survive. The
+
+hacking allegations, therefore, placed a lot of strain on the Claimant, and
+
+10
+
+on SHS’s management team (including me).
+
+Impact of the Hacking Allegations on the PBCC Community
+
+18. The Claimant was well respected within the PBCC [i.e. Plymouth Brethren
+
+Christian Chrurch] community. Trust (including personal credibility and
+
+integrity) is a major currency within the PBCC, and that trust can be
+
+quickly eroded.
+
+19. The allegations, both concerning SHS and the hacking, spread throughout
+
+the local congregation, of which the Claimant and I are both part of. I
+
+know that some of the PBCC community understood the pressure the
+
+Claimant was under because of the various allegations that the Defendant
+
+had been making about SHS, and I believe that some of them are likely to
+
+have thought (as I did, initially at least) that the twig had finally snapped.
+
+By this, I mean that they are likely to have thought that the Claimant had
+
+taken down the Defendant’s website having tried and failed to get the
+
+allegations on the website taken down by other lawful means.
+
+Impact of the Hacking Allegations on Clients, Potential Clients and
+
+Industry Contacts
+
+20. Through my role of Head of Sales at SHS, I was aware that our clients,
+
+potential clients and contacts within the industry (“Contacts”) were aware
+
+of both the allegations levied at SHS and the hacking allegations. For
+
+example, the Sales Manager of our main competitor, Bioquell Plc,
+
+contacted me to discuss the allegations. In addition, I knew that many
+
+people were watching the Defendant’s every move and some would even
+
+“like” the Defendant’s posts. I recall, prior to any meetings with clients
+
+and prospects, having to prepare to be questioned about the allegations by
+
+SHS’s Contacts as the majority would mention them.
+
+21. Our Contacts were, for the most part, able to understand and disregard the
+
+allegations which the Defendant levied at SHS and its products. For
+
+example, we had senior figures in the industry that critically analysed the
+
+allegations and discredited them. In addition, for those who were unable to
+
+understand the allegations, the SHS team were able to respond defending
+
+the product with technical and scientific arguments as we had faith in the
+
+product.
+
+22. The hacking allegations were different – I (and the SHS team) had no way
+
+of disproving the hacking allegations – unlike the allegations about the
+
+SHS product which I could answer with scientific testing and technical
+
+explanations. I could not rebut the hacking allegations with technical and
+
+scientific arguments like I could the other allegations, and it came down to
+
+the Claimant’s word against the Defendant’s word.
+
+23. I know that the Defendant’s allegations were also spread by word of
+
+mouth. For example, I attended an appointment where I met the Head of
+
+Sterile Services for Brighton and Sussex Hospital who had heard the
+
+allegations and explained that they had been brought up at the region’s
+
+Decontamination Committee Meeting. I was told that SHS could not be
+
+trusted so the Trust could not do business with SHS. The same happened in
+
+11
+
+Sheffield, the Sheffield Trust became very cagey. I do not think these were
+
+isolated incidents.”
+
+35. In his oral evidence, Mr Lister confirmed that the reference in paragraph 20 of his
+
+witness statement to allegations which the Sales Manager of Bioquell Plc had contacted
+
+him to discuss were “product” allegations, not the hacking allegations. He also
+
+confirmed that paragraph 21 of his witness statement related to “product” allegations.
+
+With regard to paragraph 22, Mr Lister stated: “I've got no specific recollection of
+
+people asking me directly about the hacking allegations”. However, he also made clear
+
+that, as people were interested in the allegations that Mr Marsh was making, he would
+
+invite me to conclude that people outside SHS would have seen the hacking allegations
+
+as well as the “product” allegations. With regard to paragraph 23, Mr Lister confirmed
+
+that he had no specific knowledge that the hacking allegations were spread by word of
+
+mouth, but that he had come across instances where people had not actually looked at
+
+Mr Marsh’s posts but had heard about what was in them, and raised them with him.
+
+36. In short, Mr Lister’s evidence, which I regard as being of most assistance in
+
+determining the probable extent of both the direct and indirect (“grapevine”)
+
+dissemination of the hacking allegations complained of in these proceedings, is stronger
+
+with regard to the “product” allegations than with regard to the hacking allegations.
+
+37. At the same time, in my judgment, this (and other) evidence, which I accept, provides a
+
+sound basis for drawing inferences that both direct and indirect dissemination was
+
+extensive, highly damaging, and, in all likelihood, permeating and lurking underground.
+
+Issue 1: Meaning
+
+Legal principles
+
+38. In Koutsogiannis v The Random House Group Ltd [2019] EWHC 48 (QB), in which
+
+both sides were represented by very experienced specialist defamation practitioners,
+
+Nicklin J stated at [10]-[12]:
+
+“There has been no dispute as to the legal principles. They are well-established
+
+and very familiar.
+
+The Court’s task is to determine the single natural and ordinary meaning of the
+
+words complained of, which is the meaning that the hypothetical reasonable
+
+reader would understand the words bear. It is well recognised that there is an
+
+artificiality in this process because individual readers may understand words in
+
+different ways: Slim v Daily Telegraph Ltd [1968] 2 QB 157, 173D–E, per
+
+Lord Diplock.
+
+The following key principles can be distilled from the authorities: see e.g. Slim
+
+v Daily Telegraph Ltd 175F; Charleston v News Group Newspapers Ltd
+
+[1995] 2 AC 65, 70; Gillick v Brook Advisory Centres [2002] EWCA Civ 1263
+
+12
+
+[7]; Charman v Orion Publishing Co Ltd [2005] EWHC 2187 (QB) [8]-[13];
+
+Jeynes v News Magazines Ltd & Anor [2008] EWCA Civ 130 [14]; Doyle v
+
+Smith [2018] EWHC 2935 [54]-[56]; Lord McAlpine of West Green v Bercow
+
+[2013] EWHC 1342 (QB) [66]; Simpson v MGN Ltd [2016] EMLR 26 [15];
+
+Bukovsky v Crown Prosecution Service [2017] EWCA 1529 [2018] 1 WLR
+
+18; Brown v Bower [2017] 4 WLR 197 [10]-[16] and Sube v News Group
+
+Newspapers Ltd [2018] EWHC 1234 (QB) [20]:
+
+(i) The governing principle is reasonableness.
+
+(ii) The intention of the publisher is irrelevant.
+
+(iii) The hypothetical reasonable reader is not naïve but he is not unduly
+
+suspicious. He can read between the lines. He can read in an implication more
+
+readily than a lawyer and may indulge in a certain amount of loose thinking
+
+but he must be treated as being a man who is not avid for scandal and someone
+
+who does not, and should not, select one bad meaning where other non-
+
+defamatory meanings are available. A reader who always adopts a bad
+
+meaning where a less serious or non-defamatory meaning is available is not
+
+reasonable: s/he is avid for scandal. But always to adopt the less derogatory
+
+meaning would also be unreasonable: it would be naïve.
+
+(iv) Over-elaborate analysis should be avoided and the court should certainly
+
+not take a too literal approach to the task.
+
+(v) Consequently, a judge providing written reasons for conclusions on
+
+meaning should not fall into the trap of conducting too detailed an analysis of
+
+the various passages relied on by the respective parties.
+
+(vi) Any meaning that emerges as the produce of some strained, or forced, or
+
+utterly unreasonable interpretation should be rejected.
+
+(vii) It follows that it is not enough to say that by some person or another the
+
+words might be understood in a defamatory sense.
+
+(viii) The publication must be read as a whole, and any ‘bane and antidote’
+
+taken together. Sometimes, the context will clothe the words in a more serious
+
+defamatory meaning (for example the classic “rogues’ gallery” case). In other
+
+cases, the context will weaken (even extinguish altogether) the defamatory
+
+meaning that the words would bear if they were read in isolation (e.g. bane and
+
+antidote cases).
+
+(ix) In order to determine the natural and ordinary meaning of the statement of
+
+which the claimant complains, it is necessary to take into account the context
+
+in which it appeared and the mode of publication.
+
+(x) No evidence, beyond publication complained of, is admissible in
+
+determining the natural and ordinary meaning.
+
+(xi) The hypothetical reader is taken to be representative of those who would
+
+read the publication in question. The court can take judicial notice of facts
+
+13
+
+which are common knowledge, but should beware of reliance on
+
+impressionistic assessments of the characteristics of a publication’s readership.
+
+(xii) Judges should have regard to the impression the article has made upon
+
+them themselves in considering what impact it would have made on the
+
+hypothetical reasonable reader.
+
+(xiii) In determining the single meaning, the court is free to choose the correct
+
+meaning; it is not bound by the meanings advanced by the parties (save that it
+
+cannot find a meaning that is more injurious than the claimant's pleaded
+
+meaning).
+
+As to the Chase levels of meaning, see Brown v Bower [17]:
+
+They come from the decision of Brooke LJ in Chase v News Group
+
+Newspapers Ltd [2003] EMLR 11 [45] in which he identified three
+
+types of defamatory allegation: broadly, (1) the claimant is guilty of the
+
+act; (2) reasonable grounds to suspect that the claimant is guilty of the
+
+act; and (3) grounds to investigate whether the claimant has committed
+
+the act. In the lexicon of defamation, these have come to be known as
+
+the Chase levels. Reflecting the almost infinite capacity for subtle
+
+differences in meaning, they are not a straitjacket forcing the court to
+
+select one of these prescribed levels of meaning, but they are a helpful
+
+shorthand. In Charman v Orion Publishing Group Ltd, for example,
+
+Gray J found a meaning of “cogent grounds to suspect” [58].”
+
+39. Mr Reed also referred me to Stocker v Stocker [2019] 2 WLR 1033, in which the
+
+Supreme Court gave guidance as to the correct approach towards ascertaining the
+
+meaning of posts and Tweets on social media. Lord Kerr JSC said at [41]-[45]:
+
+“[41] The fact that this was a Facebook post is critical. The advent of the 21st
+
+century has brought with it a new class of reader: the social media user.
+
+The judge tasked with deciding how a Facebook post or a tweet on
+
+Twitter would be interpreted by a social media user must keep in mind
+
+the way in which such postings and tweets are made and read.
+
+[42] In Monroe v Hopkins [2017] 4 WLR 68, Warby J at para 35 said this
+
+about tweets posted on Twitter:
+
+“The most significant lessons to be drawn from the authorities
+
+as applied to a case of this kind seem to be the rather obvious
+
+ones, that this is a conversational medium; so it would be
+
+wrong to engage in elaborate analysis of a 140 character tweet;
+
+that an impressionistic approach is much more fitting and
+
+appropriate to the medium; but that this impressionistic
+
+approach must take account of the whole tweet and the context
+
+in which the ordinary reasonable reader would read that tweet.
+
+That context includes (a) matters of ordinary general
+
+knowledge; and (b) matters that were put before that reader via
+
+Twitter.”
+
+[43] I agree with that, particularly the observation that it is wrong to engage
+
+in elaborate analysis of a tweet; it is likewise unwise to parse a
+
+14
+
+Facebook posting for its theoretically or logically deducible meaning.
+
+The imperative is to ascertain how a typical (ie an ordinary reasonable)
+
+reader would interpret the message. That search should reflect the
+
+circumstance that this is a casual medium; it is in the nature of
+
+conversation rather than carefully chosen expression; and that it is pre-
+
+eminently one in which the reader reads and passes on.
+
+[44] That essential message was repeated in Monir v Wood [2018] EWHC
+
+(QB) 3525 where at para 90, Nicklin J said, “Twitter is a fast moving
+
+medium. People will tend to scroll through messages relatively
+
+quickly.” Facebook is similar. People scroll through it quickly. They do
+
+not pause and reflect. They do not ponder on what meaning the
+
+statement might possibly bear. Their reaction to the post is
+
+impressionistic and fleeting. Some observations made by Nicklin J are
+
+telling. Again, at para 90 he said:
+
+“It is very important when assessing the meaning of a Tweet
+
+not to be over-analytical. … Largely, the meaning that an
+
+ordinary reasonable reader will receive from a Tweet is likely
+
+to be more impressionistic than, say, from a newspaper article
+
+which, simply in terms of the amount of time that it takes to
+
+read, allows for at least some element of reflection and
+
+consideration. The essential message that is being conveyed by
+
+a Tweet is likely to be absorbed quickly by the reader.”
+
+[45] And Nicklin J made an equally important point at para 92 where he
+
+said (about arguments made by the defendant as to meaning), “… these
+
+points only emerge as a result of close analysis, or someone pointing
+
+them out. An ordinary reasonable reader will not have someone by
+
+his/her side making points like this.”
+
+40. The question in that case was what meaning the words “He tried to strangle me” would
+
+convey to the “ordinary reason reader” of a Facebook post. In the present case, the
+
+words complained of have clearer characteristics of being straightforward statements of
+
+fact, and I consider there is less room for concerns about parsing and elaborate analysis.
+
+Application to the publications complained of
+
+41. The effect of Mr Marsh’s Defence is to admit that the First Post meant that Mr
+
+Fentiman was responsible for carrying out an illegal cyber-attack on the First Blogsite
+
+and on Mr Marsh’s Facebook and LinkedIn pages. I agree that it bears that meaning.
+
+42. The effect of Mr Marsh’s Defence is to admit that the Second Post meant that Mr
+
+Fentiman is a hacker. I agree with Mr Fentiman that it also means that Mr Fentiman had
+
+carried out an unlawful hack-attack the previous week (although this of itself does
+
+not make the meaning any more or less defamatory). As to Mr Fentiman’s contention
+
+that the Second Post also meant that “the effect of [that hack and cyber-attack] in part
+
+had been to take down the First Blogsite”, I see no reason why, applying the legal
+
+principles summarised above, the Second Post should be regarded as meaning any
+
+15
+
+more than “the effect of Mr Fentiman’s hack-attack had been to prevent access to
+
+the First Blogsite”. In my judgment, that is the meaning that the Second Post bears.
+
+43. As to the Third Post, in addition to the words complained of, this included the line:
+
+“CYBER-ATTACK, DEPROX, HYGIENE SOLUTIONS LTD, RICK
+
+FENTIMAN, UCLH”. Further, under the heading “Computer Misuse Offences”, the
+
+Third Post set out the text of some statutory provisions. The Third Post also included
+
+a cartoon (which features twice) of a man on horseback (depicted in the style of a
+
+Texas Ranger) leading away a number of criminals (roped together, and each
+
+wearing black and white horizontally striped garments). Although not forming part
+
+of the words complained of, I consider that these contents form an important part of
+
+the context. In my opinion, the Third Post meant that criminal charges were being
+
+brought against the directors of SHS, including Mr Fentiman, for carrying out a cyber-
+
+attack on Mr Marsh. As not all persons who are arrested face criminal charges, and
+
+as “An unvarnished allegation that a person has been arrested for a criminal offence
+
+will ordinarily convey the imputation that he has conducted himself in such a way as
+
+to give reasonable grounds for suspecting him of that offence” (see Doyle v Smith
+
+[2019] EMLR 15, Warby J at [115]), the meaning of the Third Post is more serious
+
+than a Chase level 2 meaning. It is saying, in effect: “there are very strong grounds
+
+to suspect that Mr Fentiman is guilty of Computer Misuse Act 1990 offences”.
+
+Issue 2: Did the words complained of cause serious harm to Mr Fentiman’s reputation?
+
+Legal principles
+
+44. I considered the applicable legal principles in Yavuz v Tesco Stores Ltd & Anor [2019]
+
+EWHC 1971 (QB) at [54]-[58]. Mr Reed accepted that I stated the law correctly in
+
+those passages, although he submitted (and I agree) that the facts of that case were very
+
+different from those of the present case. In that case, if the alleged slander had been
+
+published, it would have been published to no more than a handful of individuals, none
+
+of whom knew the claimant, and some of whom would probably not have believed it. In
+
+those circumstances, I concluded that the claimant had not established that, assuming
+
+that it was spoken, the slander complained had caused “serious harm “to her reputation.
+
+45. The meaning and effect of section 1 of the Defamation Act 2013 (“section 1”) were
+
+considered by the Supreme Court in Lachaux v Independent Print Ltd [2019] 3 WLR
+
+18, in which Lord Sumption JSC, giving the judgment of the Court, said at [14], [16]:
+
+“… section 1 necessarily means that a statement which would previously have
+
+been regarded as defamatory, because of its inherent tendency to cause some
+
+harm to reputation, is not to be so regarded unless it “has caused or is likely to
+
+cause” harm which is “serious”. The reference to a situation where the statement
+
+“has caused” serious harm is to the consequences of the publication, and not the
+
+publication itself. It points to some historic harm, which is shown to have
+
+actually occurred. This is a proposition of fact which can be established only by
+
+reference to the impact which the statement is shown actually to have had. It
+
+16
+
+depends on a combination of the inherent tendency of the words and their actual
+
+impact on those to whom they were communicated …
+
+… Suppose that the words amount to a grave allegation against the claimant, but
+
+they are published to a small number of people, or to people none of whom
+
+believe it, or possibly to people among whom the claimant had no reputation to
+
+be harmed. The law’s traditional answer is that these matters may mitigate
+
+damages but do not affect the defamatory character of the words. Yet it is plain
+
+that section 1 was intended to make them part of the test of the defamatory
+
+character of the statement.”
+
+46. Accordingly, whether a statement has caused “serious harm” falls to be established “by
+
+reference to the impact which the statement is shown actually to have had”. Further,
+
+that, in turn, “depends on a combination of the inherent tendency of the words and their
+
+actual impact on those to whom they were communicated”.
+
+47. Moreover, a statement may not be defamatory even if it amounts to “a grave allegation
+
+against the claimant” if (for example) it is “published to a small number of people, or to
+
+people none of whom believe it, or possibly to people among whom the claimant had no
+
+reputation to be harmed”.
+
+48. At the same time, the assessment of harm of a defamatory statement in not simply “a
+
+numbers game” (see Mardas v New York Times Co [2009] EMLR 8, Eady J at [15]).
+
+Indeed: “Reported cases have shown that very serious harm to a reputation can be
+
+caused by the publication of a defamatory statement to one person.” (Sobrinho v
+
+Impresa Publishing SA [2016] EMLR 12, Dingemans J at [47]).
+
+49. Other points that arise from the Sobrinho case include the following:
+
+“46 …. [F]irst … “Serious” is an ordinary word in common usage. Section
+
+1 requires the claimant to prove as a fact, on the balance of probabilities, that
+
+the statement complained of has caused or will probably cause serious harm to
+
+the claimant’s reputation …
+
+47. Secondly, it is open to the claimant to call evidence in support of his case
+
+on serious harm and it is open to the defendant to call evidence to demonstrate
+
+that no serious harm has occurred or is likely to do so. However, a Court
+
+determining the issue of serious harm is, as in all cases, entitled to draw
+
+inferences based on the admitted evidence …
+
+48. Thirdly, there are obvious difficulties in getting witnesses to say that they
+
+read the words and thought badly of the claimant, compare Ames v The
+
+Spamhouse Project [2015] EWHC 127 (QB) at [55]. This is because the
+
+claimant will have an understandable desire not to spread the contents of the
+
+article complained of by asking persons if they have read it and what they
+
+think of the claimant, and because persons who think badly of the claimant are
+
+not likely to co-operate in providing evidence …
+
+Fifthly, as Bingham LJ stated in Slipper v BBC [1991] QB 283 at 300, the law
+
+would part company with the realities of life if it held that the damage caused
+
+17
+
+by publication of a libel began and ended with publication to the original
+
+publishee. Defamatory statements are objectionable not least because of their
+
+propensity “to percolate through underground channels and contaminate
+
+hidden springs” through what has sometimes been called "the grapevine
+
+effect” …”
+
+50. In Doyle v Smith [2019] EMLR 15, Warby J cited these passages with approval at
+
+[116]. Warby J went on to emphasise the importance of the point about inference, and
+
+(among other things) approved at [117] the following words of HHJ Moloney QC in
+
+Theedom v Nourish Training (trading as CSP Recruitment) [2016] EMLR 10:
+
+“Depending on the circumstances of the case, the claimant may be able to
+
+satisfy section 1 without calling any evidence, by relying on the inferences of
+
+serious harm to reputation properly to be drawn from the level of the
+
+defamatory meaning of the words and the nature and extent of their
+
+publication.”
+
+51. Although the Supreme Court stated the law differently from the Court of Appeal in
+
+Lachaux v Independent Print Ltd [2018] QB 594, the following passages from the
+
+judgment of Davis LJ accord with the Supreme Court’s analysis of section 1:
+
+“72. ….serious reputational harm is capable of being proved by a process
+
+of inference from the seriousness of the defamatory meaning … there is no
+
+reason in libel cases for precluding or restricting the drawing of an inference of
+
+serious reputational harm derived from an (objective) appraisal of the
+
+seriousness of the imputation to be gathered from the words used.
+
+73. … The seriousness of the reputational harm is … evaluated having regard
+
+to the seriousness of the imputation conveyed by the words used: coupled,
+
+where necessary or appropriate, with the context in which the words are used
+
+(for example, in a newspaper article or widely accessed blog).
+
+79. There may, for instance, be cases where the evidence shows that no serious
+
+reputational harm has been caused or is likely for reasons unrelated to the
+
+meaning conveyed by the defamatory statement complained of. One example
+
+could, for instance, perhaps be where the defendant considers that he has
+
+irrefutable evidence that the number of publishees was very limited, that there
+
+has been no grapevine percolation and that there is firm evidence that no one
+
+thought any the less of the claimant by reason of the publication …”
+
+52. In Dhir v Saddler [2017] EWHC 3155 (QB), [2018] 4 WLR 1, Nicklin J said at [55]:
+
+“In my judgment, the authorities demonstrate that it is the quality of the
+
+publishees not their quantity that is likely to determine the issue of serious
+
+harm in cases involving relatively small-scale publication. What matters is not
+
+the extent of publication, but to whom the words are published. A significant
+
+factor is likely to be whether the claimant is identified in the minds of the
+
+publishee(s) so that the allegation “sticks” …
+
+18
+
+(ii) A feature of the “sticking power” of a defamatory allegation that has
+
+potential relevance to the assessment of serious harm is the likelihood
+
+of percolation/repetition of the allegation beyond the original
+
+publishees (“the grapevine effect”) (Slipper v BBC [1991] 1 QB 283,
+
+300 per Bingham LJ). In Sloutsker v Romanova [2015] [2015] EWHC
+
+545 (QB); [2015] 2 Costs LR 321, Warby J said at [69]:
+
+“… It has to be borne in mind that the assessment of whether
+
+there is a real and substantial tort is not a mere numbers game,
+
+and also that the reach of a defamatory imputation is not limited
+
+to the immediate readership. The gravity of the imputations
+
+complained of… is a relevant consideration when assessing
+
+whether the tort, if that is what it is, is real and substantial
+
+enough to justify the invocation of the English court's
+
+jurisdiction. The graver the imputation the more likely it is to
+
+spread, and to cause serious harm. It is beyond dispute that the
+
+imputations complained of are all extremely serious.”
+
+53. In the Dhir case, Nicklin J held that the claimant had demonstrated that publication of
+
+an allegation that the claimant “threatened to slit my throat” which imputed to the
+
+claimant the commission of the criminal offence of making a threat to kill, punishable,
+
+upon conviction, by imprisonment, and which was published orally to at least 90 people
+
+at a Church meeting had caused “serious harm” to the claimant’s reputation.
+
+54. In the Doyle case, Warby J held at [121]-[122] that the inference could properly be
+
+drawn of “serious harm” to the reputation of the claimant arising from the publication
+
+online of the “Third Article”, which alleged that there were reasonable grounds to
+
+suspect that the claimant had committed the offences of blackmail and sending
+
+malicious and menacing communications in connection with the proposed sale to the
+
+claimant of land owned by a rugby Club and deceiving members of the Club into voting
+
+in favour of that sale, because (a) such an allegation “could hardly be described as
+
+anything other than seriously harmful to reputation”, (b) the defendant’s evidence
+
+“seem[ed] to show that the Third Article was viewed on 69 occasions”, (c) “Publication
+
+on this scale is not trivial or insignificant”, and (d) the inference was not rebutted or
+
+even significantly undermined by other evidence, or by the submissions for the
+
+defendant. During the course of discussing these last matters, Warby J observed:
+
+“It is commonplace for a claimant to adduce evidence that has … limits [as to
+
+the extent of publication], and the reasons are well-known: see Sobrinho
+
+(above). Here, the claimant’s evidence in his witness statements for trial was if
+
+anything more extensive than one might expect in all the circumstances.
+
+During the trial, Mr Foster’s evidence that “many members” of the Club were
+
+monitoring the Website was not challenged. In cross-examination he
+
+elaborated: “Everybody in the Club knew about it. Everyone was talking about
+
+it”.
+
+…
+
+The victim of a libel cannot ordinarily identify all the publishees. Further, as
+
+[Counsel] points out, there is the “grapevine effect” referred to in Sobrinho.”
+
+19
+
+Application to the facts
+
+55. The main significant features of the 3 publications in issue are as follows:
+
+(1) The allegations which formed the subject of the First Post, the Second Post, and
+
+the Third Post were all grave, and had an inherent tendency to cause serious harm.
+
+In substance, the First and Second Posts alleged that Mr Fentiman was an illegal
+
+cyber-attacker and hacker, and the Third Post escalated matters by alleging that
+
+his illegal activities had become the subject of prosecution for criminal offences.
+
+(2) The number of people to whom each of the First Post, the Second Post, and the
+
+Third Post were published was substantial. Even on Mr Marsh’s pleaded case,
+
+taking matters up to April 2018 in each case, but also discounting the possibility
+
+of a substantial number of repeat viewings by the same people, the Second Post
+
+was published to approximately 184 + 46 = 230 persons, and the Third Post was
+
+published to approximately 188 persons. Further, in accordance with Mr Marsh’s
+
+pleaded case, there were, perhaps, about 100 views of the First Post. Findings of
+
+serious harm were made on lower figures in both of the Dhir and Doyle cases.
+
+(3) Substantial further “grapevine” dissemination is made out on the evidence
+
+(including Mr Marsh’s pleaded case that the 46 engagements relating to the
+
+publication of the Second Post on Twitter resulted in 3 re-tweets). Mr Lister’s
+
+evidence is particularly telling in this regard, because he explains, and I accept,
+
+that the hacking allegations (which formed the subject of all 3 Posts) spread
+
+through the PBCC community as well as the community of SHS’s customers. I
+
+would have been prepared to draw an inference of substantial “grapevine”
+
+dissemination in respect of each of the Posts even in the absence of that evidence.
+
+Such percolation typically results from allegations like these on social media.
+
+(4) The evidence shows that, far from people not believing the allegations, they were
+
+so pernicious that even those close to Mr Fentiman who trusted and admired him
+
+were deeply troubled by them, and seriously concerned that they might be true.
+
+This was partly for one of the very reasons pleaded by Mr Marsh, namely that Mr
+
+Fentiman had a motive for wanting to shut down platforms that “were damning
+
+him and his business” (although Mr Marsh has no case that Mr Fentiman was, in
+
+fact, guilty of the wrongdoing alleged in the Posts, or any material wrongdoing).
+
+56. For these reasons, in particular, I find that Mr Fentiman has established that the
+
+requirement of “serious harm” is satisfied in respect of each of the above 3 Posts.
+
+Issue 3: the measure of damages
+
+Legal principles
+
+57. I shall follow the approach of Nicklin J in Dhir v Saddler [2017] EWHC 3155 (QB),
+
+[2018] 4 WLR 1 in gratefully adopting the following summary of the relevant
+
+principles by Warby J in Barron v Vines [2016] EWHC 1226 (QB):
+
+20
+
+“[20] The general principles were reviewed and re-stated by the Court of
+
+Appeal in John v MGN Ltd [1997] QB 586… Sir Thomas Bingham
+
+MR summarised the key principles at pages 607-608 in the following
+
+words:
+
+“The successful plaintiff in a defamation action is entitled to recover,
+
+as general compensatory damages, such sum as will compensate him
+
+for the wrong he has suffered. That sum must [1] compensate him for
+
+the damage to his reputation; [2] vindicate his good name; and [3] take
+
+account of the distress, hurt and humiliation which the defamatory
+
+publication has caused. In assessing the appropriate damages for injury
+
+to reputation the most important factor is [a] the gravity of the libel; the
+
+more closely it touches the plaintiff's personal integrity, professional
+
+reputation, honour, courage, loyalty and the core attributes of his
+
+personality, the more serious it is likely to be. [b] The extent of
+
+publication is also very relevant: a libel published to millions has a
+
+greater potential to cause damage than a libel published to a handful of
+
+people. [c] A successful plaintiff may properly look to an award of
+
+damages to vindicate his reputation: but the significance of this is much
+
+greater in a case where the defendant asserts the truth of the libel and
+
+refuses any retraction or apology than in a case where the defendant
+
+acknowledges the falsity of what was published and publicly expresses
+
+regret that the libellous publication took place. It is well established
+
+that [d] compensatory damages may and should compensate for
+
+additional injury caused to the plaintiff’s feelings by the defendant’s
+
+conduct of the action, as when he persists in an unfounded assertion
+
+that the publication was true, or refuses to apologise, or cross-examines
+
+the plaintiff in a wounding or insulting way. Although the plaintiff has
+
+been referred to as “he” all this of course applies to women just as
+
+much as men.”
+
+[21] I have added the numbering in this passage, which identifies the three
+
+distinct functions performed by an award of damages for libel. I have
+
+added the lettering also to identify, for ease of reference, the factors
+
+listed by Sir Thomas Bingham. Some additional points may be made
+
+which are relevant in this case:
+
+(1) The initial measure of damages is the amount that would restore the
+
+claimant to the position he would have enjoyed had he not been
+
+defamed: Steel and Morris v United Kingdom (2004) 41 EHRR [37],
+
+[45].
+
+(2) The existence and scale of any harm to reputation may be
+
+established by evidence or inferred. Often, the process is one of
+
+inference, but evidence that tends to show that as a matter of fact a
+
+person was shunned, avoided, or taunted will be relevant. So may
+
+evidence that a person was treated as well or better by others after the
+
+libel than before it.
+
+(3) The impact of a libel on a person's reputation can be affected by:
+
+21
+
+(a) Their role in society. The libel of Esther Rantzen [Rantzen v Mirror
+
+Group Newspapers (1986) Ltd and Others [1994] QB 670] was more
+
+damaging because she was a prominent child protection campaigner.
+
+(b) The extent to which the publisher(s) of the defamatory imputation
+
+are authoritative and credible. The person making the allegations may
+
+be someone apparently well-placed to know the facts, or they may
+
+appear to be an unreliable source.
+
+(c) The identities of the publishees. Publication of a libel to family,
+
+friends or work colleagues may be more harmful and hurtful than if it
+
+is circulated amongst strangers. On the other hand, those close to a
+
+claimant may have knowledge or viewpoints that make them less likely
+
+to believe what is alleged.
+
+(d) The propensity of defamatory statements to percolate through
+
+underground channels and contaminate hidden springs, a problem
+
+made worse by the internet and social networking sites, particularly for
+
+claimants in the public eye: C v MGN Ltd (reported with Cairns v
+
+Modi at [2013] 1 WLR 1051) [27].
+
+(4) It is often said that damages may be aggravated if the defendant
+
+acts maliciously. The harm for which compensation would be due in
+
+that event is injury to feelings.
+
+(5) A person who has been libelled is compensated only for injury to
+
+the reputation they actually had at the time of publication. If it is shown
+
+that the person already had a bad reputation in the relevant sector of
+
+their life, that will reduce the harm, and therefore moderate any
+
+damages. But it is not permissible to seek, in mitigation of damages, to
+
+prove specific acts of misconduct by the claimant, or rumours or
+
+reports to the effect that he has done the things alleged in the libel
+
+complained of: Scott v Sampson (1882) QBD 491, on which I will
+
+expand a little. Attempts to achieve this may aggravate damages, in
+
+line with factor (d) in Sir Thomas Bingham's list.
+
+(6) Factors other than bad reputation that may moderate or mitigate
+
+damages, on some of which I will also elaborate below, include the
+
+following:
+
+(a) “Directly relevant background context” within the meaning
+
+of Burstein v Times Newspapers Ltd [2001] 1 WLR 579 and
+
+subsequent authorities. This may qualify the rules at (5) above.
+
+(b) Publications by others to the same effect as the libel complained of
+
+if (but only if) the claimants have sued over these in another
+
+defamation claim, or if it is necessary to consider them in order to
+
+isolate the damage caused by the publication complained of.
+
+(c) An offer of amends pursuant to the Defamation Act 1996.
+
+(d) A reasoned judgment, though the impact of this will vary according
+
+to the facts and nature of the case.
+
+(7) In arriving at a figure it is proper to have regard to (a) Jury awards
+
+approved by the Court of Appeal: Rantzen 694, John, 612; (b) the scale
+
+of damages awarded in personal injury actions: John, 615; (c) previous
+
+awards by a judge sitting without a jury: see John 608.
+
+22
+
+(8) Any award needs to be no more than is justified by the legitimate
+
+aim of protecting reputation, necessary in a democratic society in
+
+pursuit of that aim, and proportionate to that need: Rantzen... This limit
+
+is nowadays statutory, via the Human Rights Act 1998.”
+
+Mr Fentiman’s case
+
+58. In support of Mr Fentiman’s claim for damages and aggravated damages, Mr Reed
+
+placed particular reliance on the following points:
+
+(1) The seriousness of the allegations, going to a core aspect of Mr Fentiman’s
+
+reputation (factor [a] in John).
+
+(2) The fact that Mr Marsh asserted the truth of the libels and has refused to retract or
+
+apologise, thereby increasing the need for an award of damages which vindicates
+
+Mr Fentiman’s reputation (factor [c] in John).
+
+(3) The fact that Mr Marsh’s assertion of the truth of the libels in his Defence
+
+continued the injury to Mr Fentiman’s feelings (factor [d] in John).
+
+(4) The identity of the publishees, including in particular the publication to those of
+
+Mr Fentiman’s employees, members of his PBCC congregations, and colleagues
+
+in the industry who believed the allegations.
+
+(5) The propensity of the allegations in question to percolate.
+
+(6) The tone of the Posts, including, in particular, the doctored photograph of Mr
+
+Fentiman in the Second Post with the super-imposed word “HACKER”.
+
+59. So far as concerns the level of award, Mr Reed referred to (a) Cairns v Modi [2013] 1
+
+WLR 1015, in which the Court of Appeal upheld an award of £75,000 (plus a £15,000
+
+uplift for the way in which the proceedings had been conducted on the defendant’s
+
+behalf) to a claimant who was accused of match-fixing in a tweet sent to about 65
+
+people (albeit “almost certainly” comprising a “specialist [readership], consisting of
+
+those with a particular interest in cricket” - see Lord Judge CJ at [26]), and (b) Monroe
+
+v Hopkins [2017] 4 WLR 68, in which Warby J awarded £24,000 to a claimant who was
+
+accused, in tweets, of condoning and approving of scrawling on war memorials and
+
+monuments. Mr Reed submitted that the allegations in the present case were “much
+
+more serious than that in Monroe, suggesting that the award ought to be rather higher
+
+than £24,000” and were comparable to the allegation in Cairns, although the extent of
+
+the publications in the present case was greater than that in Cairns, such that the
+
+appropriate award of damages “might well be rather closer to £75,000 than to £24,000”.
+
+Discussion
+
+60. As Warby J said in Doyle v Smith [2019] EMLR 19 at [131]: “The authorities suggest
+
+that the Court should have regard to other awards made by Judges and/or approved by
+
+the Court of Appeal, in respect of comparable libels”. At the same time, as Eady J said
+
+23
+
+in Al Amoudi v Kifle [2013] EWHC 293 (QB) at [24]: “comparable awards … are … of
+
+limited assistance only because circumstances vary so much from one case to another”.
+
+61. In the Dhir case, Nicklin J awarded damages in the sum of £35,000 taking into account
+
+a number of factors, including: (on the damages-enhancing side) that the seriousness of
+
+the allegation would be likely to have a serious “sticking power” in people’s memories,
+
+resulting in the need to make some allowance for the “grapevine” effect, that the
+
+claimant was present when the words complained of were spoken and is likely to have
+
+been acutely embarrassed and upset in consequence, and that damages had been
+
+aggravated by the defendant’s persistent plea of truth, which had been maintained all
+
+the way to and through a public trial; and (on the damages-reducing side) that the
+
+claimant had resorted to violence and threats of violence in the past, and this conduct
+
+was in the same sector of his reputation as the allegation made by the defendant.
+
+62. In the Doyle case, Warby J awarded damages in the sum of £30,000 in respect of the
+
+“Second Article”, which was published on a “village news” website operated single-
+
+handedly by the defendant, had 242 views, and was held to bear the following meaning:
+
+“There was very good reason to believe that the Claimant had been guilty of
+
+participation in an attempt to defraud members of the Club of many millions of
+
+pounds, by allowing the Club to issue what he knew to be false and deceptive
+
+documentation about a proposed land sale and then, with a view to ensuring
+
+the proposal went through, asking the Club not to correct it.”
+
+63. In the present case, I agree that all the factors identified by Mr Reed are relevant. I also
+
+consider that some of the especially aggravating features of Mr Marsh’s conduct
+
+include (a) that the 3 Posts which are complained of were published against the
+
+background summarised above, and (b) particular features of Mr Marsh’s Defence, such
+
+as that the reasons why Mr Fentiman is said to be the likely perpetrator of the hacking
+
+in question included that he is a “liar … [and] has no hesitation in committing crime …
+
+is dishonest … [and] has no social conscience or moral compass”, and the provocative
+
+and unconvincing plea that the photograph which forms part of the Second Post was not
+
+mischievous because “wearing a hood … is often associated with monastic orders”.
+
+64. In light of their considerable overlap and close proximity in time, Mr Reed invited me
+
+to make one award in respect of all 3 Posts. In my judgment, applying the principles I
+
+have identified and taking account of all the factors mentioned, that award cannot be
+
+less than £45,000, with an additional £10,000 for aggravated damages. Anything less
+
+would fail to serve the relevant purposes, and in particular the purpose of vindication.
+
+Injunction
+
+65. Mr Fentiman also seeks “An injunction restraining [Mr Marsh] from publishing any
+
+words with the meanings complained of herein, or otherwise howsoever libelling [Mr
+
+Fentiman]”. This raises the question of whether there is a threat or risk of repetition that
+
+requires an injunction to prevent it. In all the circumstances, including the background
+
+against which the matters complained of in the present proceedings took place, and the
+
+way in which Mr Marsh has conducted these proceedings, I consider that there are
+
+24
+
+sufficient grounds for concern that without the protection of an injunction Mr Marsh
+
+will repeat these or similar libels in future to make it appropriate to grant an injunction.
+
+Conclusion
+
+66. Accordingly, there will be judgment for Mr Fentiman for damages of £55,000 in respect
+
+of all 3 material Posts. I will grant an injunction to restrain repetition. I will deal with
+
+the precise terms of that injunction and with costs when this judgment is handed down.
+
+25

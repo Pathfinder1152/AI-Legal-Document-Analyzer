@@ -1,0 +1,23 @@
+{
+  "file_name": "938.pdf",
+  "metadata": {
+    "case_number": "QB-2020-000862",
+    "neutral_citation": " [2023] EWHC 938 (KB)",
+    "court": "HIGH COURT",
+    "judges": [
+      "MR JUSTICE CHAMBERLAIN"
+    ],
+    "hearing_date": "14 February 2023",
+    "parties": {
+      "Claimant": "ISMA ALI",
+      "Defendant": "THE CHIEF CONSTABLE OF BEDFORDSHIRE POLICE"
+    },
+    "representatives": {
+      "Claimant": "Jack Scott (instructed by Irvings Law)",
+      "Defendant": "Jennifer Oborne (instructed by Legal Services Bedfordshire Police)"
+    },
+    "extracted_at": "2025-04-13T12:54:09.321773Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\938.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\938.txt"
+}

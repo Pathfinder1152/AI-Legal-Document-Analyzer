@@ -1,0 +1,391 @@
+Case No: A3/2001/0213
+
+Neutral Citation Number: [2001] EWCA Civ 1142
+
+IN THE SUPREME COURT OF JUDICATURE
+
+COURT OF APPEAL (CIVIL DIVISION)
+
+ON APPEAL FROM QUEEN’S BENCH DIVISION
+
+CHANCERY DIVISION
+
+Vice-Chancellor Morritt
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Wednesday 18th July, 2001
+
+B e f o r e :
+
+LORD PHILLIPS MR
+
+LORD JUSTICE ROBERT WALKER
+
+and
+
+LORD JUSTICE KEENE
+
+- - - - - - - - - - - - - - - - - - - - -
+
+|THE RIGHT HONOURABLE PADDY ASHDOWN, MP PC|Respondent|
+
+|- and -||
+
+|TELEGRAPH GROUP LTD|Appellant|
+
+- - - - - - - - - - - - - - - - - - - - -
+
+(Transcript of the Handed Down Judgment of
+
+Smith Bernal Reporting Limited, 190 Fleet Street
+
+London EC4A 2AG
+
+Tel No: 020 7421 4040,  Fax No:  020 7831 8838
+
+Official Shorthand Writers to the Court)
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Richard Spearman, QC  (instructed by Bates Wells & Braithwaite for the Respondent)
+
+Andrew Nicol, QC and James Mellor (instructed by Olswang for the Appellant)
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Judgment
+
+Lord Phillips:
+
+This is the judgment of the Court to which all members have contributed.
+
+This appeal raises the important question of whether the Human Rights Act 1998 (“the Human Rights Act”) has impacted on the protection afforded to owners of copyright by the Copyright, Designs and Patents Act 1988 (“the Copyright Act”).  The appellants (“Telegraph Group”) contend that it has. They contend that, when considering whether an actionable breach of copyright has occurred or the remedies appropriate in the event of such a breach, the Court must now have regard to the right of freedom of expression conferred by Article 10 of the European Convention of Human Rights (“the Convention”).  This, so Telegraph Group contend, requires the Court to give individual consideration to the facts of each case in order to assess the impact of Article 10.
+
+Sir Andrew Morritt, Vice-Chancellor, has rejected this contention.  He has held that the Copyright Act already strikes the appropriate balance between the rights of owners of copyright and the right of freedom of expression, and that it is not necessary, in order to comply with Article 10 of the Convention, to do more than apply the provisions of the Copyright Act to the relevant facts.  That, in this case, he has done and, in a judgment delivered on 11 January 2001 [2001] 2 WLR 967 has held that the Telegraph Group infringed the respondent’s copyright.  Against that judgment Telegraph Group now appeal.
+
+The facts
+
+At the general election on 1 May 1997 the Labour party won 419 seats, the Conservatives 165, the Liberal Democrats 49 and other parties 29.  The scale of Labour's landslide was expected by many to put an end to any plans for formal co-operation between Labour and the Liberal Democrats and for review of the voting system (with the possible introduction of some form of proportional representation).  In fact, however, high-level contacts continued.  This case is concerned with a confidential record of a particularly important meeting held at 10 Downing Street on the evening of 21 October 1997.
+
+The record was made by the leader of the Liberal Democrats, then invariably referred to as Mr Paddy Ashdown. He has since relinquished the leadership of the Liberal Democrats and has been honoured, first with a knighthood and then with a life peerage.  But he is not so readily recognisable as Sir Jeremy Ashdown or Lord Ashdown and it is simpler (and involves no disrespect) to refer to him as he was known at the time of the events with which the Court is concerned.
+
+Since he became leader of the Liberal Democrats in 1988 Mr Ashdown had kept detailed diaries and other records of his life and political career.  He treated these as confidential and kept them secure.  If he showed them to others it was on a confidential basis.  His record of the meeting on 21 October 1997 was prepared on that basis.  The meeting had been attended by only five persons: apart from Mr Ashdown they were the Prime Minister, Mr Peter Mandelson, Lord Jenkins of Hillhead and Mr Jonathan Powell.  Mr Ashdown dictated his minute of the meeting later that evening and it was typed by his secretary at the House of Commons.  Only two copies were made.  One was placed with Mr Ashdown's diaries and associated records in a safe in his constituency, Yeovil.  The other was read by a few of his closest advisers and then was shredded.
+
+About two years later, when it was known that Mr Ashdown was standing down from the leadership of the Liberal Democrats, it also became known that he was thinking of publishing his diaries.  He had formed this idea in about February 1999 and spent some time on sorting and editing material.  His plans for publication were referred to in a radio interview called 'Resigning Issues' which was broadcast on 16 November 1999.  Mr Ashdown referred to the possibility of publication in two stages because of the sensitivity of some of the material.  At about this time some of Mr Ashdown's material, including the minute of the meeting on 21 October 1997, was shown in strict confidence to eight individuals who were representatives of newspapers or publishing houses.  Considerable interest was shown but no contract was entered into before the publication by the Sunday Telegraph of which Mr Ashdown has complained.
+
+By some unknown means a copy of the minute reached the hands of the political editor of the Sunday Telegraph, Mr Joe Murphy.  Mr Murphy's evidence was that it came from an individual who did not work for Mr Ashdown, or for the Liberal Democrats, and who thought that "the record should be set straight".  The Sunday Telegraph did not pay for the minute.  Mr Murphy knew that the minute was authentic, and that it was confidential.  Indeed it is described as a "leaked document" and a "secret record" in the first and second sentences of his front-page article in the Sunday Telegraph on 28 November 1999.
+
+The Sunday Telegraph of that date published three separate items on the minute.  There was the front-page article by Mr Murphy; a major story (headed exclusive and illustrated by sketches of the five participants) on pages 4 and 5; and a comment by Mr Matthew d'Ancona, a political columnist, on page 33.  Mr Ashdown's Counsel virtually conceded that the items on pages 1 and 33, had they stood alone, would not have been actionable as copyright infringement.  The thrust of the attack based on infringement was directed to the main story on pages 4 and 5, which contained several verbatim quotations from the minute.
+
+The full text of the minute has not been disclosed in these proceedings.  The Court has a redacted copy disclosing only those passages which were either quoted verbatim or closely summarised.  But it is possible to see that the minute was a nine-page document and that Mr Murphy has made most use of the last four pages of it.  The Court was not given any precise statistics (sensibly, since infringement of copyright is not a matter of statistics) but it appears that very roughly one-quarter of the text of the main article on pages 4 and 5 consisted of verbatim or almost-verbatim reproduction of the minute, and very roughly one-fifth of the minute was reproduced in this way.
+
+As to the factual content of the articles, there was some lively reporting of what had been said by the Prime Minister, Mr Ashdown and others.  An adequate picture of this can be derived from the Vice-Chancellor's summary of the political comments made by the Sunday Telegraph journalists ([2001] 2 WLR at p.976 C-E):
+
+"The points made by the writers are: (1) the minute confirmed that the Prime Minster had seriously intended to form a coalition Cabinet by the inclusion of two Liberal Democrat members of Parliament in place of two Cabinet ministers who were Labour members of Parliament notwithstanding the large majority he enjoyed as the result of the election in May 1997; (2) the disclosure contradicted the denials emanating from 10 Downing Street; (3) the co-operation between the Prime Minister and [Mr Ashdown] went beyond discussing a coalition Cabinet and extended to assisting the Liberal Democrats to win the by-election then pending in Winchester and the Liberal Democrats toning down their criticism of the Government; ( 4) had the members of the Labour party known how far the Prime Minister had gone in the formation of a coalition Cabinet their opposition to voting reforms in the wake of the Jenkins Report would have been a full scale revolt."
+
+On 6 December 1999 Mr Ashdown commenced proceedings against Telegraph Group, the proprietor of the Sunday Telegraph, making claims for breach of confidence and copyright infringement.  He was seeking injunctions and damages (or alternatively an account of profits).  On 30 June 2000, after a defence had been served, Mr Ashdown applied for summary judgment under Part 24 of the Civil Procedure Rules in respect of the copyright claim only.  This application was made on the basis that Telegraph Group had no real prospect of successfully defending the action, and that there was no other compelling reason for that part of the claim to go to trial (see CPR rule 24(2)).
+
+After a two-day hearing in December 2000 the Vice-Chancellor on 11 January 2001 gave judgment against Telegraph Group on the copyright claim. He granted a final injunction against any further infringement and directed disclosure of information to enable Mr Ashdown to exercise his right of election between damages and an account of profits.  However the Vice-Chancellor gave permission to appeal and his Order has been stayed pending the appeal.
+
+The Vice-Chancellor's Judgment
+
+Before the Vice-Chancellor (as in this Court) it was common ground that the minute was a copyright work and that Mr Ashdown is the owner of the copyright.  It was also common ground that substantial parts of the minute had been copied in the Sunday Telegraph for 28 November 1999, especially in the main article.  Telegraph Group relied on the defence of fair dealing under s.30 of the Copyright Act; on the defence of public interest recognised or preserved by s.171(3) of the Copyright Act; and on provisions of the Human Rights Act including in particular ss.3(1), 6(1) and 12(3) taken together with Article 10 of the Convention.
+
+After stating the facts and the issues the Vice-Chancellor observed that there had been no previous reported case, either at Strasbourg or in the United Kingdom, as to the interaction of freedom of expression and copyright, or any other intellectual property right.  So he thought it best to consider the human rights aspect first.
+
+It had been argued on behalf of Telegraph Group that s.3(1) of the Human Rights Act required the Court, in interpreting and applying ss.30 and 171(3) of the Copyright Act, to do so in a way which preserved its right of freedom of expression under Article 10.  It was argued that the Court had to take account of all the individual facts to see whether restriction of its freedom was necessary in a democratic society.
+
+The Vice-Chance1lor accepted that Article 10 could be engaged (and is engaged in this case) in a claim for copyright infringement.  But he went on to hold ([2001] 2 WLR at p.972G):
+
+"It does not follow that because Article 10 is engaged the facts of each case have to be considered to determine whether the restriction imposed by the law of copyright goes further than what is necessary in a democratic society.  Article 10.2 recognises that the exercise of the right to freedom of expression carries with it duties and responsibilities."
+
+He rejected the submission that scrutiny of the facts of a particular case might show that the ‘exceptions, exemptions and defences’ provided for in intellectual property legislation might need to be supplemented.  Otherwise intellectual property litigation might burgeon out of control.  The needs of a democratic society include the recognition of private property, including intellectual property, and the Copyright Act gives effect to the United Kingdom's obligations under the Berne Conventions of 1886 and 1971.
+
+After discussing a number of cases in the European Court of Human Rights (none of which was concerned with copyright) the Vice-Chancellor restated his conclusion as follows (at p.975F-G):
+
+“ ...Article 10 cannot be relied on to create defences to the alleged infringement over and above those for which the 1988 Act provides.  The balance between the rights of the owner of the copyright and those of the public has been struck by the legislative organ of the democratic state itself in the legislation it has enacted.  There is no room for any further defences outside the code which establishes the particular species of intellectual property in question."
+
+The Vice-Chancellor then considered Telegraph Group's reliance on s.30(1), s.30(2) and s.171(3) of the Copyright Act.   He rejected the defence under s.30(1) (‘fair dealing with a work for the purpose of criticism or review’) in a summary way: the articles were not criticising the minute, but the actions of the Prime Minister and the leader of the Liberal Democrats.
+
+In relation to s.30(2) (‘fair dealing … for the purpose of reporting current events’) the Vice-Chancellor acknowledged the force of Mr Ashdown's arguments that there was no reporting of ‘current events’.  He did not accept that Telegraph Group had no reasonable prospect of establishing the contrary.  However, he considered that there was no reasonable prospect of Telegraph Group making good the defence under s.30(2), by reference to the three factors put forward in Laddie, Prescott & Vitoria, The Modern Law of Copyright and Designs, 3rd  ed para 20.16:
+
+“…( 1) whether the alleged fair dealing is in commercial competition with the owner's exploitation of the work, (2) whether the work has already been published or otherwise exposed to the public and (3) the amount and importance of the work which has been taken."
+
+The Vice-Chancellor then turned to s.171(3) of the Copyright Act.  He considered the decision of this Court in Hyde Park Residence v Yelland [2001] Ch 143.  He concluded that it was binding authority restricting the scope of s.171(3).
+
+In relation to s.12(4) of the Human Rights Act the Vice-Chancellor rejected the submission that it required the Court to place extra weight on the matters specified in the subsection.  He considered (at p.980D):
+
+"Rather it points to the need for the court to consider the matters to which the subsection refers specifically and separately from other relevant considerations."
+
+He thought that it made no difference on the facts of this case. He also saw no special reason for the copyright claim to go to trial.
+
+The Rights in Play
+
+Article 10 of the Convention provides:
+
+“Freedom of expression
+
+1.	Everyone has the right to freedom of expression.  This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers.  This Article shall not prevent states from requiring the licensing of broadcasting, television or cinema enterprises.
+
+2.	The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.”
+
+The rights granted by Article 10 are generally referred to as ‘freedom of expression’.  But as the first paragraph makes clear, it includes the right to impart both information and ideas.
+
+The second paragraph of this Article is particularly significant.  In a democratic society there are many circumstances in which freedom of expression must, of necessity, be restricted.  In particular untrammelled exercise of freedom of expression will often infringe the ‘rights of others’, both under the Convention and outside it.  The right to respect for one’s private life recognised by Article 8 is an example.   More pertinent in the present context is the right recognised by Article 1 of the First Protocol:
+
+“Protection of property
+
+Every natural or legal person is entitled to the peaceful enjoyment of his possessions.  No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.  The preceding provisions shall not, however, in any way impair the right of a state to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.”
+
+Telegraph Group submit that s.12 of the Human Rights Act is of importance when considering the contest between the remedies available for breach of copyright and the right to freedom of expression.  That section provides:
+
+“(1) This section applies if a court is considering whether to grant any relief which, if granted, might affect the exercise of the Convention right to freedom of expression….
+
+(4) The court must have particular regard to the importance of the Convention right to freedom of expression and, where the proceedings relate to material which the respondent claims, or which appears to the court, to be journalistic, literary or artistic material (or to conduct connected with such material), to (a) the extent to which – (i) the material has, or is about to, become available to the public; or (ii) it is, or would be, in the public interest for the material to be published; (b) any relevant privacy code.”
+
+Telegraph Group contend that the Vice-Chancellor was wrong to reject the submission that ‘must have particular regard to’ indicates that the Court should place extra weight on the matters to which the subsection refers.  The requirement of s.2(1) of the Human Rights Act to take account of the Strasbourg jurisprudence must apply to the interpretation of the Act itself.  It seems to us that s.12 does no more than underline the need to have regard to contexts in which that jurisprudence has given particular weight to freedom of expression, while at the same time drawing attention to considerations which may nonetheless justify restricting that right.
+
+The infringement of copyright constitutes interference with ‘the peaceful enjoyment of possessions’.  It is, furthermore, the interference with a right arising under a statute which confers rights recognised under international convention and harmonised under European law - see the Berne Conventions of 1886 and 1971 and EC Council Directive of 29 October 1993.  There is thus no question but that restriction of the right of freedom of expression can be justified where necessary in a democratic society in order to protect copyright.  The protection afforded to copyright under the 1988 Act is, however, itself subject to exceptions.  Thus both the right of freedom of expression and copyright are qualified.  This appeal raises the question of how the two rights fall to be balanced, when they are in conflict.
+
+The Nature of Copyright
+
+Copyright has its origins in the common law, but is now derived from the provisions of the Copyright Act.  The following provisions of that Act are of particular relevance in the present case.
+
+“S.1(1)		Copyright is a property right which subsists in accordance with this Part in the following descriptions of work-
+
+(a)	original literary, dramatic, musical or artistic works,
+
+(b)	sound recordings, films, broadcasts or cable programmes, and
+
+(c)	the typographical arrangement of published editions.
+
+S.2(1)		The owner of the copyright in a work of any description has the exclusive right to do the acts specified in Chapter II as the acts restricted by the copyright in a work of that description.
+
+Chapter II
+
+S.16(1)		The owner of the copyright has, in accordance with the following provisions of this Chapter, the exclusive right to do the following acts in the United Kingdom-
+
+(a)	to copy the work (see section 17);
+
+(b)	to issue copies of the work to the public (see section 18);
+
+(2)		Copyright in a work is infringed by a person who without the licence of the copyright owner does, or authorises another to do, any of the acts restricted by the copyright.
+
+(3)		References in the Part to the doing of an act restricted by the copyright in a work are to the doing of it-
+
+(a)	in relation to the work as a whole or any substantial part of it,”
+
+Despite ss.2(1) and 16(2) copyright is essentially not a positive but a negative right.  No provision of the Copyright Act confers in terms, upon the owner of copyright in a literary work, the right to publish it.  The Act gives the owner of the copyright the right to prevent others from doing that which the Act recognises the owner alone has a right to do.  Thus copyright is antithetical to freedom of expression.  It prevents all, save the owner of the copyright, from expressing information in the form of the literary work protected by the copyright.
+
+It is important to emphasise in the present context that it is only the form of the literary work that is protected by copyright.  Copyright does not normally prevent the publication of the information conveyed by the literary work.  Thus it is only the freedom to express information using the verbal formula devised by another that is prevented by copyright.  This will not normally constitute a significant encroachment on the freedom of expression.  The prime importance of freedom of expression is that it enables the citizen freely to express ideas and convey information.  It is also important that the citizen should be free to express the ideas and convey the information in a form of words of his or her choice.  It is stretching the concept of freedom of expression to postulate that it extends to the freedom to convey ideas and information using the form of words devised by someone else.  Nonetheless there are circumstances, as we shall demonstrate in due course, where this freedom is important.
+
+Restrictions on Copyright
+
+The Vice-Chancellor, at p.973, drew attention to the fact that it is possible to identify 42 circumstances in which copying material does not infringe copyright.  He concluded that each of these reflected circumstances in which freedom of expression was recognised and confirmed.  In effect they were circumstances where freedom of expression trumped copyright protection.  Two of these call for particular consideration in the circumstances of this case.  The first is the defence of fair dealing that is provided by s.30 of the Copyright Act.  So far as material, that section provides:
+
+“Criticism, review and news reporting.  30(1) Fair dealing with a work for the purpose of criticism or review, of that or another work or of a performance of a work, does not infringe any copyright in the work….
+
+“(2) Fair dealing with a work (other than a photograph) for the purpose of reporting current events does not infringe any copyright in the work….”
+
+We agree that these provisions reflect freedom of expression in that, in the specific circumstances set out and provided that there is 'fair dealing', freedom of expression displaces the protection that would otherwise be afforded to copyright.
+
+The other restriction which requires consideration is the defence to a claim for breach of copyright that can be mounted on the basis of 'public interest'.  This is not a statutory defence, but one which arises at common law, and which subsists by virtue of s.171(3) of the Copyright Act, which provides:
+
+“Nothing in this Part affects any rule of law preventing or restricting the enforcement of copyright, on grounds of public interest or otherwise.”
+
+Telegraph Group argued that this provision enabled the Court to give effect to the right of freedom of expression at the expense of copyright, save where it was necessary in a democratic society that freedom of expression should give way.  The Vice-Chancellor rejected this submission, holding that the defence of public interest is narrowly constrained under English law.  This conclusion is one to which we shall have to give detailed consideration.
+
+Remedies for breach of copyright
+
+In this case the Vice-Chancellor granted Mr Ashdown an injunction restraining any further infringement of the copyright in his work.  An injunction has been said to be 'a peculiarly suitable and, indeed, the normal remedy' for breach of copyright - Halsbury's Laws of England, volume 9(2) paragraph 404.  It is, however, a discretionary remedy and subject to the principles governing the grant of an injunction, whether interlocutory or final, in other areas of our law.
+
+Compensatory relief is also available for breach of copyright.  The claimant has the option of seeking damages, which will reflect the loss caused to him by the breach, or an account of the profits made by the defendant from the use of the claimant's work.
+
+Has the Human Rights Act impacted on the protection afforded to copyright?
+
+The Vice-Chancellor held that the Human Rights Act had not affected the extent of the protection afforded to copyright.  This was because he considered that the existing restrictions on that protection did all that was necessary to cater for the requirements of freedom of expression.  The reasoning for this conclusion appears from the following passages of his judgment at pp.972-3:
+
+“It does not follow that because Article 10 is engaged the facts of each case have to be considered to determine whether the restriction imposed by the law of copyright goes further than what is necessary in a democratic society.  Article 10.2 recognises that the exercise of the right to freedom of expression carries with it duties and responsibilities.  Thus restrictions on the exercise of the right are permissible if they are (1) prescribed by law; (2) for the protection of rights of others and (3) are necessary in a democratic society.  The “Sunday Telegraph” accepts that the provisions of 1988 Act satisfy requirements (1) and (2).  But inherent in the argument for the “Sunday Telegraph” is the submission that the provisions of the 1988 Act are incapable by themselves and without more of satisfying requirement (3).  Indeed it was submitted in terms by counsel for the “Sunday Telegraph” that in every case the court should examine whether on the facts of that case it was necessary in democratic society to provide for exceptions, exemptions and defences over and above those permitted by the legislation governing that species of intellectual property, however extensive they might be.  If this is right then intellectual property litigation will burgeon out of control and the rights which the legislation apparently confers will be of no practical use except to those able and willing to litigate in all case.
+
+I do not accept the submission.  In my view the provisions of the Act alone can and do satisfy the third requirement of Article 10.2 as well.  The needs of a democratic society include the recognition and protection of private property.  This is confirmed by the provisions of Article 1 to the First Protocol.  Such property includes copyright….
+
+I can see no reason why the provisions of the 1988 Act should not be sufficient to give effect to the Convention right subject only to such restrictions as are permitted by Article 10.2….
+
+It is not suggested that the provisions of the 1988 Act are any more restrictive of the right of freedom of expression than those of the copyright legislation of all or most other democratic states.  I can see no reason why the court should travel outside the provisions of the 1988 Act and recognise on the facts of particular cases further or other exceptions to the restrictions on the exercise of the right to freedom of expression constituted by the 1988 Act.”
+
+We have already observed that in most circumstances, the principle of freedom of expression will be sufficiently protected if there is a right to publish information and ideas set out in another's literary work, without copying the very words which that person has employed to convey the information or express the ideas.  In such circumstances it will normally be necessary in a democratic society that the author of the work should have his property in his own creation protected.  Strasbourg jurisprudence demonstrates, however, that circumstances can arise in which freedom of expression will only be fully effective if an individual is permitted to reproduce the very words spoken by another.
+
+In this context, the Telegraph Group relied upon a passage in the judgment of the Strasbourg court in Jersild v. Denmark (1994) 19 EHHR 1 at p.26:
+
+“At the same time, the methods of objective and balanced reporting may vary considerably, depending among other things on the media in question.  It is not for this court, nor for the national courts for that matter, to substitute their own views for those of the press as to what technique of reporting should be adopted by journalists.  In this context the court recalls that Article 10 protects not only the substance of the ideas and information expressed, but also the form in which they are conveyed.”
+
+These words do not support a general proposition that freedom of the press includes the freedom to make use of the form of words created by another in order to convey ideas and information. Jersild v. Denmark was concerned with the right to use insulting language which was the creation of those using the language, not copied from another author.
+
+More pertinent is the decision of the Strasbourg court in Fressoz and Roire v. France (1999) 5 BHRC 654.  Mr Fressoz was the publishing director of the French satirical weekly, Le Canard enchainé.  He published an article, written by Mr Roire, about the salary rise awarded to himself by the head of Peugeot at a time of industrial unrest.  He illustrated the article by reproducing sections of the head of Peugeot's tax returns.  Both men were successfully prosecuted in France for making unlawful use of these documents.  Their case was referred to the Strasbourg Court, which held that Article 10 had been infringed.  The court observed at paragraph 54:
+
+“If, as the Government accepted, the information about Mr Calvet’s annual income was lawful and its disclosure permitted, the applicants’ conviction merely for having published the documents in which that information was contained, namely the tax assessments, cannot be justified under Article 10.  In essence, that Article leaves it for journalists to decide whether or not it is necessary to reproduce such documents to ensure credibility.  It protects journalists’ right to divulge information on issues of general interest provided that they are acting in good faith and on an accurate factual basis and provide “reliable and precise” information in accordance with the ethics of journalism.”
+
+Fressoz and Roire was not a copyright case, but it illustrates a general principle.  Freedom of expression protects the right both to publish information and to receive it.  There will be occasions when it is in the public interest not merely that information should be published, but that the public should be told the very words used by a person, notwithstanding that the author enjoys copyright in them.  On occasions, indeed, it is the form and not the content of a document which is of interest.
+
+Where the subject matter of the information is a current event, s.30(2) of the Copyright Act may permit publication of the words used.  But it is possible to conceive of information of the greatest public interest relating not to a current event, but to a document produced in the past.  We are not aware of any provision of the Copyright Act which would permit publication in such circumstances, unless the mere fact of publication, and any controversy created by the disclosure, is sufficient to make them ‘current events’.  This will often be a ‘bootstraps’ argument of little merit, but on other occasions (such as disclosure by the Public Record Office under the 30-year rule) it may have a more solid basis.
+
+For these reasons, we have reached the conclusion that rare circumstances can arise where the right of freedom of expression will come into conflict with the protection afforded by the Copyright Act, notwithstanding the express exceptions to be found in the Act.  In these circumstances, we consider that the court is bound, insofar as it is able, to apply the Act in a manner that accommodates the right of freedom of expression.  This will make it necessary for the Court to look closely at the facts of individual cases (as indeed it must whenever a ‘fair dealing’ defence is raised).  We do not foresee this leading to a flood of litigation.
+
+The first way in which it may be possible to do this is by declining the discretionary relief of an injunction.  Usually, so it seems to us, such a step will be likely to be sufficient.  If a newspaper considers it necessary to copy the exact words created by another, we can see no reason in principle why the newspaper should not indemnify the author for any loss caused to him, or alternatively account to him for any profit made as a result of copying his work.  Freedom of expression should not normally carry with it the right to make free use of another's work.
+
+Public interest
+
+In the rare case where it is in the public interest that the words in respect of which another has copyright should be published without any sanction, we have been concerned to consider why this should not be permitted under the 'public interest' exception, the possibility of which is recognised by s.171(3).  The Vice-Chancellor considered that he was precluded from so holding by the decision of this Court in Hyde Park Residence Ltd. v Yelland and others [2001] Ch.143.  That case concerned an unusual breach of copyright - the publication by The Sun of photographs of Princess Diana and Mr Dodi Fayed, with times recorded, taken by a security video camera owned by Mr Al Fayed.  The Sun claimed that it was in the public interest to publish these photographs as they gave the lie to claims being made by Mr Al Fayed that the two had enjoyed a lengthy tryst at his house in Paris.
+
+In the leading judgment, Aldous L.J. started his consideration of public interest with the following observation at p.160:
+
+“The 1988 Act does not give a court general power to enable an infringer to use another’s property, namely his copyright in the public interest.  Thus a defence of public interest outside those set out in Chapter III of Part I of the 1988 Act, if such exists, must arise by some other route.
+
+The courts have an inherent jurisdiction to refuse to allow their process to be used in certain circumstances.  It has long been the law that the courts will not give effect to contracts which are, for example, illegal, immoral or prejudicial to family life because they offend against the policy of the law.  In my view that inherent jurisdiction can be exercised in the case of an action in which copyright is sought to be enforced, as is made clear by section 171(3) of the 1988 Act: “Nothing in this Part affects any rule of law preventing or restricting the enforcement of copyright, on grounds of public interest or otherwise.”
+
+Aldous L.J. went on to consider at length the authorities bearing on the point   His conclusion at pp.167-8 was as follows:
+
+“I have pointed out earlier in this judgment that the basis of the defence of public interest in a breach of confidence action cannot be the same as the basis of such defence to an action for infringement of copyright.  In an action for breach of confidence the foundation of the action can fall away if that is required in the public interest, but that can never happen in a copyright action.  The jurisdiction to refuse to enforce copyright, which I believe has been recognised, comes from the court’s inherent jurisdiction.  It is limited to cases where enforcement of the copyright would offend against the policy of the law.  The Lion Laboratories case [1985] QB 526 was such a case.  Lion Laboratories sought to obtain an interlocutory injunction to restrain publication of documents which showed that they had suppressed information leading to or which might lead to the wrongful conviction of motorists.  The action was based upon documents which in the circumstances reeked of turpitude.  As Lord Mansfield CJ said in Holman v Johnson (1775) 1 Cowp 341, 343: “No court will lend its aid to a man who founds his cause of action upon an immoral or an illegal act.”
+
+To rely upon copyright to suppress documents which could exonerate motorists convicted of drink driving or which might lead to their acquittal is, in my view, to found a case of action upon an immoral act.
+
+The circumstances where it is against the policy of the law to use the court’s procedure to enforce copyright are, I suspect, not capable of definition.  However it must be remembered that copyright is assignable and therefore the circumstances must derive from the work in question, not ownership of the copyright.  In my view a court would be entitled to refuse to enforce copyright if the work is: (i) immoral, scandalous or contrary to family life; (ii) injurious to public life, public health and safety or the administration of justice; (iii) incites or encourages others to act in a way referred to in (ii).”
+
+The Vice-Chancellor rightly held that the narrow test of public interest identified by Aldous L.J. could not extend to admit a defence to a claim for breach of copyright based only on the right of freedom of expression.
+
+In Yelland Mance L.J., while concurring in the result, did not agree with Aldous L.J.'s analysis of the Lion Laboratories case - Lion Laboratories v Evans [1985] QB 526.  He held at p.172:
+
+“In considering the circumstances in which copyright may be overridden in the public interest, Aldous LJ treats the Lion Laboratories case as an action based on documents which in the circumstances reeked of turpitude, and as one where the plaintiffs were, in substance, seeking to found upon an immoral act. That, however, does seem to me to be too restrictive a view of the Lion Laboratories case on any view.  That case was decided on the basis that it is not necessary to find any immoral act or ‘iniquity’ on the part of a claimant in order to reach a conclusion that either breach of confidence or copyright is overridden. No distinction was drawn between the two in this connection, and Lord Denning MR’s dictum in Fraser v Evans [1969] 1QB 349, 362 that ‘[iniquity] is merely an instance of just cause or excuse for breaking confidence’ was applied to both: see per Stephenson LJ [1985] QB 526, 535C-E, 536C-D, F-G and 538A-E, and per Griffiths LJ, at p.550A-E.  But that, as I have said, does not mean that the public interest in maintaining or overriding confidence and copyright are necessarily to be equated.
+
+Whilst account must be taken of the different nature of the right involved in copyright, I prefer to state no more in this case than that the circumstances in which the public interest may override copyright are probably not capable of precise categorisation or definition.”
+
+Stuart Smith L.J. agreed that the appeal should be allowed for the reasons given by Aldous L.J.  It does not seem to us that those reasons depended on the precise scope of the public interest exception identified by Aldous L.J.  The Court rejected a 'fair dealing' defence under s.30 in terms that left no scope for holding that it was in the public interest that the photographs should have been published, however wide the scope of that test.  Accordingly we have considered Lion Laboratories  in order to form our own view as to the Court’s reasons for holding that the defendants had a public interest defence.
+
+The facts of the case can be shortly summarised.  Lion Laboratories manufactured breathalyser kits widely used by the police for testing the breath of drivers suspected of being over the limit.  The first and second defendants worked for Lion Laboratories.  They removed without authority confidential memoranda which cast doubt on the accuracy of the breathalysers, and supplied these to a newspaper.  Lion Laboratories brought proceedings for both breach of confidentiality and breach of copyright.  They sought interlocutory injunctions.  The Court of Appeal held that there was a serious issue to be tried as to whether the defendants had a public interest defence to each of the claims and permitted publication of specified documents.
+
+Early in the leading judgment Stephenson L.J. observed at p.535:
+
+“There is no dispute, first of all, that the documents which are the subject of this appeal are confidential; that they were taken by the first and second defendants without authority and handed over to the fourth defendants-whether for reward we do not know-and that publication would be a breach of confidence by all four defendants subject to a defence that it is in the public interest that they should be published now.  Equally there is no dispute that the copyright of these documents is in the plaintiffs and to publish them would infringe the plaintiffs’ copyright, subject to the same public interest being a just cause or excuse for their publication.”
+
+He went on to remark at p.536 that the trial Judge had been right to make no difference between confidence and copyright for the purposes of the case.
+
+At p.536 Stephenson L.J. made express reference to Article 10 of the Convention when commenting on the public interest in being informed of matters which are of real public concern.  Later, at p.537-8, he rejected the submission that the only public interest which could justify publication would be the disclosure of iniquity on the part of the plaintiffs, adopting a dictum of Lord Denning M.R. that iniquity ‘is merely an instance of just cause or excuse for breaking confidence’ - Fraser v. Evans [1969] 1 QB 349 at 362.
+
+Having carefully considered Stephenson L.J.'s judgment, we think it clear that on the facts of the case he considered that there was a potential public interest defence to both breach of confidence and breach of copyright, and that this defence was not 'based on documents that reeked of moral turpitude'.
+
+O'Connor L.J. approached the case on the basis that the gravamen of the plaintiffs' complaint was of breach of confidence and did not give separate consideration to breach of copyright.  Griffiths L.J., however, made the following observations at the beginning of his judgment at p.550:
+
+“The first question to be determined is whether there exists a defence of public interest to actions for breach of confidentiality and copyright, and if so, whether it is limited to situations in which there has been serious wrongdoing by the plaintiffs-the so-called “iniquity” rule.
+
+I am quite satisfied that the defence of public interest is now well established in actions for breach of confidence and, although there is less authority on the point, that it also extends to breach of copyright: see by way of example Fraser v Evans [1969] 1 Q.B. 349; Hubbard v Vosper [1972] 2 Q.B. 84: Woodward v Hutchins [1977] W.L.R. 760 and British Steel Corporation v Granada Television Ltd [1981] A.C. 1096.
+
+I can see no sensible reason why this defence should be limited to cases in which there has been wrongdoing on the part of the plaintiffs.  I believe that the so-called iniquity rule evolved because in most cases where the facts justified a publication in breach of confidence, it was because the plaintiff had behaved so disgracefully or criminally that it was judged in the public interest that his behaviour should be exposed.  No doubt it is in such circumstances that the defence will usually arise, but it is not difficult to think of instances where, although there has been no wrongdoing on the part of the plaintiff, it may be vital in the public interest to publish a part of his confidential information.”
+
+In the light of these judgments, we do not consider that Aldous L.J. was justified in circumscribing the public interest defence to breach of copyright as tightly as he did.  We prefer the conclusion of Mance L.J. that the circumstances in which public interest may override copyright are not capable of precise categorisation or definition.  Now that the Human Rights Act is in force, there is the clearest public interest in giving effect to the right of freedom of expression in those rare cases where this right trumps the rights conferred by the Copyright Act.  In such circumstances, we consider that s.171(3) of the Act permits the defence of public interest to be raised.
+
+We do not consider that this conclusion will lead to a flood of cases where freedom of expression is invoked as a defence to a claim for breach of copyright.  It will be very rare for the public interest to justify the copying of the form of a work to which copyright attaches.  We would add that the implications of the Human Rights Act must always be considered where the discretionary relief of an injunction is sought, and this is true in the field of copyright quite apart from the ambit of the public interest defence under s.171(3).
+
+We turn to consider whether a defence lies to the claim in this case under s.30 or s.171(3).
+
+Section 30(1)
+
+Telegraph Group submitted before us, as they had before the Judge, that they had a reasonable prospect of establishing a defence under s.30(1) of the Copyright Act.  The Vice-Chancellor dealt with that argument in a single paragraph of his judgment at p.976 as follows:
+
+“I accept, of course, that the expression “criticism and review” is of wide import.  Cf Robert Walker LJ in Pro Sieben Media AG v Carlton UK Television Ltd [1999] 1 WLR 605, 614G.  Likewise I accept that it is necessary to have regard to the true purpose of the work.  Is it “a genuine piece of criticism or review, or is it something else, such as an attempt to dress up the infringement of another’s copyright in the guise of criticism, and so profit unfairly from another’s work”?  Cf Henry LJ in Time Warner Entertainments Co LP v Channel Four Television Corpn Plc [1994] EMLR 1, 14.  But what is required is that the copying shall take place as part of and for the purpose of criticising and reviewing the work.  The work is the minute.  But the articles are not criticising or reviewing the minute: they are criticising or reviewing the actions of the Prime Minister and the claimant in October 1997.  It was not necessary for that purpose to copy the minute at all. In my judgment the articles do not come within section 30(1) because the purpose of copying the work was not its criticism or review.”
+
+We endorse this reasoning and conclusion and have nothing to add to it.  S.30(1) can have no application to the facts of this case.
+
+Section 30(2)
+
+Current Events
+
+On one of the ingredients required to establish a defence under s.30(2) of the Copyright Act the Judge found in favour of the Telegraph Group.  He held that there was a reasonable prospect of the Sunday Telegraph establishing that the copying of the minute was for the purpose of reporting current events, those events including such matters as:
+
+“the continuing issue over the degree and nature of actual and planned co-operation between Labour and the Liberal Democrats”
+
+and the:
+
+“continuing saga over the role of and accuracy of information disseminated by the Prime Minister’s press office.”
+
+By a respondent’s notice Mr Ashdown seeks to uphold the order below on the additional ground that the matters referred to were not in fact ‘current events’ within the meaning of s.30(2).  It is submitted by Mr Spearman, QC, that they were either not events at all or if they were (or arguably were) then they were not current at the date of the publication on 28 November 1999.  It is said that an issue is not and cannot be an event and that even if the meeting itself on 21 October 1997 was an event, it was no longer current by the time of publication over two years later.  On that latter aspect, Mr Ashdown seeks to distinguish the decision in Hyde Park Residence Ltd v Yelland where this Court held that it was arguable that the events of 30 August 1997, leading up to the death of the Princess of Wales and Dodi Fayed the following day, were still current a year later, though it rejected the s.30(2) defence on other grounds.  Mr Spearman emphasised that in that case, which concerned an exceptional event, the investigation into the deaths was still continuing at the time of the publication in 1998.
+
+We find these arguments unpersuasive.  As this Court said in Pro Sieben A.G. v Carlton Television Ltd [1999] 1 WLR 605 at 614G, the expression ‘reporting current events’ should be interpreted liberally.  The defence provided by s.30(2) is clearly intended to protect the role of the media in informing the public about matters of current concern to the public.  That was the approach adopted in Fraser v Evans [1969] 1 Q.B. 349 to the predecessor of s.30(2), and in our judgment it remains applicable to the present sub-section.  The meeting between the claimant, the Prime Minister and others in October 1997 was undoubtedly an event, and while it might be said that by November 1999 it was not current solely in the sense of recent in time, it was arguably a matter of current interest to the public.  In a democratic society, information about a meeting between the Prime Minister and an opposition party leader during the then current Parliament to discuss possible close co-operation between those parties is very likely to be of legitimate and continuing public interest.  It might impinge upon the way in which the public would vote at the next general election.  The ‘issues’ identified by the Sunday Telegraph may not themselves be ‘events’, but the existence of those issues may help to demonstrate the continuing public interest in a meeting two years earlier.
+
+For present purposes all that we have to decide is whether the Judge was right in holding that it was arguable that publication was for ‘the purpose of reporting current events’.  We are in no doubt that he was.
+
+Fair Dealing
+
+Where part of a work is copied in the course of a report on current events, the 'fair dealing' defence under s.30 will normally afford the Court all the scope that it needs properly to reflect the public interest in freedom of expression and, in particular, the freedom of the press.  There will then be no need to give separate consideration to the availability of a public interest defence under s.171.
+
+We have considered why it should ever be contrary to the public interest that a newspaper should have to pay compensation, or account for the profit made, when it makes unauthorised use of the work product of another.  We have concluded that s.30 provides examples of situations where this may be justified, and that these are broadly in line with the Strasbourg jurisprudence in another area where freedom of expression has to be balanced against a justification for restricting that freedom which is recognised by Article 10.
+
+In the field of defamation, the European Court of Human Rights has recognised that the awarding of damages by a public authority for press publication of defamatory statements may infringe Article 10, at least where the publication consists of balanced reporting on a matter of current public interest.  The reason is that such liability may discourage the participation by the press in matters of public concern - Bladet Tromso and Stensaas v Norway (1999) 29 EHRR 125.  In Tolstoy Miloslavsky v. United Kingdom (1995) 20 EHRR 442, where individual but not press freedom of expression was in issue, the Court held that Article 10 was infringed, not because damages were awarded, but because the size of the damages was disproportionate to the legitimate aim of providing reasonable compensation for injury to reputation.
+
+The fair dealing defence under s.30 should lie where the public interest in learning of the very words written by the owner of the copyright is such that publication should not be inhibited by the chilling factor of having to pay damages or account for profits.  When considering this question it is right to observe that, as damages are compensatory and not at large, they may produce a relatively mild chill.
+
+Authority is very sparse in relation to the defence of fair dealing in the context of reporting current events - see the comment of Scott J. in B.B.C. v B.S.B Ltd [1992] Ch 141 at p.148.  The Vice-Chancellor commented with approval, however, on the summary of the authors of Laddie, Prescott & Vitoria, The Modern Law of Copyright and Designs, paragraph 20.16, on the test of fair dealing in the general context of s.30.  We also have found this an accurate and helpful summary and set it out for the purpose of discussion.
+
+“It is impossible to lay down any hard-and-fast definition of what is fair dealing, for it is a matter of fact, degree and impression.  However, by far the most important factor is whether the alleged fair dealing is in fact commercially competing with the proprietor’s exploitation of the copyright work, a substitute for the probable purchase of authorised copies, and the like.  If it is, the fair dealing defence will almost certainly fail.  If it is not and there is a moderate taking and there are no special adverse factors, the defence is likely to succeed, especially if the defendant’s additional purpose is to right a wrong, to ventilate an honest grievance, to engage in political controversy, and so on.  The second most important factor is whether the work has already been published or otherwise exposed to the public.  If it has not, and especially if the material has been obtained by a breach of confidence or other mean or underhand dealing, the courts will be reluctant to say this is fair.  However this is by no means conclusive, for sometimes it is necessary for the purposes of legitimate public controversy to make use of 'leaked' information.  The third most important factor is the amount and importance of the work that has been taken.  For, although it is permissible to take a substantial part of the work (if not, there could be no question of infringement in the first place), in some circumstances the taking of an excessive amount, or the taking of even a small amount if on a regular basis, would negative fair dealing.”
+
+These principles are based on a summary of the authorities before the Human Rights Act came into force. They are still important when balancing the public interest in freedom of expression against the interests of owners of copyright.  It is, however, now essential not to apply inflexibly tests based on precedent, but to bear in mind that considerations of public interest are paramount.  With that consideration in mind, we turn to consider each of the important factors identified in Laddie in turn.
+
+Commercial competition
+
+In a passage of its defence quoted by the Vice-Chancellor at paragraph 25 of his judgment, Telegraph Group contended that its publication 'in no or no appreciable way competed with any publication or publications which the Claimant might issue in the future'.  The Vice-Chancellor rejected this assertion, and we consider that he was right to do so.  There was evidence, as he pointed out, that the publication in the Sunday Telegraph destroyed a part of the value of the memoirs which it had been Mr Ashdown's intention to sell, and which he did, in fact, sell.  Equally we are in no doubt that the extensive quotations of Mr Ashdown's own words added a flavour to the description of the events covered which made the article more attractive to read and will have been of significant commercial value in enabling the Sunday Telegraph to maintain, if not to enhance, the loyalty of its readership.
+
+Prior publication
+
+In the same passage of their defence the Telegraph Group asserted that Mr Ashdown had already revealed some details of the matters covered in the articles in his radio interview about 'Resigning Issues'.  The Vice-Chancellor roundly rejected this contention at paragraph 28 of his judgment:
+
+“The Claimant had taken great care to limit the number of people who read it and to impose on them obligations of secrecy.  Moreover the Sunday Telegraph knew not only that the Minute had not been published, indeed Mr Murphy described it as secret, but that, as the Claimant revealed on the Resigning Issues interview, he was thinking of doing so in the not to distant future.  It is not the case that during the interview for Resigning Issues the Claimant had already disclosed the important matters covered in the articles.”
+
+While we endorse these conclusions, it does not seem to us that they are wholly in point.  Mr Spearman, for Mr Ashdown, argued that much of the information in the minute had already been made public and that this fact made it even harder to justify the Sunday Telegraph publication.  We consider that there is force in this point and will return to it in due course.  What is at issue in a claim for breach of copyright is publication of the form of the literary work, not the information that it contains.  It is beyond any doubt that the copyright work had never been published or otherwise exposed to the public before the publication in the Sunday Telegraph.
+
+At the same time, the fact that the minute was undoubtedly obtained in breach of confidence is a material consideration when considering the defence of fair dealing.  The Vice-Chancellor rightly attached importance to the fact that the minute was secret and had been obtained by Telegraph Group without Mr Ashdown’s knowledge or approval.
+
+The amount and importance of the work taken
+
+Here again we consider that the Vice-Chancellor correctly found that this aspect of the test of fair dealing weighed against the defence of fair dealing.  A substantial portion of the minute was copied and it is reasonable to conclude, for the reasons given by the Vice-Chancellor at paragraph 29, that the most important passages in the minute were selected for publication.
+
+All these considerations point in one direction and satisfy us that the Vice-Chancellor was correct to conclude that if the established authorities fell to be applied without any additional regard to the effect of Article 10 there was no realistic prospect that a defence of fair dealing would be made out.
+
+Human Rights Impact
+
+At this point, however, we believe that it is necessary to consider the impact of the public interest on the test of fair dealing.  Are the facts of this case such that, arguably, the importance of freedom of expression outweighs the conventional considerations set out above so as to afford the Telegraph Group a defence of fair dealing?
+
+Is it arguable that it was necessary to quote  verbatim the passages of which Mr Ashdown was the author in order to convey to the readers of the Sunday Telegraph the authenticity of its reports of current events of public interest?  Mr Nicol, QC, argued that it was.  He contended that the subject matter of the article was of high public interest, concerning the potential composition of the government of the country.  It related to an important meeting between the Prime Minister and other leading political figures, including Mr Ashdown.  True it was that the basic facts in the articles may have been published already in the Financial Times, the Observer and the radio interview on Resigning Issues.  But Mr Ashdown's own words gave the factual material a detail and authority which was novel.
+
+There had been previous publications that gave the public much of the information that was contained in the Sunday Telegraph articles.  An article in the Financial Times dated 11 June 1999 reported that Mr Ashdown and Mr Blair had been "hatching a secret project the creation of a Lab-Lib coalition”.  On 26 September 1999 the Political Editor of The Observer told its readers:
+
+“Tony Blair and Paddy Ashdown privately agreed to try to persuade Labour and the Liberal Democrats to go into the next election on a joint policy manifesto, before the LibDem leader stood down.
+
+Details of the scheme are due to be revealed in Ashdown’s diaries.  Downing Street is seeking assurances that the diaries will not be published until after the next election.  The diaries, a highly detailed account of Ashdown’s top secret contacts with Labour, are described as explosive by one senior Liberal Democrat who has seen extracts.
+
+The source said: ‘They were practising a massive deception on their respective parties’.”
+
+There were a number of other newspaper articles to similar effect.
+
+The accuracy of these accounts was challenged by Mr Blair.  In these circumstances we consider that, just as there is scope for argument that the Sunday Telegraph's publication was the reporting of current events, so it is arguable that the Telegraph Group were justified in making limited quotation of Mr Ashdown's own words, in order to demonstrate that they had indeed obtained his own minute, so that they were in a position to give an authentic account of the meeting.  In this context the last of the criteria that we have just considered is of critical relevance.  Can it be argued that the extensive reproduction of Mr Ashdown’s own words was necessary in order to satisfy the reader that the account given of his meeting with Mr Blair was authoritative?  We do not believe that it can.  The statement by the Sunday Telegraph that they had obtained a copy of the minute coupled with one or two short extracts from it would have sufficed.
+
+There may in law have been justification for the publication of the confidential information that was contained in the minute.  That is not an issue which is before this court. We do not, however, consider that it is arguable that there was any justification for the extent of the reproduction of Mr Ashdown's own words.  It appears to us that the minute was deliberately filleted in order to extract colourful passages that were most likely to add flavour to the article and thus to appeal to the readership of the newspaper.  Mr Ashdown's work product was deployed in the way that it was for reasons that were essentially journalistic in furtherance of the commercial interests of the Telegraph Group.  We do not consider it arguable that Article 10 requires that the Group should be able to profit from this use of Mr Ashdown's copyright without paying compensation.
+
+This appeal has been founded on the contention that the Vice-Chancellor erred in law in holding that the Telegraph Group had infringed the Copyright Act.  No separate attack was made upon the exercise of his discretion in granting injunctive relief.  It follows that we do not need to consider whether that relief was appropriate having regard to s.12 of the Human Rights Act and Article 10 of the Convention.
+
+For the reasons that we have given, this appeal should be dismissed.
+
+ORDER:
+
+Appeal dismissed.
+
+Appellant to pay 95 per cent of respondent’s costs.
+
+Appellant to pay £20,000 on account of costs into court within 14 days.
+
+Paragraphs 3, 5 and 6 of the order of the Vice Chancellor in the court below to be extended by 7 days.
+
+Leave to appeal to the House of Lords refused.
+
+(Order does not form part of approved Judgment)

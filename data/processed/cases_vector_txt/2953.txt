@@ -1,0 +1,1653 @@
+Neutral Citation Number: [2019] EWHC 2953 (Admin)
+
+Case No: CO/4106/2018
+
+IN THE HIGH COURT OF JUSTICE
+
+QUEEN'S BENCH DIVISION
+
+DIVISIONAL COURT
+
+Royal Courts of Justice
+
+Strand, London, WC2A 2LL
+
+Date: 06/11/2019
+
+Before:
+
+LORD JUSTICE MALES
+
+MRS JUSTICE JEFFORD
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Between:
+
+CHESTERFIELD POULTRY LIMITED Claimant
+
+- and -
+
+SHEFFIELD MAGISTRATES COURT Defendant
+
+-and –
+
+CROWN PROSECUTION SERVICE
+
+Interested Party
+
+- - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Stephen Hockman QC and Stuart Jessop (instructed by SAS Daniels LLP) for the Claimant
+
+Richard Wright QC and Howard Shaw (instructed by the Crown Prosecution Service) for
+
+the Interested Party
+
+Hearing date: 17th October 2019
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Approved Judgment
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+Lord Justice Males:
+
+1. The issue on this application for judicial review is whether criminal proceedings against
+
+the claimant in the Sheffield Magistrates’ Court were commenced out of time so that the
+
+court has no jurisdiction; or alternatively whether they should be stayed as an abuse of
+
+process.
+
+The background
+
+2. The claimant, Chesterfield Poultry Ltd, is the operator of a slaughterhouse in Doncaster.
+
+The slaughterhouse is approved by the Food Standards Agency (“the FSA”) for the
+
+slaughter and/or dressing of domestic fowl. The claimant began operating from these
+
+premises on 27th June 2016 under conditional approval from the FSA. The FSA granted
+
+full approval on 14th December 2016.
+
+3. On 5th January 2018 the Crown Prosecution Service (“the CPS”) commenced proceedings
+
+against the claimant by the issue of a requisition in the Sheffield Magistrates’ Court for
+
+breaches of Regulations 30(1)(c) and 30(1)(g) of the Welfare of Animals at the Time of
+
+Killing (England) Regulations 2015 (SI 2015 No. 1782) (“the Regulations”). There were
+
+four charges, each of which arose out of the fact that 5,644 chickens were found dead in
+
+the lairage (an area where animals or birds may await slaughter) on 13th September 2016
+
+as a result of what was alleged to be a failure to provide adequate ventilation which had
+
+caused the chickens to suffer avoidable pain, distress or suffering.
+
+4. The matter was initially investigated by the FSA which referred it to the CPS on 13th
+
+March 2017. A lawyer (Ms Gurminder Sanghera) was allocated to the case on 23rd
+
+March. On 24th May 2017 further material was received from the FSA and the case was
+
+reviewed on 24th July by Ms Sanghera. It appears that this was the first substantive
+
+review, so that there was a period of four months and 11 days between the initial receipt
+
+of the case by the CPS and the first review of the file. During part of that time Ms
+
+Sanghera was away on annual leave and attending training courses.
+
+5. As a result of this review an action plan was sent to the FSA and further information was
+
+requested. After further exchanges including the receipt and review of a further witness
+
+statement, Ms Sanghera reviewed the file on 5th January 2018 and was satisfied that
+
+proceedings could be authorised.
+
+The Regulations
+
+6. The issue is whether proceedings were commenced within the period allowed by section
+
+41 of the Regulations, which provides for an exception to the general rule in section
+
+127(1) of the Magistrates’ Courts Act 1980 that summary criminal proceedings must be
+
+commenced “within six months from the time when the offence was committed, or the
+
+matter of complaint arose”.
+
+7. Section 41 of the Regulations provides:
+
+“Time limit for prosecutions
+
+(1) Notwithstanding section 127(1) of the Magistrates’ Courts
+
+Act 1980, a magistrates’ court may try an information
+
+relating to an offence under these Regulations if the
+
+information is laid—
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+(a) before the end of the period of three years in England the
+
+date of the commission of the offence; and
+
+(b) before the end of the period of six months beginning with
+
+the date on which evidence which the prosecutor thinks is
+
+sufficient to justify the proceedings comes to the
+
+prosecutor’s knowledge.
+
+(2) For the purposes of paragraph (1)(b)—
+
+(a) a certificate signed by or on behalf of the prosecutor and
+
+stating the date on which such evidence came to the
+
+prosecutor’s knowledge is conclusive evidence of that fact;
+
+and
+
+(b) a certificate stating that matter and purporting to be so
+
+signed is treated as so signed unless the contrary is proved.”
+
+8. These provisions are materially identical to a variety of statutory provisions concerned
+
+with the time limit for prosecutions, including section 6 of the Road Traffic Act 1988,
+
+section 11 of the Computer Misuse Act 1990, section 116 of the Social Security
+
+Administration Act 1992 and section 31 of the Animal Welfare Act 2006. These
+
+provisions have given rise to a considerable volume of litigation. The Regulations gave
+
+effect to Council Regulation (EC) No. 1099/2009 on the protection of animals at the time
+
+of killing, but neither party before us has suggested that the European origin of the
+
+Regulations requires section 41 to be given a different interpretation from that which has
+
+been given to identical provisions in other legislation.
+
+9. Proceedings must be commenced not only within the three-year period referred to in
+
+paragraph 1(a) of section 41, but also within the six-month period referred to in paragraph
+
+1(b). Provision is made, however, for the issue of a certificate by the prosecutor which is
+
+conclusive as to the date from which that six-month period begins to run. I shall refer to
+
+this as “the relevant date”.
+
+10. The prosecution may prove that proceedings were brought in time so far as the six-month
+
+period is concerned in either of two ways. The first is to issue a certificate which, if valid,
+
+is conclusive evidence. The second, if there is no certificate or if the certificate which has
+
+been issued is defective in some way, is to prove as a matter of fact “the date on which
+
+evidence which the prosecutor thinks is sufficient to justify the proceedings” came to the
+
+prosecutor’s knowledge. In the present case the CPS relies on a certificate. It has not
+
+sought to prove in the alternative the underlying facts. I do not find that surprising. If the
+
+CPS were to seek to prove those facts whenever the validity of a certificate was
+
+challenged, the utility of the provision for a conclusive certificate would be undermined.
+
+The consequence, however, as was not disputed before us, is that if the certificate relied
+
+on is invalid, the prosecution will have failed to discharge the burden upon it of proving
+
+that the proceedings were brought in time.
+
+The prosecutor’s certificate
+
+11. In this case two prosecutor’s certificates have been issued but the first can be ignored as it
+
+is accepted that it did not comply with the requirements of paragraph 1(b). It is accepted
+
+also that a defective certificate is a nullity, and that the issue of a defective certificate
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+does not prevent the prosecutor from subsequently issuing a certificate which, if it
+
+complies with the requirements of paragraph 1(b), will be valid and effective. It was so
+
+held in R v Woodward [2017] EWHC 1008 (Admin).
+
+12. The second certificate, on which reliance is placed, is signed by Ms Sanghera in her
+
+capacity as a Specialist Prosecutor of the Specialist Fraud Division of the CPS. It reads as
+
+follows:
+
+“On 8th November 2017 evidence came to my knowledge,
+
+which I thought was sufficient to justify proceedings against:
+
+Chesterfield Poultry Ltd
+
+for offences contrary to:
+
+(1) Regulation 30(1)(g) of the Welfare of Animals at the Time
+
+of Killing (England) Regulations 2015, in respect of
+
+contravening article 3 of Regulation (EC) 1099/2009;
+
+(2) Regulation 30(1)(c) of the Welfare of Animals at the Time
+
+of Killing (England) Regulations 2015, in respect of
+
+contravening the requirement set out in Schedule 1, Part 3,
+
+paragraph 10(a) of the said Regulations;
+
+(3) Regulation 30(1)(c) of the Welfare of Animals at the Time
+
+of Killing (England) Regulations 2015, in respect of
+
+contravening the requirement set out in Schedule 1, Part 3,
+
+paragraph 10(b) of the said Regulations;
+
+(4) Regulation 30(1)(c) of the Welfare of Animals at the Time
+
+of Killing (England) Regulations 2015, in respect of
+
+contravening the requirement set out in Schedule 1, Part 2,
+
+paragraph 5(b)(i) of the said Regulations.”
+
+13. The certified date of 8th November 2017 was less than six months before the
+
+commencement of proceedings.
+
+The application to the District Judge
+
+14. The claimant contended that in fact the date on which evidence sufficient to justify the
+
+proceedings had come to the prosecutor’s knowledge was more than six months before
+
+the date on which proceedings were commenced. Its case was and is that there was
+
+sufficient evidence, in the form of a witness statement by the official veterinary officer, in
+
+the material initially provided to the CPS on 13th March 2017. Accordingly the claimant
+
+applied to the Magistrates’ Court for a ruling that the court had no jurisdiction to hear the
+
+case. As already indicated, the CPS relied on the certificate set out above as conclusive
+
+evidence of the relevant date.
+
+15. There is a dispute between the parties as to whether the ruling given by DJ(MC) Naomi
+
+Redhouse who dealt with the claimant’s application was concerned with the question of
+
+compliance with the time limit set out in section 41 of the Regulations or with the
+
+separate question whether the proceedings amounted to an abuse of process, although Mr
+
+Stephen Hockman QC for the claimant did not pursue this point in his oral submissions to
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+us. To my mind, however, and as I shall explain, the District Judge’s ruling is clear. She
+
+held first that the prosecutor’s certificate complied with the requirements of section 41
+
+and was neither defective on its face nor fraudulent (which matters were not in dispute
+
+before her) and, therefore, that it was conclusive evidence of the relevant date. She then
+
+went on to consider the distinct issue of abuse of process and held that, despite the
+
+disappointing lack of progress for four months after receipt of the papers by the CPS, the
+
+delay would not prevent the claimant from receiving a fair trial. Her decision, therefore,
+
+was that the court had jurisdiction to try the case and that the proceedings should not be
+
+stayed.
+
+The grounds of challenge
+
+16. It is common ground between the parties that as the proceedings in the Magistrates’ Court
+
+have not concluded, the appropriate route to challenge the District Judge’s conclusion is
+
+by way of an application for judicial review. Permission to bring the claim was granted by
+
+HHJ Belcher. Her order granted permission on all grounds “and on the issue of whether
+
+the claim can also be put on the basis of abuse of process”.
+
+17. Mr Stephen Hockman QC and Mr Stuart Jessop for the claimant challenge the lawfulness
+
+of the District Judge’s decision on four grounds, namely that:
+
+(1) the District Judge was wrong to deal with the matter as if it were an application to
+
+stay the proceedings for abuse of process;
+
+(2) the District Judge was wrong to rule that the six-month period should run from the
+
+date of 8th November 2017 stated in the prosecutor’s certificate;
+
+(3) the District Judge should have held that time began to run from the date when the file
+
+was received by the CPS; and
+
+(4) the proceedings should have been stayed as an abuse of process.
+
+Grounds (2) and (3): is the certificate conclusive evidence?
+
+18. Mr Hockman’s main focus was on grounds (2) and (3), which he dealt with together and
+
+which involve a challenge to the conclusive nature of the prosecutor’s certificate. He
+
+submitted, in summary, that:
+
+(1) As a matter of policy the conclusive evidence provisions should be narrowly
+
+construed because (a) they constitute an exception to the general rule in section
+
+127(1) of the Magistrates’ Courts Act 1980, (b) they constitute an ouster of the
+
+jurisdiction of the court to determine the true facts (cf. R (Privacy International) v
+
+Investigatory Powers Tribunal [2019] UKSC 22); and (c) they put the question
+
+whether proceedings have been commenced in time entirely in the hands of the
+
+prosecution, subject only to the three-year long stop provision.
+
+(2) As a matter of language, (a) the “fact” which has to be certified is the date on which
+
+evidence came to the prosecutor’s knowledge; (b) the relevant date is the date on
+
+which the evidence was received by the CPS; and (c) while a valid certificate is
+
+conclusive as to the date on which a piece of evidence came to the prosecutor’s
+
+knowledge, it is not conclusive of the issue whether or when the evidence was
+
+sufficient to justify the proceedings.
+
+(3) A certificate is open to challenge on the ground that it is plainly wrong, that being an
+
+objective question to be determined in the light of all the available evidence.
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+(4) The certificate in this case was plainly wrong as there was already sufficient evidence
+
+to justify proceedings in the material initially provided to the CPS in March 2017.
+
+19. Mr Hockman pointed to passages in the authorities which deal with materially identical
+
+statutory provisions which, he said, support these submissions.
+
+20. Mr Richard Wright QC for the CPS submitted that the purpose of a certificate is to record
+
+the date on which the prosecutor reached a decision to prosecute and that this was the
+
+proper subject of a certificate; that this is established by the authorities and to hold
+
+otherwise would be a recipe for satellite litigation about prosecutorial decision-making;
+
+and that the certificate in this case is valid and conclusive as to the relevant date.
+
+21. In one sense the only question which matters in this case is whether the certificate relied
+
+on is conclusive evidence of the relevant date. However, it is convenient to begin by
+
+considering what the fact is of which a valid certificate is conclusive evidence. That will
+
+at least inform discussion of the issue as to the status of the certificate in the present case.
+
+I propose to consider these questions by reference to policy considerations, the language
+
+of the Regulations and the authorities.
+
+Policy
+
+22. I recognise that section 41 of the Regulations and other equivalent statutory provisions
+
+are an exception to the general rule in section 127(1) of the Magistrates’ Courts Act 1980
+
+that summary proceedings must be commenced within six months from the date of the
+
+offence. It has been said that, as such, they must be strictly construed: Morgans v DPP
+
+[1999] 1 WLR 968 at 983D-E in a passage considered further below. However, I do not
+
+see that this in itself requires the court to do anything other than to give the provisions
+
+their natural meaning as to the point at which the six-month period begins to run.
+
+23. The provision for a prosecutor’s certificate to be conclusive evidence does, however,
+
+require a strict approach. A conclusive evidence provision prevents the court, subject to
+
+very limited exceptions, from enquiring whether the fact certified is or is not correct.
+
+Accordingly, if it is to be given conclusive effect, the certificate must comply strictly with
+
+the statutory requirements for such a certificate. It must certify the fact referred to in
+
+section 41 of the regulations and not some other fact, and it must be signed by or on
+
+behalf of the correct person or body (“the prosecutor”). This has been held to be the
+
+position in a number of cases to which I refer below and is a principle applicable to
+
+conclusive evidence provisions generally. The rationale is that Parliament has provided
+
+that a certificate which fulfils certain requirements shall be conclusive, but has not so
+
+provided in the case of a certificate which does not fulfil those requirements.
+
+24. Reliance on cases dealing with a very different context, such as Privacy International,
+
+does not in my judgment take matters further. While in one sense it can be said that
+
+allowing the prosecution to issue a conclusive certificate may be to place undue power in
+
+the hands of the state, it is well established that a certificate will not be conclusive if it is
+
+issued in bad faith (not suggested here). Moreover, the context is merely as to the time for
+
+commencing summary proceedings which is in any event subject to the three-year long
+
+stop, while there is no comparable time limit in the case of much more serious offences
+
+triable on indictment in the Crown Court. The time limit in the Regulations does not
+
+involve the same considerations as apply when fundamental human rights are in play. The
+
+consequence of certifying that proceedings are in time is not particularly startling. It is
+
+merely that the defendant faces summary proceedings in the magistrates’ court to which
+
+the common law and Article 6 guarantee of a fair trial applies.
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+25. Accordingly, while I accept that a certificate must comply strictly with the statutory
+
+requirements if it is to constitute conclusive evidence, that is to say it must be signed by
+
+or on behalf of the appropriate prosecutor and must state what it is required to state, and
+
+that a certificate which fails to do so is a nullity, there is in my judgment no greater scope
+
+for a defendant to invoke policy considerations to challenge a certificate which is valid on
+
+its face.
+
+26. On the contrary, as the cases discussed below explain, there are powerful policy
+
+considerations in favour of upholding the conclusive nature of such a certificate. To do so
+
+promotes certainty which is in the interests of all parties, avoids the court having to
+
+second-guess prosecutorial judgments which are properly the province of the CPS, and
+
+avoids satellite litigation about whether proceedings have been commenced in time which
+
+causes additional expense while determination of the real issue, whether an offence has
+
+been committed, is delayed well beyond the time within which it ought to be determined.
+
+Language
+
+27. The date on which the six-month period begins is that stated in paragraph (1)(b) of
+
+section 41, namely “the date on which evidence which the prosecutor thinks is sufficient
+
+to justify the proceedings comes to the prosecutor’s knowledge”. It is evident that this
+
+calls for an exercise of judgment on the part of the prosecutor (“sufficient to justify”); that
+
+the question is at least primarily subjective (“which the prosecutor thinks”), so that on any
+
+given facts there may be room for different prosecutors to take different views; and that
+
+the date is determined by “the prosecutor’s knowledge” as distinct from some other event.
+
+Moreover, the background against which such a provision has to be interpreted is that
+
+whether proceedings are justified always depends on two factors, namely whether the
+
+evidence amounts to a prima facie case and whether proceedings are in the public interest
+
+or (which is the same thing) the interests of justice.
+
+28. What the prosecutor is entitled to certify under paragraph (2) is the date on which “such
+
+evidence” (that is to say evidence which the prosecutor thinks is sufficient to justify the
+
+proceedings), came to his or her knowledge. The date on which this occurred is the “fact”
+
+of which a valid certificate is to be conclusive evidence. This will usually, but need not
+
+necessarily, be the same as the date on which the prosecutor formed the opinion that
+
+proceedings were justified.
+
+29. These considerations suggest to me that as a straightforward matter of language: (1) the
+
+“fact” which has to be certified is the date on which something happens; (2) the thing
+
+which has to happen is that certain evidence comes to the prosecutor’s knowledge; (3) the
+
+evidence must be that which the prosecutor thinks is sufficient to justify proceedings, so
+
+that what matters is the individual prosecutor’s subjective assessment; and (4) the
+
+assessment which the prosecutor has to make concerns both limbs of the test, that is to
+
+say whether there is a prima facie case and whether proceedings are in the public interest.
+
+The authorities
+
+30. I turn next to the authorities to see to what extent they support or negate these
+
+conclusions, and what they have to say in particular about the grounds on which a
+
+certificate can be challenged. It may be noted that the authorities to which I shall refer
+
+address (among other things) five distinct questions, namely:
+
+(1) Whose knowledge counts as the knowledge of the prosecutor (“the prosecutor
+
+issue”)?
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+(2) What has to happen to cause the six-month period to begin to run (“the relevant date
+
+issue”)?
+
+(3) On what grounds can a certificate be challenged (“the grounds issue”)?
+
+(4) What is the correct procedure for challenging a certificate (“the procedural issue”)?
+
+(5) What is the relationship between such a challenge and an application to stay for abuse
+
+of process (“the abuse issue”)?
+
+31. It is convenient to start with Woodward, an appeal to this court by way of case stated in
+
+which the issue was whether proceedings had been commenced in time in accordance
+
+with section 31 of the Animal Welfare Act 2006. After referring to a number of
+
+authorities Hickinbottom LJ set out at [23] a series of propositions which he regarded as
+
+clear. For present purposes the following summary will suffice:
+
+(1) The decision which the prosecutor has to make is not merely whether the evidence
+
+amounts to a prima facie case, but also whether it is in the interests of justice to bring
+
+proceedings: RSPCA v Johnson [2009] EWHC 2702 (Admin) at [33]; Letherbarrow v
+
+Warwickshire County Council [2014] EWHC 4820 (Admin) at [17]; Riley v DPP
+
+[2016] EWHC 2531 (Admin) at [17]; Woodward at [23(ii)].
+
+(2) This requires careful consideration, so that a prosecutor is entitled to a reasonable
+
+time to make the decision even after evidence amounting to a prima facie case has
+
+been obtained (Woodward at [23(iii)]). As Hickinbottom put it, citing Letherbarrow at
+
+[17]:
+
+“the relevant date is the date upon which the prosecutor
+
+considers that, upon the available evidence, it is in the public
+
+interest to prosecute the particular individual or individuals.”
+
+(3) There is a well established distinction between an investigator and a prosecutor. In the
+
+context of animal welfare, the FSA is the investigator and the CPS is the prosecutor,
+
+but evidence coming to the prosecutor’s knowledge refers to the knowledge of the
+
+individual prosecutor to whom the case is allocated (Letherbarrow at [19]; Riley at
+
+[15]; Woodward at [23(iv)]).
+
+(4) The burden is on the prosecution to show that the proceedings have been commenced
+
+in time. This may be done in either of two ways, namely (a) by relying on a
+
+prosecutor’s certificate or alternatively (b) by adducing evidence of fact as to the
+
+knowledge of the relevant prosecutor (Letherbarrow at [20]; Woodward at [23(vi)]).
+
+(5) When the prosecution relies on a certificate, it must comply strictly with the statutory
+
+requirements and must do so on its face, in the sense that deficiencies cannot be
+
+remedied by reference to extrinsic evidence (Burwell v DPP [2009] EWHC 1069
+
+(Admin) at [22] and [23]; Azam v Epping Forest District Council [2009] EWHC 3177
+
+(Admin) at [25(3)]; RSPCA v King [2010] EWHC 637 (Admin) at [9]; Woodward at
+
+[23(vii)(a)]).
+
+(6) A certificate which does comply with those requirements “is determinative of the
+
+matter unless the certificate is inaccurate on its face (i.e. plainly wrong on its face and
+
+patently misleading), or can be shown to be fraudulent” (R v Haringey Magistrates’
+
+Court, ex parte Amvrosiou (13th June 1996); Burwell at [18] and [19]; Azam at [25(4)
+
+and (5)]; Woodward at [23(vii)(b)]).
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+(7) A defective certificate is a nullity. However, where a defective certificate is issued,
+
+there is nothing to prevent the prosecutor from subsequently issuing a further
+
+certificate which will be conclusive evidence of the relevant date if it complies with
+
+the statutory requirements (Woodward at [23(viii) and (ix)]).
+
+(8) Where there is no valid certificate, the court must determine on all the available
+
+evidence whether the prosecution was brought in time (Azam at [25(1)]; Woodward at
+
+[23(x)]).
+
+32. In view of the issues in the present case, it is necessary to examine some of these cases
+
+further, in particular those which support the sixth of these propositions. I shall take them
+
+chronologically, beginning with Amvrosiou, a road traffic case. Having set out the
+
+provisions of section 6 of the Road Traffic Act 1988, Auld LJ continued:
+
+“17. Ms Gumbel, who appears on behalf of the Applicant,
+
+submitted that the Magistrates were wrong to rule that they
+
+could not hear evidence going behind the certificate as to the
+
+date on which there was evidence sufficient for the prosecutor
+
+to mount these proceedings. She frankly conceded that there are
+
+no reported authorities giving guidance on the interpretation of
+
+section 6(3). However, she drew our attention to decisions in
+
+other contexts on the meaning of “conclusive evidence”. She
+
+referred us to a number of cases of contract and of public
+
+record where the courts have had to consider how conclusive
+
+the evidence is wherever a dispute arises as to underlying
+
+matters. They show in the main a resolve by the court to give
+
+the predictable effect to those words. A good indication of the
+
+general approach is to be found in the judgment of Simonds J in
+
+Kerr v Mottram Limited [1940] Ch 657 where the term
+
+‘conclusive evidence’ was considered in the context of the
+
+articles of association of a company. Simonds J said at page
+
+660:
+
+‘I have no doubt that the words “conclusive evidence” mean
+
+what they say; that they are to be a bar to any evidence being
+
+tendered to show that the statements in the minutes are not
+
+correct.’
+
+18. Ms Gumbel sought to distinguish that and the other
+
+authorities, to which she helpfully referred us, by reference to
+
+the fact that in the contract cases the conclusiveness of
+
+evidence was clearly the mutual intention of the parties, and in
+
+the cases of public record there was a public interest or an
+
+interest of a third party to be considered for whom certainty in
+
+such matters is important. She submitted that in the context of a
+
+prosecution of an individual there are different
+
+consideration. She maintained that the original six-month
+
+period for issuing proceedings should be given certainty, and
+
+that an extension of that time limit however achieved, in this
+
+instance by certification, on a basis that is not justified on the
+
+facts should be open to investigation by Magistrates.
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+19. Mr McGuinness, adopting the words of Simonds J in Kerr v
+
+Mottram, submitted that the subsection means what it says, that
+
+the certificate is conclusive evidence and that if a court,
+
+whether a magistrates court or this court, were to look at
+
+evidence put forward as capable of unseating the certificate the
+
+word ‘conclusive’ would have no meaning. He submitted that
+
+there were only two possible exceptions: (i) where it is plain
+
+that there has been fraud, and (ii) where the certificate is wrong
+
+or arguably wrong on its face.
+
+20. He referred to a helpful summary of the law which is set out
+
+in volume 17 of the current edition of Halsbury’s Laws, at
+
+paragraph 28, which has the side heading: “Prima facie,
+
+sufficient and conclusive evidence”. As to ‘conclusive
+
+evidence’ it reads:
+
+‘Conclusive evidence means that no contrary evidence will be
+
+effective to displace it, unless the so-called conclusive evidence
+
+is inaccurate on its face, or fraud can be shown.’
+
+21. It is not suggested here that the certificate can be said to be
+
+inaccurate on its face, and no fraud is alleged.
+
+22. The clear purpose of section 6(3) is to achieve certainty,
+
+both for the prosecutor and for the defendant, and to prevent
+
+what would otherwise be an exercise in discovery of the
+
+prosecuting process as to when a particular information came to
+
+hand and as to when decisions as to its sufficiency could or
+
+should have been made. Clearly any such possibility in the
+
+context of this sort of provision would be an intolerable burden
+
+to the prosecution and a cog on the wheels of justice at
+
+summary level.
+
+23. It has to be remembered, too, that the test in section 6(1) is
+
+whether the date on which evidence ‘sufficient in the opinion of
+
+the prosecutor to warrant the proceedings has come to his
+
+knowledge’. As in many other matters concerning the
+
+prosecution of offences there is a margin of judgment given to
+
+the prosecutor. In my view, there is no way of going behind
+
+section 6(3) as suggested by Ms Gumbel so as to negate its
+
+clear provision that a certificate for this purpose is conclusive,
+
+save possibly in the two exceptional cases to which I have
+
+referred.”
+
+33. As the certificate in Amvrosiou was not inaccurate on its face and there was no suggestion
+
+of fraud, evidence which was said to show that the certificate was wrong was immaterial.
+
+34. Accordingly Amvrosiou explains the policy justification for giving effect to a certificate
+
+which is valid on its face, emphasises that what matters is the “sufficiency” of evidence
+
+including consideration of the public interest in prosecuting, and allows for the possibility
+
+of only two exceptions to the validity of a certificate which is valid on its face.
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+35. The next case is Morgans, which contains at 983D-E the passage referred to above to the
+
+effect that the provisions must be strictly construed. The case decided that the words
+
+“sufficient in the opinion of the prosecutor to warrant the proceedings” in section 11(2) of
+
+the Computer Misuse Act 1990 were merely descriptive of the evidence and did not
+
+require the prosecutor to form his opinion before time began to run; accordingly time
+
+began to run once the prosecutor had all the material on which the prosecution was
+
+eventually brought. Kennedy LJ said:
+
+“Mr Blackman contends that the words ‘sufficient in the
+
+opinion of the prosecutor to warrant the proceedings’ are
+
+merely descriptive of the evidence, and that the prosecutor
+
+would not have to form his opinion before time begins to run. I
+
+accept that submission because otherwise the prosecutor, in full
+
+possession of all relevant information, can prevent time from
+
+running simply by not applying his mind to the case.
+
+Section 11 is an exception to the normal rule that summary
+
+offences should be prosecuted within six months. As an
+
+exception in favour of the prosecution it should be strictly
+
+construed. The draftsman could have provided that proceedings
+
+for an offence under subsection (1) ‘may be brought within a
+
+period of six months from the date on which the prosecution
+
+forms the opinion that there is sufficient evidence to warrant
+
+proceedings’ but he did not do so.”
+
+36. Thus the relevant date is the date on which the prosecutor has evidence which is sufficient
+
+in his opinion to warrant the proceedings, even if he or she has not yet formed that
+
+opinion. However, Morgans says nothing about what matters need to be taken into
+
+account as being relevant to the question whether there is sufficient evidence to warrant
+
+the proceedings. In particular, there is nothing to suggest that the question whether a
+
+prosecution is in the interests of justice does not need to be considered.
+
+37. More fundamentally, it appears that Amvrosiou was not cited to the court in Morgans and
+
+there was no explanation of why the certificate in that case was not conclusive. The point
+
+was dealt with very shortly. Accordingly, the case deals with what I have called “the
+
+relevant date issue” but does not address at all “the grounds issue”.
+
+38. In Burwell, a case under the Computer Misuse Act 1990, the defendant sought to go
+
+behind a prosecutor’s certificate in order to show that the police had acquired sufficient
+
+evidence to prosecute more than six months before the date stated in the certificate. This
+
+court rejected a submission that to allow the prosecution to issue a certificate which
+
+would effectively exclude enquiry as to the true facts was contrary to principle and to the
+
+rule of law. Keene LJ cited Amvrosiou with approval, pointing out at [15] that it had not
+
+been cited in Morgans and commenting at [19] that he preferred the reasoning in
+
+Amvrosiou to that in Morgans and that the absence of any consideration of the conclusive
+
+evidence provisions weakened the authority of Morgans. He added:
+
+“20. I would emphasise, however that that does not mean that a
+
+prosecutor can simply stall the start of proceedings, or use a
+
+certificate to present a date which is patently misleading. The
+
+first exception referred to by Auld LJ would seem to
+
+encompass the situation where the certificate is plainly (even if
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+honestly) inaccurate, so that the decision of the prosecutor to
+
+certify would itself be amenable to challenge by way of judicial
+
+review on the usual grounds, or challengeable before the
+
+magistrates’ court as an abuse of their process. But the
+
+certificate would have to be plainly wrong. The prosecutor is
+
+entitled to a degree of judgment as to when there is sufficient
+
+evidence available to warrant a prosecution. That, after all, is
+
+the purpose on the face of it of section 11(2).”
+
+39. However, the certificate in Burwell was defective and therefore not conclusive.
+
+40. The passage cited introduces the concept of a certificate being “plainly wrong”, so that it
+
+could be challenged by a judicial review “on the usual grounds”. It is fair to say that until
+
+the decision in Lamont-Perkins v RSPCA [2012] EWHC 1002 (Admin) discussed below,
+
+there was some uncertainty as to the correct procedure for challenging a certificate.
+
+However, it is important to keep in mind the distinction between the grounds on which a
+
+challenge can be made to a certificate (what I have called “the grounds issue”) and the
+
+procedure for making a challenge (the “procedural issue”). The passage also contemplates
+
+an application to stay proceedings as an abuse of process, which raises separate
+
+considerations, for example if a prosecutor has deliberately stalled the start of
+
+proceedings. However, I cannot read this passage, which is premised on approval of
+
+Amvrosiou, as permitting a challenge to a certificate on the basis that a certificate is
+
+shown to be “plainly wrong” by reference to extraneous evidence. That would be directly
+
+contrary to what Amvrosiou decided. To read the passage as support for such a wider
+
+ground of challenge would be to place far too much weight on the (with respect)
+
+somewhat vague reference to “the usual grounds” for judicial review.
+
+41. It is significant, however, that the court in Burwell saw no objection on policy grounds to
+
+the conclusive nature of a certificate which was valid on its face, and that as well as
+
+approving Amvrosiou, it recognised that the prosecutor is entitled to a degree of judgment
+
+in deciding when the evidence is sufficient to justify the commencement of proceedings.
+
+42. Johnson was mainly concerned with the identity of the prosecutor (“the prosecutor
+
+issue”), but Pill LJ cited the passage from Amvrosiou as a correct statement of the law at
+
+[18] and [25]. The prosecuting body in Johnson was the RSPCA, but the individual who
+
+had signed the certificate was a Prosecution Case Manager who had signed in that
+
+capacity. Pill LJ held that the certificate was valid and conclusive, subject to arguments
+
+about abuse of process. What mattered for the purpose of commencement of the six-
+
+month time limit was not when the relevant knowledge could be said to have reached the
+
+RSPCA, but when it had reached the individual who was responsible for exercising a
+
+judgment whether it was sufficient to justify a prosecution:
+
+“33. There is no principle of law that knowledge in a prosecutor
+
+begins immediately any employee of the prosecutor has the
+
+relevant knowledge, and Donnachie [2007] EWHC 1846
+
+(Admin) is not establish one. It is right that prosecutors are not
+
+entitled to shuffle papers between officers or sit on information
+
+so as to extend a time limit. There is, however, a degree of
+
+judgment involved in bringing a prosecution, and knowledge,
+
+in my judgment, involves an opportunity for those with
+
+appropriate skills to consider whether there is sufficient
+
+information to justify a prosecution.”
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+43. The case recognises that shuffling papers or sitting on information may constitute an
+
+abuse of process, although it was held that this was not what had happened. Accordingly
+
+there was no abuse of process and the certificate, which was valid on its face, was
+
+conclusive.
+
+44. The reasoning and decision in Amvrosiou were followed in Azam, where it was described
+
+by Cranston J as “the seminal case”. Cranston J set out a series of principles derived from
+
+the authorities which included:
+
+“(4) A valid certificate is determinative of the matter
+
+unless the certificate is inaccurate on its face, or can be
+
+shown to be fraudulent.
+
+(5) The exception for a certificate inaccurate on its face
+
+applies only when the certificate is plainly, even if
+
+honestly, wrong. It must be patently misleading.”
+
+45. This is further support for the limited basis on which a certificate can be challenged. It
+
+shows that Cranston J read the reference in Burwell to a certificate being “plainly wrong”
+
+in the same way as I would read it, that is to say to a certificate which is wrong on its
+
+face.
+
+46. In King, Toulson LJ referred at [9] to the “limited qualifications recognised in the case
+
+law” to the conclusive nature of the certificate, which in context is a clear reference to the
+
+qualifications (or exceptions) recognised in Amvrosiou.
+
+47. In Lamont-Perkins Wyn Williams J cited the passage from Amvrosiou set out above and
+
+acknowledged at [32] that it had been followed in Burwell, Azam and Johnson. He
+
+continued:
+
+“35. On the basis of the decisions in Amvrosiou, Burwell and
+
+Azam it seems to me to be clear that a certificate issued under
+
+section 31(2) of the 2006 Act which conforms to the criteria
+
+specified in section 31(2) can be challenged on two bases
+
+alone. First, it can be challenged on the basis that it constitutes
+
+a fraud; second, it can be challenged on the basis that it is
+
+plainly wrong. The phrase ‘patently misleading’ is not, in my
+
+judgment, an additional basis upon which a certificate can be
+
+challenged; it is simply a phrase used in the judgment of Keene
+
+LJ and Cranston J in Burwell and Azam respectively to
+
+reinforce the notion that the certificates must be plainly wrong
+
+before it can be challenged.”
+
+48. I would respectfully agree that the phrase “patently misleading” is not an additional
+
+ground of challenge. Rather it sheds light on what is meant by saying that a certificate
+
+must be “plainly wrong”. The significance of the word “patently” is that the certificate
+
+must be inaccurate on its face (the inaccuracy must be “patent”) if it is to be successfully
+
+challenged.
+
+49. This too is explicit support for the limited nature of the grounds on which a certificate can
+
+be challenged.
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+50. Mr Hockman suggested that some doubt is cast on this by some later comments of Wyn
+
+Williams J in Lamont-Perkins, where he said:
+
+“42. The decision in Azam appears to be authority for the
+
+proposition that a challenge to a certificate may be made only
+
+by way of judicial review or by application for a stay on the
+
+grounds of abuse of process – see paragraph 25(6) of the
+
+judgment as set out in paragraph 32 above. Further, it appears
+
+to decide that abuse of process can be made out only where the
+
+prosecutor has manipulated or misused the process so that a
+
+person is deprived of the time bar. Some form of misconduct is
+
+involved – see paragraph 25(7).
+
+43. I find it difficult to see how [sc. to reconcile the fact that] a
+
+certificate issued under section 31(2) is susceptible to challenge
+
+on the grounds that it is plainly wrong (albeit that the mistake
+
+can be innocent) with the suggestion that if it is challenged on
+
+the basis that an abuse of process has occurred in which some
+
+form of misconduct is involved. No real difficulty arises if it is
+
+challenged by way of judicial review. In such a challenge it
+
+would be possible to argue unreasonableness or irrationality,
+
+which, in context, would be likely to be very similar to if not
+
+identical with the notion that the certificate was plainly wrong.
+
+However, to repeat, if the approach in Azam is followed a
+
+challenge before the magistrates’ court would appear to require
+
+proof of some kind of misconduct.
+
+44. The divergence in approach depending upon whether the
+
+challenge is brought by way of judicial review or by way of an
+
+allegation of abuse of process may, at first sight, appear
+
+interesting but unlikely to have much practical consequence.
+
+That is not the case, however, if the Appellant and Respondent
+
+are correct that the Respondent (or any other private
+
+prosecutor) is not susceptible to a challenge by way of judicial
+
+review and that the only mechanism for challenging a
+
+certificate issued by a private prosecutor is before the
+
+magistrates’ court.
+
+45. The difficulty identified in the preceding paragraph arises
+
+only if a challenge before the magistrates is permitted only on
+
+the grounds that an abuse of process has occurred. As is clear,
+
+however, in cases such as Atkinson, in particular, the challenge
+
+before the court has been a challenge to its jurisdiction.
+
+46. In my judgment a magistrates’ court has no jurisdiction to
+
+hear a summons alleging offences under the 2006 Act if the
+
+information upon which the summons is based was laid outside
+
+the time limit permitted by section 31(1). If no certificate under
+
+section 31(2) is issued by the prosecutor there can be no
+
+possible objection to an accused person challenging the
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+jurisdiction of the court by asserting that the prosecutor has not
+
+laid an information within the time specified in section 31(1).
+
+47. I can discern no principled basis for concluding that such a
+
+procedure is not open to an accused person if the prosecutor has
+
+issued a certificate under section 31(2) of the Act. A certificate
+
+under section 31(2) is conclusive evidence of the facts stated
+
+therein unless it is demonstrated that the certificate is plainly
+
+wrong. If the certificate is plainly wrong it has no effect and the
+
+magistrates must disregard it. They will then be left to
+
+determine whether or not the prosecutor has initiated
+
+proceedings within the time limit permitted by section 31(1)
+
+and if he has not the magistrates will have no jurisdiction to
+
+hear the summons in question.
+
+48. I acknowledge that this approach is not the one which was
+
+suggested as appropriate in Burwell and Azam and endorsed in
+
+RSPCA v Johnson. However, the procedural issues raised in
+
+this case were not raised in any of those cases. Further, so far as
+
+I am aware, Atkinson was not cited in any of those cases. For
+
+my part, I consider the reasoning in the judgment of Auld LJ in
+
+Atkinson to be compelling.”
+
+51. These comments were solely concerned with the procedure for challenging a certificate
+
+and with the question of abuse of process, not with the grounds on which such a challenge
+
+might succeed. The potential grounds of challenge had already been addressed by Wyn
+
+Williams J at [35] (set out above) and were limited in accordance with Amvrosiou and the
+
+cases which had followed it. The point of these later comments, as the reference to
+
+Atkinson v DPP [2004] EWHC 1457 (Admin) makes clear, was that the challenge could
+
+be made in the magistrates’ court itself and that a successful application would mean that
+
+the magistrates’ court had no jurisdiction to continue. In saying that a certificate was
+
+conclusive unless it was “plainly wrong” it is reasonably clear, in my judgment, that what
+
+Wyn Williams J had in mind was a certificate which was plainly wrong on its face. That
+
+was what the cases which he cited had held. If (which I doubt) he intended to hold that a
+
+certificate could be challenged in judicial review proceedings as “plainly wrong” by
+
+reference to extraneous evidence, that was contrary in my judgment to the cases which he
+
+had previously cited as authoritative.
+
+52. I can see no justification here for widening the scope of the concept of “plainly wrong” to
+
+permit an enquiry into extraneous facts. To do so would be to lose all the benefits of
+
+certainty which were held in Amvrosiou to be the clear purpose of such provisions and
+
+would introduce the “intolerable burden to the prosecution and a cog on the wheels of
+
+justice at summary level” to which Auld LJ referred.
+
+53. Letherbarrow was another case concerned with the prosecutor issue, which followed and
+
+applied Johnson. The prosecutor was the council, but the person whose knowledge was
+
+relevant for the purpose of the time bar provision was the individual who had
+
+responsibility for “making the important decision whether to prosecute”, a decision which
+
+was not merely “whether there is a prima facie case but whether the evidence is sufficient
+
+to justify a prosecution”, a question which involved “a consideration of what is in the
+
+interests of justice”:
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+“although the prosecutor in the case as a whole is the collective
+
+body (here, the County Council), it is the individual with
+
+responsibility for deciding whether a prosecution should go
+
+forward whose thoughts and beliefs are relevant.”
+
+54. Mr Hockman relied also on what was said about delay by Gross LJ in Riley:
+
+“19. … this separation of the roles between investigators and
+
+prosecutors is not a charter for paper-shuffling, as Pill LJ
+
+observed in Johnson’s case. In a case such as this, time starts
+
+running under section 31(1)(b) of the Act once a suitably
+
+qualified Crown Prosecution Service employee has knowledge
+
+of ‘evidence which the prosecutor thinks is sufficient to justify
+
+the proceedings …’ Internal Crown Prosecution Service delays
+
+or transfers of the file will not serve to extend time under that
+
+subsection – and the three year ‘long stop’ provision under
+
+section 31(1)(a) will not avail a prosecutor where relevant
+
+delay has exceeded the six-month period specified in section
+
+31(1)(b).”
+
+55. However, as Gross LJ had already pointed out at [12], the short point on which the case
+
+turned was whether the FSA or the CPS was to be regarded as “the prosecutor” for the
+
+purpose of the relevant provisions. Moreover, he went on to observe at [20] that on the
+
+facts of the case, there was nothing to undermine the CPS certificate. Accordingly the
+
+nature of the grounds on which such a certificate could be challenged was not an issue in
+
+the case and there is nothing in the judgment to call in question, or even comment on, the
+
+principles set out above.
+
+56. Finally, in Woodward the first certificate was defective, but the prosecutor had issued a
+
+second certificate which was valid on its face. This court held that the District Judge was
+
+wrong to consider the validity of this second certificate by reference to extraneous
+
+evidence. Hickinbottom LJ said at [29]:
+
+“In considering the later certificates, he erred in taking into
+
+account extraneous evidence, namely what had been said in the
+
+March certificate. He ought to have considered the July 2016
+
+certificates on their face, and asked himself whether there was
+
+anything patently wrong with them or whether they were
+
+fraudulent. There was, and is, no suggestion of fraud. Nor, in
+
+my judgment, was there anything clearly wrong on their face.”
+
+57. This is, therefore, a clear decision confirming that, in the absence of fraud, extraneous
+
+evidence is not admissible to challenge a certificate which is valid on its face. In my
+
+judgment the cases which I have cited make good the proposition that a valid certificate
+
+(i.e. signed by the right person and saying the right thing) is determinative of the relevant
+
+date unless the certificate is inaccurate on its face (i.e. plainly wrong on its face), or can
+
+be shown to be fraudulent.
+
+Conclusions
+
+58. In my judgment policy, language and authority lead firmly to the following conclusions
+
+which are decisive of this case.
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+59. First, although the prosecutor is the CPS, the relevant individual with responsibility for
+
+deciding whether to commence proceedings was Ms Sanghera. It is therefore her
+
+knowledge which counts for the purpose of section 41 of the Regulations. Mr Hockman’s
+
+submission that time began to run from the date when the file was received by the CPS is
+
+untenable in view of the authorities which address the prosecutor issue.
+
+60. Second, the decision whether the evidence was sufficient to justify proceedings which Ms
+
+Sanghera had to make required an exercise of judgment on her part, both as to whether
+
+the evidence amounted to a prima facie case and whether proceedings were in the public
+
+interest. However, the statutory question was when evidence which in her opinion
+
+satisfied those criteria came to her knowledge, and not (if different) when she formed the
+
+opinion that proceedings were justified. The date on which the relevant evidence came to
+
+her knowledge is not, however, to be equated with the date on which the relevant
+
+evidence was placed on her desk or delivered to her inbox. Rather it is the date on or by
+
+which it has been considered so that knowledge of the content has been imparted. In most
+
+cases, no doubt, and there is no reason to suppose that this case is different, that imparting
+
+of knowledge and the forming of opinion will happen together. The responsible
+
+individual will review the file and make a decision about prosecution. Hypothetically,
+
+however, if he or she were to review the file so as to have knowledge of all the relevant
+
+evidence, but only made a decision about prosecution at a later date, it seems to me that
+
+the date when the file was reviewed would be the date when the evidence came to the
+
+prosecutor’s knowledge. To that limited extent, therefore, I respectfully disagree with
+
+Hickinbottom LJ’s statement in Woodward at [23(iii)] that the relevant date is the date on
+
+which the prosecutor decides that it is in the public interest to prosecute.
+
+61. Third, a prosecutor’s certificate is not merely conclusive evidence of the date when
+
+particular pieces of evidence came to the prosecutor’s knowledge. A certificate in proper
+
+form is conclusive evidence of the relevant date from which the six-month period begins
+
+to run.
+
+62. Fourth, in the absence of fraud, a certificate in proper form which contains no error on its
+
+face is conclusive evidence of that date and is not open to challenge by reference to
+
+extraneous evidence showing that it is wrong or even plainly wrong. To hold otherwise
+
+would depart from a clear and consistent line of authority which rests on sound principles.
+
+It would lead to endless arguments as to whether the date stated on a certificate was
+
+“plainly wrong” or just “wrong” and what was meant to be added by the word “plainly”.
+
+The facts of this case demonstrate all too clearly the good sense of this conclusion.
+
+Proceedings which were commenced in January 2018 have become bogged down in a
+
+dispute whether the proceedings are time barred and the court has jurisdiction. The delay
+
+of which the claimant complains, four months and 11 days between the initial receipt of
+
+the case by the CPS and the first review of the file, pales into insignificance when
+
+compared with the time which has been taken to resolve the time bar issue.
+
+63. Accordingly the prosecutor’s certificate in this case contains no error on its face and is
+
+therefore conclusive evidence that the relevant date was 8th November 2017. The
+
+proceedings were therefore in time. Evidence to the contrary suggesting that the relevant
+
+knowledge was acquired on some earlier date (the claimant says March 2017) is
+
+inadmissible. Equally, although there was some suggestion that the actual date on which
+
+the evidence justifying proceedings came to Ms Sanghera’s knowledge may have been in
+
+early January 2018 rather than 8th November 2017, that too is inadmissible.
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+Ground 1: the District Judge was wrong to deal with the matter as if it were an
+
+application to stay the proceedings for abuse of process
+
+64. Mr Hockman submitted that the District Judge was wrong to deal with the matter as if it
+
+were an application to stay for abuse of process on the basis that the claimant could not
+
+have a fair trial. In fact the challenge was to the jurisdiction of the court on the ground
+
+that the prosecution was time-barred. The difference in some cases could be important
+
+because the burden of proof is different. In the latter case, the burden is on the
+
+prosecution to show that the prosecution is not time-barred, although in practice the
+
+burden of proof is not significant where there is a valid prosecutor’s certificate stating
+
+conclusively that the relevant date was a date less than six months before the
+
+commencement of proceedings.
+
+65. As already indicated, I do not accept that the District Judge did deal with the matter as if
+
+it were an abuse application. She began by noting that the prosecution relied on a
+
+certificate and that there was no issue as to the validity of the second certificate which Ms
+
+Sanghera had issued. She referred to the claimant’s argument that the court was entitled
+
+to examine the chronology of events notwithstanding the certificate and to the case law,
+
+including in particular Woodward. She observed that the certificate relied on was not
+
+“defective on its face or fraudulent”, either of which would mean that it was not
+
+conclusive and concluded:
+
+“I regard the certificate of 5th April as conclusive evidence of
+
+the matters stated in it in accordance with r 41(2).”
+
+66. This reasoning was all directed to the issue of time bar, addressed the questions discussed
+
+in the case law, and reached a clear conclusion.
+
+67. The District Judge then continued:
+
+“I have, however, gone on to consider the chronology and the
+
+arguments put forward as to the history of the case prior to the
+
+date of the certificate to examine whether a fair trial can take
+
+place.”
+
+68. It may be that it was unnecessary for the District Judge to go on to consider abuse of
+
+process if there was no application before her to stay the proceedings on this ground, but
+
+it is understandable that she should have done so and in any event it is clear that this was
+
+an additional and distinct issue.
+
+Ground 4: the proceedings should have been stayed as an abuse of process
+
+69. I can deal with the question of abuse of process shortly. The District Judge concluded that
+
+despite the “disappointing” and “regrettable” delay between receipt of the file on 13th
+
+March 2017 and the first case review on 24th July 2017 a fair trial remained possible. That
+
+was a conclusion which she was entitled to reach and with which I agree. There is,
+
+moreover, no reason to suppose that there was anything approaching deliberate
+
+manipulation of the time limit or that it is in any way unfair for the case to proceed.
+
+70. Mr Hockman submitted that if, on the evidence available, it is clear that the prosecutor’s
+
+certificate mis-states the date when sufficient evidence came to the prosecutor’s
+
+knowledge, that would mean that the certificate was “plainly wrong” and that it would be
+
+an abuse of process for the proceedings to continue. I would reject that submission. As
+
+the cases make clear, whether a certificate is “plainly wrong” must be determined, in the
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court
+
+absence of fraud, by reference to the face of the certificate and without regard to
+
+extraneous evidence. Absent fraud, a certificate which is valid on its face is conclusive
+
+evidence of the relevant date. If it were possible to circumvent this principle by dressing
+
+up a challenge to the certificate as an abuse of process argument, the purpose of the time
+
+bar provisions would be frustrated.
+
+71. Abuse of process may have a role to play in an appropriate case. That may be so, even in
+
+a case where there is a conclusive certificate, for example if a prosecutor’s failure to
+
+apply his or her mind to the sufficiency of evidence led to a delay which impacted on the
+
+fairness of the proceedings. That, no doubt, is the kind of consideration which courts have
+
+had in mind in emphasising that the conclusive evidence provisions must not be
+
+manipulated to deprive a defendant of the benefit of a time-bar defence and are “not a
+
+charter for paper-shuffling” (e.g. Johnson at [25] and Riley at [19]). But abuse of process
+
+is and should remain a separate question concerned with the fairness of the procedure and
+
+of the trial.
+
+Disposal
+
+72. For these reasons I would dismiss the claim for judicial review.
+
+Mrs Justice Jefford:
+
+73. I agree.
+
+ORDER
+
+UPON HEARING COUNSEL FOR THE CLAIMANT AND COUNSEL FOR THE
+
+INTERESTED PARTY AT A HEARING OF THE CLAIM FOR JUDICIAL REVIEW
+
+ON 17 OCTOBER 2019
+
+IT IS ORDERED THAT:
+
+1. The claim for judicial review is dismissed.
+
+2. The Claimant is to pay the Interested Party’s costs of the claim for judicial review in
+
+the sum of £12,202.
+
+3. Payment of costs to be made within 28 days of this Order.
+
+Dated this day 6th day of November 2019
+
+Judgment Approved by the court for handing down. Chesterfield Poultry Ltd v Sheffield Magistrates Court

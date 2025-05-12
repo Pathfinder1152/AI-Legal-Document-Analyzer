@@ -1,0 +1,377 @@
+[
+  {
+    "sentence": "Before THE HONOURABLE MR JUSTICE ELIAS SIR WILLIAM MORRIS KBE OJ MR S YEBOAH       BOLTON SCHOOL\tAPPELLANT       MR M EVANS\tRESPONDENT    Transcript of Proceedings  JUDGMENT      \t\t  \tAPPEARANCES      For the Appellant|MR KAUSHIK CHAUDHURI (Consultant) Instructed by: Lloyds Employment Law Consultancy Ltd Lloyds House 2 West Street Bourne Lincs  PE10 9NE | For the Respondent|MR MALCOLM GLAZIER (Consultant) Instructed by: Employment Law Advisory Service Lancaster House Old Wellington Road Eccles Manchester M30 9QG |    SUMMARY Public Interest Disclosure   Protected Disclosure.  Employer deliberately broke into computer system to show that his concerns that information might be obtained in breach of the Data Protection Act was reasonable.",
+    "legal_references": [
+      "Data Protection Act 2018",
+      "Protection Act"
+    ]
+  },
+  {
+    "sentence": "This is an appeal from the decision on liability promulgated on 4 April 2005 in which the Employment Tribunal sitting in Manchester unanimously held that the Claimant, the Respondent to this appeal, had been unfairly from Bolton School for having made a protected disclosure contrary to section 103A of the Employment Rights Act 1996 and had suffered a detriment by reason of making a protected disclosure contrary to section 47B of that Act.",
+    "legal_references": [
+      "that Act",
+      "the Employment Rights Act",
+      "section 47B",
+      "section 103A of the Employment Rights Act 1996",
+      "section 103A",
+      "of the Employment Rights Act 1996",
+      "Rights Act 1996"
+    ]
+  },
+  {
+    "sentence": "In the subsequent remedies hearing the Tribunal made an award of compensation of \u00a326,118.13 which included an award of \u00a33,000 for injured feelings resulting from the detriment imposed in breach of section 47B.  Shortly after that hearing the Tribunal became aware that there was a decision of this Tribunal in Melia v Magna Kansei Ltd [2005] IRLR 449, Burton J presiding, which appeared to affect its award of compensation.",
+    "legal_references": [
+      "section 47B."
+    ]
+  },
+  {
+    "sentence": "In that case this Tribunal held that the effect of section 47B(ii) (set out below) was that where a course of conduct causes an employee to leave and claim constructive dismissal, any compensation must be limited to the loss flowing from the dismissal itself, and the employee cannot claim that the conduct which brought about his resignation constitutes an independent detriment justifying a separate and independent claim to compensation under section 47B.",
+    "legal_references": [
+      "section 47B."
+    ]
+  },
+  {
+    "sentence": "(See Melia v Magna Kansei Ltd [2006] IRLR 117).",
+    "legal_references": [
+      "IRLR 117"
+    ]
+  },
+  {
+    "sentence": "It was not persuaded by the reasoning of this Tribunal and held that it was possible, in cases such as this, to make separate claims for any detriment suffered prior to termination under section 47B, together with an independent claim under section 103A in respect of the dismissal itself.",
+    "legal_references": [
+      "section 103A",
+      "section 47B"
+    ]
+  },
+  {
+    "sentence": "If the detriment cannot be compensated under the unfair dismissal provisions \u2013 for the reason that it is not a loss sustained in consequences of the dismissal \u2013 then there is nothing to take it out of section 47(B); and the provisions in section 49, which require compensation for that detriment, should apply\u201d",
+    "legal_references": [
+      "section 47(B",
+      "section 49"
+    ]
+  },
+  {
+    "sentence": "The Tribunal formed the impression that Mr Brooker had already made up his mind that the Claimant had committed an act of misconduct.",
+    "legal_references": [
+      "an act"
+    ]
+  },
+  {
+    "sentence": "At the outset, Mr Brooker told the Claimant that the Claimant had deliberately hacked into the network without authority as a pre-meditated act.",
+    "legal_references": [
+      "meditated act"
+    ]
+  },
+  {
+    "sentence": "The Claimant contended on appeal that he had authority to do what he did, that he had acted in good faith, having genuine concerns about the security issues, and that he felt he was being disciplined for drawing the Respondent\u2019s attention to breaches of the Data Protection Act 1998.",
+    "legal_references": [
+      "Data Protection Act 2018",
+      "Protection Act 1998"
+    ]
+  },
+  {
+    "sentence": "Specifically, he was concerned about the breach of the seventh Data Protection principle set out in schedule 1, part 1 of the Data Protection Act 1998 which is as follows:  \u201cAppropriate technical and organisational measures shall be taken against unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to personal data.\u201d",
+    "legal_references": [
+      "Data Protection Act 2018",
+      "Data Protection",
+      "Protection Act 1998"
+    ]
+  },
+  {
+    "sentence": "He thought he had been subjected to a detriment, namely the warning, by reason of making a qualifying disclosure and that this was contrary to section 47(B) of the Employment Rights Act 1996.",
+    "legal_references": [
+      "the Employment Rights Act 1996",
+      "section 47(B) of the Employment Rights Act 1996",
+      "Rights Act 1996",
+      "of the Employment Rights Act 1996"
+    ]
+  },
+  {
+    "sentence": "The Law In order to understand the issues in this case it is necessary to set out certain relevant statutory provisions.",
+    "legal_references": [
+      "The Law"
+    ]
+  },
+  {
+    "sentence": "Employment Rights Act 1996 Section 43A: \u201c43A Meaning of \"protected disclosure\"",
+    "legal_references": [
+      "Rights Act 1996",
+      "Employment Rights Act 1996",
+      "Employment Rights Act"
+    ]
+  },
+  {
+    "sentence": "In this Act a \"protected disclosure\" means a qualifying disclosure (as defined by section 43B) which is made by a worker in accordance with any of sections 43C to 43H.\u201d",
+    "legal_references": [
+      "section 43B",
+      "this Act"
+    ]
+  },
+  {
+    "sentence": "Section 43B: \u201c43B Disclosures qualifying for protection  (1) In this Part a \"qualifying disclosure\" means any disclosure of information which, in the reasonable belief of the worker making the disclosure, tends to show one or more of the following\u00ad (a)  that a criminal offence has been committed is being committed or is likely to be committed, (b)  that a person has failed, is failing or is likely to fail to comply with any legal obligation to which he is subject, (c)  that a miscarriage of justice has occurred is occurring or is likely to occur, (d)  that the health or safety of any individual has been, is being or is likely to be endangered, (e)  that the environment has been, is being or is likely to be damaged, or (f)  that information tending to show any matter falling within anyone of the preceding paragraphs has been, or is likely to be deliberately concealed\u2026",
+    "legal_references": [
+      "Section 43B"
+    ]
+  },
+  {
+    "sentence": "Section 43C sub-section 1: \u201c43C Disclosure to employer or other responsible person  (1) A qualifying disclosure is made in accordance with this section if the worker makes the disclosure in good faith\u00ad (a)  to his employer, or (b)  where the worker reasonably believes that the relevant failure relates solely or mainly to\u00ad (i) the conduct of a person other than his employer, or (ii) any other matter for which a person other than his employer has legal responsibility, to that other person.\u201d",
+    "legal_references": [
+      "Section 43C sub"
+    ]
+  },
+  {
+    "sentence": "Section 47B: \u201c(1) A worker has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer done on the ground that the worker has made a protected disclosure.",
+    "legal_references": [
+      "to act",
+      "Section 47B",
+      "any act"
+    ]
+  },
+  {
+    "sentence": "(3) For the purposes of this section, and of sections 48 and 49 so far as relating to this section, \"worker\", \"worker's contract\", \"employment\" and \"employer\" have the extended meaning given by section 43K.\u201d",
+    "legal_references": [
+      "section 43K."
+    ]
+  },
+  {
+    "sentence": "Section 103A: \u201c103A Protected disclosure",
+    "legal_references": [
+      "Section 103A:"
+    ]
+  },
+  {
+    "sentence": "The information may in fact be inaccurate or wrong that does not move the protection provided the employee has a reasonable belief that the information tends to show one or more of the matters set out in section 43(1)(B).",
+    "legal_references": [
+      "section 43(1)(B)"
+    ]
+  },
+  {
+    "sentence": "(See the observations of this Tribunal in Darnton v University of Surrey [2003] IRLR 133).",
+    "legal_references": [
+      "IRLR 133"
+    ]
+  },
+  {
+    "sentence": "The Tribunal hearing The Claimant submitted before the Tribunal that the warning constituted a detriment, that it had been imposed contrary to Section 47B because he had made a public interest disclosure; that the imposition of the warning in those circumstances amounted also to a breach of the duty of trust and confidence; and that he had resigned in response to that breach.",
+    "legal_references": [
+      "Section 47B"
+    ]
+  },
+  {
+    "sentence": "It followed, he submitted, that he had been automatically unfairly dismissed contrary to Section 103A of the Employment Rights Act 1996.",
+    "legal_references": [
+      "the Employment Rights Act",
+      "Section 103A",
+      "Section 103A of the Employment Rights Act 1996",
+      "of the Employment Rights Act 1996",
+      "Rights Act 1996"
+    ]
+  },
+  {
+    "sentence": "Alternatively, he claimed that in any event, even if section 103A were not applicable, he had been unfairly dismissed within the meaning of Section 198 of that Act.",
+    "legal_references": [
+      "that Act",
+      "Section 198"
+    ]
+  },
+  {
+    "sentence": "It was said that nothing had been disclosed which fell within the terms of Section 43B at all.",
+    "legal_references": [
+      "Section 43B"
+    ]
+  },
+  {
+    "sentence": "In any event, if that was a disclosure, he had committed a criminal offence in the course of it, namely a breach of the Computers Misuse Act 1990 when he hacked into the system.",
+    "legal_references": [
+      "breach of the Computers Misuse Act 1990",
+      "the Computers Misuse Act 1990",
+      "Misuse Act 1990"
+    ]
+  },
+  {
+    "sentence": "On the contrary, it was said that the employers had every reason to discipline for a clear act of misconduct as the Claimant had knowingly, deliberately and without authority broken into their computer system.",
+    "legal_references": [
+      "clear act"
+    ]
+  },
+  {
+    "sentence": "The Tribunal concluded that the Claimant had made a qualifying disclosure, namely that he had reasonably believed that the information tended to show that the Respondent had failed, or was likely to fail, in its obligations under the Data Protection Act 1998.  They were also satisfied that it was made in good faith.",
+    "legal_references": [
+      "Data Protection Act 2018",
+      "Protection Act 1998"
+    ]
+  },
+  {
+    "sentence": "Moreover, the Claimant did not lose that protection on the grounds that he committed an offence because the Computer Misuse Act only established criminal liability for unauthorized access to computers, and the Tribunal found that he was in fact authorized.",
+    "legal_references": [
+      "Misuse Act",
+      "Computer Misuse Act 1990"
+    ]
+  },
+  {
+    "sentence": "Although the School genuinely believed the Claimant had committed an act of misconduct, it did not reasonably hold that belief after having carried out a reasonable investigation.",
+    "legal_references": [
+      "an act"
+    ]
+  },
+  {
+    "sentence": "Nor is the finding of unfair dismissal under Section 98 challenged directly, although it is alleged that if the finding on protected disclosure is unwarranted, then the basis on which the Tribunal found that there had been a constructive dismissal is fatally undermined.",
+    "legal_references": [
+      "Section 98"
+    ]
+  },
+  {
+    "sentence": "The School do contend that the Tribunal erred in law in holding that they infringed section 47B in giving the warning and concluding that the consequential dismissal was unlawful, being contrary to Section 103A.  The School before us now advance three grounds of appeal.",
+    "legal_references": [
+      "section 47B",
+      "Section 103A."
+    ]
+  },
+  {
+    "sentence": "Second, it is alleged that the Tribunal concluded that the Claimant had reasonably believed that the information tended to show that there was likely to be a breach of a legal obligation (namely that under the Data Protection Act) without a proper consideration of what that legal obligation entailed.",
+    "legal_references": [
+      "Data Protection Act 2018",
+      "Protection Act"
+    ]
+  },
+  {
+    "sentence": "As to the second ground, Section 43B(1)(b) provides that the employee must reasonably believe that the information tends to show that the person:  \u201chas failed or is likely to fail to comply with any legal obligation to which he is subject.\u201d",
+    "legal_references": [
+      "Section 43B(1)(b)"
+    ]
+  },
+  {
+    "sentence": "It is difficult in the circumstances to see how it could not be something of breaching its obligations under the seventh Data Protection principle.\u201d",
+    "legal_references": [
+      "Data Protection"
+    ]
+  },
+  {
+    "sentence": "Mr Chaudhuri points out that Part 2 of Schedule 1 to the Data Protection Act sets out principles of interpretation of the basic principles.",
+    "legal_references": [
+      "Data Protection Act 2018",
+      "Schedule 1",
+      "Protection Act",
+      "Part 2"
+    ]
+  },
+  {
+    "sentence": "It expressly provided in section 4 of the Act that the Data Protection principles are to be interpreted in accordance with part 2 of schedule 1 in relation to the seventh principle.",
+    "legal_references": [
+      "the Act",
+      "section 4"
+    ]
+  },
+  {
+    "sentence": "Having regard to the state of technological development and the cost of implementing any measures, the measures must ensure a level of security appropriate to-  (a) the harm that might result from such unauthorised or unlawful processing or accidental loss, destruction or damage as are mentioned in the seventh principle, and (b) the nature of the data to be protected.\u201d  Mr Chaudhuri says that the Tribunal made no reference to that.  He submits that it could not properly conclude that the Claimant reasonably believed that the seventh principle would be likely to be infringed without appreciating what that principle obliged an employer to do.  And that in turn meant that the Claimant had to be aware of these principles of interpretation and have had to have weighed them up when determining whether the information tended to show a likely breach or not.  It was an error, he said, for the Tribunal to suppose that the fact that the Claimant was able to break security was of itself sufficient to demonstrate that the security measures were inadequate and might involve a breach of the seventh principle.  The first point to note about this argument is that, as Mr Chaudhuri fairly says, the provision in part 2 of schedule 1 was not referred to the Employment Tribunal at all.  Mr Chaudhuri says that a similar argument was advanced but not in as precise a way as he is now formulating the matter before us.  But it seems to us that the following well-known authorities, such as Kumchyk v Derby County Council [1978] ICR 116, it would not be fair to permit this argument to be developed in this way for the first time before us.    But we will in any event say something about the substance of the matter.  In this context we have considered the case of Kraus v Pinner PLC [2004] IRLR 260 which may be said to have some bearing on this argument.",
+    "legal_references": [
+      "ICR 116",
+      "IRLR 260"
+    ]
+  },
+  {
+    "sentence": "In those circumstances, in our judgment, the Tribunal was fully justified in concluding that the employee reasonably believed that disclosing the fact that he had hacked into the system tended to show that a principle under the Data Protection Act would be likely to be infringed.",
+    "legal_references": [
+      "Data Protection Act 2018",
+      "Protection Act"
+    ]
+  },
+  {
+    "sentence": "They identify specifically at paragraph 18 of their Decision that when the Claimant returned to work in September, he was concerned about the implications of the proposed new arrangements for protecting confidential data.",
+    "legal_references": [
+      "at paragraph 18 of"
+    ]
+  },
+  {
+    "sentence": "As this Tribunal pointed out in London Borough of Harrow v Knight [2003] IRLR 140, applying certain observations of Lord Nicholls in the Nagarajan case ([1999] ICR 877; [1999] IRLR 572 & 574), this requires an examination of the mental processes which caused the employer to act as he did.",
+    "legal_references": [
+      "to act",
+      "IRLR 140"
+    ]
+  },
+  {
+    "sentence": "It followed that the School believed that the Claimant had committed an act of misconduct.",
+    "legal_references": [
+      "an act"
+    ]
+  },
+  {
+    "sentence": "The Tribunal reminds itself that the statutory scheme introduced b the Public Interest Disclosure Act 1998 is to encourage disclosures to be made internally , that is to say, to the whistleblower\u2019s own employer and that this is achieved by making protection readily available so long as the worker raises his or her concern with the employer.",
+    "legal_references": [
+      "Disclosure Act 1998",
+      "the Public Interest Disclosure Act 1998"
+    ]
+  },
+  {
+    "sentence": "Prior to the enactment of the Public Interest Disclosure Act, a Worker who blew the whistle could expect to feel the full force of an organisation's disapproval by way of ostracism, criticism, poor appraisals, victimisation and even dismissal.",
+    "legal_references": [
+      "Disclosure Act",
+      "the Public Interest Disclosure Act"
+    ]
+  },
+  {
+    "sentence": "The Tribunal is therefore acutely conscious of the policy behind the Public Interest Disclosure Act.",
+    "legal_references": [
+      "Disclosure Act",
+      "the Public Interest Disclosure Act"
+    ]
+  },
+  {
+    "sentence": "To allow an employer to defeat a Public Interest Disclosure Act case in this way would be to drive a coach and horses through the intention of the legislature that whistleblowers should have employment protection.",
+    "legal_references": [
+      "Disclosure Act",
+      "Public Interest Disclosure Act"
+    ]
+  },
+  {
+    "sentence": "Mr Chaudhari submits that the Tribunal erred in law here because the protected act is limited the disclosure itself and does not extend to any conduct which is designed to demonstrate that the belief is reasonable.  He says that to permit conduct of this nature to be considered part of the disclosure would enable employees to go on a fishing expedition to seek to find evidence to justify suspicions and thereby establish a reasonable belief.",
+    "legal_references": [
+      "protected act"
+    ]
+  },
+  {
+    "sentence": "The statute protects disclosure but not other conduct by the employee even if connected in some way to that disclosure (c.f. the wider scope of the victimisation provisions under the Race Relations Act as reflected in the decision in Aziz v Trinity Street Taxis Ltd [1988] IRLR 204).",
+    "legal_references": [
+      "Relations Act",
+      "the Race Relations Act"
+    ]
+  },
+  {
+    "sentence": "First, the conduct designed to demonstrate that the belief was reasonable and, second, the disclosure of the information itself which tended to show a breach of the relevant legal obligation.  Putting it simply, it seems to us that the law protects the disclosure of information which the employee reasonably believes tends to demonstrate the kind of wrongdoing, or anticipated wrongdoing, which is covered by section 43B. It does not protect the actions of the employee which are directed to establishing or confirming the reasonableness of that belief.",
+    "legal_references": [
+      "section 43B."
+    ]
+  },
+  {
+    "sentence": "Plainly the finding that there was the imposition of a detriment falling within section 47B and the conclusion that there is an automatically unfair dismissal contrary to section 103A cannot stand.",
+    "legal_references": [
+      "section 103A",
+      "section 47B"
+    ]
+  },
+  {
+    "sentence": "However, the Tribunal found that the dismissal was in any event unfair under section 98 both because of procedural failings and because it was a breach of trust and confidence for the employer to have disciplined the employee in the circumstances, given that contrary to the School\u2019s understanding, he was in fact authorised to act as he did.",
+    "legal_references": [
+      "section 98",
+      "to act"
+    ]
+  },
+  {
+    "sentence": "Mr Chaudhari submits that if 47B falls, as we have found that it does, then it is not possible to sustain the finding of constructive dismissal for the reason given by the Tribunal.",
+    "legal_references": [
+      "47B"
+    ]
+  },
+  {
+    "sentence": "Mr Chaudhuri says that the Tribunal\u2019s reasoning cannot now be sustained if there is no breach of section 47B.  We think that is right.",
+    "legal_references": [
+      "section 47B."
+    ]
+  },
+  {
+    "sentence": "The finding of automatic unfair dismissal cannot stand, nor can the conclusion that Claimant suffered a detriment by reason of making a protected disclosure contrary to section 47B of the 1996 Act.",
+    "legal_references": [
+      "section 47B"
+    ]
+  }
+]

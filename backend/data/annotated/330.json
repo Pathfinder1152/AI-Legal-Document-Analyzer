@@ -1,0 +1,23 @@
+{
+  "file_name": "330.rtf",
+  "metadata": {
+    "case_number": "IHQ07/0049",
+    "neutral_citation": "[2007] EWHC 330 (QB)",
+    "court": "IN THE HIGH COURT OF JUSTICE QUEEN'S BENCH DIVISION",
+    "judges": [
+      "MR JUSTICE KING"
+    ],
+    "hearing_date": "2nd February 2007",
+    "parties": {
+      "Applicant": "Campaign Against Arms Trade (an unincorporated association, claiming by its authorised officer, Ann Feltham )",
+      "Respondent": "BAE Systems PLC"
+    },
+    "representatives": {
+      "Applicant": "Miss Dinah Rose QC and Mr. Ben Jaffey (instructed by Leigh Day & Co)",
+      "Respondent": "Miss Clare Montgomery QC and Mr. Antony White QC (instructed by Allen & Overy LLP)"
+    },
+    "extracted_at": "2025-04-13T12:53:31.480277Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\330.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\330.txt"
+}

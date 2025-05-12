@@ -1,0 +1,25 @@
+{
+  "file_name": "973.rtf",
+  "metadata": {
+    "case_number": "201201041/A3",
+    "neutral_citation": "[2012] EWCA Crim 973",
+    "court": "IN THE COURT OF APPEAL CRIMINAL DIVISION",
+    "judges": [
+      "LORD JUSTICE HOOPER",
+      "MR JUSTICE CRANSTON",
+      "HIS HONOUR JUDGE ROOK QC"
+    ],
+    "hearing_date": "Wednesday, 4th April 2012",
+    "parties": {
+      "Applicant": "GLEN STEVEN MANGHAM",
+      "Respondent": "REGINA"
+    },
+    "representatives": {
+      "Applicant": "Mr T Ventham",
+      "Respondent": "Mr S Patel"
+    },
+    "extracted_at": "2025-04-13T12:54:09.369153Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\973.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\973.txt"
+}

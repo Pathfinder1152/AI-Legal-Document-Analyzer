@@ -1,0 +1,23 @@
+{
+  "file_name": "132.pdf",
+  "metadata": {
+    "case_number": "QB-2020-001180  ",
+    "neutral_citation": "[2022] EWHC 132 (QB)",
+    "court": "IN THE HIGH COURT OF JUSTICE QUEEN'S BENCH DIVISION MEDIA AND COMMUNICATIONS LIST",
+    "judges": [
+      "RICHARD SPEARMAN Q.C. (Sitting as a Judge of the Queens Bench Division)"
+    ],
+    "hearing_date": "17 and 18 January 2022",
+    "parties": {
+      "Claimant": "ISMA ALI",
+      "Defendant": "LUTON BOROUGH COUNCIL"
+    },
+    "representatives": {
+      "Claimant": "Tom Clarke (instructed by  Irvings Law )",
+      "Defendant": "Jack Harding (Instructed By Weightmans LLP )"
+    },
+    "extracted_at": "2025-04-13T12:52:59.570665Z"
+  },
+  "text_path": "data\\processed\\cases_txt\\132.txt",
+  "semantic_text_path": "data\\processed\\cases_vector_txt\\132.txt"
+}

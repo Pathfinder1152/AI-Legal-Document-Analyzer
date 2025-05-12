@@ -1,0 +1,474 @@
+[
+  {
+    "sentence": "It concerns the significance of a prosecutor's certificate under section 11 of the Computer Misuse Act 1990 (a certificate which affects the time limit for bringing a prosecution under section 1 of that Act).",
+    "legal_references": [
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "section 11 of the Computer Misuse Act 1990",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 1 makes it an offence to obtain unauthorised access to a computer programme or computer data.",
+    "legal_references": [
+      {
+        "text": "Section 1",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "3.  At this point it is convenient to set out the relevant parts of section 11 of the Computer Misuse Act 1990.",
+    "legal_references": [
+      {
+        "text": "section 11",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Computer Misuse Act 1990",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "Computer Misuse Act",
+        "match_type": "Regex - Known Act"
+      },
+      {
+        "text": "section 11 of the Computer Misuse Act 1990",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "I note that it has since been repealed by the Police and Justice Act 2008.",
+    "legal_references": [
+      {
+        "text": "the Police and Justice Act 2008",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 11, as relevant for present purposes, provides:  \t\t\"(2)  Subject to subsection (3) below, proceedings for an offence under section 1 above may be brought within a period of six months from the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to his knowledge.",
+    "legal_references": [
+      {
+        "text": "Section 11",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "On a proper interpretation of section 11 of the 1990 Act the limitation period, it was said, had therefore expired.",
+    "legal_references": [
+      {
+        "text": "section 11 of the 1990",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "They say that they applied the literal interpretation of section 11(4) and have added that any other interpretation would require a prosecutor to attend court on each occasion to give evidence as to the facts which he or she had certified.",
+    "legal_references": [
+      {
+        "text": "section 11(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is said, first of all, that that would be contrary to principle and to the rule of law if that were to be allowed.  Section 11 should therefore be interpreted in a manner which enables the courts to determine whether a prosecution has been brought in time.    8.  Reliance is placed on the decision of this court in Morgans v DPP [1999] 1 WLR 968.",
+    "legal_references": [
+      {
+        "text": "Section 11",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That concerned a number of issues arising under the 1990 Act and other statutes.",
+    "legal_references": [
+      {
+        "text": "the 1990",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "One of the issues concerned the time limit under section 11 of the 1990 Act.",
+    "legal_references": [
+      {
+        "text": "section 11",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The defendant argued that once the prosecutor had all the material on which the prosecution was eventually brought, then for the purposes of section 11(2) time began to run.",
+    "legal_references": [
+      {
+        "text": "section 11(2)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 11(2) is an exception to the normal rule that summary offences should be prosecuted within six months.",
+    "legal_references": [
+      {
+        "text": "Section 11(2)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The draftsman could have provided that proceedings for an offence under subsection (1) 'may be brought within a period of six months from the date on which the prosecution forms the opinion that there is sufficient evidence to warrant proceedings' but he did not do so.\"    9.  Mr Southey contends that that ruling on section 11(2) would be meaningless in most cases where a certificate had been issued if section 11(4) then prevented the court from examining when there was first a sufficiency of evidence.",
+    "legal_references": [
+      {
+        "text": "section 11(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In any event, he argues that to treat the certificate of the prosecutor as literally conclusive would conflict with the right to a fair trial under article 6 of the European Convention on Human Rights.",
+    "legal_references": [
+      {
+        "text": "article 6",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the European Convention on Human Rights",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "10.  Reliance is placed in particular on Terra Woningen v Netherlands (1997) 24 EHRR 456, and Capital Bank AD v Bulgaria (2007) 44 EHRR 48.",
+    "legal_references": [
+      {
+        "text": "Terra Woningen v",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "24 EHRR 456",
+        "match_type": "Regex - Complex Pattern"
+      },
+      {
+        "text": "44 EHRR 48",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "The Strasbourg Court found that to be a breach of article 6(1) because it amounted to a surrender of jurisdiction by the courts which was not justified.  Mr Southey submits that the same defect exists under the 1990 Act if the courts were not to be prepared to go behind a certificate by a prosecutor.",
+    "legal_references": [
+      {
+        "text": "the 1990",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Consequently, section 11(4) should be interpreted in such a way as to avoid any breach of article 6.",
+    "legal_references": [
+      {
+        "text": "section 11(4)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "article 6",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Alternatively, he argues that section 11(4) should be seen as making a certificate conclusive unless contrary evidence is adduced.",
+    "legal_references": [
+      {
+        "text": "section 11(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That again would accord with the obligations imposed by article 6 of the European Convention.  12.",
+    "legal_references": [
+      {
+        "text": "article 6 of the European Convention",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is submitted on behalf of the appellant that the certificate in this particular case fails to engage section 11(4) because it did not state the date when the prosecutor had sufficient evidence; it merely stated that there had been compliance with section 11(2).",
+    "legal_references": [
+      {
+        "text": "section 11(4)",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 11(2)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Of greater significance, if section 11 is to be interpreted narrowly, as was said in Morgans, a certificate that does not comply with the precise wording of section 11(4) cannot possibly be seen as determinative of jurisdiction.",
+    "legal_references": [
+      {
+        "text": "section 11",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 11(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "For the respondent, Mr Hallowes draws attention to the absolute time limit of three years imposed by section 11(3), and submits that that shows that Parliament intended the wording indicated by section 11(4).",
+    "legal_references": [
+      {
+        "text": "section 11(3",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 11(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "He emphasises that the provisions of section 11 duplicate the earlier ones to be found in section 6 of the Road Traffic Offenders Act 1988.",
+    "legal_references": [
+      {
+        "text": "section 11",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 6",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Road Traffic Offenders Act 1988",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 11 duplicate the earlier ones to be found in section 6 of the Road Traffic Offenders Act 1988",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "The provision there which corresponds to section 11(4) is section 6(3).",
+    "legal_references": [
+      {
+        "text": "section 11(4",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That latter provision has been the subject of consideration by this court in R v Haringey Magistrates' Court, ex parte Amvrosiou [1996] EWHC Admin 14, where it was held that the court could not go behind the prosecutor's certificate, save in two exceptions.",
+    "legal_references": [
+      {
+        "text": "EWHC Admin 14",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In so concluding, Auld LJ (with whom Ebsworth J agreed) relied on the meaning of \"conclusive evidence\" as stated in Halsbury's Laws, namely evidence which \"no contrary evidence will be effective to displace\", save in those two exceptional cases to which his Lordship referred.",
+    "legal_references": [
+      {
+        "text": "Halsbury's Laws",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Mr Hallowes emphasises that the decision in Amvrosiou does not appear to have been drawn to the court's attention in the later case of Morgans, where in any event no consideration was given to section 11(4) of the 1990 Act.",
+    "legal_references": [
+      {
+        "text": "section 11(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As for the arguments based upon article 6 of the European Convention on Human Rights, the respondent argues that no breach arises on the approach adopted in Amvrosiou.  That approach does not deprive the courts of control over the issue to which the certificate relates.",
+    "legal_references": [
+      {
+        "text": "article 6 of the European Convention on Human Rights",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "In a case where the certificate was plainly wrong, the magistrates would be entitled, under Auld LJ's first exception, to intervene; or the certificate could be challenged by judicial review.",
+    "legal_references": [
+      {
+        "text": "Auld LJ's",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "18.  I propose to deal first with the legal position under section 11 generally before coming to the wording of the certificate in the present case.",
+    "legal_references": [
+      {
+        "text": "section 11",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "It is clear that in enacting section 11 of the 1990 Act Parliament was adopting the identical wording already to be found in section 6 of the Road Traffic Offenders Act 1988.",
+    "legal_references": [
+      {
+        "text": "section 11",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 6",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "the Road Traffic Offenders Act 1988",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "section 11 of the 1990 Act Parliament was adopting the identical wording already to be found in section 6 of the Road Traffic Offenders Act 1988",
+        "match_type": "Regex - Complex Pattern"
+      }
+    ]
+  },
+  {
+    "sentence": "It has to be remembered, too, that the test in section 6(1) is whether the date on which evidence 'sufficient in the opinion of the prosecutor to warrant the proceedings has come to his knowledge'.",
+    "legal_references": [
+      {
+        "text": "section 6(1)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "However, while I recognise the court's anxiety in Morgans not to allow a prosecutor to prevent time from running when in fact he had all the necessary information, I believe that that danger can be guarded against without disregarding, as the court there seems to have done, section 11(4).",
+    "legal_references": [
+      {
+        "text": "section 11(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I prefer the reasoning in Amvrosiou, which regards the wording of section 6(3) of the 1988 Act (the equivalent of section 11(4) of the 1990 Act) as meaning what it says.",
+    "legal_references": [
+      {
+        "text": "Amvrosiou",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "The latter case is also weakened by the fact that no explanation is given for not regarding section 11(4) as making the certificate determinative.",
+    "legal_references": [
+      {
+        "text": "section 11(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "That, after all, is the purpose on the face of it of section 11(2).  21.  Given those limits which I have just described, none of the arguments advanced by Mr Southey about article 6 seem to me to have any real force in the present situation.",
+    "legal_references": [
+      {
+        "text": "section 11(2).  21",
+        "match_type": "spaCy - LAW Entity"
+      },
+      {
+        "text": "article 6",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, it flows from the wording of section 11(2) which imposes the time limit on the prosecution, but based upon a start date involving the prosecutor's opinion.",
+    "legal_references": [
+      {
+        "text": "section 11(2)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I conclude, therefore, that the justices were right to regard section 11(4) as normally making a certificate complying with that provision as being determinative.",
+    "legal_references": [
+      {
+        "text": "section 11(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Section 11(4) gives a prosecutor considerable power in what are criminal proceedings.",
+    "legal_references": [
+      {
+        "text": "Section 11(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "Certainly section 11(4) is there benefiting the prosecution.",
+    "legal_references": [
+      {
+        "text": "section 11(4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "As I have indicated, the certificate in this case failed to comply with subsection (4) of section 11.",
+    "legal_references": [
+      {
+        "text": "subsection (4)",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "For that reason and that reason alone I would allow this appeal and remit this case to the magistrates for them to consider on the merits.  The issue they will have to decide is to whether the proceedings were in fact brought within the period specified in section 11(2).",
+    "legal_references": [
+      {
+        "text": "section 11(2",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "But of course, as your Lordship has indicated, there must be consistent approach --  LORD JUSTICE KEENE:  Yes, and it still persists, I take it, does it  --  MR SOUTHEY:  As far as I am aware, yes.  LORD JUSTICE KEENE:  -- in the Road Traffic Offenders Act?",
+    "legal_references": [
+      {
+        "text": "the Road Traffic Offenders Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  },
+  {
+    "sentence": "I do accept, of course, that the provisions of the Road Traffic Offenders Act are still extant and to that extent there might be a valid argument that this is a question of public importance.",
+    "legal_references": [
+      {
+        "text": "the Road Traffic Offenders Act",
+        "match_type": "spaCy - LAW Entity"
+      }
+    ]
+  }
+]
