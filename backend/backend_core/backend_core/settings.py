@@ -12,6 +12,10 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 
 import os
 from pathlib import Path
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv(os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), '.env'))
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -24,12 +28,19 @@ MEDIA_URL = '/media/'
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-u35^j_%p=t_b2tdf6nn_iwio1x+au9bre^jfikl4d=%slf$kpn'
+SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-u35^j_%p=t_b2tdf6nn_iwio1x+au9bre^jfikl4d=%slf$kpn')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.environ.get('DEBUG', 'True').lower() == 'true'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+
+# OpenAI API Key
+# OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY', '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')
+OPENAI_API_KEY = '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';
+
+if not OPENAI_API_KEY:
+    print("WARNING: No OpenAI API key found. Please set OPENAI_API_KEY environment variable.")
 
 
 # Application definition
@@ -67,10 +78,34 @@ REST_FRAMEWORK = {
     ],
 }
 
+# CORS Configuration
+CORS_ALLOW_ALL_ORIGINS = True  # For development only
+CORS_ALLOW_CREDENTIALS = True
+CORS_ALLOW_METHODS = [
+    'DELETE',
+    'GET',
+    'OPTIONS',
+    'PATCH',
+    'POST',
+    'PUT',
+]
+CORS_ALLOW_HEADERS = [
+    'accept',
+    'accept-encoding',
+    'authorization',
+    'content-type',
+    'dnt',
+    'origin',
+    'user-agent',
+    'x-csrftoken',
+    'x-requested-with',
+]
+
+# Ensure this is before CommonMiddleware
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
-    'corsheaders.middleware.CorsMiddleware',  # Add CORS middleware
+    'corsheaders.middleware.CorsMiddleware',  # This must come before CommonMiddleware
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
@@ -105,11 +140,11 @@ WSGI_APPLICATION = 'backend_core.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'legal_doc_analyzer',         
-        'USER': 'postgres',                   
-        'PASSWORD': 'admin123',   
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'NAME': os.environ.get('DB_NAME', 'legal_doc_analyzer'),         
+        'USER': os.environ.get('DB_USER', 'postgres'),                   
+        'PASSWORD': os.environ.get('DB_PASSWORD', 'root'),   
+        'HOST': os.environ.get('DB_HOST', 'localhost'),
+        'PORT': os.environ.get('DB_PORT', '5432'),
     }
 }
 
@@ -154,6 +189,3 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-
-# Add CORS configuration
-CORS_ALLOW_ALL_ORIGINS = True  # For development only - restrict in production

@@ -113,7 +113,7 @@ pyLDAvis==3.4.1
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 python-json-logger==2.0.7
-pytz==2024.1
+pytz==2025.1
 pywin32==306
 pywinpty==2.0.13
 PyYAML==6.0.1
@@ -174,3 +174,13 @@ widgetsnbextension==4.0.11
 wordcloud==1.9.4
 wrapt==1.16.0
 xgboost==2.1.1
+asgiref==3.8.1
+Django==5.1.6
+django-cors-headers==4.7.0
+djangorestframework==3.15.2
+openai==1.0.0 
+psycopg2-binary==2.9.10
+sqlparse==0.5.3
+python-dotenv==1.0.0
+PyPDF2==3.0.1
+python-docx==1.1.2
