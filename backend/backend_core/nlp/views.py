@@ -1,30 +1,36 @@
+import os
+from django.conf import settings
 from django.http import JsonResponse
-from rest_framework.decorators import api_view, parser_classes
-from rest_framework.parsers import MultiPartParser, FormParser
-from .file_handler import save_uploaded_file, extract_text_from_file
-from .summarization import summarize_text
+from django.views.decorators.csrf import csrf_exempt
+from django.core.files.storage import default_storage
+from django.core.files.base import ContentFile
+from preprocessing.json_case_text import extract_and_clean_texts  # You'll build this
 
-@api_view(["POST"])
-@parser_classes([MultiPartParser, FormParser])
-def upload_and_summarize(request):
-    """Handles document upload and summarization."""
-    if "file" not in request.FILES:
-        return JsonResponse({"error": "No file uploaded"}, status=400)
-    
-    uploaded_file = request.FILES["file"]
+@csrf_exempt
+def upload_document(request):
+    if request.method == "POST" and request.FILES.get("file"):
+        uploaded_file = request.FILES["file"]
+        file_ext = uploaded_file.name.split('.')[-1].lower()
+        allowed_ext = ["pdf", "docx", "rtf", "txt"]
 
-    try:
-        # Save the uploaded file
-        file_path = save_uploaded_file(uploaded_file)
+        if file_ext not in allowed_ext:
+            return JsonResponse({"error": "Unsupported file format."}, status=400)
 
-        # Extract text from the file
-        extracted_text = extract_text_from_file(file_path)
-        if not extracted_text:
-            return JsonResponse({"error": "Could not extract text from file"}, status=400)
+        # Save uploaded file
+        save_path = os.path.join(settings.MEDIA_ROOT, "uploads", uploaded_file.name)
+        path = default_storage.save(save_path, ContentFile(uploaded_file.read()))
 
-        # Summarize the extracted text
-        summary = summarize_text(extracted_text)
+        try:
+            # Returns dict with 'cases_txt_path', 'cases_vector_txt_path'
+            output = extract_and_clean_texts(path)
 
-        return JsonResponse({"summary": summary}, status=200)
-    except Exception as e:
-        return JsonResponse({"error": str(e)}, status=500)
+            return JsonResponse({
+                "status": "success",
+                "original_file": uploaded_file.name,
+                "text_paths": output
+            }, status=200)
+
+        except Exception as e:
+            return JsonResponse({"error": str(e)}, status=500)
+
+    return JsonResponse({"error": "Invalid request"}, status=400)

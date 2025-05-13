@@ -1,1 +1,0 @@
-// Cypher query script placeholder

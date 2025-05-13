@@ -1,7 +1,7 @@
 import os
 import json
 from datetime import datetime
-from .metadata_extractor import extract_case_data
+from .management.commands.metadata_extractor import extract_case_data
 
 INPUT_DIR = r"D:\\ai-legal-document-analysis\\data\\raw\\Documents"
 OUTPUT_DIR = "data/annotated"
