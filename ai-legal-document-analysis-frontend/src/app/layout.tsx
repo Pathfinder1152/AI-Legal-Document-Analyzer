@@ -34,9 +34,9 @@ export default function RootLayout({
     <html lang="en" className={`scroll-smooth dark ${inter.variable} ${merriweather.variable}`}>
       <body className="font-sans antialiased bg-background">
         {/* Only show navbar/footer on non-auth pages */}
-        {!children.toString().includes('auth') && <Navbar />}
+        {children && typeof children.toString === 'function' && !children.toString().includes('auth') && <Navbar />}
         {children}
-        {!children.toString().includes('auth') && <Footer />}
+        {children && typeof children.toString === 'function' && !children.toString().includes('auth') && <Footer />}
       </body>
     </html>
   );
