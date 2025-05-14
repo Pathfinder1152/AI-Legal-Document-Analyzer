@@ -161,4 +161,45 @@ def process_text_for_annotations(text: str) -> List[Dict[str, Any]]:
                     'description': f"Legal reference: {ref['match_type']}"
                 })
     
-    return annotations
+    # Remove overlapping annotations
+    return remove_overlapping_annotations(annotations)
+
+def remove_overlapping_annotations(annotations: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """
+    Remove overlapping annotations to prevent text duplication in the UI.
+    
+    Args:
+        annotations: List of annotation dictionaries
+        
+    Returns:
+        Filtered list of annotations with overlaps removed
+    """
+    if not annotations:
+        return []
+        
+    # Sort annotations by start index and then by length (shortest first for tiebreakers)
+    sorted_annotations = sorted(
+        annotations,
+        key=lambda a: (a['startIndex'], a['endIndex'] - a['startIndex'])
+    )
+    
+    result = []
+    occupied_ranges = []
+    
+    for annotation in sorted_annotations:
+        # Check if this annotation overlaps with any we've already added
+        current_range = (annotation['startIndex'], annotation['endIndex'])
+        
+        # Skip if overlapping with existing annotations
+        overlap = False
+        for start, end in occupied_ranges:
+            # Check for any overlap
+            if max(current_range[0], start) < min(current_range[1], end):
+                overlap = True
+                break
+        
+        if not overlap:
+            result.append(annotation)
+            occupied_ranges.append(current_range)
+    
+    return result
