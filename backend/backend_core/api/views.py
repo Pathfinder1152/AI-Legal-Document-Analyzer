@@ -11,6 +11,7 @@ from .models import Document, Annotation
 import threading
 from openai import OpenAI
 from django.conf import settings
+from search.vector_search import embed_and_upsert_document
 
 # Configure logging
 logger = logging.getLogger(__name__)
@@ -250,6 +251,18 @@ def process_document(document_id):
         
         document.status = 'analyzed'
         document.save()
+        
+        # After successful analysis, embed the document for semantic search
+        try:
+            embed_result = embed_and_upsert_document(
+                document_id=str(document.id),
+                text=document.content,
+                document_name=document.name
+            )
+            print(f"Document embedded: {embed_result['message']}")
+        except Exception as e:
+            print(f"Error embedding document: {str(e)}")
+            # Continue even if embedding fails, as this is a non-critical enhancement
         
     except Exception as e:
         logger.error(f"Error processing document {document_id}: {str(e)}")

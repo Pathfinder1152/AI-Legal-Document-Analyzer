@@ -56,6 +56,23 @@ export interface ChatResponse {
   sources: ChatSource[];
 }
 
+export interface SimilarChunk {
+  score: number;
+  text: string;
+  document_id: string;
+  document_name: string;
+  chunk_index: number;
+}
+
+export interface SearchResponse {
+  results: SimilarChunk[];
+}
+
+export interface EmbeddingStatus {
+  documentId: string;
+  isEmbedded: boolean;
+}
+
 // API functions
 export async function uploadDocument(file: File): Promise<UploadResponse> {
   const url = `${API_BASE_URL}/upload/`;
@@ -181,4 +198,93 @@ export async function sendChatMessage(
     console.error('Send chat message error:', error);
     throw error;
   }
-} 
+}
+
+export async function embedDocument(documentId: string): Promise<{message: string, chunks_count: number}> {
+  const url = `${API_BASE_URL}/search/embed/${documentId}/`;
+  logApiCall(url, 'POST');
+
+  try {
+    const response = await fetch(url, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      }
+    });
+
+    if (!response.ok) {
+      const errorText = await response.text();
+      console.error('Embed error response:', errorText);
+      try {
+        const errorData = JSON.parse(errorText);
+        throw new Error(errorData.error || 'Failed to embed document');
+      } catch (e) {
+        throw new Error(`Server error: ${errorText}`);
+      }
+    }
+
+    return response.json();
+  } catch (error) {
+    console.error('Embed document error:', error);
+    throw error;
+  }
+}
+
+export async function searchSimilarContent(documentId: string, text: string, topK: number = 3): Promise<SearchResponse> {
+  const url = `${API_BASE_URL}/search/search/${documentId}/`;
+  logApiCall(url, 'POST');
+
+  try {
+    const response = await fetch(url, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        query: text,
+        top_k: topK
+      }),
+    });
+
+    if (!response.ok) {
+      const errorText = await response.text();
+      console.error('Search error response:', errorText);
+      try {
+        const errorData = JSON.parse(errorText);
+        throw new Error(errorData.error || 'Failed to search similar content');
+      } catch (e) {
+        throw new Error(`Server error: ${errorText}`);
+      }
+    }
+
+    return response.json();
+  } catch (error) {
+    console.error('Search similar content error:', error);
+    throw error;
+  }
+}
+
+export async function checkEmbeddingStatus(documentId: string): Promise<EmbeddingStatus> {
+  const url = `${API_BASE_URL}/search/status/${documentId}/`;
+  logApiCall(url, 'GET');
+
+  try {
+    const response = await fetch(url);
+
+    if (!response.ok) {
+      const errorText = await response.text();
+      console.error('Embedding status error response:', errorText);
+      try {
+        const errorData = JSON.parse(errorText);
+        throw new Error(errorData.error || 'Failed to check embedding status');
+      } catch (e) {
+        throw new Error(`Server error: ${errorText}`);
+      }
+    }
+
+    return response.json();
+  } catch (error) {
+    console.error('Check embedding status error:', error);
+    throw error;
+  }
+}

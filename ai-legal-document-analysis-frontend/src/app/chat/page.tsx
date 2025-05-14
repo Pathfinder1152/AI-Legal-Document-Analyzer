@@ -24,8 +24,13 @@ import {
   uploadDocument, 
   getDocumentStatus, 
   getDocument, 
-  sendChatMessage 
+  sendChatMessage,
+  checkEmbeddingStatus,
+  embedDocument,
+  searchSimilarContent,
+  SimilarChunk
 } from "@/lib/api";
+import { TextChunkViewer } from "@/components/document/TextChunkViewer";
 
 // Define types
 type Message = {
@@ -63,8 +68,7 @@ type Annotation = {
   description?: string;
 };
 
-export default function ChatPage() {
-  // State management
+export default function ChatPage() {  // State management
   const [messages, setMessages] = useState<Message[]>([
     {
       id: "welcome",
@@ -81,6 +85,16 @@ export default function ChatPage() {
   const [activeDocument, setActiveDocument] = useState<Document | null>(null);
   const [selectedAnnotation, setSelectedAnnotation] = useState<Annotation | null>(null);
   const [viewMode, setViewMode] = useState<"chat" | "document">("chat");
+  
+  // Semantic search state
+  const [isEmbedded, setIsEmbedded] = useState<boolean>(false);
+  const [isEmbedding, setIsEmbedding] = useState<boolean>(false);
+  const [embedError, setEmbedError] = useState<string | null>(null);
+  const [semanticSearchQuery, setSemanticSearchQuery] = useState<string>("");
+  const [searchResults, setSearchResults] = useState<SimilarChunk[]>([]);  const [isSearching, setIsSearching] = useState<boolean>(false);
+  const [highlightText, setHighlightText] = useState<string | null>(null);
+  const [viewerOpen, setViewerOpen] = useState<boolean>(false);
+  const [selectedChunk, setSelectedChunk] = useState<SimilarChunk | null>(null);
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
@@ -330,9 +344,8 @@ export default function ChatPage() {
       }
     });
   };
-
   // Handle opening document to view
-  const handleOpenDocument = (document: Document) => {
+  const handleOpenDocument = async (document: Document) => {
     if (document.status !== "analyzed") {
       // toast({
       //   title: "Document not ready",
@@ -344,6 +357,18 @@ export default function ChatPage() {
 
     setActiveDocument(document);
     setViewMode("document");
+    
+    // Check if document is already embedded for semantic search
+    try {
+      setIsEmbedding(true);
+      const status = await checkEmbeddingStatus(document.id);
+      setIsEmbedded(status.isEmbedded);
+    } catch (err) {
+      console.error('Error checking embedding status:', err);
+      setIsEmbedded(false);
+    } finally {
+      setIsEmbedding(false);
+    }
   };
 
   // Handle selecting annotation
@@ -392,19 +417,78 @@ export default function ChatPage() {
     }
 
     // Get all annotations for the document
-    const annotations = activeDocument.annotations || [];
-
-    // Create a highlighted version of the document content
+    const annotations = activeDocument.annotations || [];    // Create a highlighted version of the document content
     const renderHighlightedContent = () => {
       const content = activeDocument.content || "";
       
-      // If no annotations, just show the plain text
+      // If no annotations, just show the plain text with possible semantic search highlighting
       if (annotations.length === 0) {
-        return content.split("\n").map((paragraph, idx) => (
-          <p key={idx} className="leading-relaxed mb-4">
-            {paragraph}
-          </p>
-        ));
+        // If there's no semantic search highlight, just return plain text
+        if (!highlightText) {
+          return content.split("\n").map((paragraph, idx) => (
+            <p key={idx} className="leading-relaxed mb-4">
+              {paragraph}
+            </p>
+          ));
+        }
+          // If there's a semantic search highlight, highlight all occurrences
+        return content.split("\n").map((paragraph, paragraphIdx) => {
+          if (!paragraph.toLowerCase().includes(highlightText.toLowerCase())) {
+            return (
+              <p key={paragraphIdx} className="leading-relaxed mb-4">
+                {paragraph}
+              </p>
+            );
+          }
+          
+          // Paragraph contains the highlight text - parse and highlight it
+          const parts = [];
+          const lowerParagraph = paragraph.toLowerCase();
+          const lowerHighlight = highlightText.toLowerCase();
+          let lastIdx = 0;
+          
+          let currentPos = 0;
+          while (currentPos < lowerParagraph.length) {
+            const foundIdx = lowerParagraph.indexOf(lowerHighlight, currentPos);
+            if (foundIdx === -1) break;
+            
+            // Add text before match
+            if (foundIdx > lastIdx) {
+              parts.push(
+                <span key={`pre-${paragraphIdx}-${lastIdx}`}>
+                  {paragraph.substring(lastIdx, foundIdx)}
+                </span>
+              );
+            }
+            
+            // Add highlighted match
+            parts.push(
+              <span
+                key={`highlight-${paragraphIdx}-${foundIdx}`}
+                className="bg-amber-300/70 dark:bg-amber-600/50 px-0.5 rounded"
+              >
+                {paragraph.substring(foundIdx, foundIdx + highlightText.length)}
+              </span>
+            );
+            
+            lastIdx = foundIdx + highlightText.length;
+            currentPos = lastIdx;
+          }
+            // Add any remaining text
+          if (lastIdx < paragraph.length) {
+            parts.push(
+              <span key={`post-${paragraphIdx}-${lastIdx}`}>
+                {paragraph.substring(lastIdx)}
+              </span>
+            );
+          }
+          
+          return (
+            <p key={paragraphIdx} className="leading-relaxed mb-4">
+              {parts}
+            </p>
+          );
+        });
       }
 
       // Sort annotations by their position in the document
@@ -524,11 +608,16 @@ export default function ChatPage() {
       });
     };
 
-    return (
-      <div className="p-4 bg-white dark:bg-gray-900 rounded-lg shadow h-full flex flex-col">
+    return (      <div className="p-4 bg-white dark:bg-gray-900 rounded-lg shadow h-full flex flex-col">
         <div className="flex justify-between items-center mb-4">
           <h2 className="text-xl font-medium">{activeDocument.name}</h2>
           <div className="flex space-x-3">
+            {isEmbedded && (
+              <div className="flex items-center">
+                <div className="w-2 h-2 bg-green-500 rounded-full mr-2"></div>
+                <span className="text-xs text-green-600 dark:text-green-400">Semantic Search Enabled</span>
+              </div>
+            )}
             <Button
               variant="outline"
               size="sm"
@@ -538,6 +627,67 @@ export default function ChatPage() {
             </Button>
           </div>
         </div>
+        
+        {!isEmbedded && activeDocument.status === 'analyzed' && (
+          <div className="mb-4 p-3 bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="h-5 w-5 text-blue-500 mr-2"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                  />
+                </svg>
+                <p className="text-sm text-blue-700 dark:text-blue-300">
+                  Enable semantic search to find similar content within this document
+                </p>
+              </div>
+              <Button 
+                size="sm"
+                onClick={() => {
+                  if (activeDocument) {
+                    setIsEmbedding(true);
+                    setEmbedError(null);
+                    
+                    embedDocument(activeDocument.id)
+                      .then(() => {
+                        setIsEmbedded(true);
+                      })
+                      .catch(err => {
+                        console.error('Error embedding document:', err);
+                        setEmbedError(err instanceof Error ? err.message : 'Failed to embed document');
+                      })
+                      .finally(() => {
+                        setIsEmbedding(false);
+                      });
+                  }
+                }}
+                disabled={isEmbedding}
+                className="bg-blue-600 hover:bg-blue-700 text-white"
+              >
+                {isEmbedding ? (
+                  <>
+                    <div className="mr-2 h-4 w-4 animate-spin rounded-full border-2 border-t-transparent"></div>
+                    Processing...
+                  </>
+                ) : 'Enable'}
+              </Button>
+            </div>
+            {embedError && (
+              <p className="text-sm text-red-600 dark:text-red-400 mt-2">
+                Error: {embedError}
+              </p>
+            )}
+          </div>
+        )}
         
         <div className="flex flex-col md:flex-row gap-6 flex-grow">
           {/* Document content with highlighted annotations */}
@@ -646,9 +796,9 @@ export default function ChatPage() {
           <div className="lg:col-span-1">
             <Card className="h-full">
               <CardContent className="p-4">
-                <SimpleTabs defaultValue="documents">
-                  <SimpleTabsList className="grid grid-cols-2 mb-4">
+                <SimpleTabs defaultValue="documents">                  <SimpleTabsList className="grid grid-cols-3 mb-4">
                     <SimpleTabsTrigger value="documents">Documents</SimpleTabsTrigger>
+                    <SimpleTabsTrigger value="semantic">Semantic</SimpleTabsTrigger>
                     <SimpleTabsTrigger value="history">History</SimpleTabsTrigger>
                   </SimpleTabsList>
 
@@ -816,7 +966,194 @@ export default function ChatPage() {
                             </div>
                           ))}
                         </div>
-                      </SimpleScrollArea>
+                      </SimpleScrollArea>                    )}
+                  </SimpleTabsContent>
+                  
+                  <SimpleTabsContent value="semantic" className="h-[500px]">
+                    <div className="flex justify-between items-center mb-4">
+                      <h3 className="font-medium text-sm text-muted-foreground">
+                        SEMANTIC SEARCH
+                      </h3>
+                    </div>
+                    
+                    {activeDocument ? (
+                      <>
+                        {!isEmbedded ? (
+                          <div className="flex flex-col items-center justify-center h-[400px] border border-dashed border-gray-300 dark:border-gray-700 rounded-lg p-6 text-center">
+                            <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              className="h-12 w-12 text-gray-400 mb-4"
+                              fill="none"
+                              viewBox="0 0 24 24"
+                              stroke="currentColor"
+                            >
+                              <path
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                                strokeWidth={2}
+                                d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"
+                              />
+                            </svg>
+                            <h4 className="text-lg font-medium mb-2">Enable Semantic Search</h4>
+                            <p className="text-sm text-muted-foreground mb-4">
+                              Process this document for advanced semantic search capabilities
+                            </p>
+                            <Button
+                              onClick={() => {
+                                if (activeDocument) {
+                                  // Start embedding process
+                                  setIsEmbedding(true);
+                                  setEmbedError(null);
+                                  
+                                  embedDocument(activeDocument.id)
+                                    .then(() => {
+                                      setIsEmbedded(true);
+                                    })
+                                    .catch(err => {
+                                      console.error('Error embedding document:', err);
+                                      setEmbedError(err instanceof Error ? err.message : 'Failed to embed document');
+                                    })
+                                    .finally(() => {
+                                      setIsEmbedding(false);
+                                    });
+                                }
+                              }}
+                              disabled={isEmbedding || !activeDocument}
+                              className="mt-2"
+                            >
+                              {isEmbedding ? (
+                                <>
+                                  <div className="mr-2 h-4 w-4 animate-spin rounded-full border-2 border-t-transparent"></div>
+                                  Processing...
+                                </>
+                              ) : 'Enable Semantic Search'}
+                            </Button>
+                            {embedError && (
+                              <p className="text-sm text-red-500 mt-2">{embedError}</p>
+                            )}
+                          </div>
+                        ) : (
+                          <div className="space-y-4">
+                            <div className="flex space-x-2">
+                              <input
+                                type="text"
+                                value={semanticSearchQuery}
+                                onChange={(e) => setSemanticSearchQuery(e.target.value)}
+                                placeholder="Search for concepts in the document..."
+                                className="flex-grow px-3 py-2 text-sm rounded-md border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900"
+                                disabled={isSearching}
+                              />
+                              <Button 
+                                onClick={() => {
+                                  if (activeDocument && semanticSearchQuery.trim()) {
+                                    setIsSearching(true);
+                                    searchSimilarContent(activeDocument.id, semanticSearchQuery.trim())
+                                      .then(response => {
+                                        setSearchResults(response.results);
+                                      })
+                                      .catch(err => {
+                                        console.error('Search error:', err);
+                                        setSearchResults([]);
+                                      })
+                                      .finally(() => {
+                                        setIsSearching(false);
+                                      });
+                                  }
+                                }}
+                                disabled={!semanticSearchQuery.trim() || isSearching}
+                              >
+                                {isSearching ? (
+                                  <>
+                                    <div className="mr-2 h-4 w-4 animate-spin rounded-full border-2 border-t-transparent"></div>
+                                    Searching...
+                                  </>
+                                ) : 'Search'}
+                              </Button>
+                            </div>
+                            
+                            <SimpleScrollArea className="h-[400px]">
+                              {isSearching ? (
+                                <div className="flex justify-center items-center py-12">
+                                  <div className="animate-spin rounded-full h-8 w-8 border-t-2 border-b-2 border-primary"></div>
+                                </div>
+                              ) : searchResults.length > 0 ? (
+                                <div className="space-y-3">
+                                  {searchResults.map((result, index) => (
+                                    <div 
+                                      key={index}
+                                      className="p-3 border rounded-md hover:bg-accent/50 cursor-pointer transition-colors"                                      onClick={() => {
+                                        // Show full text in viewer dialog
+                                        setSelectedChunk(result);
+                                        setViewerOpen(true);
+                                        
+                                        // Also highlight in document
+                                        setHighlightText(result.text);
+                                        // Switch to document view to see the highlight
+                                        if (viewMode !== "document") {
+                                          setViewMode("document");
+                                        }
+                                        // Clear highlight after a while
+                                        setTimeout(() => {
+                                          setHighlightText(null);
+                                        }, 5000);
+                                      }}
+                                    >
+                                      <div className="flex justify-between items-start mb-1">
+                                        <span className="text-xs font-medium text-muted-foreground">
+                                          {result.chunk_index !== undefined ? `Chunk #${result.chunk_index}` : `Match #${index + 1}`}
+                                        </span>
+                                        <span className="text-xs bg-primary/10 text-primary px-2 py-0.5 rounded-full">
+                                          {Math.round(result.score * 100)}% match
+                                        </span>
+                                      </div>
+                                      <p className="text-sm line-clamp-3">{result.text}</p>
+                                    </div>
+                                  ))}
+                                </div>
+                              ) : semanticSearchQuery ? (
+                                <div className="text-center py-8 text-sm text-muted-foreground">
+                                  No results found for your search
+                                </div>
+                              ) : (
+                                <div className="text-center py-8 text-sm text-muted-foreground">
+                                  Enter a search query to find semantically similar content
+                                </div>
+                              )}                            </SimpleScrollArea>
+                            
+                            {/* Dialog to view full text chunk */}
+                            {selectedChunk && (
+                              <TextChunkViewer
+                                isOpen={viewerOpen}
+                                onOpenChange={setViewerOpen}
+                                title={`Document Chunk ${selectedChunk.chunk_index !== undefined ? '#' + selectedChunk.chunk_index : ''}`}
+                                text={selectedChunk.text}
+                                score={selectedChunk.score}
+                              />
+                            )}
+                          </div>
+                        )}
+                      </>
+                    ) : (
+                      <div className="flex flex-col items-center justify-center h-[400px] border border-dashed border-gray-300 dark:border-gray-700 rounded-lg p-6 text-center">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          className="h-12 w-12 text-gray-400 mb-4"
+                          fill="none"
+                          viewBox="0 0 24 24"
+                          stroke="currentColor"
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
+                          />
+                        </svg>
+                        <h4 className="text-lg font-medium mb-2">No Document Selected</h4>
+                        <p className="text-sm text-muted-foreground">
+                          Please select a document to enable semantic search
+                        </p>
+                      </div>
                     )}
                   </SimpleTabsContent>
 

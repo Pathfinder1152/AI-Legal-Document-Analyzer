@@ -23,11 +23,13 @@ from .views import home  # Import the home view
 urlpatterns = [
     path('', home, name='home'),
     path('admin/', admin.site.urls),
-    path('api/', include('api.urls')),  
+    path('api/', include('api.urls')),
+    # Also include search app under the api prefix for consistency
+    path('api/search/', include('search.urls')),
     path('knowledge_graphs/', include('knowledge_graphs.urls')),
     path('nlp/', include('nlp.urls')),
     path('preprocessing/', include('preprocessing.urls')),
-    path('search/', include('search.urls')),
+    path('search/', include('search.urls')), # Keep original path for backward compatibility
 ]
 
 if settings.DEBUG:
