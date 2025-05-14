@@ -2,7 +2,7 @@ from django.http import JsonResponse
 from rest_framework.decorators import api_view, parser_classes
 from rest_framework.parsers import MultiPartParser, FormParser
 from .file_handler import save_uploaded_file, extract_text_from_file
-from .summarization import summarize_text
+from .summarization import recursive_summarize
 
 @api_view(["POST"])
 @parser_classes([MultiPartParser, FormParser])
@@ -23,7 +23,7 @@ def upload_and_summarize(request):
             return JsonResponse({"error": "Could not extract text from file"}, status=400)
 
         # Summarize the extracted text
-        summary = summarize_text(extracted_text)
+        summary = recursive_summarize(extracted_text)
 
         return JsonResponse({"summary": summary}, status=200)
     except Exception as e:

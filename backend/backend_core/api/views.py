@@ -22,6 +22,14 @@ client = OpenAI(api_key=settings.OPENAI_API_KEY)
 def test_api(request):
     return Response({"message": "Django API is working!"})
 
+@api_view(['GET', 'OPTIONS'])
+def health_check(request):
+    """
+    Simple health check endpoint to verify API is running.
+    Also supports CORS preflight checks.
+    """
+    return Response({"status": "ok", "message": "API server is running"})
+
 @api_view(['POST'])
 @parser_classes([MultiPartParser, FormParser])
 def upload_document(request):
@@ -203,43 +211,42 @@ def process_document(document_id):
         document.status = 'processing'
         document.save()
         
-        # Extract content from file (simplified)
+        # Extract content from file using our document processor
+        from nlp.document_processor import process_document_text
+        from nlp.legal_references import process_text_for_annotations
+        
         file_path = document.file.path
-        content = ""
         
-        # Simple content extraction based on file type
-        if document.file_type == 'text/plain':
-            with open(file_path, 'r', encoding='utf-8') as file:
-                content = file.read()
-        elif document.file_type.startswith('application/pdf'):
-            # Use a PDF parser library in a real application
-            try:
-                import PyPDF2
-                with open(file_path, 'rb') as pdf_file:
-                    reader = PyPDF2.PdfReader(pdf_file)
-                    content = ""
-                    for page_num in range(len(reader.pages)):
-                        content += reader.pages[page_num].extract_text() + "\n"
-            except Exception as e:
-                logger.error(f"Error extracting PDF content: {str(e)}")
-                content = "Error extracting PDF content. Please try another document."
-        elif document.file_type.startswith('application/'):
-            # Use appropriate document parser for other formats
-            try:
-                import docx
-                doc = docx.Document(file_path)
-                content = "\n".join([paragraph.text for paragraph in doc.paragraphs])
-            except Exception as e:
-                logger.error(f"Error extracting DOCX content: {str(e)}")
-                content = "Error extracting document content. Please try another document."
-        else:
-            content = "Document content could not be extracted. Unsupported format."
+        # Process the document to get raw and cleaned text
+        raw_text, cleaned_text = process_document_text(file_path)
         
-        document.content = content
+        if not cleaned_text:
+            document.content = "Error extracting document content. Please try another document."
+            document.status = 'error'
+            document.save()
+            return
+        
+        # Use the cleaned text for storage and processing
+        document.content = cleaned_text
         document.save()
         
-        # Analyze document with OpenAI to extract annotations
-        analyze_document_with_openai(document)
+        # Extract legal references from the text
+        legal_annotations = process_text_for_annotations(cleaned_text)
+        
+        # Save all the annotations to the database
+        for anno_data in legal_annotations:
+            annotation = Annotation(
+                document=document,
+                text=anno_data['text'],
+                category=anno_data['category'],
+                start_index=anno_data['startIndex'],
+                end_index=anno_data['endIndex'],
+                description=anno_data.get('description', '')
+            )
+            annotation.save()
+        
+        # Optionally, also run OpenAI analysis for additional annotations
+        # analyze_document_with_openai(document)
         
         document.status = 'analyzed'
         document.save()
