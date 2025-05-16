@@ -697,9 +697,8 @@ export default function ChatPage() {  // State management
         )}
         
         <div className="flex flex-col md:flex-row gap-6 flex-grow">
-          {/* Document content with highlighted annotations */}
-          <div className="md:w-2/3">
-            <h3 className="text-lg font-medium mb-3">Document Content</h3>
+          {/* Document content with highlighted annotations */}          <div className="md:w-2/3">
+            <h3 className="font-medium text-sm text-muted-foreground uppercase mb-3">Document Content</h3>
             <SimpleScrollArea className="h-[520px] border rounded-md p-4 bg-white dark:bg-gray-800">
               <div className="p-4 space-y-1">
                 {renderHighlightedContent()}
@@ -812,11 +811,9 @@ export default function ChatPage() {  // State management
           {/* Sidebar */}
           <div className="lg:col-span-1">
             <Card className="h-full">
-              <CardContent className="p-4">
-                <SimpleTabs defaultValue="documents">                  <SimpleTabsList className="grid grid-cols-3 mb-4">
+              <CardContent className="p-4">                <SimpleTabs defaultValue="documents">                  <SimpleTabsList className="grid grid-cols-2 mb-4">
                     <SimpleTabsTrigger value="documents">Documents</SimpleTabsTrigger>
                     <SimpleTabsTrigger value="semantic">Semantic</SimpleTabsTrigger>
-                    <SimpleTabsTrigger value="history">History</SimpleTabsTrigger>
                   </SimpleTabsList>
 
                   <SimpleTabsContent value="documents" className="space-y-4">
@@ -1049,19 +1046,16 @@ export default function ChatPage() {  // State management
                               <p className="text-sm text-red-500 mt-2">{embedError}</p>
                             )}
                           </div>
-                        ) : (
-                          <div className="space-y-4">
-                            <div className="flex space-x-2">
-                              <input
+                        ) : (                          <div className="space-y-4">                            <div className="flex flex-col space-y-2">                              <input
                                 type="text"
                                 value={semanticSearchQuery}
                                 onChange={(e) => setSemanticSearchQuery(e.target.value)}
-                                placeholder="Search for concepts in the document..."
-                                className="flex-grow px-3 py-2 text-sm rounded-md border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900"
+                                placeholder="Enter query..."
+                                className="w-full px-3 py-2 text-sm rounded-md border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900"
                                 disabled={isSearching}
-                              />
-                              <Button 
-                                onClick={() => {
+                              />                              <div className="flex">
+                                <Button 
+                                  onClick={() => {
                                   if (activeDocument && semanticSearchQuery.trim()) {
                                     setIsSearching(true);
                                     searchSimilarContent(activeDocument.id, semanticSearchQuery.trim())
@@ -1076,8 +1070,8 @@ export default function ChatPage() {  // State management
                                         setIsSearching(false);
                                       });
                                   }
-                                }}
-                                disabled={!semanticSearchQuery.trim() || isSearching}
+                                }}                                disabled={!semanticSearchQuery.trim() || isSearching}
+                                className="min-w-[80px] whitespace-nowrap"
                               >
                                 {isSearching ? (
                                   <>
@@ -1086,6 +1080,7 @@ export default function ChatPage() {  // State management
                                   </>
                                 ) : 'Search'}
                               </Button>
+                              </div>
                             </div>
                             
                             <SimpleScrollArea className="h-[400px]">
@@ -1170,54 +1165,7 @@ export default function ChatPage() {  // State management
                         <p className="text-sm text-muted-foreground">
                           Please select a document to enable semantic search
                         </p>
-                      </div>
-                    )}
-                  </SimpleTabsContent>
-
-                  <SimpleTabsContent value="history" className="h-[500px]">
-                    <div className="flex justify-between items-center mb-4">
-                      <h3 className="font-medium text-sm text-muted-foreground">
-                        CHAT HISTORY
-                      </h3>
-                      <Button size="sm" variant="ghost" className="h-8">
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          className="h-4 w-4 mr-1"
-                          fill="none"
-                          viewBox="0 0 24 24"
-                          stroke="currentColor"
-                        >
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={2}
-                            d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"
-                          />
-                        </svg>
-                        Clear
-                      </Button>
-                    </div>
-
-                    <SimpleScrollArea className="h-[460px]">
-                      <div className="space-y-2">
-                        {["Contract Analysis", "Terms Review", "Legal Research", "Privacy Policy"].map(
-                          (chat, index) => (
-                            <Button
-                              key={index}
-                              variant="ghost"
-                              className="w-full justify-start text-left h-auto py-2"
-                            >
-                              <div>
-                                <div className="font-medium text-sm">{chat}</div>
-                                <div className="text-xs text-muted-foreground">
-                                  {new Date().toLocaleDateString()}
-                                </div>
-                              </div>
-                            </Button>
-                          )
-                        )}
-                      </div>
-                    </SimpleScrollArea>
+                      </div>                    )}
                   </SimpleTabsContent>
                 </SimpleTabs>
               </CardContent>
