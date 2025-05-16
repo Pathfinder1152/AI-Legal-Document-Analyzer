@@ -51,7 +51,11 @@ LEGAL_REFERENCE_PATTERNS = [
     r"Consolidated version of the Treaty.*?\d{4}.*?OJ\s+C\d+/\d+",
     r"Council (Directive|Regulation).*?\[\d{4}\] OJ L\d+/\d+",
     r"\[\d{4}\]\s*ECR\s*[I|II]-\d+",
-    r"\d+\s+EHRR\s+\d+"
+    r"\d+\s+EHRR\s+\d+",
+    # Additional patterns for more comprehensive legal reference extraction
+    r"(?:s\.?|section)\s*\d+[A-Za-z]?\(?[^\)]*\)?(?:\(.*?\))?\s+of\s+the\s+Act",  # Pattern for "section X of the Act"
+    r"(?:sub)?section\s*\(\d+[A-Za-z]?\)",  # Pattern for "subsection (X)" references
+    r"(?:s\.?|section)\s*\d+[A-Za-z]?\(?[^\)]*\)?(?:\(.*?\))?\s+of\s+the\s+(?:[A-Za-z]+\s+)*Act(?:\s+\d{4})?"  # More flexible pattern for section references with Act names
 ]
 
 # Variables for cross-reference handling
