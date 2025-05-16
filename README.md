@@ -11,6 +11,10 @@ An advanced web application that helps users upload legal documents, analyze the
   - Parties involved
   - Obligations
   - Conditions
+- AI-powered clause classification using RoBERTa model (LEDGAR dataset)
+  - Identifies 20 different clause types in legal documents
+  - Shows clause types in tooltips and annotation details
+  - Displays confidence scores for classification results
 - Chat with AI about document content
 - Select specific clauses to ask targeted questions
 - Interactive document viewer with annotations
@@ -57,13 +61,19 @@ The project consists of two main components:
    - Copy `.env.example` to `.env`
    - Add your OpenAI API key to the `.env` file
 
-7. Apply migrations:
+7. Set up the clause classification model:
+   - Extract the RoBERTa model files to `backend/backend_core/models/clause_classifier/`
+   - On Windows, use the provided script: `extract_model.bat path\to\model_zip_file.zip`
+   - Alternatively, manually extract the model files to the directory
+   - Test the model with: `python test_classifier.py`
+
+8. Apply migrations:
    ```
    cd backend_core
    python manage.py migrate
    ```
 
-8. Run the development server:
+9. Run the development server:
    ```
    python manage.py runserver
    ```

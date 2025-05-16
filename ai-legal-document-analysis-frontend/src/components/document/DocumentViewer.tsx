@@ -213,17 +213,43 @@ export const DocumentViewer: React.FC<DocumentViewerProps> = ({
           {document.content.substring(lastIndex, annotation.startIndex)}
         </span>
       );
-    }
-
-    // Add the highlighted annotation
+    }    // Add the highlighted annotation
     const isActive = activeAnnotation === annotation.id;
-    segments.push(
+      // Create custom tooltip component for better formatting
+    const tooltipContent = (
+      <div className="tooltip-content">
+        <div>{annotation.description || annotation.category}</div>
+        {annotation.clause_type && annotation.clause_type !== 'unknown' && (
+          <div className="mt-1 pt-1 border-t border-gray-600">
+            <span className="font-medium">Clause Type:</span>{" "}
+            {annotation.clause_type.replace('_', ' ')}
+            {annotation.clause_confidence && (
+              <span className="ml-1 opacity-75">
+                ({Math.round(annotation.clause_confidence * 100)}%)
+              </span>
+            )}
+          </div>
+        )}
+      </div>
+    );
+    
+    // For browsers/environments that don't support JSX in title, fallback to plain text
+    let tooltipText = annotation.description || annotation.category;
+    if (annotation.clause_type && annotation.clause_type !== 'unknown') {
+      const confidencePercent = annotation.clause_confidence 
+        ? Math.round(annotation.clause_confidence * 100)
+        : null;
+      
+      tooltipText = `${tooltipText}\nClause Type: ${annotation.clause_type.replace('_', ' ')}` + 
+        (confidencePercent ? ` (${confidencePercent}%)` : '');
+    }
+      segments.push(
       <span
         key={`annotation-${annotation.id}`}
-        className={`${getAnnotationColor(annotation.category)} cursor-pointer transition-colors px-0.5 rounded ${
+        className={`${getAnnotationColor(annotation.category)} cursor-pointer transition-colors px-0.5 rounded relative group ${
           isActive ? 'ring-2 ring-offset-1 ring-blue-500' : ''
-        }`}
-        title={annotation.description || annotation.category}
+        } ${annotation.clause_type && annotation.clause_type !== 'unknown' ? 'border-b border-dotted border-blue-500' : ''}`}
+        title={tooltipText}
         onClick={() => {
           setActiveAnnotation(isActive ? null : annotation.id);
           onAnnotationClick?.(annotation);

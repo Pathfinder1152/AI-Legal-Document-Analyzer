@@ -149,8 +149,7 @@ export default function DocumentViewPage() {
                     <TabsContent value="annotations" className="pt-4">
                       <div className="border border-gray-200 dark:border-gray-800 rounded-lg p-4 bg-white dark:bg-gray-950">
                         <h3 className="text-lg font-semibold mb-4">Annotation Details</h3>
-                        
-                        {selectedAnnotation ? (
+                          {selectedAnnotation ? (
                           <div>
                             <p className="text-sm mb-2">
                               <span className="font-medium">Type:</span> {selectedAnnotation.category}
@@ -159,9 +158,23 @@ export default function DocumentViewPage() {
                               <span className="font-medium">Text:</span> {selectedAnnotation.text}
                             </p>
                             {selectedAnnotation.description && (
-                              <p className="text-sm">
+                              <p className="text-sm mb-2">
                                 <span className="font-medium">Description:</span> {selectedAnnotation.description}
                               </p>
+                            )}
+                            {selectedAnnotation.clause_type && selectedAnnotation.clause_type !== 'unknown' && (
+                              <div className="text-sm mb-2 p-2 bg-blue-50 dark:bg-blue-900/20 rounded border border-blue-100 dark:border-blue-800">
+                                <p className="font-medium text-blue-700 dark:text-blue-300">Clause Classification:</p>
+                                <p className="mt-1">{selectedAnnotation.clause_type.replace('_', ' ')}</p>
+                                {selectedAnnotation.clause_confidence && (
+                                  <div className="mt-2 w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2.5">
+                                    <div 
+                                      className="bg-blue-600 h-2.5 rounded-full" 
+                                      style={{ width: `${Math.round(selectedAnnotation.clause_confidence * 100)}%` }}
+                                    ></div>
+                                  </div>
+                                )}
+                              </div>
                             )}
                             
                             {!isEmbedded && (

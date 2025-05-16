@@ -1,6 +1,7 @@
 from django.urls import path
 from .views import test_api, health_check
 from .views import upload_document, get_document_status, get_document, chat_with_document, debug_info
+from .clause_classification import classify_clause, classify_clauses_batch
 
 urlpatterns = [
     path('test/', test_api, name='test_api'),
@@ -10,4 +11,6 @@ urlpatterns = [
     path('documents/<str:document_id>/status/', get_document_status, name='get_document_status'),
     path('documents/<str:document_id>/', get_document, name='get_document'),
     path('chat/', chat_with_document, name='chat_with_document'),
+    path('classify-clause/', classify_clause, name='classify_clause'),
+    path('classify-clauses-batch/', classify_clauses_batch, name='classify_clauses_batch'),
 ]

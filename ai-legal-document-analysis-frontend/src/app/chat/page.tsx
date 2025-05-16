@@ -66,6 +66,8 @@ type Annotation = {
   startIndex: number;
   endIndex: number;
   description?: string;
+  clause_type?: string;
+  clause_confidence?: number;
 };
 
 export default function ChatPage() {  // State management
@@ -574,15 +576,20 @@ export default function ChatPage() {  // State management
 
           // Add highlighted annotation with tooltip
           if (annoStart < annoEnd) {
-            paragraphChunks.push(
-              <span
+            paragraphChunks.push(              <span
                 key={`anno-${annotation.id}`}
                 className={`relative cursor-pointer group ${getCategoryClass(annotation.category)}`}
                 onClick={() => handleSelectAnnotation(annotation)}
               >
                 {paragraph.substring(annoStart, annoEnd)}
-                <span className="hidden group-hover:block absolute bottom-full left-0 bg-black text-white text-xs rounded py-1 px-2 whitespace-nowrap z-10">
+                <span className="hidden group-hover:block absolute bottom-full left-1/2 transform -translate-x-1/2 mb-1 bg-black text-white text-xs rounded py-1 px-2 whitespace-nowrap z-50 pointer-events-none">
                   {annotation.category.replace("_", " ")}{annotation.description ? `: ${annotation.description}` : ""}
+                  {annotation.clause_type && annotation.clause_type !== 'unknown' ? (
+                    <span className="block mt-1 border-t border-gray-600 pt-1">
+                      Clause Type: {annotation.clause_type.replace('_', ' ')}
+                      {annotation.clause_confidence && ` (${Math.round(annotation.clause_confidence * 100)}%)`}
+                    </span>
+                  ) : null}
                 </span>
               </span>
             );
@@ -750,8 +757,7 @@ export default function ChatPage() {  // State management
                                 key={annotation.id}
                                 className="p-3 border rounded-md cursor-pointer hover:bg-blue-50 dark:hover:bg-blue-900/20"
                                 onClick={() => handleSelectAnnotation(annotation)}
-                              >
-                                <div className="flex items-center">
+                              >                                <div className="flex items-center">
                                   <span className={`inline-block w-2 h-2 rounded-full mr-2 ${
                                     annotation.category === "legal_term" ? "bg-blue-500" :
                                     annotation.category === "date" ? "bg-green-500" :
@@ -764,6 +770,17 @@ export default function ChatPage() {  // State management
                                 </div>
                                 {annotation.description && (
                                   <p className="text-sm text-muted-foreground mt-1 ml-4">{annotation.description}</p>
+                                )}
+                                {annotation.clause_type && annotation.clause_type !== 'unknown' && (
+                                  <div className="mt-2 ml-4 text-xs bg-blue-50 dark:bg-blue-900/30 text-blue-800 dark:text-blue-200 px-2 py-1 rounded inline-flex items-center">
+                                    <span className="w-2 h-2 bg-blue-500 rounded-full mr-1"></span>
+                                    {annotation.clause_type.replace('_', ' ')}
+                                    {annotation.clause_confidence && (
+                                      <span className="ml-1 opacity-75">
+                                        ({Math.round(annotation.clause_confidence * 100)}%)
+                                      </span>
+                                    )}
+                                  </div>
                                 )}
                               </div>
                             ))}

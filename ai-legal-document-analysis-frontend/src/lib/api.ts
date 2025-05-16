@@ -28,6 +28,8 @@ export interface Annotation {
   startIndex: number;
   endIndex: number;
   description?: string;
+  clause_type?: string;
+  clause_confidence?: number;
 }
 
 export interface Document {

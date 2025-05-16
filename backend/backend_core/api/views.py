@@ -102,14 +102,15 @@ def get_document(request, document_id):
             'name': document.name,
             'status': document.status,
             'content': document.content,
-            'annotations': [
-                {
+            'annotations': [                {
                     'id': str(anno.id),  # Convert UUID to string
                     'text': anno.text,
                     'category': anno.category,
                     'startIndex': anno.start_index,
                     'endIndex': anno.end_index,
-                    'description': anno.description
+                    'description': anno.description,
+                    'clause_type': anno.clause_type,
+                    'clause_confidence': anno.clause_confidence
                 }
                 for anno in annotations
             ]
@@ -230,19 +231,48 @@ def process_document(document_id):
         # Use the cleaned text for storage and processing
         document.content = cleaned_text
         document.save()
-        
-        # Extract legal references from the text
+          # Extract legal references from the text
         legal_annotations = process_text_for_annotations(cleaned_text)
         
-        # Save all the annotations to the database
-        for anno_data in legal_annotations:
+        # Get the clause classifier for batch classification
+        from models.clause_classifier.classifier import get_classifier
+        classifier = get_classifier()
+        
+        # Prepare texts for batch classification
+        annotation_texts = [anno_data['text'] for anno_data in legal_annotations]
+        
+        # Classify all annotations in a batch (if they exist)
+        clause_classifications = []
+        if annotation_texts:
+            try:
+                # Load the classifier if not already loaded
+                if not classifier.loaded:
+                    classifier.load()
+                # Classify all texts in batch
+                clause_classifications = classifier.classify_batch(annotation_texts)
+            except Exception as e:
+                logger.error(f"Error classifying clauses: {str(e)}")
+                # Continue even if classification fails
+                clause_classifications = [{"clause_type": "unknown", "confidence": 0.0} for _ in annotation_texts]
+        
+        # Save all the annotations to the database with clause classifications
+        for i, anno_data in enumerate(legal_annotations):
+            # Get classification if available
+            clause_type = None
+            clause_confidence = None
+            if i < len(clause_classifications):
+                clause_type = clause_classifications[i].get("clause_type")
+                clause_confidence = clause_classifications[i].get("confidence")
+                
             annotation = Annotation(
                 document=document,
                 text=anno_data['text'],
                 category=anno_data['category'],
                 start_index=anno_data['startIndex'],
                 end_index=anno_data['endIndex'],
-                description=anno_data.get('description', '')
+                description=anno_data.get('description', ''),
+                clause_type=clause_type,
+                clause_confidence=clause_confidence
             )
             annotation.save()
         

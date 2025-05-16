@@ -11,3 +11,5 @@ myenv/
 .env.*
 .DS_Store
 !.env.example
+
+backend/backend_core/models

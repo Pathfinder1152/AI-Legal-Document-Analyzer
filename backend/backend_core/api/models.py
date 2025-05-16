@@ -58,6 +58,8 @@ class Annotation(models.Model):
     start_index = models.IntegerField()
     end_index = models.IntegerField()
     description = models.TextField(blank=True, null=True)
+    clause_type = models.CharField(max_length=50, blank=True, null=True, help_text="LEDGAR clause type classification")
+    clause_confidence = models.FloatField(blank=True, null=True, help_text="Confidence score for clause type classification")
     created_date = models.DateTimeField(auto_now_add=True)
     
     def __str__(self):
