@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useRef, useEffect } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -28,10 +28,12 @@ import {
   checkEmbeddingStatus,
   embedDocument,
   searchSimilarContent,
-  SimilarChunk
+  SimilarChunk,
+  StoredChatMessage
 } from "@/lib/api";
 import { TextChunkViewer } from "@/components/document/TextChunkViewer";
 import { ProtectedRoute } from "@/components/auth/protected-route";
+import { useChatHistory } from "@/components/document/useChatHistory";
 
 // Define types
 type Message = {
@@ -71,7 +73,7 @@ type Annotation = {
   clause_confidence?: number;
 };
 
-function ChatPage() {  // State management
+function ChatPage(): JSX.Element {  // State management
   const [messages, setMessages] = useState<Message[]>([
     {
       id: "welcome",
@@ -88,6 +90,7 @@ function ChatPage() {  // State management
   const [activeDocument, setActiveDocument] = useState<Document | null>(null);
   const [selectedAnnotation, setSelectedAnnotation] = useState<Annotation | null>(null);
   const [viewMode, setViewMode] = useState<"chat" | "document">("chat");
+  const [loadingChatHistory, setLoadingChatHistory] = useState<boolean>(false);
   
   // Semantic search state
   const [isEmbedded, setIsEmbedded] = useState<boolean>(false);
@@ -100,12 +103,57 @@ function ChatPage() {  // State management
   const [viewerOpen, setViewerOpen] = useState<boolean>(false);
   const [selectedChunk, setSelectedChunk] = useState<SimilarChunk | null>(null);
 
+  // Use chat history hook to fetch message history when document is selected
+  const { 
+    history: chatHistory, 
+    loading: chatHistoryLoading, 
+    error: chatHistoryError,
+    refresh: refreshChatHistory
+  } = useChatHistory({ 
+    documentId: activeDocument?.id || null,
+    enabled: !!activeDocument?.id
+  });
+
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   // Auto-scroll to bottom when new messages arrive
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
+  // Update messages when chat history changes
+  useEffect(() => {
+    if (chatHistory.length > 0 && activeDocument) {
+      console.log(`Loading chat history for document ${activeDocument.id}: ${chatHistory.length} messages found`);
+      // Convert stored chat messages to the Message format used in the component
+      const historyMessages: Message[] = chatHistory.map(msg => ({
+        id: msg.id,
+        content: msg.content,
+        role: msg.role === 'assistant' ? 'assistant' : 'user',
+        timestamp: new Date(msg.timestamp),
+        selectedText: msg.selected_text,
+        sources: msg.sources
+      }));
+
+      // Add welcome message and document selection message
+      const welcomeMessage: Message = {
+        id: "welcome-doc",
+        content: `You're now viewing document "${activeDocument.name}". You can ask questions about this document or select text to get specific insights.`,
+        role: "assistant",
+        timestamp: new Date(),
+      };
+
+      // Replace messages with history plus welcome message
+      setMessages([...historyMessages, welcomeMessage]);
+    } else if (activeDocument && chatHistory.length === 0) {
+      // No history but document selected - just show welcome message
+      setMessages([{
+        id: "welcome-doc",
+        content: `You're now viewing document "${activeDocument.name}". You can ask questions about this document or select text to get specific insights.`,
+        role: "assistant",
+        timestamp: new Date(),
+      }]);
+    }
+  }, [chatHistory, activeDocument]);
 
   // Send message to chatbot
   const handleSendMessage = async () => {
@@ -118,13 +166,11 @@ function ChatPage() {  // State management
       role: "user",
       timestamp: new Date(),
       selectedText: selectedAnnotation?.text,
-    };
-
-    // Update messages with user message
+    };    // Update messages with user message
     setMessages((prev) => [...prev, userMessage]);
     setInputValue("");
     setIsProcessing(true);
-
+    
     try {
       // Get the last 10 messages for context
       const recentMessages = messages.slice(-10).map(msg => ({
@@ -140,6 +186,11 @@ function ChatPage() {  // State management
         selectedAnnotation?.text,
         recentMessages
       );
+      
+      // After sending the message, refresh chat history if we have an active document
+      if (activeDocument?.id) {
+        refreshChatHistory();
+      }
 
       // Create AI response message
       const aiResponse: Message = {
@@ -166,7 +217,6 @@ function ChatPage() {  // State management
       setSelectedAnnotation(null); // Clear selected annotation after sending
     }
   };
-
   // Handle file upload
   const handleFileUpload = async (event: React.ChangeEvent<HTMLInputElement>) => {
     const files = event.target.files;
@@ -344,39 +394,40 @@ function ChatPage() {  // State management
           timestamp: new Date(),
         };
 
-        setMessages((prev) => [...prev, errorMessage]);
-      }
+        setMessages((prev) => [...prev, errorMessage]);      }
     });
-  };
-  // Handle opening document to view
-  const handleOpenDocument = async (document: Document) => {
-    if (document.status !== "analyzed") {
+  };  
+    // Handle opening document to view  
+  const handleOpenDocument = async (doc: Document) => {
+    if (doc.status !== "analyzed") {
       // toast({
       //   title: "Document not ready",
       //   description: "The document is still being processed. Please wait for analysis to complete.",
       //   variant: "destructive",
       // });
       return;
-    }
-
-    setActiveDocument(document);
+    }    setActiveDocument(doc);
     setViewMode("document");
+    setLoadingChatHistory(true);
     
     // Check if document is already embedded for semantic search
     try {
       setIsEmbedding(true);
-      const status = await checkEmbeddingStatus(document.id);
+      const status = await checkEmbeddingStatus(doc.id);
       setIsEmbedded(status.isEmbedded);
     } catch (err) {
       console.error('Error checking embedding status:', err);
       setIsEmbedded(false);
     } finally {
       setIsEmbedding(false);
+      setLoadingChatHistory(false);
     }
+    
+    // Chat history will be loaded through the useChatHistory hook's useEffect
+    // which will trigger when activeDocument changes
   };
-
   // Handle selecting annotation
-  const handleSelectAnnotation = (annotation: Annotation) => {
+  const handleSelectAnnotation = (annotation: Annotation): void => {
     setSelectedAnnotation(annotation);
     setViewMode("chat");
     
@@ -398,10 +449,9 @@ function ChatPage() {  // State management
     else if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(1) + " KB";
     else return (bytes / (1024 * 1024)).toFixed(1) + " MB";
   };
-
   // Remove document from list
   const removeDocument = (id: string) => {
-    setDocuments(documents.filter((doc) => doc.id !== id));
+    setDocuments((prevDocuments) => prevDocuments.filter((doc: Document) => doc.id !== id));
     
     // If removing active document, reset view
     if (activeDocument?.id === id) {
@@ -427,18 +477,18 @@ function ChatPage() {  // State management
       const content = activeDocument.content || "";
       
       // If no annotations, just show the plain text with possible semantic search highlighting
-      if (annotations.length === 0) {
-        // If there's no semantic search highlight, just return plain text
+      if (annotations.length === 0) {        // If there's no semantic search highlight, just return plain text
         if (!highlightText) {
-          return content.split("\n").map((paragraph, idx) => (
+          return content.split("\n").map((paragraph: string, idx: number) => (
             <p key={idx} className="leading-relaxed mb-4">
               {paragraph}
             </p>
           ));
         }
-          // If there's a semantic search highlight, highlight all occurrences
-        return content.split("\n").map((paragraph, paragraphIdx) => {
-          if (!paragraph.toLowerCase().includes(highlightText.toLowerCase())) {
+        
+        // If there's a semantic search highlight, highlight all occurrences
+        return content.split("\n").map((paragraph: string, paragraphIdx: number) => {
+          if (!highlightText || !paragraph.toLowerCase().includes(highlightText.toLowerCase())) {
             return (
               <p key={paragraphIdx} className="leading-relaxed mb-4">
                 {paragraph}
@@ -523,9 +573,7 @@ function ChatPage() {  // State management
 
       // Process each paragraph separately to maintain document structure
       const paragraphs = content.split("\n");
-      let currentCharIndex = 0;
-
-      return paragraphs.map((paragraph, paragraphIdx) => {
+      let currentCharIndex = 0;      return paragraphs.map((paragraph: string, paragraphIdx: number) => {
         if (!paragraph.trim()) {
           currentCharIndex += paragraph.length + 1; // +1 for the newline
           return <p key={`p-${paragraphIdx}`} className="mb-4">&nbsp;</p>;
@@ -537,7 +585,7 @@ function ChatPage() {  // State management
 
         // Find annotations that intersect with this paragraph
         const paragraphAnnotations = sortedAnnotations.filter(
-          anno => 
+          (anno: Annotation) => 
             (anno.startIndex >= paragraphStart && anno.startIndex < paragraphEnd) || 
             (anno.endIndex > paragraphStart && anno.endIndex <= paragraphEnd) ||
             (anno.startIndex <= paragraphStart && anno.endIndex >= paragraphEnd)
@@ -629,7 +677,8 @@ function ChatPage() {  // State management
                 <div className="w-2 h-2 bg-green-500 rounded-full mr-2"></div>
                 <span className="text-xs text-green-600 dark:text-green-400">Semantic Search Enabled</span>
               </div>
-            )}
+            )
+            }
             <Button
               variant="outline"
               size="sm"
@@ -748,7 +797,7 @@ function ChatPage() {  // State management
 
                     {/* Group annotations by category */}
                     {["legal_term", "date", "party", "obligation", "condition", "other"].map((category) => {
-                      const categoryAnnotations = annotations.filter(a => a.category === category);
+                      const categoryAnnotations = annotations.filter((a: Annotation) => a.category === category);
                       if (categoryAnnotations.length === 0) return null;
                       
                       return (
@@ -756,8 +805,7 @@ function ChatPage() {  // State management
                           <h4 className="font-medium text-sm mb-2 capitalize">
                             {category.replace("_", " ")}s
                           </h4>
-                          <div className="space-y-2">
-                            {categoryAnnotations.map((annotation) => (
+                          <div className="space-y-2">                            {categoryAnnotations.map((annotation: Annotation) => (
                               <div
                                 key={annotation.id}
                                 className="p-3 border rounded-md cursor-pointer hover:bg-blue-50 dark:hover:bg-blue-900/20"
@@ -930,7 +978,7 @@ function ChatPage() {  // State management
                                       strokeLinecap="round"
                                       strokeLinejoin="round"
                                       strokeWidth={2}
-                                      d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
+                                      d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 01-2-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
                                     />
                                   </svg>
                                 </div>
@@ -1175,7 +1223,7 @@ function ChatPage() {  // State management
                             strokeLinecap="round"
                             strokeLinejoin="round"
                             strokeWidth={2}
-                            d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
+                            d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 01-2-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
                           />
                         </svg>
                         <h4 className="text-lg font-medium mb-2">No Document Selected</h4>
@@ -1193,13 +1241,68 @@ function ChatPage() {  // State management
           {/* Main Area (Chat or Document View) */}
           <div className="lg:col-span-3">
             <Card className="h-full flex flex-col">
-              <CardContent className="p-4 flex-grow flex flex-col">
-                {viewMode === "chat" ? (
+              <CardContent className="p-4 flex-grow flex flex-col">                {viewMode === "chat" ? (
                   // Chat View
                   <>
+                    {/* Chat header with refresh button */}
+                    {activeDocument && (
+                      <div className="flex justify-between items-center mb-4">
+                        <div>
+                          <h3 className="font-medium">Document Chat: {activeDocument.name}</h3>
+                          <p className="text-xs text-muted-foreground">Chat with your document to get insights</p>
+                        </div>
+                        <Button 
+                          variant="ghost" 
+                          size="sm" 
+                          onClick={() => {
+                            if (activeDocument?.id) {
+                              refreshChatHistory();
+                            }
+                          }}
+                          disabled={chatHistoryLoading}
+                          title="Refresh chat history"
+                          className="flex items-center text-xs"
+                        >
+                          <svg 
+                            xmlns="http://www.w3.org/2000/svg" 
+                            className={`h-4 w-4 mr-1 ${chatHistoryLoading ? 'animate-spin' : ''}`}
+                            fill="none" 
+                            viewBox="0 0 24 24" 
+                            stroke="currentColor"
+                          >
+                            <path 
+                              strokeLinecap="round" 
+                              strokeLinejoin="round" 
+                              strokeWidth={2} 
+                              d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" 
+                            />
+                          </svg>
+                          Refresh History
+                        </Button>
+                      </div>
+                    )}
                     <div className="flex-grow overflow-auto mb-4">
                       <SimpleScrollArea className="h-[600px] pr-4">
                         <div className="space-y-4">
+                          {/* Chat history loading indicator */}
+                          {chatHistoryLoading && (
+                            <div className="flex justify-center py-4">
+                              <div className="flex items-center space-x-2">
+                                <div className="h-2 w-2 bg-blue-600 rounded-full animate-bounce" style={{ animationDelay: "0ms" }}></div>
+                                <div className="h-2 w-2 bg-blue-600 rounded-full animate-bounce" style={{ animationDelay: "300ms" }}></div>
+                                <div className="h-2 w-2 bg-blue-600 rounded-full animate-bounce" style={{ animationDelay: "600ms" }}></div>
+                                <span className="ml-2 text-sm text-muted-foreground">Loading chat history...</span>
+                              </div>
+                            </div>
+                          )}
+                          
+                          {/* Chat error message */}
+                          {chatHistoryError && (
+                            <div className="rounded-md bg-red-50 dark:bg-red-900/10 p-3 text-sm text-red-600 dark:text-red-400 my-4">
+                              Error loading chat history: {chatHistoryError}
+                            </div>
+                          )}
+                          
                           {messages.map((message) => (
                             <div
                               key={message.id}
@@ -1414,7 +1517,7 @@ function ChatPage() {  // State management
 }
 
 // Wrap the ChatPage with ProtectedRoute to ensure only authenticated users can access it
-export default function ProtectedChatPage() {
+export default function ProtectedChatPage(): JSX.Element {
   return (
     <ProtectedRoute>
       <ChatPage />

@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.http import JsonResponse
-from rest_framework.decorators import api_view
+from rest_framework.decorators import api_view, parser_classes
+from rest_framework.parsers import JSONParser
 from rest_framework import status
 import json
 from api.models import Document
@@ -12,8 +13,13 @@ def embed_document(request, document_id):
     Process and embed a document for semantic search
     """
     try:
-        # Get document
-        document = Document.objects.get(id=document_id)
+        # Only allow access to user's own documents
+        if request.user.is_authenticated:
+            document = Document.objects.get(id=document_id, user=request.user)
+        else:
+            return JsonResponse({
+                'error': 'Authentication required to embed documents'
+            }, status=status.HTTP_401_UNAUTHORIZED)
         
         # Check if document is analyzed
         if document.status != 'analyzed':
@@ -48,18 +54,23 @@ def embed_document(request, document_id):
         }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 @api_view(['POST'])
+@parser_classes([JSONParser])
 def search_document(request, document_id):
     """
     Search for similar chunks in a document based on query text
     """
     try:
-        # Get document
-        document = Document.objects.get(id=document_id)
+        # Only allow access to user's own documents
+        if request.user.is_authenticated:
+            document = Document.objects.get(id=document_id, user=request.user)
+        else:
+            return JsonResponse({
+                'error': 'Authentication required to search documents'
+            }, status=status.HTTP_401_UNAUTHORIZED)
         
-        # Get query from request body
-        data = json.loads(request.body)
-        query_text = data.get('query')
-        top_k = data.get('top_k', 3)
+        # Get query from request data - using DRF's parsed data
+        query_text = request.data.get('query')
+        top_k = request.data.get('top_k', 3)
         
         if not query_text:
             return JsonResponse({
@@ -92,8 +103,13 @@ def check_embedding_status(request, document_id):
     Check if a document has been embedded
     """
     try:
-        # Get document
-        document = Document.objects.get(id=document_id)
+        # Only allow access to user's own documents
+        if request.user.is_authenticated:
+            document = Document.objects.get(id=document_id, user=request.user)
+        else:
+            return JsonResponse({
+                'error': 'Authentication required to check embedding status'
+            }, status=status.HTTP_401_UNAUTHORIZED)
         
         # Look for embeddings
         import os

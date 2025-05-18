@@ -5,6 +5,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Container } from '@/components/ui/container';
 import { ProtectedRoute } from '@/components/auth/protected-route';
 import { useAuth } from '@/lib/auth-context';
+import { UserDocumentsList } from '@/components/document/UserDocumentsList';
 import Link from 'next/link';
 
 export default function DashboardPage() {
@@ -40,25 +41,9 @@ export default function DashboardPage() {
                 <CardContent>
                   <p>This page is protected and only accessible to authenticated users.</p>
                 </CardContent>
-              </Card>
-
-              <Card>
-                <CardHeader className="pb-2">
-                  <CardTitle>Documents</CardTitle>
-                  <CardDescription>Your uploaded legal documents</CardDescription>
-                </CardHeader>
-                <CardContent>
-                  <p className="text-sm text-muted-foreground">
-                    You haven't uploaded any documents yet. Upload your first document to get started with AI-powered analysis.
-                  </p>
-                  <Link
-                    href="/document/upload"
-                    className="mt-4 inline-block rounded-md bg-primary px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-primary/90"
-                  >
-                    Upload Document
-                  </Link>
-                </CardContent>
-              </Card>
+              </Card>              <div className="col-span-2">
+                <UserDocumentsList />
+              </div>
 
               <Card>
                 <CardHeader className="pb-2">

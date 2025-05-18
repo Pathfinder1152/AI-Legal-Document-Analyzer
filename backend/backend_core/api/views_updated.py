@@ -13,7 +13,6 @@ import threading
 from openai import OpenAI
 from django.conf import settings
 from search.vector_search import embed_and_upsert_document
-from django.views.decorators.csrf import csrf_exempt
 
 # Configure logging
 logger = logging.getLogger(__name__)
@@ -33,7 +32,6 @@ def health_check(request):
     """
     return Response({"status": "ok", "message": "API server is running"})
 
-@csrf_exempt
 @api_view(['POST'])
 @parser_classes([MultiPartParser, FormParser])
 def upload_document(request):
@@ -82,13 +80,14 @@ def get_document_status(request, document_id):
     Get the status of a document's processing.
     """
     try:
-        # Only allow access to user's own documents
+        # Filter by user if authenticated, allow access to documents with no user (legacy documents)
         if request.user.is_authenticated:
-            # Only get documents that belong to the authenticated user
-            document = Document.objects.get(id=document_id, user=request.user)
+            document = Document.objects.get(id=document_id)
+            # Check if document belongs to user or is a legacy document (no user)
+            if document.user and document.user != request.user:
+                return Response({'error': 'Access denied'}, status=status.HTTP_403_FORBIDDEN)
         else:
-            return Response({'error': 'Authentication required to access document status'}, 
-                           status=status.HTTP_401_UNAUTHORIZED)
+            document = Document.objects.get(id=document_id, user__isnull=True)
             
         return Response({
             'documentId': str(document.id),  # Convert UUID to string
@@ -103,13 +102,14 @@ def get_document(request, document_id):
     Get a document with its annotations.
     """
     try:
-        # Only allow access to user's own documents
+        # Filter by user if authenticated, allow access to documents with no user (legacy documents)
         if request.user.is_authenticated:
-            # Only get documents that belong to the authenticated user
-            document = Document.objects.get(id=document_id, user=request.user)
+            document = Document.objects.get(id=document_id)
+            # Check if document belongs to user or is a legacy document (no user)
+            if document.user and document.user != request.user:
+                return Response({'error': 'Access denied'}, status=status.HTTP_403_FORBIDDEN)
         else:
-            return Response({'error': 'Authentication required to access documents'}, 
-                           status=status.HTTP_401_UNAUTHORIZED)
+            document = Document.objects.get(id=document_id, user__isnull=True)
             
         annotations = document.annotations.all()
         
@@ -139,9 +139,7 @@ def get_document(request, document_id):
     except Document.DoesNotExist:
         return Response({'error': 'Document not found'}, status=status.HTTP_404_NOT_FOUND)
 
-@csrf_exempt
 @api_view(['POST'])
-@parser_classes([JSONParser])
 def chat_with_document(request):
     """
     Chat with a document using the OpenAI API.
@@ -163,13 +161,14 @@ def chat_with_document(request):
         
         if document_id:
             try:
-                # Only allow access to user's own documents
+                # Get document with user-aware filtering
                 if request.user.is_authenticated:
-                    # Only get documents that belong to the authenticated user
-                    document = Document.objects.get(id=document_id, user=request.user)
+                    document = Document.objects.get(id=document_id)
+                    # Check if document belongs to user or is a legacy document (no user)
+                    if document.user and document.user != request.user:
+                        return Response({'error': 'Access denied'}, status=status.HTTP_403_FORBIDDEN)
                 else:
-                    return Response({'error': 'Authentication required to chat with documents'}, 
-                                  status=status.HTTP_401_UNAUTHORIZED)
+                    document = Document.objects.get(id=document_id, user__isnull=True)
                     
                 document_context = document.content
                 
@@ -261,13 +260,14 @@ def get_chat_history(request, document_id):
     Get chat history for a specific document.
     """
     try:
-        # Only allow access to user's own documents
+        # First check if the document exists and user has access
         if request.user.is_authenticated:
-            # Only get documents that belong to the authenticated user
-            document = Document.objects.get(id=document_id, user=request.user)
+            document = Document.objects.get(id=document_id)
+            # Check if document belongs to user or is a legacy document (no user)
+            if document.user and document.user != request.user:
+                return Response({'error': 'Access denied'}, status=status.HTTP_403_FORBIDDEN)
         else:
-            return Response({'error': 'Authentication required to access chat history'}, 
-                           status=status.HTTP_401_UNAUTHORIZED)
+            document = Document.objects.get(id=document_id, user__isnull=True)
         
         # Now get chat messages for this document
         # Only return messages for authenticated users
@@ -306,13 +306,15 @@ def get_user_documents(request):
     Get all documents for the authenticated user.
     """
     try:
-        # Only return user-specific documents for authenticated users
+        # Return user-specific documents plus legacy documents (no user)
         if request.user.is_authenticated:
-            documents = Document.objects.filter(user=request.user).order_by('-upload_date')
+            documents = Document.objects.filter(
+                Q(user=request.user) | Q(user__isnull=True)
+            ).order_by('-upload_date')
         else:
-            # For anonymous users, return an empty list or an authentication error
-            return Response({'error': 'Authentication required to access documents'}, 
-                           status=status.HTTP_401_UNAUTHORIZED)
+            # For anonymous users, only show legacy documents (no user)
+            documents = Document.objects.filter(user__isnull=True).order_by('-upload_date')
+        
         documents_list = [
             {
                 'id': str(doc.id),

@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { Document, Annotation, getDocument, searchSimilarContent, SimilarChunk } from '@/lib/api';

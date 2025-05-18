@@ -8,12 +8,11 @@ import os
 import uuid
 import json
 import logging
-from .models import Document, Annotation, ChatMessage
+from .models import Document, Annotation
 import threading
 from openai import OpenAI
 from django.conf import settings
 from search.vector_search import embed_and_upsert_document
-from django.views.decorators.csrf import csrf_exempt
 
 # Configure logging
 logger = logging.getLogger(__name__)
@@ -33,7 +32,6 @@ def health_check(request):
     """
     return Response({"status": "ok", "message": "API server is running"})
 
-@csrf_exempt
 @api_view(['POST'])
 @parser_classes([MultiPartParser, FormParser])
 def upload_document(request):
@@ -82,13 +80,14 @@ def get_document_status(request, document_id):
     Get the status of a document's processing.
     """
     try:
-        # Only allow access to user's own documents
+        # Filter by user if authenticated, allow access to documents with no user (legacy documents)
         if request.user.is_authenticated:
-            # Only get documents that belong to the authenticated user
-            document = Document.objects.get(id=document_id, user=request.user)
+            document = Document.objects.get(id=document_id)
+            # Check if document belongs to user or is a legacy document (no user)
+            if document.user and document.user != request.user:
+                return Response({'error': 'Access denied'}, status=status.HTTP_403_FORBIDDEN)
         else:
-            return Response({'error': 'Authentication required to access document status'}, 
-                           status=status.HTTP_401_UNAUTHORIZED)
+            document = Document.objects.get(id=document_id, user__isnull=True)
             
         return Response({
             'documentId': str(document.id),  # Convert UUID to string
@@ -103,13 +102,14 @@ def get_document(request, document_id):
     Get a document with its annotations.
     """
     try:
-        # Only allow access to user's own documents
+        # Filter by user if authenticated, allow access to documents with no user (legacy documents)
         if request.user.is_authenticated:
-            # Only get documents that belong to the authenticated user
-            document = Document.objects.get(id=document_id, user=request.user)
+            document = Document.objects.get(
+                id=document_id,
+                Q(user=request.user) | Q(user__isnull=True)
+            )
         else:
-            return Response({'error': 'Authentication required to access documents'}, 
-                           status=status.HTTP_401_UNAUTHORIZED)
+            document = Document.objects.get(id=document_id, user__isnull=True)
             
         annotations = document.annotations.all()
         
@@ -120,8 +120,7 @@ def get_document(request, document_id):
             'status': document.status,
             'content': document.content,
             'user_id': str(document.user.id) if document.user else None,
-            'annotations': [
-                {
+            'annotations': [                {
                     'id': str(anno.id),  # Convert UUID to string
                     'text': anno.text,
                     'category': anno.category,
@@ -139,9 +138,7 @@ def get_document(request, document_id):
     except Document.DoesNotExist:
         return Response({'error': 'Document not found'}, status=status.HTTP_404_NOT_FOUND)
 
-@csrf_exempt
 @api_view(['POST'])
-@parser_classes([JSONParser])
 def chat_with_document(request):
     """
     Chat with a document using the OpenAI API.
@@ -155,21 +152,21 @@ def chat_with_document(request):
     if not message:
         return Response({'error': 'No message provided'}, status=status.HTTP_400_BAD_REQUEST)
     
-    try:
-        # If document_id is provided, get the document
+    try:        # If document_id is provided, get the document
         document_context = ""
         selected_context = ""
         document = None
         
         if document_id:
             try:
-                # Only allow access to user's own documents
+                # Get document with user-aware filtering
                 if request.user.is_authenticated:
-                    # Only get documents that belong to the authenticated user
-                    document = Document.objects.get(id=document_id, user=request.user)
+                    document = Document.objects.get(id=document_id)
+                    # Check if document belongs to user or is a legacy document (no user)
+                    if document.user and document.user != request.user:
+                        return Response({'error': 'Access denied'}, status=status.HTTP_403_FORBIDDEN)
                 else:
-                    return Response({'error': 'Authentication required to chat with documents'}, 
-                                  status=status.HTTP_401_UNAUTHORIZED)
+                    document = Document.objects.get(id=document_id, user__isnull=True)
                     
                 document_context = document.content
                 
@@ -217,8 +214,7 @@ def chat_with_document(request):
             max_tokens=500,
             temperature=0.7
         )
-        
-        # Extract response text
+          # Extract response text
         ai_response = response.choices[0].message.content
         
         # Prepare sources (for demo, use mock sources)
@@ -226,6 +222,8 @@ def chat_with_document(request):
         
         # Save user message to database if user is authenticated
         if request.user.is_authenticated:
+            from .models import ChatMessage
+            
             # Save user message
             ChatMessage.objects.create(
                 user=request.user,
@@ -261,15 +259,18 @@ def get_chat_history(request, document_id):
     Get chat history for a specific document.
     """
     try:
-        # Only allow access to user's own documents
-        if request.user.is_authenticated:
-            # Only get documents that belong to the authenticated user
-            document = Document.objects.get(id=document_id, user=request.user)
-        else:
-            return Response({'error': 'Authentication required to access chat history'}, 
-                           status=status.HTTP_401_UNAUTHORIZED)
+        from django.db.models import Q
+        from .models import ChatMessage
         
-        # Now get chat messages for this document
+        # First check if the document exists and user has access
+        if request.user.is_authenticated:
+            document = Document.objects.get(id=document_id)
+            # Check if document belongs to user or is a legacy document (no user)
+            if document.user and document.user != request.user:
+                return Response({'error': 'Access denied'}, status=status.HTTP_403_FORBIDDEN)
+        else:
+            document = Document.objects.get(id=document_id, user__isnull=True)
+        
         # Only return messages for authenticated users
         if request.user.is_authenticated:
             messages = ChatMessage.objects.filter(
@@ -306,13 +307,17 @@ def get_user_documents(request):
     Get all documents for the authenticated user.
     """
     try:
-        # Only return user-specific documents for authenticated users
+        from django.db.models import Q
+        
+        # Return user-specific documents plus legacy documents (no user)
         if request.user.is_authenticated:
-            documents = Document.objects.filter(user=request.user).order_by('-upload_date')
+            documents = Document.objects.filter(
+                Q(user=request.user) | Q(user__isnull=True)
+            ).order_by('-upload_date')
         else:
-            # For anonymous users, return an empty list or an authentication error
-            return Response({'error': 'Authentication required to access documents'}, 
-                           status=status.HTTP_401_UNAUTHORIZED)
+            # For anonymous users, only show legacy documents (no user)
+            documents = Document.objects.filter(user__isnull=True).order_by('-upload_date')
+        
         documents_list = [
             {
                 'id': str(doc.id),

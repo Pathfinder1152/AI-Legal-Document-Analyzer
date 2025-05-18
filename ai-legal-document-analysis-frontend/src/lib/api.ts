@@ -1,14 +1,85 @@
+import axios from 'axios';
+import { getCookie } from '@/utils/cookies';
+
 /**
  * API client for the Legal Document Analyzer backend
  */
 
-// API base URL - adjust based on your environment
+// Base URL for API requests
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api';
 
-// For debugging
+// Log API calls in development
 const logApiCall = (url: string, method: string) => {
-  console.log(`API ${method} call to: ${url}`);
+  if (process.env.NODE_ENV === 'development') {
+    console.log(`API ${method} ${url}`);
+  }
 };
+
+// Get CSRF token from cookies
+function getCsrfToken(): string {
+  const token = getCookie('csrftoken');
+  return token || '';
+}
+
+// Add default headers for all requests
+const defaultHeaders = {
+  'Content-Type': 'application/json',
+};
+
+// Default fetch options with credentials
+const defaultFetchOptions: RequestInit = {
+  credentials: 'include', // Always send cookies
+  headers: defaultHeaders,
+};
+
+// Add CSRF token to fetch options for POST requests
+function addCsrfToken(options: RequestInit): RequestInit {
+  const token = getCsrfToken();
+  const headers = {
+    ...options.headers,
+    'X-CSRFToken': token,
+  };
+  
+  return {
+    ...options,
+    headers,
+  };
+}
+
+// Helper function to handle API errors
+async function handleApiError(response: Response, errorContext: string): Promise<never> {
+  const errorText = await response.text();
+  console.error(`${errorContext} error response:`, errorText);
+  
+  // Handle authentication errors
+  if (response.status === 401) {
+    // Handle authentication error - redirect to login
+    window.location.href = '/auth/login?returnUrl=' + encodeURIComponent(window.location.pathname);
+    throw new Error('Authentication required');
+  }
+  
+  // Handle CSRF errors
+  if (response.status === 403 && errorText.includes('CSRF')) {
+    console.error('CSRF token error - will attempt to refresh the page to get a new token');
+    // Optional: refresh the page to get a new CSRF token
+    // window.location.reload();
+    throw new Error('CSRF verification failed. Please try again.');
+  }
+  
+  try {
+    const errorData = JSON.parse(errorText);
+    throw new Error(errorData.error || `Failed: ${errorContext}`);
+  } catch (e) {
+    throw new Error(`Server error: ${errorText}`);
+  }
+}
+
+// Create axios instance with default config
+const api = axios.create({
+  baseURL: API_BASE_URL,
+  headers: defaultHeaders,
+  withCredentials: true, // Important for cookies/auth
+});
 
 // Types
 export interface UploadResponse {
@@ -38,6 +109,19 @@ export interface Document {
   status: 'uploading' | 'processing' | 'analyzed' | 'error';
   content?: string;
   annotations?: Annotation[];
+  user_id?: string;
+  upload_date?: string;
+  file_type?: string;
+  file_size?: number;
+}
+
+export interface StoredChatMessage {
+  id: string;
+  content: string;
+  role: 'user' | 'assistant';
+  selected_text?: string;
+  sources?: ChatSource[];
+  timestamp: string;
 }
 
 export interface ChatMessage {
@@ -84,21 +168,14 @@ export async function uploadDocument(file: File): Promise<UploadResponse> {
   formData.append('file', file);
 
   try {
-    const response = await fetch(url, {
+    const response = await fetch(url, addCsrfToken({
       method: 'POST',
       body: formData,
-    });
+      credentials: 'include', // Include authentication cookies
+    }));
 
     if (!response.ok) {
-      const errorText = await response.text();
-      console.error('Upload error response:', errorText);
-      try {
-        const errorData = JSON.parse(errorText);
-        throw new Error(errorData.error || 'Failed to upload document');
-      } catch (e) {
-        // If it's not valid JSON, return the text
-        throw new Error(`Server error: ${errorText}`);
-      }
+      await handleApiError(response, 'Upload document');
     }
 
     return response.json();
@@ -113,18 +190,10 @@ export async function getDocumentStatus(documentId: string): Promise<DocumentSta
   logApiCall(url, 'GET');
 
   try {
-    const response = await fetch(url);
+    const response = await fetch(url, defaultFetchOptions);
 
     if (!response.ok) {
-      const errorText = await response.text();
-      console.error('Status error response:', errorText);
-      try {
-        const errorData = JSON.parse(errorText);
-        throw new Error(errorData.error || 'Failed to get document status');
-      } catch (e) {
-        // If it's not valid JSON, return the text
-        throw new Error(`Server error: ${errorText}`);
-      }
+      await handleApiError(response, 'Get document status');
     }
 
     return response.json();
@@ -139,18 +208,10 @@ export async function getDocument(documentId: string): Promise<Document> {
   logApiCall(url, 'GET');
 
   try {
-    const response = await fetch(url);
+    const response = await fetch(url, defaultFetchOptions);
 
     if (!response.ok) {
-      const errorText = await response.text();
-      console.error('Get document error response:', errorText);
-      try {
-        const errorData = JSON.parse(errorText);
-        throw new Error(errorData.error || 'Failed to get document');
-      } catch (e) {
-        // If it's not valid JSON, return the text
-        throw new Error(`Server error: ${errorText}`);
-      }
+      await handleApiError(response, 'Get document');
     }
 
     return response.json();
@@ -170,7 +231,7 @@ export async function sendChatMessage(
   logApiCall(url, 'POST');
 
   try {
-    const response = await fetch(url, {
+    const response = await fetch(url, addCsrfToken({
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -181,18 +242,11 @@ export async function sendChatMessage(
         selectedText,
         history,
       }),
-    });
+      credentials: 'include', // Include authentication cookies
+    }));
 
     if (!response.ok) {
-      const errorText = await response.text();
-      console.error('Chat error response:', errorText);
-      try {
-        const errorData = JSON.parse(errorText);
-        throw new Error(errorData.error || 'Failed to get chat response');
-      } catch (e) {
-        // If it's not valid JSON, return the text
-        throw new Error(`Server error: ${errorText}`);
-      }
+      await handleApiError(response, 'Send chat message');
     }
 
     return response.json();
@@ -202,91 +256,119 @@ export async function sendChatMessage(
   }
 }
 
-export async function embedDocument(documentId: string): Promise<{message: string, chunks_count: number}> {
+export async function embedDocument(documentId: string): Promise<{ success: boolean; message: string }> {
   const url = `${API_BASE_URL}/search/embed/${documentId}/`;
   logApiCall(url, 'POST');
 
   try {
-    const response = await fetch(url, {
+    const response = await fetch(url, addCsrfToken({
       method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      }
-    });
-
-    if (!response.ok) {
-      const errorText = await response.text();
-      console.error('Embed error response:', errorText);
-      try {
-        const errorData = JSON.parse(errorText);
-        throw new Error(errorData.error || 'Failed to embed document');
-      } catch (e) {
-        throw new Error(`Server error: ${errorText}`);
-      }
-    }
-
-    return response.json();
-  } catch (error) {
-    console.error('Embed document error:', error);
-    throw error;
-  }
-}
-
-export async function searchSimilarContent(documentId: string, text: string, topK: number = 5): Promise<SearchResponse> {
-  const url = `${API_BASE_URL}/search/search/${documentId}/`;
-  logApiCall(url, 'POST');
-
-  try {
-    const response = await fetch(url, {
-      method: 'POST',
+      credentials: 'include',
       headers: {
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({
-        query: text,
-        top_k: topK
-      }),
-    });
+    }));
 
     if (!response.ok) {
-      const errorText = await response.text();
-      console.error('Search error response:', errorText);
-      try {
-        const errorData = JSON.parse(errorText);
-        throw new Error(errorData.error || 'Failed to search similar content');
-      } catch (e) {
-        throw new Error(`Server error: ${errorText}`);
-      }
+      await handleApiError(response, 'Embed document');
     }
 
-    return response.json();
+    return await response.json();
   } catch (error) {
-    console.error('Search similar content error:', error);
+    console.error('Error embedding document:', error);
     throw error;
   }
 }
 
-export async function checkEmbeddingStatus(documentId: string): Promise<EmbeddingStatus> {
+export async function checkEmbeddingStatus(documentId: string): Promise<{ status: string; message: string; isEmbedded: boolean }> {
   const url = `${API_BASE_URL}/search/status/${documentId}/`;
   logApiCall(url, 'GET');
 
   try {
-    const response = await fetch(url);
+    const response = await fetch(url, defaultFetchOptions);
 
     if (!response.ok) {
-      const errorText = await response.text();
-      console.error('Embedding status error response:', errorText);
-      try {
-        const errorData = JSON.parse(errorText);
-        throw new Error(errorData.error || 'Failed to check embedding status');
-      } catch (e) {
-        throw new Error(`Server error: ${errorText}`);
-      }
+      await handleApiError(response, 'Check embedding status');
     }
 
-    return response.json();
+    const data = await response.json();
+    return {
+      ...data,
+      isEmbedded: data.status === 'embedded' || data.status === 'complete'
+    };
   } catch (error) {
-    console.error('Check embedding status error:', error);
+    console.error('Error checking embedding status:', error);
+    throw error;
+  }
+}
+
+export async function searchSimilarContent(
+  documentId: string,
+  query: string
+): Promise<{ results: SimilarChunk[] }> {
+  // According to the server error message, the correct URL is '/api/search/search/<uuid:document_id>/'
+  const url = `${API_BASE_URL}/search/search/${documentId}/`;
+  logApiCall(url, 'POST');
+
+  try {
+    // Create a separate request options object - don't use addCsrfToken to avoid issues
+    const csrfToken = getCsrfToken();
+    const requestOptions: RequestInit = {
+      method: 'POST',
+      credentials: 'include',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+        'X-CSRFToken': csrfToken
+      },
+      body: JSON.stringify({ query })
+    };
+    
+    const response = await fetch(url, requestOptions);
+
+    if (!response.ok) {
+      await handleApiError(response, 'Search similar content');
+    }
+
+    return await response.json();
+  } catch (error) {
+    console.error('Error searching similar content:', error);
+    throw error;
+  }
+}
+
+export async function getUserDocuments(): Promise<Document[]> {
+  const url = `${API_BASE_URL}/documents/user/`;
+  logApiCall(url, 'GET');
+
+  try {
+    const response = await fetch(url, defaultFetchOptions);
+
+    if (!response.ok) {
+      await handleApiError(response, 'Get user documents');
+    }
+
+    return await response.json();
+  } catch (error) {
+    console.error('Error fetching user documents:', error);
+    throw error;
+  }
+}
+
+export async function getChatHistory(documentId: string): Promise<StoredChatMessage[]> {
+  const url = `${API_BASE_URL}/documents/${documentId}/chat-history/`;
+  logApiCall(url, 'GET');
+
+  try {
+    const response = await fetch(url, defaultFetchOptions);
+
+    if (!response.ok) {
+      await handleApiError(response, 'Get chat history');
+    }
+
+    return await response.json();
+  } catch (error) {
+    console.error('Error fetching chat history:', error);
     throw error;
   }
 }
