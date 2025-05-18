@@ -2,6 +2,7 @@
 
 import React, { useState, useRef, useEffect } from "react";
 import Image from "next/image";
+import { useSearchParams } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Textarea } from "@/components/ui/textarea";
@@ -89,8 +90,8 @@ function ChatPage(): JSX.Element {  // State management
   const [dialogOpen, setDialogOpen] = useState(false);
   const [activeDocument, setActiveDocument] = useState<Document | null>(null);
   const [selectedAnnotation, setSelectedAnnotation] = useState<Annotation | null>(null);
-  const [viewMode, setViewMode] = useState<"chat" | "document">("chat");
-  const [loadingChatHistory, setLoadingChatHistory] = useState<boolean>(false);
+  const [viewMode, setViewMode] = useState<"chat" | "document">("chat");  const [loadingChatHistory, setLoadingChatHistory] = useState<boolean>(false);
+  const [documentWelcomeShown, setDocumentWelcomeShown] = useState<boolean>(false);
   
   // Semantic search state
   const [isEmbedded, setIsEmbedded] = useState<boolean>(false);
@@ -113,28 +114,80 @@ function ChatPage(): JSX.Element {  // State management
     documentId: activeDocument?.id || null,
     enabled: !!activeDocument?.id
   });
-
   const messagesEndRef = useRef<HTMLDivElement>(null);
+  const searchParams = useSearchParams();
 
   // Auto-scroll to bottom when new messages arrive
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
-  // Update messages when chat history changes
+    // Handle document loading from URL parameter
   useEffect(() => {
-    if (chatHistory.length > 0 && activeDocument) {
-      console.log(`Loading chat history for document ${activeDocument.id}: ${chatHistory.length} messages found`);
-      // Convert stored chat messages to the Message format used in the component
-      const historyMessages: Message[] = chatHistory.map(msg => ({
-        id: msg.id,
-        content: msg.content,
-        role: msg.role === 'assistant' ? 'assistant' : 'user',
-        timestamp: new Date(msg.timestamp),
-        selectedText: msg.selected_text,
-        sources: msg.sources
-      }));
+    const loadDocumentFromURL = async () => {
+      // Get documentId from URL parameters
+      const documentIdParam = searchParams.get('documentId');
+      
+      if (documentIdParam && (!activeDocument || activeDocument.id !== documentIdParam)) {
+        console.log(`Loading document from URL parameter: ${documentIdParam}`);
+        
+        try {
+          // Fetch document details
+          const documentData = await getDocument(documentIdParam);
+          
+          // Format document for the chat interface
+          const formattedDocument: Document = {
+            id: documentData.id,
+            name: documentData.name,
+            size: documentData.file_size ? `${Math.round(documentData.file_size / 1024)} KB` : 'Unknown',
+            type: documentData.file_type || 'Document',
+            status: documentData.status || 'analyzed',
+            annotations: documentData.annotations || [],
+            content: documentData.content
+          };
+          
+          // Add document to list if not already there
+          setDocuments(prevDocuments => {
+            // Check if document already exists in the list
+            if (!prevDocuments.some(doc => doc.id === documentData.id)) {
+              return [...prevDocuments, formattedDocument];
+            }
+            return prevDocuments;
+          });
+          
+          // Open the document (this will also set active document and switch to document view initially)
+          handleOpenDocument(formattedDocument);
+          
+          // Switch to chat view after loading
+          setTimeout(() => {
+            setViewMode("chat");
+          }, 100);
+          
+        } catch (error) {
+          console.error('Error loading document from URL:', error);
+        }
+      }
+    };
 
-      // Add welcome message and document selection message
+    loadDocumentFromURL();
+  }, [searchParams, activeDocument]);// Update messages when chat history changes
+  useEffect(() => {
+    if (!activeDocument) return;
+    
+    // Convert stored chat messages to the Message format used in the component
+    const historyMessages: Message[] = chatHistory.map(msg => ({
+      id: msg.id,
+      content: msg.content,
+      role: msg.role === 'assistant' ? 'assistant' : 'user',
+      timestamp: new Date(msg.timestamp),
+      selectedText: msg.selected_text,
+      sources: msg.sources
+    }));
+    
+    // Only show welcome message if this is a new document selection or no history exists
+    if (!documentWelcomeShown) {
+      console.log(`Loading chat history for document ${activeDocument.id}: ${chatHistory.length} messages found`);
+      
+      // Add welcome message for the document
       const welcomeMessage: Message = {
         id: "welcome-doc",
         content: `You're now viewing document "${activeDocument.name}". You can ask questions about this document or select text to get specific insights.`,
@@ -142,18 +195,21 @@ function ChatPage(): JSX.Element {  // State management
         timestamp: new Date(),
       };
 
-      // Replace messages with history plus welcome message
-      setMessages([...historyMessages, welcomeMessage]);
-    } else if (activeDocument && chatHistory.length === 0) {
-      // No history but document selected - just show welcome message
-      setMessages([{
-        id: "welcome-doc",
-        content: `You're now viewing document "${activeDocument.name}". You can ask questions about this document or select text to get specific insights.`,
-        role: "assistant",
-        timestamp: new Date(),
-      }]);
+      if (historyMessages.length > 0) {
+        // If we have history, just show the history plus welcome
+        setMessages([...historyMessages, welcomeMessage]);
+      } else {
+        // No history but document selected - just show welcome message
+        setMessages([welcomeMessage]);
+      }
+      
+      // Mark that we've shown the welcome message
+      setDocumentWelcomeShown(true);
+    } else {
+      // Just update with history, don't add welcome message again
+      setMessages(historyMessages);
     }
-  }, [chatHistory, activeDocument]);
+  }, [chatHistory, activeDocument, documentWelcomeShown]);
 
   // Send message to chatbot
   const handleSendMessage = async () => {
@@ -186,13 +242,7 @@ function ChatPage(): JSX.Element {  // State management
         selectedAnnotation?.text,
         recentMessages
       );
-      
-      // After sending the message, refresh chat history if we have an active document
-      if (activeDocument?.id) {
-        refreshChatHistory();
-      }
-
-      // Create AI response message
+        // Create AI response message
       const aiResponse: Message = {
         id: Date.now().toString(),
         content: data.response,
@@ -202,6 +252,11 @@ function ChatPage(): JSX.Element {  // State management
       };
 
       setMessages((prev) => [...prev, aiResponse]);
+      
+      // After updating messages, update the chat history if we have an active document
+      if (activeDocument?.id) {
+        refreshChatHistory();
+      }
     } catch (error) {
       console.error("Error getting AI response:", error);
       // Add error message
@@ -397,7 +452,7 @@ function ChatPage(): JSX.Element {  // State management
         setMessages((prev) => [...prev, errorMessage]);      }
     });
   };  
-    // Handle opening document to view  
+  // Handle opening document to view  
   const handleOpenDocument = async (doc: Document) => {
     if (doc.status !== "analyzed") {
       // toast({
@@ -406,7 +461,13 @@ function ChatPage(): JSX.Element {  // State management
       //   variant: "destructive",
       // });
       return;
-    }    setActiveDocument(doc);
+    }
+    // Reset the document welcome flag when changing documents
+    if (!activeDocument || activeDocument.id !== doc.id) {
+      setDocumentWelcomeShown(false);
+    }
+    
+    setActiveDocument(doc);
     setViewMode("document");
     setLoadingChatHistory(true);
     
