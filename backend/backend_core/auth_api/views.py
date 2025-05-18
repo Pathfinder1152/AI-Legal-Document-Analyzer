@@ -23,8 +23,10 @@ class RegisterView(APIView):
         if serializer.is_valid():
             user = serializer.save()
             if user:
+                # Don't log in the user after registration
+                # Let them explicitly log in afterwards
                 return Response({
-                    "message": "User registered successfully",
+                    "message": "User registered successfully. Please log in with your new account.",
                     "user": UserDetailsSerializer(user).data
                 }, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)

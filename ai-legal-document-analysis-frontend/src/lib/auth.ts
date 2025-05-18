@@ -23,6 +23,7 @@ export interface LoginResponse {
 export interface RegisterResponse {
   message: string;
   user: User;
+  csrftoken?: string;
 }
 
 export interface SessionResponse {

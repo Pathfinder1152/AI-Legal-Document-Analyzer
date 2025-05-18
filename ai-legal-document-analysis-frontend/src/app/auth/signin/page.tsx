@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
@@ -28,19 +28,36 @@ import { Container } from "@/components/ui/container";
 
 export default function SignInPage() {
   const router = useRouter();
+  const searchParams = useSearchParams();
   const { login, isAuthenticated, isLoading: authLoading, error: authError } = useAuth();
   const { showToast } = useToast();
   const [isLoading, setIsLoading] = useState(false);
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
+  const [registrationSuccess, setRegistrationSuccess] = useState(false);
   
   // Redirect if already authenticated
   useEffect(() => {
     if (isAuthenticated) {
       router.push('/');
     }
-  }, [isAuthenticated, router]);  const handleSignIn = async (e: React.FormEvent) => {
+  }, [isAuthenticated, router]);
+  
+  // Check if user was redirected from registration
+  useEffect(() => {
+    const registered = searchParams.get('registered');
+    if (registered === 'true') {
+      setRegistrationSuccess(true);
+      showToast({
+        title: "Registration Successful",
+        description: "Your account has been created. Please sign in with your credentials.",
+        type: "success",
+      });
+    }
+  }, [searchParams, showToast]);
+
+  const handleSignIn = async (e: React.FormEvent) => {
     e.preventDefault();
     setIsLoading(true);
     setError("");
@@ -103,6 +120,12 @@ export default function SignInPage() {
               {error && (
                 <div className="bg-red-500/10 border border-red-500/50 rounded-md p-3 mb-4 text-sm text-red-500">
                   {error}
+                </div>
+              )}
+              
+              {registrationSuccess && (
+                <div className="bg-green-500/10 border border-green-500/50 rounded-md p-3 mb-4 text-sm text-green-600">
+                  Your account has been created successfully! Please sign in with your credentials.
                 </div>
               )}
               

@@ -112,9 +112,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     } finally {
       setIsLoading(false);
     }
-  };
-
-  // Register function
+  };  // Register function
   const register = async ({
     username,
     email,
@@ -142,11 +140,17 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         firstName,
         lastName
       );
-      setUser(response.user);
-      setIsAuthenticated(true);
-      router.push('/'); // Redirect to home or ask for additional info
+      
+      // Don't set the user as authenticated after registration
+      setIsAuthenticated(false);
+      setUser(null);
+      
+      // Redirect to login page with success parameter
+      router.push('/auth/signin?registered=true'); 
     } catch (err: any) {
       setError(err.message || 'Registration failed');
+      setIsAuthenticated(false);
+      setUser(null);
     } finally {
       setIsLoading(false);
     }
