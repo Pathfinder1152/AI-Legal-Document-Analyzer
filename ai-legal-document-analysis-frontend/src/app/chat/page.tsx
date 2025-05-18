@@ -31,6 +31,7 @@ import {
   SimilarChunk
 } from "@/lib/api";
 import { TextChunkViewer } from "@/components/document/TextChunkViewer";
+import { ProtectedRoute } from "@/components/auth/protected-route";
 
 // Define types
 type Message = {
@@ -70,7 +71,7 @@ type Annotation = {
   clause_confidence?: number;
 };
 
-export default function ChatPage() {  // State management
+function ChatPage() {  // State management
   const [messages, setMessages] = useState<Message[]>([
     {
       id: "welcome",
@@ -93,7 +94,8 @@ export default function ChatPage() {  // State management
   const [isEmbedding, setIsEmbedding] = useState<boolean>(false);
   const [embedError, setEmbedError] = useState<string | null>(null);
   const [semanticSearchQuery, setSemanticSearchQuery] = useState<string>("");
-  const [searchResults, setSearchResults] = useState<SimilarChunk[]>([]);  const [isSearching, setIsSearching] = useState<boolean>(false);
+  const [searchResults, setSearchResults] = useState<SimilarChunk[]>([]);  
+  const [isSearching, setIsSearching] = useState<boolean>(false);
   const [highlightText, setHighlightText] = useState<string | null>(null);
   const [viewerOpen, setViewerOpen] = useState<boolean>(false);
   const [selectedChunk, setSelectedChunk] = useState<SimilarChunk | null>(null);
@@ -419,7 +421,8 @@ export default function ChatPage() {  // State management
     }
 
     // Get all annotations for the document
-    const annotations = activeDocument.annotations || [];    // Create a highlighted version of the document content
+    const annotations = activeDocument.annotations || [];    
+    // Create a highlighted version of the document content
     const renderHighlightedContent = () => {
       const content = activeDocument.content || "";
       
@@ -576,7 +579,8 @@ export default function ChatPage() {  // State management
 
           // Add highlighted annotation with tooltip
           if (annoStart < annoEnd) {
-            paragraphChunks.push(              <span
+            paragraphChunks.push(              
+              <span
                 key={`anno-${annotation.id}`}
                 className={`relative cursor-pointer group ${getCategoryClass(annotation.category)}`}
                 onClick={() => handleSelectAnnotation(annotation)}
@@ -615,7 +619,8 @@ export default function ChatPage() {  // State management
       });
     };
 
-    return (      <div className="p-4 bg-white dark:bg-gray-900 rounded-lg shadow h-full flex flex-col">
+    return (      
+      <div className="p-4 bg-white dark:bg-gray-900 rounded-lg shadow h-full flex flex-col">
         <div className="flex justify-between items-center mb-4">
           <h2 className="text-xl font-medium">{activeDocument.name}</h2>
           <div className="flex space-x-3">
@@ -697,7 +702,8 @@ export default function ChatPage() {  // State management
         )}
         
         <div className="flex flex-col md:flex-row gap-6 flex-grow">
-          {/* Document content with highlighted annotations */}          <div className="md:w-2/3">
+          {/* Document content with highlighted annotations */}          
+          <div className="md:w-2/3">
             <h3 className="font-medium text-sm text-muted-foreground uppercase mb-3">Document Content</h3>
             <SimpleScrollArea className="h-[520px] border rounded-md p-4 bg-white dark:bg-gray-800">
               <div className="p-4 space-y-1">
@@ -756,7 +762,8 @@ export default function ChatPage() {  // State management
                                 key={annotation.id}
                                 className="p-3 border rounded-md cursor-pointer hover:bg-blue-50 dark:hover:bg-blue-900/20"
                                 onClick={() => handleSelectAnnotation(annotation)}
-                              >                                <div className="flex items-center">
+                              >                                
+                                <div className="flex items-center">
                                   <span className={`inline-block w-2 h-2 rounded-full mr-2 ${
                                     annotation.category === "legal_term" ? "bg-blue-500" :
                                     annotation.category === "date" ? "bg-green-500" :
@@ -811,7 +818,9 @@ export default function ChatPage() {  // State management
           {/* Sidebar */}
           <div className="lg:col-span-1">
             <Card className="h-full">
-              <CardContent className="p-4">                <SimpleTabs defaultValue="documents">                  <SimpleTabsList className="grid grid-cols-2 mb-4">
+              <CardContent className="p-4">                
+                <SimpleTabs defaultValue="documents">                  
+                  <SimpleTabsList className="grid grid-cols-2 mb-4">
                     <SimpleTabsTrigger value="documents">Documents</SimpleTabsTrigger>
                     <SimpleTabsTrigger value="semantic">Semantic</SimpleTabsTrigger>
                   </SimpleTabsList>
@@ -980,7 +989,8 @@ export default function ChatPage() {  // State management
                             </div>
                           ))}
                         </div>
-                      </SimpleScrollArea>                    )}
+                      </SimpleScrollArea>                    
+                    )}
                   </SimpleTabsContent>
                   
                   <SimpleTabsContent value="semantic" className="h-[500px]">
@@ -1046,14 +1056,18 @@ export default function ChatPage() {  // State management
                               <p className="text-sm text-red-500 mt-2">{embedError}</p>
                             )}
                           </div>
-                        ) : (                          <div className="space-y-4">                            <div className="flex flex-col space-y-2">                              <input
+                        ) : (                          
+                          <div className="space-y-4">                            
+                            <div className="flex flex-col space-y-2">                              
+                              <input
                                 type="text"
                                 value={semanticSearchQuery}
                                 onChange={(e) => setSemanticSearchQuery(e.target.value)}
                                 placeholder="Enter query..."
                                 className="w-full px-3 py-2 text-sm rounded-md border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900"
                                 disabled={isSearching}
-                              />                              <div className="flex">
+                              />                              
+                              <div className="flex">
                                 <Button 
                                   onClick={() => {
                                   if (activeDocument && semanticSearchQuery.trim()) {
@@ -1070,7 +1084,8 @@ export default function ChatPage() {  // State management
                                         setIsSearching(false);
                                       });
                                   }
-                                }}                                disabled={!semanticSearchQuery.trim() || isSearching}
+                                }}                                
+                                disabled={!semanticSearchQuery.trim() || isSearching}
                                 className="min-w-[80px] whitespace-nowrap"
                               >
                                 {isSearching ? (
@@ -1093,7 +1108,8 @@ export default function ChatPage() {  // State management
                                   {searchResults.map((result, index) => (
                                     <div 
                                       key={index}
-                                      className="p-3 border rounded-md hover:bg-accent/50 cursor-pointer transition-colors"                                      onClick={() => {
+                                      className="p-3 border rounded-md hover:bg-accent/50 cursor-pointer transition-colors"                                      
+                                      onClick={() => {
                                         // Show full text in viewer dialog
                                         setSelectedChunk(result);
                                         setViewerOpen(true);
@@ -1130,7 +1146,8 @@ export default function ChatPage() {  // State management
                                 <div className="text-center py-8 text-sm text-muted-foreground">
                                   Enter a search query to find semantically similar content
                                 </div>
-                              )}                            </SimpleScrollArea>
+                              )}                            
+                            </SimpleScrollArea>
                             
                             {/* Dialog to view full text chunk */}
                             {selectedChunk && (
@@ -1165,7 +1182,8 @@ export default function ChatPage() {  // State management
                         <p className="text-sm text-muted-foreground">
                           Please select a document to enable semantic search
                         </p>
-                      </div>                    )}
+                      </div>                    
+                    )}
                   </SimpleTabsContent>
                 </SimpleTabs>
               </CardContent>
@@ -1392,5 +1410,14 @@ export default function ChatPage() {  // State management
         </div>
       </div>
     </main>
+  );
+}
+
+// Wrap the ChatPage with ProtectedRoute to ensure only authenticated users can access it
+export default function ProtectedChatPage() {
+  return (
+    <ProtectedRoute>
+      <ChatPage />
+    </ProtectedRoute>
   );
 }

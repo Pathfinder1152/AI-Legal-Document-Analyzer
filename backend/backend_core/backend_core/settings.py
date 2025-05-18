@@ -59,6 +59,7 @@ INSTALLED_APPS = [
     'nlp',                  # NLP-based text processing
     'preprocessing',        # Document cleaning & processing
     'search',               # Semantic & keyword search
+    'auth_api',             # Authentication API
 ]
 
 REST_FRAMEWORK = {
@@ -100,6 +101,14 @@ CORS_ALLOW_HEADERS = [
     'x-csrftoken',
     'x-requested-with',
 ]
+
+# CSRF Settings
+CSRF_COOKIE_NAME = 'csrftoken'
+CSRF_HEADER_NAME = 'HTTP_X_CSRFTOKEN'
+CSRF_COOKIE_SECURE = False  # Set to True in production with HTTPS
+CSRF_COOKIE_HTTPONLY = False  # Keep False to allow JavaScript to access the cookie
+CSRF_COOKIE_SAMESITE = 'Lax'  # Use 'Lax' or 'None' (with Secure=True) for cross-site requests
+CSRF_TRUSTED_ORIGINS = ['http://localhost:3000']  # Add your frontend origins
 
 # Ensure this is before CommonMiddleware
 MIDDLEWARE = [

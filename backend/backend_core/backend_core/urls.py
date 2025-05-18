@@ -26,6 +26,7 @@ urlpatterns = [
     path('api/', include('api.urls')),
     # Also include search app under the api prefix for consistency
     path('api/search/', include('search.urls')),
+    path('api/auth/', include('auth_api.urls')),  # Authentication endpoints
     path('knowledge_graphs/', include('knowledge_graphs.urls')),
     path('nlp/', include('nlp.urls')),
     path('preprocessing/', include('preprocessing.urls')),
