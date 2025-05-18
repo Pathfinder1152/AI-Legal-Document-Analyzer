@@ -125,7 +125,7 @@ def embed_and_upsert_document(document_id: str, text: str, document_name: str) -
             "local_path": output_path
         }
 
-def search_similar_chunks(text: str, document_id: str = None, top_k: int = 3) -> List[Dict[str, Any]]:
+def search_similar_chunks(text: str, document_id: str = None, top_k: int = 5) -> List[Dict[str, Any]]:
     """
     Search for chunks similar to the given text.
     

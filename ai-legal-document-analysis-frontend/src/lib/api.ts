@@ -232,7 +232,7 @@ export async function embedDocument(documentId: string): Promise<{message: strin
   }
 }
 
-export async function searchSimilarContent(documentId: string, text: string, topK: number = 3): Promise<SearchResponse> {
+export async function searchSimilarContent(documentId: string, text: string, topK: number = 5): Promise<SearchResponse> {
   const url = `${API_BASE_URL}/search/search/${documentId}/`;
   logApiCall(url, 'POST');
 
