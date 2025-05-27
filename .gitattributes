@@ -1,4 +1,4 @@
 *.pdf linguist-vendored
 *.rtf linguist-vendored
 *.txt linguist-vendored
-*.docx linguist-vendored# trigger linguist
+*.docx linguist-vendored
