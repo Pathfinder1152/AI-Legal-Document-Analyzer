@@ -2,3 +2,5 @@
 *.rtf linguist-vendored
 *.txt linguist-vendored
 *.docx linguist-vendored
+*.ipynb linguist-vendored
+*.csv linguist-vendored
