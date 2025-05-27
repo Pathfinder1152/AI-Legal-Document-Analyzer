@@ -206,8 +206,8 @@ The system uses a PostgreSQL database with the following key models:
    ```
 
 6. Configure environment variables:
-   - Copy `.env.example` to `.env` (Create .env file in the same directory / location)
-   - Add your OpenAI API key to the `.env` file:
+   - Copy `.env.example` to `.env` (Create .env file in the same directory / location as `.envexample`)
+   - Add the required OpenAI & Pinecone API key to the `.env` file:
      ```     
      OPENAI_API_KEY=your_api_key_here
      PINECONE_API_KEY=your-pinecone-api-key-here
@@ -216,6 +216,7 @@ The system uses a PostgreSQL database with the following key models:
 
 7. Set up the clause classification model:
    - Download the model files from the Google Drive : https://drive.google.com/drive/folders/1P1pYmNRhNTr4ATwRoIKkT8tS8ZZtm5T1?usp=sharing
+
    - Extract / Save the RoBERTa model files to `backend/backend_core/models/clause_classifier/`
    - Test the model with the file in `tests/test_classifier.py`: 
      ```bash
