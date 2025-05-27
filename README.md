@@ -206,7 +206,7 @@ The system uses a PostgreSQL database with the following key models:
    ```
 
 6. Configure environment variables:
-   - Copy `.env.example` to `.env`
+   - Copy `.env.example` to `.env` (Create .env file in the same directory / location)
    - Add your OpenAI API key to the `.env` file:
      ```     OPENAI_API_KEY=your_api_key_here
      DATABASE_URL=postgresql://user:password@localhost:5432/legal_doc_analyzer
