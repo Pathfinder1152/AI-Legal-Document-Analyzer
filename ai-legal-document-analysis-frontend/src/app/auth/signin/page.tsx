@@ -1,13 +1,15 @@
 "use client";
 
-import { useState } from "react";
-import { useRouter } from "next/navigation";
+import { useState, useEffect } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Checkbox } from "@/components/ui/checkbox";
+import { useAuth } from "@/lib/auth-context";
+import { useToast } from "@/components/ui/toast-hook";
 import {
   Card,
   CardContent,
@@ -26,25 +28,68 @@ import { Container } from "@/components/ui/container";
 
 export default function SignInPage() {
   const router = useRouter();
+  const searchParams = useSearchParams();
+  const { login, isAuthenticated, isLoading: authLoading, error: authError } = useAuth();
+  const { showToast } = useToast();
   const [isLoading, setIsLoading] = useState(false);
-  const [email, setEmail] = useState("");
+  const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
+  const [registrationSuccess, setRegistrationSuccess] = useState(false);
+  
+  // Redirect if already authenticated
+  useEffect(() => {
+    if (isAuthenticated) {
+      router.push('/');
+    }
+  }, [isAuthenticated, router]);
+  
+  // Check if user was redirected from registration
+  useEffect(() => {
+    const registered = searchParams.get('registered');
+    if (registered === 'true') {
+      setRegistrationSuccess(true);
+      showToast({
+        title: "Registration Successful",
+        description: "Your account has been created. Please sign in with your credentials.",
+        type: "success",
+      });
+    }
+  }, [searchParams, showToast]);
 
   const handleSignIn = async (e: React.FormEvent) => {
     e.preventDefault();
     setIsLoading(true);
     setError("");
     
-    // Simulate authentication
     try {
-      // In a real app, this would be an API call
-      await new Promise(resolve => setTimeout(resolve, 1000));
+      // Use the login function from auth context
+      await login(username, password);
       
-      // Redirect to dashboard or intended page after successful sign-in
-      router.push("/chat");
+      // Show success toast
+      showToast({
+        title: "Success",
+        description: "You have been signed in successfully!",
+        type: "success",
+      });
+      
+      // The auth context will handle redirects
     } catch (err) {
-      setError("Invalid email or password. Please try again.");
+      if (authError) {
+        setError(authError);
+        showToast({
+          title: "Sign In Failed",
+          description: authError,
+          type: "error",
+        });
+      } else {
+        setError("Invalid username or password. Please try again.");
+        showToast({
+          title: "Sign In Failed",
+          description: "Invalid username or password. Please try again.",
+          type: "error",
+        });
+      }
     } finally {
       setIsLoading(false);
     }
@@ -78,6 +123,12 @@ export default function SignInPage() {
                 </div>
               )}
               
+              {registrationSuccess && (
+                <div className="bg-green-500/10 border border-green-500/50 rounded-md p-3 mb-4 text-sm text-green-600">
+                  Your account has been created successfully! Please sign in with your credentials.
+                </div>
+              )}
+              
               <SimpleTabs defaultValue="email" className="w-full">
                 <SimpleTabsList className="grid w-full grid-cols-2 mb-6">
                   <SimpleTabsTrigger value="email">Email</SimpleTabsTrigger>
@@ -85,16 +136,15 @@ export default function SignInPage() {
                 </SimpleTabsList>
                 
                 <SimpleTabsContent value="email">
-                  <form onSubmit={handleSignIn}>
-                    <div className="space-y-4">
+                  <form onSubmit={handleSignIn}>                    <div className="space-y-4">
                       <div className="space-y-2">
-                        <Label htmlFor="email">Email</Label>
+                        <Label htmlFor="username">Username</Label>
                         <Input 
-                          id="email" 
-                          placeholder="name@example.com" 
-                          type="email"
-                          value={email}
-                          onChange={(e) => setEmail(e.target.value)}
+                          id="username" 
+                          placeholder="Enter your username" 
+                          type="text"
+                          value={username}
+                          onChange={(e) => setUsername(e.target.value)}
                           required 
                         />
                       </div>

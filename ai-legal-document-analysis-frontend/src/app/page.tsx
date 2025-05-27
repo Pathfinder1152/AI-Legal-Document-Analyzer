@@ -36,7 +36,7 @@ export default function Home() {
             <div className="md:w-1/2 relative">
               <div className="w-full h-64 md:h-96 relative">
                 <Image
-                  src="/hero-placeholder.svg"
+                  src="/logos/hero.svg"
                   alt="AI analyzing legal documents"
                   fill
                   className="object-contain"
@@ -265,21 +265,21 @@ export default function Home() {
                 About LegalAI
               </h2>
               <p className="text-muted-foreground mb-6">
-                LegalAI was developed by a team of legal professionals and AI researchers with a vision to make legal documents more accessible and understandable through conversational AI.
+                LegalAI is an intelligent platform designed to transform the way legal documents are understood and accessed. By leveraging cutting-edge natural language processing and machine learning, LegalAI simplifies complex legal texts, enabling clearer interpretation, smarter search, and interactive engagement with legal content.
               </p>
               <p className="text-muted-foreground mb-6">
-                Our mission is to democratize legal knowledge by creating AI tools that bridge the gap between complex legal language and everyday understanding.
+                Built with a strong emphasis on accuracy, security, and responsible AI use, LegalAI supports the legal industry’s need for transparency and efficiency. From statute extraction and semantic search to document summarization and conversational querying, the system is engineered to integrate seamlessly into legal workflows while making legal information more accessible to a broader audience.
               </p>
               <p className="text-muted-foreground">
-                We've built our platform with a deep understanding of legal workflows and the highest standards of security, accuracy, and ethical AI use.
+                At its core, LegalAI is driven by a commitment to bridge the gap between legal complexity and everyday understanding—empowering users to interact with the law, not just read it.
               </p>
             </div>
             <div className="relative h-64 md:h-96">
               <Image
-                src="/about-placeholder.svg"
+                src="/logos/about.svg"
                 alt="LegalAI Team"
                 fill
-                className="object-cover rounded-lg shadow-lg"
+                className="object-cover rounded-lg shadow-lg opacity-80"
               />
             </div>
           </div>
@@ -325,7 +325,7 @@ export default function Home() {
                   </svg>
                   <div>
                     <h3 className="text-lg font-semibold text-primary">Email</h3>
-                    <p className="text-muted-foreground">contact@legalai.com</p>
+                    <p className="text-muted-foreground">methsaradisanayaka@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -334,7 +334,7 @@ export default function Home() {
                   </svg>
                   <div>
                     <h3 className="text-lg font-semibold text-primary">Phone</h3>
-                    <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                    <p className="text-muted-foreground">+94 (77) 218-2892</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -344,7 +344,7 @@ export default function Home() {
                   </svg>
                   <div>
                     <h3 className="text-lg font-semibold text-primary">Address</h3>
-                    <p className="text-muted-foreground">123 Legal Plaza, Suite 400<br />San Francisco, CA 94103</p>
+                    <p className="text-muted-foreground">Faculty of Computing<br />NSBM</p>
                   </div>
                 </div>
               </div>
@@ -388,18 +388,23 @@ export default function Home() {
             </Card>
           </div>
         </div>
-      </section>
-
-      {/* Partners/Clients Section */}
+      </section>      {/* Partners/Clients Section */}
       <section className="py-12 bg-blue-50 dark:bg-blue-950/30">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-10">
             <h2 className="text-2xl font-bold font-serif text-primary">Trusted by Legal Professionals Worldwide</h2>
           </div>
-          <div className="grid grid-cols-2 gap-8 md:grid-cols-4 lg:grid-cols-6">
+          <div className="grid grid-cols-2 gap-8 md:grid-cols-3 lg:grid-cols-6">
             {[1, 2, 3, 4, 5, 6].map((item) => (
               <div key={item} className="flex items-center justify-center">
-                <div className="h-12 w-24 bg-blue-200 dark:bg-blue-800 rounded opacity-50"></div>
+                <div className="h-16 w-32 relative">
+                  <Image
+                    src={`/logos/${item}.svg`}
+                    alt={`Client Logo ${item}`}
+                    fill
+                    className="object-contain"
+                  />
+                </div>
               </div>
             ))}
           </div>

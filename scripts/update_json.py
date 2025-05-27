@@ -2,7 +2,6 @@ import os
 import json
 from pathlib import Path
 
-# Set your directories
 ANNOTATION_DIR = Path("data/processed/annotations")
 TEXT_DIR = Path("data/processed/cases_txt")
 
@@ -18,7 +17,7 @@ def update_json_with_text_paths():
         with open(json_file, "r", encoding="utf-8") as jf:
             data = json.load(jf)
 
-        # Update or insert text_file field
+        
         data["text_file"] = str(txt_path.resolve())
 
         with open(json_file, "w", encoding="utf-8") as jf:

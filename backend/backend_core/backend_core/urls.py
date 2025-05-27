@@ -23,11 +23,14 @@ from .views import home  # Import the home view
 urlpatterns = [
     path('', home, name='home'),
     path('admin/', admin.site.urls),
-    path('api/', include('api.urls')),  
+    path('api/', include('api.urls')),
+    # Include search app only once with api prefix for consistency
+    path('api/search/', include('search.urls')),
+    path('api/auth/', include('auth_api.urls')),  # Authentication endpoints
     path('knowledge_graphs/', include('knowledge_graphs.urls')),
     path('nlp/', include('nlp.urls')),
     path('preprocessing/', include('preprocessing.urls')),
-    path('search/', include('search.urls')),
+    # Removed duplicate search URL pattern to avoid conflicts
 ]
 
 if settings.DEBUG:

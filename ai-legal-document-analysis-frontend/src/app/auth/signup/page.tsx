@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
@@ -8,6 +8,8 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Checkbox } from "@/components/ui/checkbox";
+import { useAuth } from "@/lib/auth-context";
+import { useToast } from "@/components/ui/toast-hook";
 import {
   Card,
   CardContent,
@@ -20,33 +22,73 @@ import { Container } from "@/components/ui/container";
 
 export default function SignUpPage() {
   const router = useRouter();
+  const { register, isAuthenticated, isLoading: authLoading, error: authError } = useAuth();
+  const { showToast } = useToast();
   const [isLoading, setIsLoading] = useState(false);
-  const [name, setName] = useState("");
+  const [firstName, setFirstName] = useState("");
+  const [lastName, setLastName] = useState("");
+  const [username, setUsername] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [confirmPassword, setConfirmPassword] = useState("");
   const [error, setError] = useState("");
-
+  
+  // Redirect if already authenticated
+  useEffect(() => {
+    if (isAuthenticated) {
+      router.push('/');
+    }
+  }, [isAuthenticated, router]);
   const handleSignUp = async (e: React.FormEvent) => {
     e.preventDefault();
     setIsLoading(true);
     setError("");
-    
-    if (password !== confirmPassword) {
+      if (password !== confirmPassword) {
       setError("Passwords do not match");
+      showToast({
+        title: "Error",
+        description: "Passwords do not match. Please try again.",
+        type: "error",
+      });
       setIsLoading(false);
       return;
     }
     
     try {
-      // Here you would typically make an API call to register
-      // For now, we'll just simulate a delay and redirect
-      await new Promise(r => setTimeout(r, 1000));
+      // Use the register function from auth context
+      await register({
+        username,
+        email,
+        password,
+        passwordConfirm: confirmPassword,
+        firstName,
+        lastName
+      });
       
-      // For demo, redirect to sign-in page after registration
-      router.push("/signin");
+      // Show success toast
+      showToast({
+        title: "Success",
+        description: "Your account has been created successfully!",
+        type: "success",
+      });
+      
+      // Auth context will handle redirecting
     } catch (err) {
-      setError("Failed to create an account. Please try again.");
+      if (authError) {
+        setError(authError);
+        showToast({
+          title: "Registration Failed",
+          description: authError,
+          type: "error",
+        });
+      } else {
+        setError("Failed to create an account. Please try again.");
+        showToast({
+          title: "Registration Failed",
+          description: "Failed to create an account. Please try again.",
+          type: "error",
+        });
+      }
     } finally {
       setIsLoading(false);
     }
@@ -80,14 +122,35 @@ export default function SignUpPage() {
                 </div>
               )}
               
-              <form onSubmit={handleSignUp} className="space-y-4">
-                <div className="space-y-2">
-                  <Label htmlFor="name">Full Name</Label>
+              <form onSubmit={handleSignUp} className="space-y-4">                <div className="space-y-2">
+                  <Label htmlFor="firstName">First Name</Label>
                   <Input 
-                    id="name" 
-                    value={name}
-                    onChange={(e) => setName(e.target.value)}
-                    placeholder="John Doe" 
+                    id="firstName" 
+                    value={firstName}
+                    onChange={(e) => setFirstName(e.target.value)}
+                    placeholder="John" 
+                    required 
+                  />
+                </div>
+                
+                <div className="space-y-2">
+                  <Label htmlFor="lastName">Last Name</Label>
+                  <Input 
+                    id="lastName" 
+                    value={lastName}
+                    onChange={(e) => setLastName(e.target.value)}
+                    placeholder="Doe" 
+                    required 
+                  />
+                </div>
+                
+                <div className="space-y-2">
+                  <Label htmlFor="username">Username</Label>
+                  <Input 
+                    id="username" 
+                    value={username}
+                    onChange={(e) => setUsername(e.target.value)}
+                    placeholder="johndoe" 
                     required 
                   />
                 </div>

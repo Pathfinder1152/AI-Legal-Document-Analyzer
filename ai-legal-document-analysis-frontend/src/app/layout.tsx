@@ -3,6 +3,8 @@ import type { Metadata } from "next";
 import { Inter, Merriweather } from "next/font/google";
 import { Navbar } from "@/components/navigation/navbar";
 import { Footer } from "@/components/navigation/footer";
+import { AuthProvider } from "@/lib/auth-context";
+import { ToastManager } from "@/components/ui/toast-hook";
 
 // Using variable font weights for better dark mode rendering
 const inter = Inter({ 
@@ -29,14 +31,17 @@ export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
-}>) {
-  return (
+}>) {  return (
     <html lang="en" className={`scroll-smooth dark ${inter.variable} ${merriweather.variable}`}>
       <body className="font-sans antialiased bg-background">
-        {/* Only show navbar/footer on non-auth pages */}
-        {!children.toString().includes('auth') && <Navbar />}
-        {children}
-        {!children.toString().includes('auth') && <Footer />}
+        <ToastManager>
+          <AuthProvider>
+            {/* Only show navbar/footer on non-auth pages */}
+            {children && typeof children.toString === 'function' && !children.toString().includes('auth') && <Navbar />}
+            {children}
+            {children && typeof children.toString === 'function' && !children.toString().includes('auth') && <Footer />}
+          </AuthProvider>
+        </ToastManager>
       </body>
     </html>
   );
