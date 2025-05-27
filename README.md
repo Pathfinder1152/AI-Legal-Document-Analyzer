@@ -1,15 +1,25 @@
 # AI Legal Document Analyzer
 
-A cutting-edge web application that uses AI to analyze legal documents, extract key information, classify legal clauses, and enable natural language querying of legal texts.
+A cutting-edge legal technology platform that revolutionizes how legal professionals interact with complex documents. This advanced system combines state-of-the-art natural language processing, machine learning, and vector search technology to transform raw legal texts into structured, accessible knowledge. By harnessing the power of large language models and specialized legal AI, it breaks down barriers to legal comprehension, enabling intuitive exploration and analysis of contracts, agreements, and regulatory documents.
 
 <div align="center">
   <img src="docs/Architecture Diagram.png" alt="AI Legal Document Analyzer Architecture" width="600"/>
 </div>
-
+</br>
+  
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.9+-brightgreen)
 ![Django](https://img.shields.io/badge/django-4.2-green)
 ![Next.js](https://img.shields.io/badge/next.js-14-black)
+![TypeScript](https://img.shields.io/badge/typescript-5.0-blue)
+![JavaScript](https://img.shields.io/badge/javascript-ES6+-yellow)
+![PostgreSQL](https://img.shields.io/badge/postgresql-14-blue)
+![OpenAI](https://img.shields.io/badge/openai-gpt--4-lightgrey)
+![Pinecone](https://img.shields.io/badge/pinecone-vector--db-orange)
+![React](https://img.shields.io/badge/react-18-61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-3.0-38B2AC)
+![PyTorch](https://img.shields.io/badge/pytorch-2.0-EE4C2C)
+![Docker](https://img.shields.io/badge/docker-compose-2496ED)
 
 ## Features
 
@@ -209,7 +219,7 @@ The system uses a PostgreSQL database with the following key models:
 7. Set up the clause classification model:
    - Download the model files from the Google Drive : https://drive.google.com/drive/folders/1P1pYmNRhNTr4ATwRoIKkT8tS8ZZtm5T1?usp=sharing
    - Extract / Save the RoBERTa model files to `backend/backend_core/models/clause_classifier/`
-   - Test the model with: 
+   - Test the model with the file in `tests/test_classifier.py`: 
      ```bash
      python test_classifier.py
      ```
