@@ -3,21 +3,20 @@
 A cutting-edge legal technology platform that revolutionizes how legal professionals interact with complex documents. This advanced system combines state-of-the-art natural language processing, machine learning, and vector search technology to transform raw legal texts into structured, accessible knowledge. By harnessing the power of large language models and specialized legal AI, it breaks down barriers to legal comprehension, enabling intuitive exploration and analysis of contracts, agreements, and regulatory documents.
 
 <div align="center">
-  <img src="docs/Architecture Diagram.png" alt="AI Legal Document Analyzer Architecture" width="600"/>
+  <img src="docs/Architecture Diagram.png" alt="AI Legal Document Analyzer Architecture" width="850"/>
 </div>
 </br>
-  
-![License](https://img.shields.io/badge/license-MIT-blue)
+
 ![Python](https://img.shields.io/badge/python-3.9+-brightgreen)
-![Django](https://img.shields.io/badge/django-4.2-green)
-![Next.js](https://img.shields.io/badge/next.js-14-black)
-![TypeScript](https://img.shields.io/badge/typescript-5.0-blue)
+![Django](https://img.shields.io/badge/django-5.1.6-green)
+![Next.js](https://img.shields.io/badge/next.js-15.3.1-black)
+![TypeScript](https://img.shields.io/badge/typescript-5.3.3-blue)
 ![JavaScript](https://img.shields.io/badge/javascript-ES6+-yellow)
-![PostgreSQL](https://img.shields.io/badge/postgresql-14-blue)
-![OpenAI](https://img.shields.io/badge/openai-gpt--4-lightgrey)
+![PostgreSQL](https://img.shields.io/badge/postgresql-17-blue)
+![OpenAI](https://img.shields.io/badge/openai-gpt--3.5-lightgrey)
 ![Pinecone](https://img.shields.io/badge/pinecone-vector--db-orange)
-![React](https://img.shields.io/badge/react-18-61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/tailwind-3.0-38B2AC)
+![React](https://img.shields.io/badge/react-19.1-61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-3.3.6-38B2AC)
 ![PyTorch](https://img.shields.io/badge/pytorch-2.0-EE4C2C)
 ![Docker](https://img.shields.io/badge/docker-compose-2496ED)
 
@@ -441,7 +440,3 @@ The classifier can identify clauses including:
 - `assignment`: Transfer of rights or obligations
 - `warranty`: Guarantees provided by parties
 - And 93+ additional clause types
-
-## License
-
-[MIT License](LICENSE)
