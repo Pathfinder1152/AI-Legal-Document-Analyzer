@@ -10,8 +10,8 @@ from preprocessing.cleaning import clean_paragraph_text
 from django.conf import settings
 import json
 
-# Pinecone setup - using the api key from embedding.py
-pc = Pinecone(api_key="pcsk_5ekBj9_DLGe9otFGoyF5pk9ewkzcHa1DUqEkn9m56PN5QTUnD7bwo6QoU7kBse5XpTAnXg")
+# Pinecone setup - using the api key from settings
+pc = Pinecone(api_key=settings.PINECONE_API_KEY)
 PINECONE_INDEX_NAME = "legal-embeddings"
 
 # Constants for chunking

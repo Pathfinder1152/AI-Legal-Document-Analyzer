@@ -208,12 +208,12 @@ The system uses a PostgreSQL database with the following key models:
 6. Configure environment variables:
    - Copy `.env.example` to `.env`
    - Add your OpenAI API key to the `.env` file:
-     ```
-     OPENAI_API_KEY=your_api_key_here
+     ```     OPENAI_API_KEY=your_api_key_here
      DATABASE_URL=postgresql://user:password@localhost:5432/legal_doc_analyzer
      SECRET_KEY=your_django_secret_key
      DEBUG=False
      ```
+**Email (methsaradisanayaka@gmail.com) or Contact me via GitHub, LinkedIn for the required api keys.**
 
 7. Set up the clause classification model:
    - Download the model files from the Google Drive : https://drive.google.com/drive/folders/1P1pYmNRhNTr4ATwRoIKkT8tS8ZZtm5T1?usp=sharing

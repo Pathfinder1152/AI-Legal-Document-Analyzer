@@ -5,11 +5,12 @@ from pinecone import Pinecone, ServerlessSpec
 from preprocessing.cleaning import clean_paragraph_text
 from preprocessing.chunking import smart_chunk_text
 from api.models import CaseMetadata
+from django.conf import settings
 
 BASE_DIR = "D:/ai-legal-document-analysis/"
 
 # Pinecone setup
-pc = Pinecone(api_key="pcsk_5ekBj9_DLGe9otFGoyF5pk9ewkzcHa1DUqEkn9m56PN5QTUnD7bwo6QoU7kBse5XpTAnXg")
+pc = Pinecone(api_key=settings.PINECONE_API_KEY)
 PINECONE_INDEX_NAME = "legal-embeddings"
 
 # Ensure the Pinecone index exists

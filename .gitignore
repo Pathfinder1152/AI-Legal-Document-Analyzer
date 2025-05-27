@@ -1,10 +1,9 @@
 # Files and folders to ignore in Git
 *.log
 *.pyc
-__pycache__/
 venv/
 node_modules/
-myenv/
+__pycache__/
 
 
 .env
@@ -12,4 +11,10 @@ myenv/
 .DS_Store
 !.env.example
 
-backend/backend_core/models
+
+backend/backend_core/models/*
+
+!backend/backend_core/models/clause_classifier
+backend/backend_core/models/clause_classifier/*
+!backend/backend_core/models/clause_classifier/__init__.py
+!backend/backend_core/models/clause_classifier/classifier.py

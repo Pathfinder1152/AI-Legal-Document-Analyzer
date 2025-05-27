@@ -35,12 +35,32 @@ DEBUG = os.environ.get('DEBUG', 'True').lower() == 'true'
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1']
 
-# OpenAI API Key
-# OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY', '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')
-OPENAI_API_KEY = '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';
+# OpenAI API Key - Load from environment variable
+# Load environment variables from .env file if it exists
+from pathlib import Path
+from dotenv import load_dotenv
+import os
+
+# Try to load from .env file in the parent directory (backend)
+env_path = Path(__file__).resolve().parent.parent.parent / '.env'
+if env_path.exists():
+    load_dotenv(dotenv_path=env_path)
+
+# Fallback to .env in the current directory
+current_env_path = Path(__file__).resolve().parent.parent / '.env'
+if current_env_path.exists():
+    load_dotenv(dotenv_path=current_env_path)
+
+OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY', '')
 
 if not OPENAI_API_KEY:
     print("WARNING: No OpenAI API key found. Please set OPENAI_API_KEY environment variable.")
+
+# Pinecone API Key
+PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY', '')
+
+if not PINECONE_API_KEY:
+    print("WARNING: No Pinecone API key found. Please set PINECONE_API_KEY environment variable.")
 
 
 # Application definition
