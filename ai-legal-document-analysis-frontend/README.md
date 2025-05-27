@@ -48,10 +48,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 This project uses TypeScript for type safety. Remember to run `npm run lint` before committing changes.
 
-## Deployment
-
-The easiest way to deploy this Next.js app is to use the [Vercel Platform](https://vercel.com/new).
-
 ## License
 
 [MIT](LICENSE)

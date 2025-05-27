@@ -1,0 +1,8 @@
+0001_initial.py
+0002_remove_casemetadata_id_alter_casemetadata_file_name.py
+0003_casemetadata_semantic_text_path.py
+0004_document_annotation.py
+0005_alter_document_file_type.py
+0006_annotation_clause_confidence_annotation_clause_type.py
+__init__.py
+__pycache__
