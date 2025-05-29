@@ -1,5 +1,7 @@
 # AI Legal Document Analyzer
 
+(Open the GitHub Repository from here for details: https://github.com/Pathfinder1152/AI-Legal-Document-Analyzer)
+
 A cutting-edge legal technology platform that revolutionizes how legal professionals interact with complex documents. This advanced system combines state-of-the-art natural language processing, machine learning, and vector search technology to transform raw legal texts into structured, accessible knowledge. By harnessing the power of large language models and specialized legal AI, it breaks down barriers to legal comprehension, enabling intuitive exploration and analysis of contracts, agreements, and regulatory documents.
 
 <div align="center">
